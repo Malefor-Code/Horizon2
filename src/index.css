@@ -1,0 +1,37 @@
+:root{
+  --bg:#f4f1ea;
+  --card:#fff;
+  --accent:#2b2b2b;
+  --muted:#666;
+  --accent-2:#b89262;
+  --max-width:900px;
+}
+*{box-sizing:border-box}
+html,body,#root{height:100%}
+body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial;background:linear-gradient(180deg,#f4f1ea 0%, #e9e4d8 100%);color:var(--accent);-webkit-font-smoothing:antialiased}
+
+.app-shell{display:flex;flex-direction:column;min-height:100vh;align-items:center;padding:20px;gap:12px}
+.app-header{width:100%;max-width:var(--max-width);display:flex;justify-content:space-between;align-items:center;gap:12px}
+.brand{margin:0;font-size:clamp(18px,3vw,28px);letter-spacing:0.5px}
+.controls{display:flex;gap:8px;align-items:center}
+.file-label input[type=file]{display:none}
+.file-label{background:none;border:1px solid #ccc;padding:8px 12px;border-radius:6px;cursor:pointer;font-size:14px}
+.chapter-select{padding:8px 12px;border-radius:6px;border:1px solid #ccc;background:#fff}
+
+.app-main{width:100%;max-width:var(--max-width);flex:1;display:flex;align-items:center;justify-content:center;padding:12px}
+.entry{width:100%;background:var(--card);border-radius:12px;padding:clamp(18px,3vw,28px);box-shadow:0 6px 18px rgba(0,0,0,0.08);animation:fadeIn .2s ease}
+.entry-title{margin:0 0 10px 0;font-size:clamp(20px,4vw,36px);text-align:center}
+.entry-text p{margin:0 0 12px 0;font-size:clamp(18px,3.5vw,26px);line-height:1.4;text-align:left}
+.entry-info{background:linear-gradient(90deg,#fff8e6,#fffdf8);padding:12px;border-left:4px solid var(--accent-2);margin:12px 0;border-radius:8px}
+.info-item{font-size:14px;color:var(--muted);margin-bottom:6px}
+.actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
+.action-btn{flex:1 1 200px;padding:14px 18px;font-size:18px;border-radius:10px;border:none;background:var(--accent-2);color:#fff;cursor:pointer;transition:transform .08s ease,box-shadow .08s ease;box-shadow:0 4px 10px rgba(0,0,0,0.08)}
+.action-btn:active{transform:translateY(1px)}
+.test-overlay{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.4);padding:20px}
+.test-panel{background:var(--card);padding:20px;border-radius:10px;min-width:280px;text-align:center}
+.test-label{font-weight:600;margin-bottom:12px}
+.test-buttons{display:flex;gap:10px}
+.empty{font-size:18px;color:var(--muted)}
+.app-footer{font-size:13px;color:var(--muted)}
+@media (max-width:600px){.actions{flex-direction:column}.action-btn{width:100%;flex-basis:auto;font-size:20px;padding:16px}}
+@keyframes fadeIn{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}
