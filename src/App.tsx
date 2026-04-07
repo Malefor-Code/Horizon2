@@ -13,7 +13,7 @@ import ChapterSelector from './components/ChapterSelector';
 export default function App() {
   const {
     story,
-    manifest,
+    manifest: storyManifest,
     currentChapter,
     currentEntry,
     performAction,
@@ -43,15 +43,11 @@ export default function App() {
       <header className="app-header">
         <h1 className="brand">Narrative Companion</h1>
         <div className="controls">
-          <label className="file-label">
-            Load story
-            <input type="file" accept="application/json" onChange={onFileChange} />
-          </label>
-          {(manifest || story) && currentChapter && (
+          {(storyManifest || story) && currentChapter && (
             <ChapterSelector
               chapters={
-                manifest
-                  ? (manifest.acts.map((a: { id: string; title?: string }) => ({ id: a.id, title: a.title ?? a.id, entries: [] })) as Chapter[])
+                storyManifest
+                  ? (storyManifest.acts.map((a: { id: string; title?: string }) => ({ id: a.id, title: a.title ?? a.id, entries: [] })) as Chapter[])
                   : story!.chapters
               }
               current={currentChapter.id}
@@ -60,6 +56,15 @@ export default function App() {
           )}
         </div>
       </header>
+
+      {import.meta.env.DEV && (
+        <div className="dev-debug" style={{ padding: 8, fontSize: '0.85rem', opacity: 0.9 }}>
+          <div>Dev: currentChapterId: {currentChapter?.id ?? 'null'}</div>
+          <div>Dev: currentEntryId: {currentEntry?.id ?? 'null'}</div>
+          <div>Dev: storyManifest: {storyManifest ? storyManifest.acts.map((a: any) => a.id).join(', ') : 'none'}</div>
+          <div>Dev: storyChapters: {story ? story.chapters.map((c: any) => c.id).join(', ') : 'none'}</div>
+        </div>
+      )}
 
       <main className="app-main">
         {currentEntry ? (
@@ -73,8 +78,6 @@ export default function App() {
           <div className="empty">No entry loaded</div>
         )}
       </main>
-
-      <footer className="app-footer">Offline ready • Designed for group reading</footer>
     </div>
   );
 }

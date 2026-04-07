@@ -5,7 +5,7 @@
   "entries": [
     {
       "id": "INTRO",
-      "title": "INTRO",
+      "title": "ACT 3 - CHAPTER C : THE MOUNTAIN'S SECRET",
       "text": "A new chapter begins with fresh challenges.",
       "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
     },

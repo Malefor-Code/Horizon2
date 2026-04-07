@@ -5,9 +5,9 @@
   "entries": [
     {
       "id": "INTRO",
-      "title": "INTRO",
+      "title": "TUTORIAL : THE KULRUT",
       "text": "This is a simple tutorial to get you started.",
-      "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
+      "actions": [{ "type": "read", "target": "001", "label": "Lire l'entrée 001." }]
     },
     {
       "id": "001",

@@ -5,7 +5,7 @@
   "entries": [
     {
       "id": "INTRO",
-      "title": "INTRO",
+      "title": "ACT 1 - CHAPTER B : IN PURSUIT",
       "text": "You stand at the edge of a dark forest.\nThe moon hangs low.",
       "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
     },

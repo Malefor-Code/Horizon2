@@ -29,6 +29,13 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
 
   const findEntryById = (id?: string) => {
     if (!id) return null;
+    // Prefer entry from the currently selected chapter if available
+    const preferred = getChapter(currentChapterId ?? undefined);
+    if (preferred) {
+      const e = preferred.entries.find((x) => x.id === id);
+      if (e) return e;
+    }
+
     if (story) {
       for (const chap of story.chapters) {
         const e = chap.entries.find((x) => x.id === id);
@@ -79,7 +86,7 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
   }, [story, currentChapterId]);
 
   const currentChapter = useMemo(() => (story ? getChapter(currentChapterId ?? story.startChapter) : null), [story, currentChapterId]);
-  const currentEntry = useMemo(() => (story && currentEntryId ? findEntryById(currentEntryId) : null), [story, currentEntryId]);
+  const currentEntry = useMemo(() => (story && currentEntryId ? findEntryById(currentEntryId) : null), [story, currentEntryId, currentChapterId]);
 
   const loadStory = (s: Story) => {
     actsCache.current = {};
@@ -120,6 +127,9 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
         if (!res.ok) throw new Error(`Failed to fetch ${path}`);
         const chapter: Chapter = await res.json();
         actsCache.current[actId] = chapter;
+        // debug
+        // eslint-disable-next-line no-console
+        console.debug('[useStory] loaded act', actId, 'from', path, chapter);
         setStory((prev) => {
           if (!prev) return { startChapter: manifestToUse?.startChapter ?? actId, chapters: [chapter] };
           if (prev.chapters.find((c) => c.id === actId)) return prev;
@@ -140,6 +150,8 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
   };
 
   const goToChapter = async (id: string) => {
+    // eslint-disable-next-line no-console
+    console.debug('[useStory] goToChapter request', id);
     const chapter = getChapter(id);
     if (!chapter) {
       await loadAct(id);
@@ -147,6 +159,8 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
     setCurrentChapterId(id);
     const ch = getChapter(id);
     const entry = ch?.startId ?? ch?.entries?.[0]?.id ?? null;
+    // eslint-disable-next-line no-console
+    console.debug('[useStory] goToChapter resolved', id, 'chapter:', ch, 'selectedEntry:', entry);
     setCurrentEntryId(entry);
     setPendingTest(null);
 

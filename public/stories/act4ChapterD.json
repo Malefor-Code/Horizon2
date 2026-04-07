@@ -5,7 +5,7 @@
   "entries": [
     {
       "id": "INTRO",
-      "title": "INTRO",
+      "title": "ACT 4 - CHAPTER D : THE LAST STAND",
       "text": "A new chapter begins with fresh challenges.",
       "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
     },
