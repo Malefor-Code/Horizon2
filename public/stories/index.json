@@ -1,0 +1,19 @@
+{
+  "startChapter": "tutorial",
+  "acts": [
+    { "id": "tutorial", "title": "Tutorial", "file": "tutorial.json" },
+    { "id": "act1ChapterA", "title": "Act 1 - Chapter A", "file": "act1ChapterA.json" },
+    { "id": "act1ChapterB", "title": "Act 1 - Chapter B", "file": "act1ChapterB.json" },
+    { "id": "act1ChapterC", "title": "Act 1 - Chapter C", "file": "act1ChapterC.json" },
+    { "id": "act2ChapterA", "title": "Act 2 - Chapter A", "file": "act2ChapterA.json" },
+    { "id": "act2ChapterB", "title": "Act 2 - Chapter B", "file": "act2ChapterB.json" },
+    { "id": "act2ChapterC", "title": "Act 2 - Chapter C", "file": "act2ChapterC.json" },
+    { "id": "act3ChapterA", "title": "Act 3 - Chapter A", "file": "act3ChapterA.json" },
+    { "id": "act3ChapterB", "title": "Act 3 - Chapter B", "file": "act3ChapterB.json" },
+    { "id": "act3ChapterC", "title": "Act 3 - Chapter C", "file": "act3ChapterC.json" },
+    { "id": "act4ChapterA", "title": "Act 4 - Chapter A", "file": "act4ChapterA.json" },
+    { "id": "act4ChapterB", "title": "Act 4 - Chapter B", "file": "act4ChapterB.json" },
+    { "id": "act4ChapterC", "title": "Act 4 - Chapter C", "file": "act4ChapterC.json" },
+    { "id": "act4ChapterD", "title": "Act 4 - Chapter D", "file": "act4ChapterD.json" }
+  ]
+}

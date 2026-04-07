@@ -1,0 +1,25 @@
+{
+  "id": "tutorial",
+  "title": "TUTORIAL : THE KULRUT",
+  "startId": "INTRO",
+  "entries": [
+    {
+      "id": "INTRO",
+      "title": "INTRO",
+      "text": "This is a simple tutorial to get you started.",
+      "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
+    },
+    {
+      "id": "001",
+      "title": "001",
+      "text": "You sense eyes in the dark.",
+      "actions": [{ "type": "read", "target": "103", "label": "Face it bravely" }]
+    },
+    {
+      "id": "002",
+      "title": "002",
+      "text": "To be continued...",
+      "actions": []
+    }
+  ]
+}

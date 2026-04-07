@@ -1,7 +1,6 @@
 import React from 'react';
-import exampleStory from './data/example-story.json';
-import type { Story } from './types';
 import useStory from './hooks/useStory';
+import type { Chapter, Story } from './types';
 import StoryViewer from './components/StoryViewer';
 import ChapterSelector from './components/ChapterSelector';
 
@@ -14,6 +13,7 @@ import ChapterSelector from './components/ChapterSelector';
 export default function App() {
   const {
     story,
+    manifest,
     currentChapter,
     currentEntry,
     performAction,
@@ -21,7 +21,7 @@ export default function App() {
     handleTestResult,
     loadStory,
     goToChapter,
-  } = useStory(exampleStory as Story);
+  } = useStory();
 
   const onFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const f = e.target.files?.[0];
@@ -47,11 +47,15 @@ export default function App() {
             Load story
             <input type="file" accept="application/json" onChange={onFileChange} />
           </label>
-          {story && currentChapter && (
+          {(manifest || story) && currentChapter && (
             <ChapterSelector
-              chapters={story.chapters}
+              chapters={
+                manifest
+                  ? (manifest.acts.map((a: { id: string; title?: string }) => ({ id: a.id, title: a.title ?? a.id, entries: [] })) as Chapter[])
+                  : story!.chapters
+              }
               current={currentChapter.id}
-              onSelect={(id) => goToChapter(id)}
+              onSelect={(id) => void goToChapter(id)}
             />
           )}
         </div>

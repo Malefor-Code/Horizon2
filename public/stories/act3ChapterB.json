@@ -1,0 +1,25 @@
+{
+  "id": "act3ChapterB",
+  "title": "ACT 3 - CHAPTER B : REVELATION",
+  "startId": "INTRO",
+  "entries": [
+    {
+      "id": "INTRO",
+      "title": "INTRO",
+      "text": "A new chapter begins with fresh challenges.",
+      "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
+    },
+    {
+      "id": "102",
+      "title": "A new threat",
+      "text": "You sense eyes in the dark.",
+      "actions": [{ "type": "read", "target": "103", "label": "Face it bravely" }]
+    },
+    {
+      "id": "103",
+      "title": "Cliffhanger",
+      "text": "To be continued...",
+      "actions": []
+    }
+  ]
+}
