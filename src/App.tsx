@@ -57,15 +57,6 @@ export default function App() {
         </div>
       </header>
 
-      {import.meta.env.DEV && (
-        <div className="dev-debug" style={{ padding: 8, fontSize: '0.85rem', opacity: 0.9 }}>
-          <div>Dev: currentChapterId: {currentChapter?.id ?? 'null'}</div>
-          <div>Dev: currentEntryId: {currentEntry?.id ?? 'null'}</div>
-          <div>Dev: storyManifest: {storyManifest ? storyManifest.acts.map((a: any) => a.id).join(', ') : 'none'}</div>
-          <div>Dev: storyChapters: {story ? story.chapters.map((c: any) => c.id).join(', ') : 'none'}</div>
-        </div>
-      )}
-
       <main className="app-main">
         {currentEntry ? (
           <StoryViewer
