@@ -6,499 +6,670 @@
     {
       "id": "INTRO",
       "title": "ACT 1 - CHAPTER C : À TRAVERS L'ÉPINE ET LA POINTE",
-      "text": "",
+      "text": "L'encre du clan de guerre sur le soldat mort laisse entrevoir de possibles réponses dans le territoire du Clan du Ciel, mais les Maréchaux suivent une piste bien plus urgente : celle de l'étrange Griffetrotteur. La Citadelle est debout depuis des générations et n'est nulle part près de tomber, mais à chaque pluie matinale, les traces de la machine risquent d'être effacées.\n\nPendant la marche, Bialla insiste sur le fait que les pluies, et les tempêtes qui les accompagnent, sont devenues de plus en plus imprévisibles depuis le dérèglement. Heureusement, la piste du Griffetrotteur est aussi singulière que la machine aux fils rouges : sa patte avant gauche endommagée lui confère une démarche maladroite. Malgré sa blessure, la machine a pris de vitesse le groupe de renégats.\n\nLes Maréchaux suivent les traces vers l'ouest à travers le marécage densément boisé, où prolifère la mauvaise herbe toxique qu'ils ont croisée plus tôt. Des étendues toujours plus vastes de fléau rouge, aux feuilles dentelées comme des dents, dévorent la jungle et répandent sans relâche des spores nauséabonds que le groupe s'efforce d'éviter d'inhaler.\n\nBientôt, les traces rejoignent un cours d'eau et semblent le longer. Bialla, vétérante de la jungle, a naturellement pris la tête du groupe et entraîne tout le monde le long de la rivière vers Ronciermarais. Mais Rikitta pense connaître un chemin plus rapide vers la destination finale.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "001", "label": "Continuer l'histoire" }]
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
+      "text": "Une pensée traverse l'esprit de Rikitta. La rivière de l'ouest, que ces traces semblent longer, finira par dévier vers un delta bien au nord de Ronciermarais. Cet endroit, là où la rivière rejoint la mer, est connu et évité en raison de sa population de redoutables Griffetrotteurs.\n\n« Je crois connaître un raccourci », dit finalement Rikitta. « Ces cours d'eau filent vers l'ouest jusqu'à la mer, mais certains remontent vers le nord, et mènent à... »\n\nBialla la coupe : « ... Un delta. Plein de Griffetrotteurs. Oui. La machine y retourne peut-être. J'ai été affectée dans ce secteur autrefois. Le commandant était aussi ennuyeux qu'une chasse à l'Utaru. On pourrait prendre un raccourci vers le nord-ouest en longeant la base des Escarpements. On rejoindrait directement le delta et on devancerait le Griffetrotteur. »\n\nBialla secoue la tête. « On reste avec la rivière. Le chemin de la machine n'est pas certain. Les traces sont là, elles nous mènent près de Ronciermarais. On peut se ravitailler dans le campement, recueillir des informations, et s'assurer qu'on est bien sur la piste du Griffetrotteur. »\n\nNagallo soutient Rikitta. « Un flanc de montagne solide me semble préférable à la boue. »\n\n« Je suis sérieuse. On pourrait prendre de l'avance sur cette chose. » Rikitta s'arrête net, campée sur ses positions. « Tu as de l'expérience, Bialla, mais on est tous Maréchaux depuis aussi longtemps. Pourquoi ce serait toi qui décides ? »\n\nLe groupe marque une pause et discute de la route à suivre.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "002", "label": "Leader : Emprunter le chemin de Bialla le long de la rivière et traverser le Marais des Épines" },
+        { "type": "read", "target": "035", "label": "Leader : Prendre le raccourci de Rikitta à flanc de montagne" }
+      ]
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
+      "text": "Après discussion, Nagallo et Drokkeh acquiescent au plan de Bialla, et Rikitta semble finalement céder avec un soupir. Cependant, tandis que les Maréchaux progressent régulièrement le long de la rivière, elle ne manque pas une occasion de manifester son mécontentement.\n\nEn franchissant un petit cours d'eau à gué, elle lâche : « Ronciermarais est surestimé et une perte de temps. La seule chose qui le rend intéressant, c'est la Fosse de Mêlée. » En se faufilant discrètement près d'un vol de Ailedusoleils, elle siffle : « Le Griffetrotteur est probablement en train de nous distancer à chaque seconde. » Et après avoir emprunté les sentiers balisés près de la capitale des Basses Terres, Rikitta muse à voix haute : « C'est un chemin monotone pour les cadets et les vieillards. » Cette dernière pique est clairement destinée à Bialla, mais celle-ci en a vu d'autres et continue d'avancer en silence stoïque.\n\nDrokkeh, cependant, finit par intervenir doucement : « C'est nous tous qui avons choisi ce chemin. » Rikitta rougit, visiblement irritée d'être reprise, et se tait tandis que Ronciermarais apparaît à l'horizon.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "003", "label": "Continuer l'histoire" }]
     },
     {
       "id": "003",
       "title": "003",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "En sortant des arbres, la pluie s'est arrêtée, et Ronciermarais est perché comme un grand oiseau sur la côte, chacun de ses nombreux toits pointus formant une plume de son plumage. Autrefois d'un teal scintillant, le marais gorgé d'eau sur lequel le campement est bâti est désormais rougi sur ses bords par une algue cramoisie maligne. De grandes tiges de fléau rouge, certaines aussi épaisses que des troncs d'arbres, assiègent les murs de la capitale.\n\nL'entrée est une gueule de bois gardée par des soldats qui saluent les Maréchaux d'un geste vif à leur approche. Le groupe pénètre dans l'immense capitale et est aussitôt assailli par un flot de sensations. La Fosse de Mêlée est proche de l'entrée, le fracas des armes résonnant et rivalisant avec les appels sonores des marchands du dépôt d'approvisionnement. Des passerelles élaborées s'enroulent vers le haut, reliées par des ponts de corde et ornées des plaques des machines abattues. Ce campement semble presque avoir émergé des eaux du marais plutôt qu'avoir été construit avec un quelconque sens de l'ordre. Pour un groupe qui a passé un bon moment dans le calme de la nature sauvage, cela menace de submerger les sens.",
+      "information": ["Les joueurs obtiennent 4 jetons de suivi."],
+      "actions": [{ "type": "read", "target": "004", "label": "Continuer l'histoire" }]
     },
     {
       "id": "004",
       "title": "004",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La capitale des Basses Terres a beaucoup à offrir, mais les Maréchaux n'ont que peu de temps.",
+      "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
+      "actions": [
+        { "type": "read", "target": "005", "label": "Consulter l'herboriste et soigner vos blessures" },
+        { "type": "read", "target": "006", "label": "Vous rendre au dépôt de ravitaillement" },
+        { "type": "read", "target": "013", "label": "Vous rendre dans l'arène de combat" },
+        { "type": "read", "target": "018", "label": "Prêt à partir ou si vous n'avez plus de jetons de suivi" }
+      ]
     },
     {
       "id": "005",
       "title": "005",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le voyage jusqu'ici a été éprouvant, et la route à venir ne sera probablement pas plus facile. Se soigner est la bonne décision. Les Maréchaux trouvent l'herboriste concentrée sur son travail, broyant des ingrédients en une fine poudre. Lorsqu'elle remarque le groupe, elle leur adresse un signe de tête respectueux et leur propose ses services.",
+      "information": [
+        "Chaque personnage récupère 5 PV.",
+        "Les joueurs peuvent défausser autant de jetons de suivi qu'ils le souhaitent pour récupérer 5 PV supplémentaires par jeton, à répartir entre les personnages selon leur choix.",
+        "Les joueurs peuvent également défausser autant de jetons de suivi qu'ils le souhaitent pour soigner 1 blessure par jeton."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "S'il ne vous reste plus de jetons de suivi" },
+        { "type": "read", "target": "004", "label": "Vous avez encore des jetons de suivi" }
+      ]
     },
     {
       "id": "006",
       "title": "006",
-      "text": "",
+      "text": "Le dépôt de ravitaillement s'anime sous le soleil de début d'après-midi. Plusieurs chasseurs et soldats hors service parcourent chaque étal, cherchant à tirer le meilleur parti de leurs éclats. D'autres Tenakth plaisantent entre eux, probablement des soldats qui attendent le début de leur patrouille. À un bout du marché, près de l'entrée d'une réserve, les Maréchaux entendent une voix s'élever. Les mots de l'homme sont confus, mais la colère qui les porte est claire.\n\n« Hmph. Les prix sont élevés. » Rikitta exprime sa désapprobation sans se soucier de qui pourrait l'entendre. « On aurait pu trouver tout ça dans les étendues sauvages si on avait suivi mon itinéraire. »\n\n« Les prix grimpent en période de crise. Soyez reconnaissants d'être des enfants de la paix. » Bialla aperçoit une silhouette qui s'affaire à un petit étal à l'arrière du marché. « Il me semble que je connais quelqu'un ici. Je vais voir ce que je peux faire pour nous obtenir un prix plus juste. »",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "007", "label": "Continuer l'histoire" }]
     },
     {
       "id": "007",
       "title": "007",
-      "text": "",
+      "text": "Le dépôt de ravitaillement offre de nombreuses options pour se préparer aux batailles à venir.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "008", "label": "Consulter les produits disponibles aux prix actuels" },
+        { "type": "read", "target": "009", "label": "Savoir si Bialla peut obtenir un prix plus avantageux," },
+        { "type": "read", "target": "012", "label": "Enquêter sur les cris entendus près de l'entrepôt" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé votre visite au dépôt et souhaitez découvrir les autres produits et services proposés par Thornmarsh" }
+      ]
     },
     {
       "id": "008",
       "title": "008",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Il sourit chaleureusement, ravi d'avoir le patronage des Maréchaux d'Hekarro.",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 24",
+        "Une fois que les joueurs ont terminé leurs achats (le cas échéant), défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si vous n'avez plus de jetons de suivi" },
+        { "type": "read", "target": "012", "label": "Vous souhaitez enquêter sur les cris près de l'entrepôt" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé votre exploration du dépôt de ravitaillement et souhaitez découvrir le reste de Thornmarsh" }
+      ]
     },
     {
       "id": "009",
       "title": "009",
-      "text": "",
+      "text": "L'ami de Bialla est un homme de petite taille aux épaules larges et au crâne rasé. Ses sourcils sont épais et gris, et son visage s'illumine dès qu'il aperçoit Bialla. Il lui serre chaleureusement la main. \"Enfin un Maréchal, eh ?! Je savais que tu étais destinée à la grandeur.\"\n\nBialla sourit. \"Je ne m'attendais pas à te voir si loin de Fenrise.\"\n\n\"Plus chaud près de la côte pour de vieux os comme les miens. Alors, que puis-je faire pour vous ?\"\n\nSans plus tarder, ils commencent à marchander.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 4 flèches OU 1 critique.", "pass": "010", "fail": "011" }]
     },
     {
       "id": "010",
       "title": "010",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Je serais bien mauvais si je ne récompensais pas un héros de guerre avec une sorte de réduction, eh ?\" admet-il avec un rire narquois.",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 24",
+        "Une fois que les joueurs ont terminé leurs achats (le cas échéant), défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si vous n'avez plus de jetons de suivi" },
+        { "type": "read", "target": "012", "label": "Vous souhaitez enquêter sur les cris près de l'entrepôt" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé votre exploration du dépôt de ravitaillement et souhaitez découvrir le reste de Thornmarsh" }
+      ]
     },
     {
       "id": "011",
       "title": "011",
-      "text": "",
+      "text": "Le vendeur est désolé mais ferme, une véritable inquiétude visible dans les rides de son visage. \"Je suis désolé, mais les temps sont durs, Bialla. Même pour quelqu'un avec ta réputation, je ne peux pas faire d'exception.\"",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "012",
       "title": "012",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Alors que les Maréchaux approchent, les mots criés deviennent clairs. Le quartier-maître, un homme mince et nerveux, réprimande bruyamment une garde au visage honteux dont les mains sont serrées en poings à ses côtés.\n\n\"Hier, il y avait des Lanceurs de corde ici, fraîchement fabriqués et tendus. Maintenant ? Introuvables. Introuvables ! Pouvez-vous m'expliquer ça ?\" La garde s'apprête à parler mais décide de s'en abstenir, serrant ses poings davantage. \"Vous ne pouvez pas ! Parfait. Hors de ma vue.\" Elle s'éloigne à grands pas tandis que la voix de Nagallo attire l'attention du quartier-maître.\n\n\"Un problème ici ?\" L'homme se retourne avec colère, la bouche déjà ouverte, avant que l'armure bleue et jaune d'un Maréchal lui donne une pause. \"Il me semble que vous avez soit un problème d'inventaire, soit quelqu'un qui vous vole votre stock. Si c'est récurrent, et il semblerait que ce soit le cas, je dirais que c'est le problème du quartier-maître, pas de la garde qui se trouve en service le jour où il s'en aperçoit.\"\n\nLa bouche de l'homme se referme brusquement, les yeux écarquillés, alors que Nagallo pose une main condescendante sur l'épaule du quartier-maître. \"Nous garderons un œil sur vos fournitures manquantes. Soyez assuré que les meilleurs de Hekarro s'en occupent.\" Pendant un long moment, l'homme semble sur le point de répondre avant de se raviser et de partir en trombe.\n\nNagallo marmonne dans sa barbe : \"J'adore être Maréchal.\"",
+      "information": [
+        "Défaussez un jeton de suivi.",
+        "Récupérez la carte d'enquête « Missing supplies »."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "S'il ne vous reste plus de jetons de suivi" },
+        { "type": "read", "target": "004", "label": "Vous avez encore des jetons de suivi" }
+      ]
     },
     {
       "id": "013",
       "title": "013",
-      "text": "",
+      "text": "La Fosse de Mêlée est le cœur battant de Thornmarsh. Il en est de même dans de nombreuses colonies Tenakth, bien que cette arène diffère sur un point : ses combattants se battent dans des eaux profondes jusqu'aux genoux, la boue menaçant de les engloutir.\n\nL'air est rempli de vantardises bruyantes et de conversations animées sur les combattants. Un chasseur, assis à l'écart des autres, empenne tranquillement des flèches et croise le regard de Drokkeh. Il pousse Rikitta du coude et attire son attention sur le heaume de l'homme, orné d'une mâchoire de Griffemarcheur.\n\n\"Le commandant ici est Atekka\", chuchote Bialla, désignant une soldate sobre en armure de lieutenant, surveillant attentivement les combattants. \"Soyez respectueux.\" Elle adresse ses mots à Rikitta. \"Cette femme a aidé Hekarro à prendre le Bosquet.\"\n\n\"Bien, commandant.\" Un sourire atteint enfin les lèvres de Rikitta. \"Ce qui m'intrigue davantage, c'est qui nous suit.\" Elle pointe son pouce en arrière, attirant l'attention sur une jeune fille aux yeux écarquillés qui se faufile derrière un établi lorsque Nagallo tourne la tête.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "014", "label": "Continuer l'histoire" }]
     },
     {
       "id": "014",
       "title": "014",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La Fosse de Mêlée attire toutes sortes de personnes de toutes les Basses-Terres. Quel meilleur endroit pour se renseigner sur les contrées sauvages, les observations de Griffemarcheurs étranges et les égarés du Clan du Ciel ?",
+      "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
+      "actions": [
+        { "type": "read", "target": "015", "label": "Vous souhaitez parler au chasseur coiffé d'une parure de Clawstrider" },
+        { "type": "read", "target": "016", "label": "Parler à Atekka" },
+        { "type": "read", "target": "017", "label": "Parler à la jeune fille" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé dans l'arène et souhaitez explorer une autre partie du campement" }
+      ]
     },
     {
       "id": "015",
       "title": "015",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "\"Maréchaux. Un honneur.\" Le chasseur offre un sourire avant qu'une toux rauque ne le chasse. \"Mes excuses. L'eau semble avoir eu raison de moi. Je pense. Ne la buvez pas si vous avez le choix.\"\n\nDrokkeh acquiesce. Rikitta attend un instant pour laisser son compagnon Maréchal parler, puis lève les yeux au ciel avant de briser son silence. \"Mon camarade admirait votre heaume. Vous avez abattu ce Griffemarcheur vous-même ?\"\n\nLe chasseur retire son masque et le regarde. \"Un parmi d'autres — mon partenaire de chasse et moi en avons abattu quelques-uns. C'était notre premier, à vrai dire. Pour être honnête, les Griffemarcheurs semblent plus coriaces de nos jours qu'à l'époque où j'ai abattu celui-ci. L'astuce, entre deux arbres, c'est un piège à choc bien placé. En général.\"\n\n\"Nous traquons nous-mêmes un Griffemarcheur, en direction d'un delta. Il avait des fils rouges clignotants.\"\n\n\"Des fils rouges, hein ? Jamais vu ça. Mon partenaire non plus. Je serais avec lui si ce n'était pas pour—\" Comme convoquée par la pensée, sa toux reprend de plus belle. Une fois la crise passée, il recouvre son calme. \"Vous devriez chercher mon partenaire. Il arrivera peut-être à votre proie avant vous.\" Le chasseur sourit avant de lâcher une dernière toux.\n\n\"Merci !\" sourit Rikitta. \"Et remettez-vous vite.\" Drokkeh lui tapote l'épaule tandis qu'ils le laissent empenner ses flèches.",
+      "information": [
+        "Les joueurs obtiennent le jeton vert.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "S'il ne vous reste plus de jetons de suivi" },
+        { "type": "read", "target": "014", "label": "Explorer davantage les environs de l'arène de combat" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé votre exploration de l'arène de combat et souhaitez explorer une autre partie du campement" }
+      ]
     },
     {
       "id": "016",
       "title": "016",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Atekka accueille les Maréchaux avec un sourire surpris mais chaleureux, saisissant l'avant-bras de Bialla d'une poignée de guerrier. \"Ah ! Je pensais que vous alliez enfin laisser un des soldats plus jeunes prendre votre place comme champion de cette fosse. Elle se tourne vers les autres Maréchaux. \"Vous voyagez avec une sacrée combattante.\"\n\nBialla balaie le compliment d'un haussement d'épaules, la fierté visible sur son visage. Les sourcils de Rikitta se lèvent, et elle se redresse légèrement. \"Je ne suis pas là pour défendre mon titre.\"\n\nBialla met Atekka au courant concernant le guerrier du Clan du Ciel parmi les Basses-Terres et le Griffemarcheur. \"Vous avez vu quelque chose de ce genre ?\"\n\nAtekka secoue la tête. \"Jamais. Les machines deviennent plus féroces, c'est certain. Mais je n'ai eu aucun rapport sur votre Griffemarcheur aux veines rouges. Et je n'ai pas vu de membre du Clan du Ciel depuis un moment.\" Elle sourit en direction de Nagallo. \"Chanceux, j'imagine.\" Sa posture se raidit. Il s'abstient de répliquer, ou il n'en a pas une.\n\n\"J'aurais aimé pouvoir vous être plus utile. Vous êtes les bienvenus pour rester, mais je suppose qu'Hekarro a besoin de vous là-bas.\" Quand Bialla acquiesce, Atekka sourit tristement. \"Bonne chance, alors. Que vous voliez sur les ailes des Dix.\"",
+      "information": ["Défaussez un jeton de suivi."],
+      "actions": [
+        { "type": "read", "target": "018", "label": "S'il ne vous reste plus de jetons de suivi" },
+        { "type": "read", "target": "014", "label": "Explorer davantage les environs de l'arène de combat" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé votre exploration de l'arène de combat et souhaitez explorer une autre partie du campement" }
+      ]
     },
     {
       "id": "017",
       "title": "017",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "\"Bonjour, petite guerrière.\" Rikitta s'agenouille près de l'établi. Son ton parvient à amadouer la fillette, qui s'approche prudemment avant de se redresser, plus grande et plus assurée.\n\n\"Je m'appelle Zella ! Je suis une grande chasseresse !\" proclame-t-elle fièrement. \"Vous êtes des Maréchaux, c'est ça ? D'où venez-vous ? Pourquoi êtes-vous ici ? Êtes-vous en mission secrète ? Vous voulez aller chasser dans les bois avec mon amie ?\" Rikitta réprime un rire tandis que la fillette continue. \"Vous avez sûrement vu plein de machines. Avez-vous déjà vu un Hérissonnard ? J'en ai vu un une fois. Je pense que je pourrais en chasser un.\"\n\nRikitta lève les mains face au flot de questions. \"Doucement, puissante chasseresse Zella. Nous ne sommes pas aussi rapides que toi.\" La fillette sourit à cette reconnaissance et marque une pause.\n\n\"Nous sommes des Maréchaux, et nous sommes effectivement en mission secrète. Nous cherchons un méchant Griffemarcheur rouge. En avez-vous vu un de ce genre ?\"\n\n\"Nan.\" Un instant, le visage de Zella s'assombrit, jusqu'à ce qu'elle se souvienne des détails d'une découverte excitante. \"Mais ! Mais ! Mon amie et moi avons trouvé un coffre au trésor. Vraiment vieux. Encore plus vieux que ça. Dehors, dans les étendues sauvages. Elle voulait le prendre, mais je lui ai dit non. C'est pour les chasseurs et les patrouilles.\"\n\nZella débite rapidement les détails de ce qui ressemble à un dépôt de ravitaillement que son amie et elle ont découvert par hasard non loin de là. Rikitta en note mentalement l'emplacement.\n\nRikitta sourit doucement. \"Merci de nous l'avoir dit. Tu as été d'une grande aide dans notre mission secrète, puissante chasseresse Zella.\" La fillette rayonne. \"Maintenant,\" le ton de Rikitta se fait faussement sévère, \"nous avons besoin de ton aide. Toi et tes amis devez rester prudents dans les étendues sauvages en ce moment. Si vous sortez, assurez-vous de signaler au commandant tout ce qui vous semble inhabituel. Vous pouvez faire ça pour nous ?\"\n\nLa fillette acquiesce, les yeux solennels à l'idée d'être chargée d'une mission par un Maréchal.",
+      "information": [
+        "Les joueurs obtiennent le jeton violet.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "S'il ne vous reste plus de jetons de suivi" },
+        { "type": "read", "target": "014", "label": "Explorer davantage les environs de l'arène de combat" },
+        { "type": "read", "target": "004", "label": "Vous avez terminé votre exploration de l'arène de combat et souhaitez explorer une autre partie du campement" }
+      ]
     },
     {
       "id": "018",
       "title": "018",
-      "text": "",
+      "text": "Les gouttes de pluie, lentes et lourdes, commencent à tomber de nouveau. Rikitta en attrape quelques-unes dans sa paume et jette un regard à Bialla. \"Ce n'est pas le zilch que nous avons appris sur ce Griffemarcheur ou sa victime du Clan du Ciel qui valait la peine de perdre notre temps, mais nous devrions nous remettre en route si nous ne voulons pas perdre la piste pour de bon.\"\n\nBialla répond par une leçon. \"Apprendre quelque chose, c'est parfois apprendre que nous ne savons pas — nous savons qu'aucune de ces machines n'a encore rencontré ce Thornmarsh. Nous savons que son état de veines rouges reste unique à la machine que nous traquons.\"\n\nRikitta soupire et se dirige vers les portes. \"Très bien.\" Nagallo intervient. \"On y va ?\" Avec un haussement d'épaules, Bialla acquiesce, et les Maréchaux prennent la route.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "019", "label": "Si vous avez le jeton violet" },
+        { "type": "read", "target": "020", "label": "Sinon" }
+      ]
     },
     {
       "id": "019",
       "title": "019",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Pas très loin de la colonie, Rikitta marque une pause un moment, s'éloigne du groupe sans explication. Des instants plus tard, elle revient avec un cache de provisions — certaines semblent vieilles d'une génération, peut-être oubliées depuis les Guerres des Clans.\n\nDrokkeh lui lance un regard perplexe. \"J'ai mes sources\", répond Rikitta.",
+      "information": ["Les joueurs obtiennent 1 potion de soin et 5 Eclats de métal."],
+      "actions": [{ "type": "read", "target": "020", "label": "Continuer l'histoire" }]
     },
     {
       "id": "020",
       "title": "020",
-      "text": "",
+      "text": "Les Maréchaux reprennent rapidement la piste du Griffemarcheur et constatent qu'elle longe la rivière, parallèle à la côte. Elle mène tout droit vers le delta, comme Rikitta l'avait prédit. La brise charrie l'odeur du sel depuis l'ouest, et les traces de la machine disparaissent dans une ruine côtière ancienne. Les briques grises sont teintées de mousse sur les côtés, et ce qu'il reste du plafond est soutenu par des piliers métalliques rouillés par les embruns.\n\nLe groupe entre dans la ruine par un mur effondré. À l'intérieur, de grands arbres poussent depuis le sol gorgé d'eau, grimpant à travers la cavité là où un toit existait autrefois. Les Maréchaux font attention à l'eau, marchant prudemment sur les pierres que la marée haute n'a pas encore englouties.\n\nCette approche prudente s'avère judicieuse. Alors que le groupe s'approche de ce qui doit être une sortie, un lent grondement d'échos se répand dans l'air et stoppe les Maréchaux net.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "021", "label": "Continuer l'histoire" }]
     },
     {
       "id": "021",
       "title": "021",
-      "text": "",
+      "text": "Une paire de Pillards s'affaire sur un tas de ferraille près de la sortie, leurs corps illuminés par des étincelles tandis qu'ils découpent le métal. Drokkeh désigne un tas de débris derrière lequel les Maréchaux pourraient se glisser sans être détectés, bien que ce soit un pari risqué.\n\n\"Les laisser dans notre dos pour protéger notre retraite est une mauvaise idée\", chuchote Rikitta. \"Cette ruine est fragile. Nous pouvons faire tomber la pierre au-dessus pour tuer ces deux-là et avancer.\"\n\nNagallo secoue la tête. \"Tant de drame pour deux Pillards. Chargeons-les et en finissons. Pas même un vrai combat.\" Bialla acquiesce. \"Il a raison. On pourrait juste s'approcher par surprise. Plus rapide. Moins risqué.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "022", "label": "Leader : Drokkeh - Pour tenter de passer sans combattre" },
+        { "type": "read", "target": "025", "label": "Leader : Rikitta - Pour tenter de faire s'effondrer la pierre sur les machines" },
+        { "type": "read", "target": "028", "label": "Leader : Nagallo - Pour charger les Pilleurs" },
+        { "type": "read", "target": "031", "label": "Leader : Bialla - Pour tenter une élimination furtive" }
+      ]
     },
     {
       "id": "022",
       "title": "022",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Drokkeh ouvre la voie, se faufilant derrière plusieurs grandes plaques de maçonnerie effondrée et de métal tordu, chacune servant de couverture depuis laquelle le groupe peut éviter d'être détecté. Les autres Maréchaux suivent à son rythme, les yeux rivés sur les Pillards.",
+      "information": ["Récupérez un dé d'action avant ou après avoir tenté ce jet d'action."],
+      "actions": [{ "type": "test", "label": "Faire 3 flèches.", "pass": "023", "fail": "024" }]
     },
     {
       "id": "023",
       "title": "023",
-      "text": "",
+      "text": "En quelques instants, les Maréchaux se retrouvent de l'autre côté de la sortie, laissant les Pillards ronger distraitement leur tas de ferraille. \"Bien joué. C'était du bon travail.\" Bialla tape Drokkeh dans le dos, et il acquiesce.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "024",
       "title": "024",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Il suffit d'un seul faux pas — une ancienne grille incapable de supporter le poids d'une personne alors qu'on passe d'un morceau de ruine à l'autre. Le métal rouillé se décroche et plonge dans un espace en dessous, claquant bruyamment en tombant.\n\nLes Pillards tournent la tête vers les Maréchaux. Le combat qui s'ensuit n'est ni long ni particulièrement difficile, mais les machines placent quelques coups avant d'être neutralisées.\n\n\"La prochaine fois, on affronte nos défis de face au lieu de se planquer comme des lâches.\" Nagallo fait la moue.",
+      "information": ["Drokkeh subit 5 points de dégâts."],
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "025",
       "title": "025",
-      "text": "",
+      "text": "Rikitta désigne la poutre de soutien au-dessus des Pillards. \"Vous voyez comme la pierre est friable autour de ce morceau de métal ? Frappez ça avec une Flèche à Explosion, et toute la poutre devrait s'effondrer sur eux.\" Elle regarde Bialla, tenant les munitions. \"À moins que ce ne soit un tir trop difficile ?\"\n\nBialla ne prend même pas le temps de souffler. Elle se penche hors de sa couverture, tend la corde de son arc, ses doigts contre sa joue, son regard aligné avec la longueur de la flèche. Une seconde plus tard, la flèche est décochée.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 1 critique.", "pass": "026", "fail": "027" }]
     },
     {
       "id": "026",
       "title": "026",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La flèche frappe la pierre friable avec une petite explosion, et pendant un instant, les quatre Maréchaux retiennent leur souffle tandis que des fissures serpentent sur la surface. De la poussière tombe, suivie de gravillons, puis soudain un immense fracas lorsque la poutre se détache et s'effondre sur les Pillards, les tuant instantanément.\n\nLe chemin vers la côte est dégagé.\n\n\"Facile.\" Rikitta arbore un sourire triomphant tandis que les Maréchaux quittent la ruine.",
+      "information": ["Gagnez 2 Eclats de métal."],
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "027",
       "title": "027",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La flèche frappe la pierre friable avec une petite explosion, et pendant un instant, les quatre Maréchaux retiennent leur souffle. Les fissures commencent à serpenter sur la surface au-dessus des machines, mais changent rapidement de direction vers les Maréchaux.\n\nIls ont à peine le temps d'échanger des regards paniqués avant que le plafond ne commence à s'effondrer. Pas seulement au-dessus des Pillards, mais au-dessus des Maréchaux également. Ils se précipitent vers la sortie.\n\nEn quelques instants, le groupe est dehors, respirant difficilement. Les Pillards sont vraisemblablement morts. Nagallo lance un regard acide à Rikitta en testant sa cheville blessée. \"La prochaine fois, on fait à ma façon.\"",
+      "information": ["Nagallo subit 5 points de dégâts."],
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "028",
       "title": "028",
-      "text": "",
+      "text": "\"Bien. J'en ai assez de me planquer !\" Nagallo se lève de derrière sa couverture et charge, poussant un cri de guerre absurde à pleins poumons. Les autres Maréchaux lui emboîtent le pas, avec un peu moins de théâtralité.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 4 flèches.", "pass": "029", "fail": "030" }]
     },
     {
       "id": "029",
       "title": "029",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La charge de Nagallo est si rapide que les Pillards ont à peine le temps de réagir. Alors qu'une paire d'yeux de machine vire à l'ambre, la lance de Nagallo arrache un morceau de métal loin de sa tête. Au moment où elle recule, Nagallo enfonce la pointe de sa lance dans la poitrine de la machine, la tuant instantanément.\n\nAlors qu'il pivote sur ses talons, prêt à lancer une autre attaque, trois flèches tirées par ses alliés finissent rapidement l'autre machine.\n\nLe sang qui bouillonne, il sourit aux autres. \"Facile.\"",
+      "information": [
+        "Gagnez 2 Eclats de métal et 2 étincelles."
+      ],
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "030",
       "title": "030",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les Pillards réagissent bien plus vite que Nagallo ne l'anticipait, le plus proche le frappant de ses griffes et le déséquilibrant. Il parvient à rester debout et à neutraliser son assaillant, mais non sans qu'une profonde entaille soit tracée sur son avant-bras.\n\nTrois flèches finissent rapidement l'autre machine alors que Nagallo pivote sur ses talons, prêt à lancer une nouvelle attaque. Bialla, baissant son arc, est prompte à le réprimander. \"La prochaine fois, on fait à ma façon. Nous ne sommes pas de simples cadets.\"",
+      "information": ["Nagallo subit 1 blessure."],
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "031",
       "title": "031",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "D'un geste rapide à Nagallo de la suivre, Bialla se faufile vers une meilleure position de tir. Elle s'occupera d'une machine avec son arc, et lui chargera l'autre avec sa lance. Bien synchroniser leur action sera primordial. Pendant que Drokkeh et Rikitta observent, Bialla atteint un point de vue stratégique, Nagallo se glissant derrière l'autre Pillard.",
+      "information": ["Récupérez un dé d'action."],
+      "actions": [{ "type": "test", "label": "Faire 2 flèches OU 1 critique.", "pass": "032", "fail": "033" }]
     },
     {
       "id": "032",
       "title": "032",
-      "text": "",
+      "text": "Bialla décoche sa flèche au moment précis où Nagallo atteint sa position. Elle vole vite et juste, frappant le Pillard à travers l'œil, qui vire à un rouge rageur un bref instant avant de s'éteindre. Alors que le premier Pillard s'effondre sans vie, Nagallo enfonce sa lance profondément dans la poitrine de l'autre machine, la tuant instantanément.\n\nC'est un rare moment de solidarité entre les deux, qui s'échangent un hochement de tête approbateur.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "033",
       "title": "033",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Bialla décoche sa flèche au moment précis où Nagallo atteint sa position. Elle vole vite mais dévie en frappant une plaque métallique au lieu de l'œil visé. Les yeux des deux machines virent à l'ambre, et alors que Nagallo enfonce sa lance dans la poitrine de l'une, tuant instantanément, l'autre invoque une boule d'énergie lumineuse et la projette vers Bialla.\n\nL'explosion la projette à terre, mais alors qu'elle se relève en secouant la tête, Nagallo a au moins fini le second Pillard.",
+      "information": ["Bialla subit 5 points de dégâts."],
+      "actions": [{ "type": "read", "target": "034", "label": "Continuer l'histoire" }]
     },
     {
       "id": "034",
       "title": "034",
-      "text": "",
+      "text": "La ruine gorgée d'eau derrière eux, les Maréchaux continuent le long de la rivière qui longe la côte, suivant la piste du Griffemarcheur. Bien que la ruine ait été un contretemps, le groupe constate en sortant que la pluie s'est calmée et que les traces devant eux sont nettes, profondes et faciles à suivre.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "035",
       "title": "035",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Après quelques discussions, Nagallo et Drokkeh acquiescent à l'itinéraire de Rikitta, espérant prendre de l'avance sur le Griffemarcheur. Une Bialla perplexe suit, peu convaincue par le chemin qui s'annonce. \"S'il y a bien une chose que la vie dans la Raintrace m'a apprise, c'est que le chemin le plus long dans les Basses Terres est souvent un 'raccourci' !\"\n\n\"Heureusement que les temps changent !\" Rikitta entraîne gaiement le groupe loin de la rivière et des pistes du Griffemarcheur, vers la jungle plus dense où les sous-bois s'épaississent. Au fil de leur progression, Rikitta prend rapidement de l'avance et Nagallo maintient une allure régulière. Ni l'un ni l'autre ne prête vraiment attention au fait que le reste du groupe est à la traîne.\n\nDrokkeh peine avec le terrain inhospitalier dont Rikitta tire avantage. En tant que fils du désert, il sait que survivre, c'est conserver son énergie pour les combats à venir, et ce chemin l'épuise. Bialla est retenue par la prudence : ces étendues sauvages sont un terrain fertile pour les embuscades de machines cachées.\n\nHeureusement, les arbres finissent par se clairsemer à mesure que le sol passe de sous-bois mou à de la roche sèche. Au loin, ils aperçoivent un mur de pierre abrupte, le bord escarpé de la Raintrace à l'approche du territoire du Clan du Ciel.",
+      "information": ["Les joueurs obtiennent 5 jetons de suivi."],
+      "actions": [{ "type": "read", "target": "036", "label": "Continuer l'histoire" }]
     },
     {
       "id": "036",
       "title": "036",
-      "text": "",
+      "text": "Assez vite, le raccourci de Rikitta se rétrécit en un ravin. Le sol est accidenté, et la terre meuble, les arbres renversés et les débris indiquent un récent glissement de terrain ayant coupé le chemin. Alors que les Maréchaux escaladent prudemment le blocage et sautent de l'autre côté, le groupe fait face à un nouveau défi : un groupe d'yeux bleus brillant dans le paysage au loin.\n\nUn grand convoi de machines — un Bellowback accompagné de plusieurs Guetteurs et d'un Marcheur-Carapace — avance lentement vers le groupe, piégeant les Maréchaux contre la roche.\n\n\"Ce n'était pas aussi fréquenté la dernière fois que j'ai emprunté ce chemin. J'étais en poste à Raintrace Nord et—\" insiste Rikitta.\n\n\"C'était quand ?\" Bialla n'est pas impressionnée.\n\n\"Euh, il y a peut-être deux étés ?\" Rikitta l'admet penaude. \"On ne peut pas faire demi-tour maintenant.\" Elle marque une pause, évaluant le ravin. Une ruine de l'Ancien Monde se dresse en hauteur au-dessus d'eux. \"Et si on utilisait une bombe fumigène ? Il faudra que ce soit une grande. Ou plusieurs. Et il faudra s'approcher. Si le vent est de notre côté—\"\n\n\"On a déjà pris un risque en venant par ici, et maintenant tu veux qu'on en prenne un autre.\" Bialla est incrédule. \"Laissez-moi régler votre bazar. Je vais juste prendre les devants et attirer les machines à l'écart.\" Drokkeh fait signe aux herbes rouges à proximité, suggérant que les Maréchaux se faufilent discrètement, mais Bialla n'est pas non plus pour cette option. \"Je préfère mes chances à guider les machines à l'écart plutôt qu'un groupe de quatre à passer inaperçu.\"\n\nNagallo soupire. \"On fait des plans, et ensuite on en fait encore plus. Faisons simplement dévier les machines d'un côté, puis on sprint de l'autre.\" Quand il surprend le regard noir de Bialla, il sourit. \"Quoi, vous avez peur de ne pas pouvoir suivre ?\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "037", "label": "Leader : Rikitta - Si vous souhaitez créer un écran de fumée" },
+        { "type": "read", "target": "040", "label": "Leader : Bialla - Si vous souhaitez que Bialla attire les machines" },
+        { "type": "read", "target": "043", "label": "Leader : Drokkeh - Si vous souhaitez que Drokkeh vous guide" },
+        { "type": "read", "target": "046", "label": "Leader : Nagallo - Si vous souhaitez attirer les machines, puis les dépasser en sprintant" }
+      ]
     },
     {
       "id": "037",
       "title": "037",
-      "text": "",
+      "text": "Le groupe décide que créer une couverture de fumée est leur meilleure option. \"D'accord. Voici le plan.\" Rikitta expose brièvement la situation aux autres. \"Nagallo et moi, on grimpe jusqu'à cette ruine là-haut sur la droite. De cette hauteur, on devrait toucher le cœur du convoi avec la moitié des bombes fumigènes.\" Elle regarde les autres. \"Drokkeh, Bialla, vous lancerez l'autre moitié depuis le sol.\"\n\n\"Drokkeh, Bialla, vous lancerez l'autre moitié depuis le sol. De cette hauteur, on devrait être capables de viser juste. Si on fait ça bien, et que le vent est de notre côté, on devrait pouvoir se glisser sans être remarqués. Attendez qu'on soit en position pour lancer ; ensuite, partez.\" L'autre groupe de Maréchaux acquiesce, les têtes conquises par le sang-froid de Rikitta.\n\nBientôt, elle et Drokkeh sont tapis, cachés dans la végétation. De là, ils observent les machines approcher depuis la distance, pendant que Rikitta et Nagallo escaladent les parois du ravin en face et atteignent finalement la ruine antique. Même de loin, la pierre couverte de mousse depuis laquelle la structure est bâtie est manifestement fragile.\n\nUne fois en position, Rikitta charge une bombe fumigène dans son lance-pierre et fait un signe de tête à Nagallo, qui serre le sien fermement. Les deux libèrent leur volée.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 4 fléches OU 1 critique.", "pass": "038", "fail": "039" }]
     },
     {
       "id": "038",
       "title": "038",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les bombes fumigènes atterrissent en plein cœur du convoi, et le Bellowback en son centre disparaît dans un épais nuage noir. Drokkeh et Bialla chargent, lançant leurs propres bombes fumigènes sur les petites machines en tête du convoi.\n\nHabilement, ils se faufilent à travers, évitant les capteurs mécaniques lumineux. Une traîne de l'obscurité du nuage sombre colle à leurs corps puis s'estompe alors qu'ils sortent de l'autre côté, Nagallo et Rikitta, qui s'étaient glissés sur le flanc sans être vus à travers l'écran de fumée, les attendent de l'autre côté de la roche.\n\nDans sa main, Rikitta brandit quelques éclats qu'elle avait trouvés dans la ruine.",
+      "information": ["Rikitta et un autre personnage de son choix gagnent 1 Eclat de métal et 1 flambée chacun."],
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "039",
       "title": "039",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La première des bombes fumigènes atterrit en plein cœur du convoi. Le Bellowback cracheur de flammes en son centre est instantanément englouti, mais aussi vite, il lâche une volée de boules de feu en direction de la ruine. Un craquement sonore éclate depuis le ravin alors que l'ancienne bâtisse, incapable de supporter l'assaut, commence à s'effondrer — avec Nagallo et Rikitta toujours dessus.\n\nDrokkeh et Bialla chargent en avant, lançant leurs propres bombes fumigènes sur les petites machines en tête du convoi. Ils pénètrent dans l'épais nuage noir. Les yeux lumineux des machines sont tout juste visibles à travers le nuage, suffisamment pour que les deux Maréchaux esquivent habilement les attaquants potentiels.\n\nIls émergent de l'autre côté pour trouver une Rikitta blessée et Nagallo qui les attend, ayant dévalé l'effondrement en courant. Les machines sont alertées, et les Maréchaux font tous une retraite rapide.",
+      "information": [
+        "Rikitta et Nagallo subissent 1 blessure.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "040",
       "title": "040",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "\"Je vais les attirer à l'écart. Quand ils commenceront à me suivre, vous trois rejoignez-moi. On ne peut pas être sûrs qu'ils ne reviendront pas.\" Bialla part calmement et disparaît bientôt hors de vue.\n\nPlusieurs minutes passent sans incident jusqu'à ce que les lumières d'un Guetteur en tête du convoi virent au jaune. Il se retourne, attiré par quelque chose à proximité. Un par un, les autres machines suivent, changeant de direction en s'éloignant des Maréchaux.\n\nIls sont sur le point de bouger quand Drokkeh attrape les yeux des autres et pointe silencieusement vers les sous-bois. L'ombre de Bialla peut tout juste être aperçue alors qu'elle se faufile. \"Elle sait ce qu'elle fait. On s'en tient au plan. Gardons le cap.\" Nagallo fait signe au groupe de se mettre en mouvement.\n\nLes trois Maréchaux se frayent rapidement un chemin à travers le ravin, choisissant soigneusement leurs pas au fur et à mesure qu'ils avancent. Au loin, ils peuvent voir les machines progresser sur un nouveau chemin. Mais toujours pas de Bialla.",
+      "information": ["Bialla doit effectuer le jet d'action décrit ci-dessous à trois reprises. Si elle échoue à un ou plusieurs jets, appliquez le texte d'échec. Si elle réussit les trois, appliquez le texte de réussite."],
+      "actions": [{ "type": "test", "label": "Faire 1 flèche OU 1 critique.", "pass": "041", "fail": "042" }]
     },
     {
       "id": "041",
       "title": "041",
-      "text": "",
+      "text": "Au bout d'un moment, les trois entendent un bruissement, et Bialla les rejoint, surgissant des hautes herbes avec un sourire satisfait sur le visage. Elle pose une main sur l'épaule de Drokkeh. \"Et voilà. Maintenant, rattrapons le Griffemarcheur. On pourra fêter ça quand on le ramènera.\"",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "042",
       "title": "042",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Soudain, un cri de douleur retentit, et les lumières virent au rouge. Drokkeh fronce les sourcils, une rare incertitude sur son visage. Alors qu'il s'avance pour aider, Nagallo l'arrête. \"On s'en tient au plan. Bialla sait ce qu'elle fait.\"\n\nAprès un moment, les trois entendent un bruissement, et Bialla les rejoint, favorisant un côté en marchant. Alors que Rikitta lui bande sa blessure, Drokkeh secoue la tête. \"Mieux vaut un seul blessé parmi nous que tous.\" \"Je te réponds,\" réplique-t-elle.",
+      "information": [
+        "Bialla subit 2 points de dégâts pour chaque échec. Billa subit 1 blessure.",
+        "Défaussez 2 jetons de suivi."
+      ],
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "043",
       "title": "043",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Bien que les plans des autres Maréchaux soient certainement ingénieux, le groupe décide que la tactique la plus simple est de se faufiler devant les machines. Guidé par Drokkeh, les Maréchaux vont se glisser discrètement.\n\nDrokkeh évalue la situation : le convoi est large, et à mesure qu'il approche, des dizaines d'yeux bleus scrutent la zone à la recherche de menaces. Il faudrait du temps pour contourner le groupe.\n\nDrokkeh guide prudemment les trois autres en avant. Entre le groupe et l'arrière du convoi, plusieurs plaques d'herbes rouges offrent une chance de rester couverts. Un timing parfait et un silence absolu seront essentiels.\n\nLe groupe et le convoi approchent l'un de l'autre lentement. À chaque pas, des herbes aux herbes, les Maréchaux progressent sans être détectés. Bientôt, le convoi se fraie un chemin à travers la végétation, et les quatre se cachent au passage des machines.\n\nUn Guetteur se retourne vers les Maréchaux dissimulés et s'approche. Il est à une longueur de bras quand il active ses capteurs, émettant une lumière en arc de cercle alors qu'il recherche des menaces.",
+      "information": ["Drokkeh doit effectuer le jet d'action décrit ci-dessous à trois reprises. Si il échoue à un ou plusieurs jets, appliquez le texte d'échec. Si il réussit les trois, appliquez le texte de réussite."],
+      "actions": [{ "type": "test", "label": "Faire 2 flèches OU 1 critique.", "pass": "044", "fail": "045" }]
     },
     {
       "id": "044",
       "title": "044",
-      "text": "",
+      "text": "Le Guetteur se retourne, et le calme revient, rassurant les cœurs battants des Maréchaux. Le convoi poursuit son chemin dans la direction opposée à travers le ravin, alors que les Maréchaux se glissent vers les côtes des Basses Terres une fois de plus.\n\n\"Hah !\" Rikitta rit. \"Raccourci réussi !\" Bialla tempère l'enthousiasme, gardant tout le monde concentré. \"Rattrapons le Griffemarcheur. On pourra se féliciter quand on le ramènera.\"",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "045",
       "title": "045",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Juste au moment où les Maréchaux se croient en sécurité, Nagallo rate un pas et deux craquements retentissent sous son poids. Le son est faible, mais il se répercute dans le silence. Les machines se retournent. Le Bellowback libère une gerbe de feu, faisant pleuvoir une volée de flammes dans la direction des Maréchaux. Ça atterrit sur l'herbe, se propageant rapidement dans leur direction — et ils s'élancent tous en courant.\n\nCe n'est que lorsque les quatre atteignent la sécurité et sont certains que le convoi n'est plus à leur poursuite que le reste du groupe réalise que Drokkeh a remarqué que Nagallo avait pris des brûlures. \"Les meilleurs plans...\" ricane-t-il en bandant la brûlure. \"Au moins on a un plan.\"",
+      "information": ["Pour chaque jet d'action raté, défaussez un jeton de suivi et Nagallo subit 2 dégâts."],
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "046",
       "title": "046",
-      "text": "",
+      "text": "Il y a de nombreuses machines en avant, et tout plan comporte des risques. Le groupe décide de suivre l'idée de Nagallo : rapide, simple, et sans recours à la discrétion. Il mène le groupe vers un rocher juste à l'arrière du convoi. Rikitta surveille nerveusement les lumières bleues qui approchent lentement, et Nagallo sourit aux autres Maréchaux alors qu'il brandit son lance-pics, chargeant une pic explosive.\n\nBialla le fixe d'un regard incrédule. \"Qu'est-ce que tu fais ?\"\n\n\"Je vous l'ai dit. Je les attire.\"\n\n\"C'était le plan ?!\"\n\nNagallo ne répond pas, lançant plutôt son pic dans la masse de machines. L'explosion détone et une pluie de terre et de pierres est projetée en l'air — et il s'élance en plein sprint droit vers le convoi. \"Retrouvez-moi de l'autre côté !\"",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 6 flèches / 3 flèches & 1 critique.", "pass": "047", "fail": "048" }]
     },
     {
       "id": "047",
       "title": "047",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les Maréchaux se retrouvent entre les machines endommagées, à moitié dissimulés dans les débris projetés par l'explosion. Toutes les machines sont focalisées sur Nagallo. Des lumières furieuses inondent le ravin alors qu'elles tentent de l'atteindre.\n\nUn Guetteur émet un sifflement aigu alors qu'il se prépare à charger. Son œil, brillant d'un rouge maléfique, se balance vers Nagallo. Le Guetteur arrache un éclat de métal de sa tête et, alors qu'il recule, Nagallo enfonce la pointe de sa lance profondément dans la machine, la tuant instantanément.\n\nIl ne remarque pas un second Guetteur approchant par derrière. Heureusement, une flèche rapide tirée par Rikitta l'arrête avant qu'il puisse le frapper. Le Bellowback lent au centre du convoi lance une barrage de feu, mais les Maréchaux se sont déjà dégagés du convoi, sprintant dur et laissant les machines derrière eux.\n\nLorsqu'ils s'arrêtent enfin, Nagallo sourit aux autres et ramasse des Éclats de Métal au bout de sa lance. \"Facile. Pas besoin de vous.\" Rikitta, épuisée et brandissant un flacon de braise récupéré sur une machine tombée, réplique : \"Des parfaits idiots ?\"\n\n\"Tenakth,\" grommelle-t-il.",
+      "information": ["Les joueurs gagnent 3 Eclats de métal et 2 flambées."],
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "048",
       "title": "048",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les Maréchaux se précipitent entre les machines endommagées, à moitié dissimulés dans les débris projetés par l'explosion. Toutes les machines sont focalisées sur Nagallo. Des lumières furieuses inondent le ravin alors qu'elles tentent de l'atteindre.\n\nUn Guetteur tire sur Nagallo, le projetant de ses pieds. Alors qu'il charge, une flèche lui transperce la poitrine et il tombe, inerte. Nagallo se relève tant bien que mal pour trouver Bialla qui baisse son arc et Drokkeh qui l'aide à se redresser.\n\nLes quelques minutes suivantes sont le chaos total alors que chaque Maréchal tente désespérément de se frayer un chemin hors de la mêlée, crachant la poussière projetée en l'air par le pic de Nagallo. Le Bellowback lent au centre du convoi lance une barrage de feu, mais les Maréchaux se sont déjà dégagés, sprintant dur et laissant les machines derrière eux.\n\nCe n'est qu'après avoir couru plusieurs minutes, sans voir le moindre signe des machines, qu'ils s'arrêtent enfin. Les yeux de Bialla portent suffisamment d'admonestation pour Nagallo, qui se plie en deux, à moitié d'épuisement, à moitié à cause des coups reçus dans ses côtes. Il n'est pas le seul. Chacun des Maréchaux a l'air d'avoir vécu des jours difficiles, gémissant alors qu'ils reprennent lentement leur route.\n\n\"Hé, on a tous choisi le plan,\" tousse-t-il.",
+      "information": [
+        "Chaque joueur lance le dé noir.",
+        "Si un joueur n'obtient pas « critique », son personnage subit 1 blessure."
+      ],
+      "actions": [{ "type": "read", "target": "049", "label": "Continuer l'histoire" }]
     },
     {
       "id": "049",
       "title": "049",
-      "text": "",
+      "text": "Les Maréchaux progressent régulièrement en direction de la Chaîne des Pluies, vers la côte. En marchant, les yeux de Rikitta scrutent avec attention le cours d'eau que le Griffemarcheur suivait, ainsi que les traces distinctives laissées par sa patte abîmée.\n\nLes quatre traversent les berges de plusieurs ruisseaux sans trouver la moindre trace de la machine. Au sommet d'une colline, les Maréchaux aperçoivent brièvement l'océan au-dessus de la ligne des arbres, au loin. Un instant, Drokkeh s'arrête, bouche bée. En tant qu'habitant du désert, il n'a jamais vu d'aussi vastes étendues d'eau.\n\nDepuis ce point de vue, le groupe identifie le delta où ils pensent que le Griffemarcheur se trouvera, et ils descendent vers un réseau de plusieurs ruisseaux se jetant dans l'océan. L'un d'eux, à l'inspection rapprochée, est tracé par les empreintes de griffes que les Maréchaux recherchent. Le soulagement envahit Rikitta à cette vue. Il en va de même pour toute l'équipe lorsque le groupe aperçoit un Abri Tenakth à proximité, où les Maréchaux peuvent se ravitailler et se reposer.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "050", "label": "S'il vous reste des jetons de suivi et que vous souhaitez visiter l'abri" },
+        { "type": "read", "target": "053", "label": "Si vous n'avez plus de jetons de suivi ou si vous préférez ignorer cette entrée et retourner à la rivière" }
+      ]
     },
     {
       "id": "050",
       "title": "050",
-      "text": "",
+      "text": "Les Maréchaux approchent de l'Abri. Le bois qui constitue la silhouette pointue de la structure a été blanchi par le soleil et le sel. Des piques dentelées saillent vers l'intérieur depuis son toit, couronné d'une pièce de machine — une parure redoutable. Le foyer est rempli de cendres récentes. L'abri a été utilisé récemment.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "051", "label": "Vous souhaitez vous reposer et récupérer" },
+        { "type": "read", "target": "052", "label": "Vous souhaitez échanger des objets contre des provisions au refuge" },
+        { "type": "read", "target": "053", "label": "Vous êtes prêt à reprendre la traque du Clawstrider" }
+      ]
     },
     {
       "id": "051",
       "title": "051",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le groupe a pris de l'avance, mais entrer dans un combat dans leur état actuel mettrait tout le monde en difficulté. Les Maréchaux prennent un moment pour soigner leurs blessures et collecter des baies Cielbrosse de la jungle voisine. Drokkeh s'assoit en méditation, respirant l'air marin et écoutant l'étrange nouveau son des vagues.",
+      "information": [
+        "Chaque personnage récupère 5 PV.",
+        "Soignez une blessure. Les joueurs peuvent défausser autant de jetons de suivi qu'ils le souhaitent pour soigner une blessure supplémentaire par jeton.",
+        "Après avoir soigné une blessure, défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "052", "label": "Vous souhaitez échanger des objets contre des provisions au refuge" },
+        { "type": "read", "target": "053", "label": "Vous êtes prêt à reprendre la traque du Clawstrider" }
+      ]
     },
     {
       "id": "052",
       "title": "052",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Comme les Maréchaux le suspectaient d'après le foyer, quelqu'un était ici récemment, et il ne reste plus grand-chose en matière de vivres. Certaines choses peuvent néanmoins être utiles.",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 46",
+        "Une fois que les joueurs ont terminé leurs achats (le cas échéant), défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "051", "label": "S'il vous reste des jetons de suivi et que vous souhaitez vous reposer au Refuge," },
+        { "type": "read", "target": "053", "label": "Si vous êtes prêt à reprendre la traque du Clawstrider," }
+      ]
     },
     {
       "id": "053",
       "title": "053",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Après un long voyage et le soleil de fin d'après-midi, les Maréchaux approchent en avançant. La végétation se fait plus rare ici, et sous les pieds du groupe, la terre sombre devient de plus en plus sableuse. Les traces de la machine sont aussi uniques qu'elles l'étaient lorsqu'elles furent aperçues pour la première fois près de Fall's Edge.\n\nLes Maréchaux débouchent sur une clairière et le voient : un Griffemarcheur qui arpente nerveusement l'espace, boitant d'une patte le long du sol. Alors que le groupe se rapproche, il devient plus clair que jamais — les Maréchaux peuvent distinguer une sorte d'objet s'enfonçant profondément dans son châssis, une lumière qui pulse de façon intermittente du bleu au rouge.\n\nAutour de la cible, plusieurs machines plus faibles s'activent. Rikitta fait signe au groupe de s'arrêter et de se déplacer vers les hautes herbes à proximité. \"On ne peut pas le laisser fuir à nouveau. On n'a pas de piège préparé, mais avec un peu de travail supplémentaire, on pourrait lui infliger quelques dégâts.\"\n\nNagallo acquiesce rapidement. \"Un piège, ça me semble logique, mais ne perdons pas de temps à des préparatifs. On a trouvé le Griffemarcheur. Chaque moment passé à se préparer est un moment de plus où il pourrait s'échapper.\"\n\nDrokkeh fronce les sourcils, scrutant la zone. Il préférerait prendre le temps d'évaluer le champ de bataille. Bialla pointe une série de pistes menant hors des herbes. \"On dirait qu'on n'est pas seuls. Si d'autres chasseurs sont dans les parages, ils pourraient être d'une aide précieuse.\"\n\n\"Ou on aura d'autres soldats indisciplinés à gérer,\" marmonne Nagallo.",
+      "information": ["Les joueurs gagnent 1 jeton de suivi supplémentaire."],
+      "actions": [{ "type": "read", "target": "054", "label": "Continuer l'histoire" }]
     },
     {
       "id": "054",
       "title": "054",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le Griffemarcheur continue à arpenter le delta, entouré de plusieurs autres machines. Il reste du temps aux Maréchaux pour prendre l'avantage dans le combat à venir.",
+      "information": [
+        "Les joueurs peuvent défausser autant de jetons de suivi qu'ils le souhaitent pour récupérer le double de dés d'action.",
+        "Les joueurs peuvent réutiliser certaines des options ci-dessous lorsqu'ils reviennent à cette entrée, mais il n'y a pas de récompense supplémentaire à les utiliser plus d'une fois."
+      ],
+      "actions": [
+        { "type": "read", "target": "055", "label": "Créer un piège plus efficace" },
+        { "type": "read", "target": "058", "label": "Explorer les environs" },
+        { "type": "read", "target": "061", "label": "En savoir plus sur les traces humaines" },
+        { "type": "read", "target": "065", "label": "Attaquer immédiatement" }
+      ]
     },
     {
       "id": "055",
       "title": "055",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta explique aux autres comment construire le piège. \"Donnez-moi un coup de main, Drokkeh — tenez ça en place. Nagallo, passez ce fil autour et entre ces pièces qui coupent dans le métal.\" Nagallo glisse et jure alors que le fil lui entaille le doigt, laissant traîner un filet de sang.\n\nRikitta siffle avec irritation. \"Focus. On doit bien faire ça.\"\n\n\"Rikitta,\" dit doucement Bialla en posant une main rassurante sur son épaule. \"Respire. Le travail avance bien, détends-toi.\" La tension sur le visage de Rikitta s'atténue alors que Bialla aide Nagallo à ramasser le fil tombé — le piège se met rapidement en place.",
+      "information": [
+        "Defaussez un jeton de suivi.",
+        "Si Rikitta possède le jeton de leader, elle peut relancer n'importe lequel des dés de ce jet d'action."
+      ],
+      "actions": [{ "type": "test", "label": "Faire 5 flèches OU 1 critique.", "pass": "056", "fail": "057" }]
     },
     {
       "id": "056",
       "title": "056",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Sous la direction experte de Rikitta, les Maréchaux apportent efficacement les modifications au piège. Non seulement cela ralentira les mouvements de la machine pendant qu'elle frappera, mais cela lui infligera également de vrais dégâts. \"Fait,\" proclame Rikitta. \"Vous avez bien travaillé. Beau travail aujourd'hui.\"",
+      "information": ["Les joueurs obtiennent le jeton rouge."],
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "057",
       "title": "057",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta fait de son mieux avec ce qu'elle a. Juste au moment où elle termine les dernières retouches sur son piège, un bourdonnement s'échappe de la trappe — suivi d'un craquement et d'un petit nuage de fumée. Elle réorganise rapidement le réseau complexe de fils et de moments plus tard, avec un soupir, proclame qu'elle a terminé.\n\n\"Fait. Ça devrait l'empêcher de fuir.\" Elle regarde vers le bas sa création abîmée.",
+      "information": [
+        "Les joueurs obtiennent le jeton rouge.",
+        "Défaussez un jeton de suivi. Si vous n'avez aucun jeton à défausser, les joueurs doivent défausser un total de 3 ressources."
+      ],
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "058",
       "title": "058",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le groupe se déploie, cherchant des signes de menaces à proximité. Drokkeh trouve des traces d'autres machines — des monticules indiquant des Fouisseurs — et repère une grande entrée de tunnel.\n\n\"Les Fouisseurs. Attaquer le Griffemarcheur pourrait les attirer et les amener à l'aider.\" La voix de Bialla exprime une nouvelle complication que chacun ressent. \"On pourrait effondrer les tunnels, alors,\" déclare Nagallo.\n\n\"C'est... c'est en fait une bonne idée,\" dit Bialla en regardant les monticules. \"Pour une fois.\"",
+      "information": [
+        "Si Drokkeh ne possède pas le jeton leader, défaussez un jeton de suivi.",
+        "Les joueurs peuvent défausser un jeton de pistage pour relancer autant de dés qu'ils le souhaitent lors de ce jet d'action."
+      ],
+      "actions": [{ "type": "test", "label": "Faire 6 flèches / 2 critiques / 3 flèches & 1 critique.", "pass": "059", "fail": "060" }]
     },
     {
       "id": "059",
       "title": "059",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Après avoir effondré plusieurs des plus petites ouvertures, Nagallo coince un pieu dans le haut de l'entrée du tunnel. C'est bien compacté et robuste. Nagallo saisit fermement le pieu et détache la terre, qui commence lentement à céder avant de s'effondrer rapidement. Le Maréchal dégage ses mains de la terre meuble.\n\n\"Voyons s'ils viennent en aide au Griffemarcheur maintenant\", proclame Nagallo. \"C'est agréable de pouvoir casser des choses au service du groupe, hein ?\" dit-il en bousculant Drokkeh du coude. Drokkeh se frotte les côtes et hoche poliment la tête.\n\nBialla soupire, son admiration passée presque disparue.",
+      "information": ["Les joueurs obtiennent le jeton bleu."],
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "060",
       "title": "060",
-      "text": "",
+      "text": "Après avoir effondré plusieurs des plus petites ouvertures, Nagallo coince un pieu dans le haut de l'entrée du tunnel. C'est bien compacté et robuste. Il grogne et gémit alors qu'il tente de faire s'effondrer l'entrée. Ça ne bouge pas. Pire encore, les Maréchaux distinguent maintenant le gazouillis mécanique familier des Fouisseurs remontant à la surface.\n\nLe groupe recule alors que les machines émergent. Plusieurs Fouisseurs se déplacent pour rejoindre le Griffemarcheur. Il semble que les Maréchaux devront les combattre, eux aussi.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "061",
       "title": "061",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les Maréchaux suivent les traces jusqu'à leur source — un cadavre de Tenakth, vêtu des couleurs des Basses-Terres, face contre terre au bord d'une flaque boueuse. Il porte un masque impressionnant façonné à partir d'une mâchoire de Griffemarcheur.\n\nLa cause de la mort est sans aucun doute la large déchirure qui a été creusée dans sa poitrine et sur le côté de sa tête, suffisamment profonde pour révéler l'os. À en juger par ses blessures, il semble qu'il ait été pris au dépourvu.\n\n\"Une mauvaise mort. Au moins, c'était rapide\", déclare Nagallo.\n\n\"Nous devrions fouiller les environs, voir s'il a laissé quelque chose derrière lui. Ou si ses compagnons d'escouade sont ici\", répond Bialla.",
+      "information": [
+        "Defaussez un jeton de suivi.",
+        "Si Bialla possède le jeton leader, récupérez 2 dés d'action."
+      ],
+      "actions": [
+        { "type": "read", "target": "062", "label": "Si vous avez le jeton vert" },
+        { "type": "test", "label": "Faire 4 flèches / 2 critiques", "pass": "063", "fail": "064" }
+      ]
     },
     {
       "id": "062",
       "title": "062",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Une pensée traverse l'esprit de Rikitta. \"Drokkeh et moi, nous avons parlé à un chasseur à Ronciermarais. Il a dit que son partenaire serait près de ce delta. Je crois que c'est lui.\" Elle se dirige vers une paire d'arbres à proximité et, en effet, elle trouve un piège à moitié installé. \"Il a été attaqué alors qu'il préparait ce piège. Ses blessures ressemblent à l'œuvre d'un Fouisseur.\" Elle soupire.\n\n\"Nous nous occuperons de son corps avant de partir\", rassure Bialla en s'agenouillant et en récupérant la plaque du soldat. \"Et quand notre mission sera terminée, nous veillerons à ce que cela retourne à Ronciermarais.\"",
+      "information": ["Les joueurs obtiennent le jeton jaune."],
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "063",
       "title": "063",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "En examinant le corps, il semble que le chasseur ait été pris au dépourvu par une meute de Fouisseurs. \"Ce n'est pas l'œuvre de notre Griffemarcheur,\" conclut Nagallo en inspectant les blessures alors que Bialla fouille la zone alentour. Entre deux arbres, elle repère un scintillement, un reflet de lumière voyageant le long d'un fil de détente.\n\n\"Ils lui sont tombés dessus pendant qu'il installait ce piège.\" Bialla s'agenouille et récupère la plaque du soldat. \"C'est risqué de sortir seul comme ça. Mais nous pouvons utiliser son piège.\" Elle regarde le corps, déçue. \"Et nous occuper de son corps avant de partir.\"",
+      "information": ["Les joueurs obtiennent le jeton jaune."],
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "064",
       "title": "064",
-      "text": "",
+      "text": "En examinant le corps, il semble que le chasseur ait été pris au dépourvu par une meute de Fouisseurs. \"Ce n'est pas l'œuvre de notre Griffemarcheur,\" conclut Nagallo en inspectant les blessures alors que Bialla fouille la zone alentour. Entre deux arbres, elle manque un scintillement, un reflet de lumière voyageant le long d'un fil de détente. Il s'accroche à sa botte et active le piège.\n\nUne secousse de choc envoie Bialla à genoux, et les autres Maréchaux l'aident à se relever. \"Je suppose qu'ils l'ont eu pendant qu'il installait ça. Il a fait un sacré piège, au moins.\" Bialla grogne de douleur en se remettant debout. \"Nous devrions nous occuper de son corps avant de partir.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "054", "label": "Sinon" }
+      ]
     },
     {
       "id": "065",
       "title": "065",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le Griffemarcheur pousse un cri effrayant au loin. Les Maréchaux conviennent tous que Nagallo a soulevé un point valide : chaque instant passé à planifier est un instant où la machine pourrait s'échapper. Rikitta serre le piège à choc dans ses mains, le souvenir de la machine fuyant Fall's Edge encore frais dans son esprit.\n\n\"Ne t'inquiète pas,\" la rassure Bialla. \"Tu gères.\"",
+      "information": ["Nagallo devient le leader."],
+      "actions": [{ "type": "read", "target": "067", "label": "Continuer l'histoire" }]
     },
     {
       "id": "066",
       "title": "066",
-      "text": "",
+      "text": "Le Griffemarcheur pousse un cri effrayant au loin, et les Maréchaux savent tous que le moment est venu. Rikitta serre le piège à choc dans ses mains, le souvenir de la machine fuyant Fall's Edge encore frais dans son esprit.\n\n\"Ne t'inquiète pas,\" la rassure Bialla. \"Tu gères.\"",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "067", "label": "Continuer l'histoire" }]
     },
     {
       "id": "067",
       "title": "067",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta observe la trajectoire de la machine pendant un moment avant de s'élancer tête baissée, courant à travers les hautes herbes pour installer le piège. C'est l'affaire de quelques secondes, et elle se retire en sécurité presque aussi rapidement.\n\nLes Maréchaux retiennent leur souffle alors que le Griffemarcheur se retourne et se dirige droit vers le piège. Bien que son pied intact passe au-dessus du fil, la machine traîne sa deuxième patte endommagée en plein dedans. Rikitta lève le poing en signe de triomphe alors que son piège s'active. Un grand morceau de blindage est arraché par l'explosion, s'écrasant sur le sol, et le métal en dessous plie sous la force de la détonation.\n\nLoin d'être impuissant, le Griffemarcheur peine à se remettre sur ses pattes incertaines, poussant un cri féroce et provocateur. Plusieurs Fouisseurs lèvent la tête, se dressant sur leurs pattes arrière en réponse, et se joignent au Griffemarcheur. Ils commencent à patrouiller dans les prairies environnantes, leurs lumières ambrées dardant ça et là à la recherche des Maréchaux.",
+      "information": ["Ouvrez le livre de campagne à la page 6 et tentez la rencontre."],
+      "actions": [
+        { "type": "read", "target": "068", "label": "Si vous avez réussi la rencontre" },
+        { "type": "read", "target": "069", "label": "Si vous avez échoué à la rencontre" }
+      ]
     },
     {
       "id": "068",
       "title": "068",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La lumière s'éteint derrière les yeux du Griffemarcheur, les dernières étincelles de vie quittant violemment sa carcasse. Maintenant qu'il est immobile, le groupe peut distinguer plus clairement l'étrange objet enfoui dans sa poitrine. \"Voyons ce que tu caches\", murmure Nagallo pour lui-même alors qu'il tend la main et retire un morceau de métal dégoulinant d'huile de machine sombre.",
+      "information": [
+        "Ajoutez les cartes Capacité et Interruption LVL 2 à la section disponible de la boîte.",
+        "Les personnages gagnent : ",
+        "- 4 Eclats de métal, plus 2 pour chaque personnage qui a participé à la rencontre.",
+        "- Chaque joueur améliore sa carte Profil LVL 2 et l’une de ses cartes Équipement.",
+        "- 4 Ressources Élémentaires.",
+        "- La carte quête annexe 3",
+        "- Chaque personnage gagne 2 cartes Action."
+      ],
+      "actions": [{ "type": "read", "target": "070", "label": "Continuer l'histoire" }]
     },
     {
       "id": "069",
       "title": "069",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La machine est plus féroce que prévu. La situation ne s'annonce pas bien. Mais Bialla a connu pire dans sa vie mouvementée. Alors que la machine s'approche d'un Drokkeh blessé, elle saisit l'occasion. Bialla tire une flèche directement sur l'étrange morceau de métal logé profondément dans le Griffemarcheur.\n\nElle fait sauter l'objet hors du corps du Griffemarcheur, et une fois de plus, la machine commence à trembler de façon erratique avant de pousser un dernier cri perçant. Ses veines brillent d'un bleu continu alors qu'elle tente de fuir la scène. Mais sans la pièce, elle ne fait que trembler avant de s'effondrer dans la terre. Morte.\n\nLes Maréchaux s'aident à se relever et s'approchent de l'objet qui était enfoui à l'intérieur de la machine aux veines rouges.",
+      "information": [
+        "Ajoutez les cartes Capacité et Interruption LVL 2 à la section disponible de la boîte.",
+        "Les personnages gagnent : ",
+        "- Les personnages qui sont evanoui récupère 4 PV.",
+        "- 4 Eclats de métal.",
+        "- Chaque joueur améliore sa carte Profil LVL 2 et l’une de ses cartes Équipement.",
+        "- 2 potions de soin.",
+        "- La carte quête annexe 3",
+        "- Chaque personnage gagne 2 cartes Action."
+      ],
+      "actions": [{ "type": "read", "target": "070", "label": "Continuer l'histoire" }]
     },
     {
       "id": "070",
       "title": "070",
-      "text": "",
+      "text": "\"On dirait une pointe de lance du Clan du Ciel détachée de sa hampe.\" L'incertitude colore la voix de Nagallo alors qu'il remarque qu'un ajout étrange a été fait à l'arme. Du vieux métal, noir et rouillé, est fixé à la base de la pointe. Rikitta scrute curieusement la trouvaille de Nagallo. \"Ça n'a pas l'air d'être des tripes de Griffemarcheur.\"\n\nLa pointe de lance passe entre chaque Maréchal, et chacun l'examine à tour de rôle. Lorsqu'elle arrive entre les mains de Bialla, elle prend la parole. \"Ça a été lié à la lance avec du métal forgé comme en utilisent ces rustres d'Oserams. Mais la pièce elle-même ? C'est un morceau d'une ancienne machine.\" Drokkeh marmonne pour confirmer, \"Un Corrupteur.\"\n\nBialla acquiesce. \"J'ai vu plein de leurs cadavres en combattant les Carjas près d'Écho de la Pierre. On aurait dit qu'ils n'avaient pas bougé depuis des siècles. Je ne peux pas vous dire ce que fait cette pièce ni pourquoi elle est attachée ici.\" La conviction dans le ton de Bialla est absolue.\n\n\"Eh bien, nous ne pouvons pas demander aux Anciens. Je ne vois aucun Oseram. Et c'est notre deuxième indice qui nous pointe vers le Clan du Ciel.\" affirme Rikitta. \"Il semble que nous nous dirigeons vers le Rempart.\"\n\nBialla approuve. \"Si nous découvrons comment ce soldat a atterri dans les Basses-Terres, nous pourrions comprendre les origines de cette lance. De toute façon, ça n'a pas l'air d'être l'œuvre d'un groupe de bandits.\"\n\n\"Traverser les montagnes est le chemin le plus direct, mais ce ne sera pas un voyage facile,\" avertit Nagallo.\n\n\"Je pensais que tu serais ravi de voir les montagnes après tout ce temps passé dans la boue,\" taquine Bialla, mais Nagallo reste étrangement silencieux. Indépendamment de ses réticences, il charge son sac sur ses épaules, et alors qu'un vent froid souffle depuis la mer, il guide le groupe vers l'intérieur des terres en direction des montagnes de Sheerside.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "chapter", "target": "act1ChapterA", "label": "Continuer vers le prochain chapitre" }]
     }
   ]
 }
