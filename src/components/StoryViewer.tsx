@@ -30,13 +30,18 @@ export default function StoryViewer({ entry, onAction, pendingTest, onTestResult
       )}
 
       <div className="actions">
-        {entry.actions.map((a, i) => (
-          <ActionButton
-            key={i}
-            label={a.type === 'read' ? (a.label ?? 'Read') : a.label ?? (a.type === 'test' ? 'Test' : 'Continue')}
-            onClick={() => onAction(a)}
-          />
-        ))}
+        {entry.actions.map((a, i) => {
+          const typeClass = `action-${a.type}`;
+          const label = a.type === 'read' ? (a.label ?? 'Read') : a.label ?? (a.type === 'test' ? 'Test' : 'Continue');
+          return (
+            <ActionButton
+              key={i}
+              label={label}
+              className={typeClass}
+              onClick={() => onAction(a)}
+            />
+          );
+        })}
       </div>
 
       {pendingTest && (
@@ -44,8 +49,8 @@ export default function StoryViewer({ entry, onAction, pendingTest, onTestResult
           <div className="test-panel">
             <div className="test-label">{pendingTest.label}</div>
             <div className="test-buttons">
-              <ActionButton label="Success" onClick={() => onTestResult(true)} />
-              <ActionButton label="Fail" onClick={() => onTestResult(false)} />
+              <ActionButton label="Success" className="action-test" onClick={() => onTestResult(true)} />
+              <ActionButton label="Fail" className="action-test" onClick={() => onTestResult(false)} />
             </div>
           </div>
         </div>

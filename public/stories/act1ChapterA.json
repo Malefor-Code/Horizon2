@@ -6,177 +6,242 @@
     {
       "id": "INTRO",
       "title": "ACT 1 - CHAPTER A : VOIES DÉVASTÉES",
-      "text": "",
+      "text": "La jungle est une créature vivante et respirante aussi mortelle que n’importe quelle machine. Si les sables du désert incarnent la nature rude et implacable du code guerrier de la tribu, et les montagnes du nord leur caractère inflexible et défiant, alors les jungles, dans l’esprit des Tenakth, sont un chasseur rusé, toujours prêt à frapper.\n\nLe temps pressant, le voyage des Marshals vers Fall’s Edge devient une véritable épreuve d’endurance. Détournés des sentiers battus, ils progressent sur un chemin ondulant formé de racines épaisses, tandis que des lianes abrasives les griffent au passage. Pour Nagallo et Drokkeh, tous deux habitués aux vastes cieux dégagés de leurs terres natales, chaque écho d’appel de machine rappelle les menaces dissimulées par cette multitude d’arbres.\n\nMême les locales, Bialla et Rikitta, éprouvent un certain soulagement lorsque les Marshals finissent par sortir de la lisière. Bialla fait signe de faire une pause, et le groupe s’arrête près d’un ruisseau pour étirer ses membres endoloris et profiter de la brise fraîche.\n\n« Ce ne sont sans doute que des bandits », reprend Nagallo, relançant une discussion déjà ancienne. « Chez moi, j’étais un redoutable chasseur de bandits. Étonnant que les patrouilles des Lowlanders ne puissent pas s’en charger. »\n\nCe n’est pas une question, mais Bialla lui répond tout de même.\n« Je fais bien plus confiance à l’instinct du chef Hekarro qu’à ta confiance aveugle. »\n\nNagallo renfrogne.\n« J’ai confiance en beaucoup de choses. Premièrement, cette affaire est simple comme bonjour. Deuxièmement… mon estomac est désespérément vide ! »\n\nLes paroles de Nagallo agacent Bialla.\n« C’est ton estomac qui est vide, ou ta tête qui pose problème ? »\n\nRikitta intervient :\n« Fall’s Edge aura largement de quoi nous ravitailler. Moi aussi, je commence à me lasser des rations de voyage. Alors arrivons-y avant le coucher du soleil, d’accord ? »",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "001", "label": "Consultez l'entrée 001."}]
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
+      "text": "La dernière étape du voyage du groupe les mène à travers une série de ponts de corde tendus entre des parois rocheuses, bien au-dessus d’une rivière tumultueuse. Alors que le soleil se couche, la brume s’élève à la rencontre des Marshals, et ils descendent enfin vers Fall’s Edge. Deux gardes montent la garde à l’entrée. À en juger par le peu d’encre sur leurs bras, ce sont de jeunes membres de la garnison locale.\n\nLeurs yeux s’illuminent à la vue des Marshals. Bialla réprime un sourire amusé tandis que les deux gardes se redressent précipitamment et saluent. Elle hoche la tête. « Repos. »\n\nLe plus jeune des deux s’adresse avec enthousiasme à l’impressionnant groupe. « Par les Dix ! Vous êtes ici pour le Slaughterspine au sud ? »\n\n« Non. » La réponse de Drokkeh trahit une pointe d’impatience, et le garde recule d’un pas. Bialla s’éclaircit la gorge. « Nous sommes ici pour une patrouille attaquée. » Le garde paraît surpris. « Des Marshals ? Pour de simples bandits ? »\n\nNagallo esquisse un sourire en coin, tandis que Bialla lui lance un regard appuyé. « Nous allons là où le Chef Hekarro l’ordonne. Arokkeh est-il présent ? » À la mention du nom du chef de la colonie ainsi que de celui du Chef, le garde rougit. « Euh… pardon ! Oui. Vous voudrez parler à Arokkeh. Passez le dépôt de ravitaillement, puis après la cuisinière. »\n\nLes Marshals entrent dans l’enceinte. Avant-poste crucial reliant la capitale des Terres Basses, Thornmarsh, au bosquet mémorial qui gouverne la tribu, Fall’s Edge se dresse fièrement au bord d’une immense cascade. Sous ses vastes structures en bois sur pilotis, les ruisseaux peu profonds de la Raintrace se rejoignent, tandis que des enfants manient leurs premières armes, harponnant les poissons portés par les eaux.\n\nDes soldats se reposent dans les baraquements, les intendants distribuent leurs marchandises, et une alléchante odeur de ragoût de gibier flotte dans l’air. Les yeux de Nagallo s’écarquillent. « Rien ne presse… Nous devrions nous réapprovisionner d’abord — et manger. » Bialla le fusille du regard, et il ajoute d’un ton faussement innocent : « Pendant que les marchands font commerce ? »",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "002", "label": "Pour vous réapprovisionner, consultez l'entrée 002." },
+        { "type": "read", "target": "003", "label": "Si vous préférez vous rendre directement à Arokkeh, consultez l'entrée 003." }
+      ]
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "« Pas une mauvaise suggestion. » concède Bialla. « Ne pas se préparer… c’est se préparer à échouer… je suppose. »\n\nNagallo s’éloigne en quête d’un morceau à se mettre sous la dent, tandis que le reste des Marshals traverse la colonie, accueilli par des hochements de tête respectueux. Même ici, l’apparition des élus de Hekarro est un événement notable. Un intendant salue les Marshals et se montre empressé de leur présenter les marchandises dont il dispose.\n\nAlors que le groupe termine de marchander, un Nagallo nettement plus joyeux les rejoint, s’essuyant la graisse au coin de la bouche.\n« Alors, on va parler à Arokkeh maintenant, oui ? »",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 9"
+      ],
+      "actions": [{ "type": "read", "target": "004", "label": "Consultez l'entrée 004." }]
     },
     {
       "id": "003",
       "title": "003",
-      "text": "",
+      "text": "« Après. » La voix de Bialla est ferme et ne tolère aucune contestation tandis qu’elle mène le groupe à travers la colonie.\n\nAlors que les Marshals traversent Fall’s Edge, regards et hochements de tête respectueux les accueillent. Un murmure suit leur passage. Même ici, l’apparition des élus de Hekarro est un événement notable. Le désir dans les yeux de Nagallo est évident lorsque les Marshals passent devant le dépôt de ravitaillement et que l’odeur de volaille de jungle mijotée vient flotter jusqu’à eux.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "004", "label": "Consultez l'entrée 004." }]
     },
     {
       "id": "004",
       "title": "004",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les quartiers d'Arokkeh se trouvent en hauteur, à l'extrémité opposée du campement. Son belvédère privé surplombe les chutes en contrebas, offrant une vue dégagée sur le vaste territoire qu'il supervise.\n\nDeux soldats l'encadrent à l'arrivée des Marshals. L'un est sa garde personnelle. L'autre s'appuie sur un bâton pour soutenir son poids et parle avec frénésie. « Je vous le jure, Arokkeh. Je sais que ça n'a pas de sens, mais— » Remarquant l'arrivée des Marshals, Arokkeh pose respectueusement une main sur l'épaule de l'homme, le faisant taire.\n\n« Les trois clans ne font qu'un, Marshals, » les salue-t-il. « J'ai été soulagé d'apprendre qu'Hekarro envoyait du renfort. » Arokkeh porte le commandement avec aisance, même si l'inquiétude transparaît dans sa posture comme une corde tendue à l'extrême. Lorsque son regard se pose sur Bialla, il se détend légèrement. « Et un visage familier, qui plus est. »\n\n« Contente que les Crampocrocs ne vous aient pas encore eu, » acquiesce Bialla. Arokkeh sourit mais marque une pause avant de répondre. « J'espère que cette situation pourra être résolue... rapidement, Bialla. » Il est clair qu'il répugne à montrer ses faiblesses. « Venez. Parlez avec Hovveh. »\n\nHovveh est visiblement ébranlé. « Nous étions en patrouille. Nous avons aperçu un feu dans cet ancien abri au sommet d'une vieille crête de métal. Des machines du Vieux Monde rouillaient tout autour. » Son front se plisse. « Nous avons été surpris de trouver une patrouille campée là. Ils avaient l'air d'être des Basses-Terres. Ils avaient capturé une machine — un Griffemâchoire. »\n\n« Nous avons lancé un salut. Et puis ils ont... paniqué. Ils ont répondu par des tirs de flèches. » La voix de Hovveh se fait plus basse. « Deux de mes hommes sont tombés immédiatement. J'ai réussi à décocher une flèche. Je l'ai touché dans le bras. Et puis quelque chose m'a frappé de plein fouet. Une explosion... » Sa voix s'éteint.\n\n« Et ils vous ont laissé pour mort ? » C'est Rikitta qui parle la première. Hovveh hoche silencieusement la tête, et Arokkeh soupire, une pointe de scepticisme dans la voix. « Nous avons les corps de son escadron, comme il le dit. Mais attaquer des Tenakth alliés pour de la ferraille ? »\n\n« Ce n'était pas de la ferraille. » Hovveh relève brusquement la tête. « Les yeux du Griffemâchoire brillaient de vie. Ils l'avaient paralysé comme un serpent paralyse sa proie. Et ils lui faisaient... quelque chose d'étrange. » Rikitta surprend un regard condescendant d'Arokkeh. « Ça suffit. Vous avez besoin de repos. Je vais montrer leurs quartiers aux Marshals. »\n\nLa nuit est tombée lorsque Arokkeh accompagne les Marshals jusqu'aux baraquements. « Hovveh est un soldat prometteur, mais enclin à l'exagération. Et le coup qu'il a reçu à la tête... Frappez-moi aussi fort, et je verrai peut-être des Griffemâchoires apprivoisés, moi aussi. » Il passe la main sur la bande de cheveux sombres qui court jusqu'en haut de son crâne. « Une querelle entre soldats, passe encore, mais un escadron renégat... » Il expire longuement. « Les machines se multiplient, et j'ai besoin de chaque soldat. Demain, je vais désigner un guide— »\n\nBialla l'interrompt : « Inutile. Je connais l'abri. »\n\nUn soulagement traverse son visage. « Bien sûr que vous le connaissez. »\n\nIl adresse un salut aux Marshals avant de les laisser aux baraquements, où quatre nattes de couchage et quelques vivres les attendent. « Super ! Encore de la nourriture pour oiseaux, » grommelle Nagallo.",
+      "information": [
+        "Chaque personnage récupère tous ses points de vie maximum.",
+        "Obtenez 2 potions de soin."
+      ],
+      "actions": [{ "type": "read", "target": "005", "label": "Consultez l'entrée 005." }]
     },
     {
       "id": "005",
       "title": "005",
-      "text": "",
+      "text": "Au lever du soleil, les Marshals prennent la route sans cérémonie, sous une pluie douce et tiède. Le groupe progresse rapidement à travers le Raintrace, guidé par Bialla. Le seul obstacle est une courte étendue de flétrissure rouge, une pestilence récente qui gangrène les terres un peu plus chaque jour. Elle projette des coques toxiques dans l'air et arrache de violentes quintes de toux au groupe.\n\nLa flétrissure derrière eux, Rikitta reprend son babillage enjoué. « J'ai été postée par ici une fois. À l'est, une autre fois. Et plusieurs fois au sud. » Bialla hausse un sourcil, et Rikitta sourit. « On m'a réaffectée souvent. Les chefs de patrouille n'ont aucun sens de l'humour. »\n\n« Vous auriez au moins pu choisir un chemin sec. » Nagallo a retrouvé son air renfrogné, les jambes maculées de boue brune. Rikitta dissimule un sourire et adresse une plaisanterie en langue des signes à Bialla. Celle-ci ne peut retenir un sourire en coin, vite remplacé par une expression pensive. « Pourquoi s'en prendre à un escadron bien armé pour de la ferraille ? »\n\n« Oooh ! C'est un test ? » Rikitta réfléchit tandis que Nagallo s'essuie le front et offre aussitôt son avis. « Un Griffemâchoire, c'est une proie impressionnante. Peut-être qu'ils ne voulaient pas partager leur gloire. »\n\nRikitta rétorque : « Impossible. C'est plus facile d'abattre un autre Griffemâchoire que tout un escadron. Les soldats renégats ont toujours besoin d'éclats. » Drokkeh acquiesce, la voix grave et tranchante : « Ils cachaient quelque chose. »\n\n« Ah, qui sait ce qui passe par la tête d'un Lowlan— » Nagallo commence à répondre lorsque Bialla lève la main pour imposer le silence. « On est arrivés. C'est juste derrière ces arbres. »",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "006", "label": "Consultez l'entrée 006." }]
     },
     {
       "id": "006",
       "title": "006",
-      "text": "",
+      "text": "Le lieu est d'un calme saisissant. Des rangées de machines à quatre roues et rongées par la rouille grimpent jusqu'au sommet de la corniche. Il y a longtemps, les Anciens avaient érigé ce grand plateau sur des piliers de pierre et de métal.\n\nAujourd'hui il s'effrite, et au sommet, un abri Tenakth en bois tombe en ruine, son toit effondré, ses murs étouffés par le lierre. Les Marshals inspectent silencieusement les lieux et constatent avec satisfaction que seul le souffle de l'herbe trouble l'immobilité. Quiconque se trouvait ici est parti depuis longtemps.\n\nUn rapide tour d'horizon révèle plusieurs pistes d'investigation. Dans la terre détrempée près de l'abri, des signes de lutte sont gravés dans le sol. La carcasse d'une machine, reconnaissable entre toutes, gît dissimulée dans les hautes herbes. En observant la lisière des arbres, le groupe remarque des marques taillées profondément dans l'écorce. Près de l'abri, le soleil fait miroiter de petites flaques — peut-être des empreintes de machine — qui tracent un sillage dans l'herbe aplatie avant de disparaître sous les broussailles.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." } ]
     },
     {
       "id": "007",
       "title": "007",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "La pluie martèle le métal du Vieux Monde et le feuillage du nouveau — les indices ici ont peut-être déjà été effacés. Néanmoins, l'abri abandonné et ses environs offrent encore de nombreuses pistes qui méritent d'être explorées.",
+      "information": [
+        "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
+      ],
+      "actions": [
+        { "type": "read", "target": "008", "label": "Si vous souhaitez explorer la lisière de la forêt, consultez l'entrée 008." },
+        { "type": "read", "target": "011", "label": "Si vous préférez fouiller l'abri, consultez l'entrée 011." },
+        { "type": "read", "target": "014", "label": "Si vous souhaitez examiner de près la carcasse de la machine, consultez l'entrée 014." },
+        { "type": "read", "target": "017", "label": "Si les traces de la machine vous intéressent davantage, consultez l'entrée 017." },
+        { "type": "read", "target": "018", "label": "Si vous avez trouvé le jeton vert, vous pouvez quitter l'abri et consulter l'entrée 018." }
+      ]
     },
     {
       "id": "008",
       "title": "008",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta remarque Drokkeh qui observe fixement les marques sur les arbres. De profondes entailles cerclent le tronc. « Mmm. Ce n'est pas le Griffemâchoire que l'on cherche. Regarde comme elles montent haut dans les branches. » Il acquiesce. « Des Crampocrocs. Je suppose que vous n'en voyez guère dans le désert. »\n\n« Au moins, le désert a ça pour lui, hein ? » Nagallo intervient en levant les yeux. « Je n'ai aucune envie de me faire prendre en embuscade par une meute de ces bestioles. Je peux grimper jusqu'en haut jeter un œil, vérifier qu'ils sont partis. » Bialla lève les yeux au ciel. Croisant son regard, Nagallo marmonne quelque chose entre ses dents avant de cracher dans ses mains et de les frotter l'une contre l'autre.",
+      "information": [
+        "Si vous souhaitez que Nagallo grimpe à l'arbre, il doit effectuer le jet d'action décrit ci-dessous."
+      ],
+      "actions": [
+        { "type": "read", "target": "007", "label": "Si vous préférez explorer d'autres pistes, consultez l'entrée 007." },
+        { "type": "test", "label": "Faire 3 flèches OU 1 critique.", "pass": "009", "fail": "010" }
+      ]
     },
     {
       "id": "009",
       "title": "009",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Avec une agilité surprenante pour sa stature, Nagallo escalade l'arbre et disparaît dans le feuillage. De longs instants s'écoulent en silence, jusqu'à ce qu'un concert de grognements annonce son retour. Il se laisse tomber légèrement au sol. « Rikitta a raison. Une meute de Crampocrocs dans une clairière à l'ouest. » Il pointe du doigt, un sourire satisfait gravé sur le visage. « Heureusement que j'ai vérifié, d'ailleurs. Ils ne sont pas seuls — il y a un Épinaillon avec eux. Mieux vaut rester sur nos gardes. »\n\nDrokkeh acquiesce en passant la main sur ses lames d'un geste rassurant.",
+      "information": [
+        "Les joueurs obtiennent le jeton bleu."
+      ],
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "010",
       "title": "010",
-      "text": "",
+      "text": "Nagallo apprend à ses dépens que les arbres ne sont pas des montagnes, et que le bois cède plus facilement que la pierre. À peine quelques secondes après le début de son ascension, il pose son poids sur une branche trop fragile — elle se brise avec un craquement sec et l'envoie chuter lourdement au sol.\n\n« Dommage que vous ne connaissiez pas les arbres aussi bien que Rikitta connaît ses machines, hein ? » Bialla ne fait aucun effort pour masquer son amusement tandis qu'elle s'éloigne en secouant la tête.\n\nRikitta époussète les feuilles dans le dos de Nagallo pendant qu'il se relève. « C'est jamais facile d'être comparé à moi. Ne te laisse pas abattre. »",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "011",
       "title": "011",
-      "text": "",
+      "text": "Bialla et Drokkeh s'approchent de l'abri. La boue est un enchevêtrement d'empreintes de bottes et de taches d'huile de machine, témoignant d'une activité prolongée dont les détails restent difficiles à déchiffrer. « Quel désordre... » Bialla porte son attention sur la structure elle-même. « Depuis qu'on a arrêté de se battre entre nous, on n'a plus eu besoin d'autant d'avant-postes. Cet endroit n'a plus servi depuis les Guerres des Clans. »\n\nUne tache de couleur attire l'œil de Drokkeh. Une caisse de ravitaillement, manifestement récente, est partiellement dissimulée dans l'obscurité de l'abri. Elle est bien trop en bon état par rapport au reste de l'intérieur délabré. Il s'avance dans la structure — et Bialla se retourne juste à temps pour apercevoir un reflet. La lumière glisse le long d'un fil de détente tendu en travers de l'entrée. « Attends ! » crie-t-elle, alors que Drokkeh fonce droit sur le piège.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 1 critique.", "pass": "012", "fail": "013" }]
     },
     {
       "id": "012",
       "title": "012",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Bialla bondit en avant et attrape l'équipement de Drokkeh, le stoppant net. Son pied évite de justesse le fil.\n\n« On est assez friands des pièges dans les Basses-Terres. Regardez où vous mettez les pieds. » Sa voix est dénuée de tout reproche, mais les mots semblent tout de même piquer Drokkeh. « C'est peut-être l'œuvre des soldats renégats. » Elle désarmorce le piège et ouvre la cache. « Au moins, ils nous ont laissé quelque chose. »",
+      "information": [
+        "Bialla et Drokkeh gagnent chacun 2 éclats de métal."
+      ],
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "013",
       "title": "013",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Bialla bondit pour attraper Drokkeh, mais il est une seconde trop tard. Son pied accroche le fil, et une petite explosion secoue l'abri. Les deux Marshals sont projetés hors de la structure désormais en ruine par la force du souffle. La poussière retombée, la chance leur sourit — seules des coupures et des contusions sont à déplorer.\n\n« Vous devriez être plus prudents. Il semblerait que nos soldats renégats aient laissé des pièges dangereux derrière eux. » Les mots de Nagallo prônent la prudence, mais son ton est celui de l'amusement. La réplique cinglante de Bialla se perd dans l'effondrement des dernières poutres de l'abri. La cache, elle, est intacte — projetée hors des décombres. Elle contient une petite récompense.",
+      "information": [
+        "Bialla et Drokkeh gagnent un éclat de métal et subissent 2 points de dégâts."
+      ],
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "014",
       "title": "014",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Nagallo et Rikitta se dirigent vers la machine abattue. Il n'en reste plus que la carcasse de sa masse imposante. « Peut-être qu'Arokkeh avait raison sur les facultés de notre ami Hovveh. » Nagallo contemple la dépouille. « Il n'était même pas capable de faire la différence entre un Griffemâchoire et un Porc-épic de fer. »\n\n« Mmm. » Rikitta s'accroupit près de la machine. « De la mousse pousse sous sa carcasse. Cette machine est là depuis un moment. Ce n'est pas celle que l'on cherche. » Elle inspecte l'amas de ferraille à la recherche de bonbonnes de Blaze. La première a disparu, l'autre est vide, avec une fine fissure courant sur sa surface. « Elle a été dépouillée par celui qui l'a abattue, mais... » Elle plisse les yeux pour regarder en dessous. « ...vous voyez ces conduits sous son ventre ? Je parie qu'il y a une bonbonne pleine là-dedans. »\n\n« Vous êtes sûre que c'est une bonne idée ? Ça pourrait être instable, » lance Bialla depuis l'autre côté de la clairière.\n\n« J'ai des mains en or. » Rikitta sourit en sortant un couteau de sa ceinture.",
+      "information": [
+        "Si vous souhaitez que Rikitta récupère la flambée, elle doit effectuer le jet d'action détaillé ci-dessous :"
+      ],
+      "actions": [
+        { "type": "read", "target": "007", "label": "Laisser la carcasse tranquille" },
+        { "type": "test", "label": "Faire 2 flèches.", "pass": "015", "fail": "016" }
+      ]
     },
     {
       "id": "015",
       "title": "015",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta glisse son couteau à la base de la bonbonne dissimulée. Aussi habile qu'elle le prétend, en quelques instants, elle se décroche avec un court sifflement. « Maintenant, le moment délicat. » Rikitta s'allonge à plat ventre et fait habilement passer sa lame entre le conduit et le blindage du Porc-épic de fer, écartant délicatement la canalisation avant de la sectionner. En quelques secondes, la bonbonne est entièrement libérée de la carcasse.\n\n« Vous voyez ? Facile. » Elle arbore un sourire triomphant. Bialla expire, visiblement soulagée. « Impressionnant. Mais inutilement risqué. »",
+      "information": [
+        "Rikitta et un autre personnage de son choix gagnent 1 flambée."
+      ],
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "016",
       "title": "016",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta glisse son couteau à la base de la bonbonne dissimulée. Elle se décroche avec un sifflement bref. Un claquement sonore est son seul avertissement avant que la bonbonne ne commence à se fissurer. Rikitta se rétracte vivement — mais pas assez vite. En retirant sa main non protégée, un éclat de verre épais lui entaille le bras.\n\nDrokkeh réagit promptement, lui tendant un bandage pour stopper le saignement. « Aïe. Merci. Rends-moi un service... Ne dis rien à Bialla. » Drokkeh resserre le bandage et hoche silencieusement la tête. « Ah oui, c'est vrai. Tu n'es pas vraiment du genre causant, toi. »",
+      "information": [
+        "Rikitta subit 2 points de dégâts."
+      ],
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "017",
       "title": "017",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "En se dirigeant vers les traces de la machine, les Marshals repèrent des éraflures et des empreintes dans la terre. Bien que le sang ait été en grande partie effacé par la pluie et les corps évacués, des traces de brûlure laissées par une Bombe à Souffle sont visibles sur les feuilles autour d'un petit cratère. « C'est ici que l'escadron de Hovveh a été attaqué, » note Bialla.\n\nRikitta examine les traces. Chaque empreinte est suffisamment large et profonde dans la boue pour que l'eau de pluie s'y soit accumulée. « Définitivement un Griffemâchoire. Il est venu du nord. Puis il semblerait qu'on l'ait mis à terre. » Elle indique une profonde dépression dans l'herbe. « Mais quand les traces réapparaissent de l'autre côté, elles changent. » Rikitta désigne les empreintes qui s'éloignent du creux. Les foulées deviennent erratiques. « Les empreintes gauches sont plus profondes que les droites. La machine était endommagée. »\n\n« Peut-être. » Bialla n'est pas convaincue. « Mais elle serait repartie en boitant, comme ça ? Je ne connais aucun Tenakth qui abattrait un Griffemâchoire sans l'achever. »\n\nDrokkeh s'accroupit et écarte quelques feuilles tombées, révélant des empreintes de bottes Tenakth courant en parallèle de celles de la machine. Les autres suivent son regard. Les traces marchent côte à côte en direction de la jungle au-delà. Rikitta est frustrée par ces incohérences. « Admettons qu'il s'en soit échappé — peut-être pendant le combat avec l'escadron de Hovveh. Ces empreintes de bottes qui longent sa piste pourraient appartenir aux soldats renégats qui suivaient la machine. »\n\nLes deux séries de traces filent vers l'ouest. C'est la direction qu'ont prise les assaillants en fuyant, et la voie que les Marshals devront emprunter lorsqu'ils en auront terminé ici.",
+      "information": [
+        "Les joueurs obtiennent le jeton vert."
+      ],
+      "actions": [{ "type": "read", "target": "007", "label": "Consultez l'entrée 007." }]
     },
     {
       "id": "018",
       "title": "018",
-      "text": "",
+      "text": "Bialla tranche dans le vif. « Je crois qu'on en a assez vu. La prochaine étape, c'est clairement de suivre les traces. Des questions ? » Elle récolte des hochements de tête approbateurs de Drokkeh et Rikitta. Nagallo répond par un grognement affirmatif : « Ça me va. On réglera la question de qui t'a nommée chef une autre fois. »\n\nBialla s'apprête à répliquer lorsqu'un concert de cris mécaniques retentit à travers la clairière, suivi d'un puissant beuglement. Des Crampocrocs. Il est trop tard pour fuir, mais les Marshals pourraient encore tenter de gagner un avantage en trouvant de quoi se couvrir. Drokkeh aperçoit un bouquet de hautes herbes aux pointes rouges. « Là ! »",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faire 4 flèches OU 1 critique", "pass": "019", "fail": "020" }]
     },
     {
       "id": "019",
       "title": "019",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les Marshals foncent vers les herbes et se mettent à couvert juste au moment où le premier Crampocroc surgit, se propulsant d'arbre en arbre. Il se cramponne à un tronc voisin de ses griffes qui feraient de courte besogne du métal — sans parler de la chair et des os. La machine est bientôt rejointe par une autre de son espèce, puis une autre encore. Bientôt, toute la meute est là, accompagnée d'un Épinaillon qui traîne en arrière, apportant avec lui l'odeur de son acide mortel.\n\nÀ en juger par la lumière bleue qui brille derrière leurs yeux, aucune des machines ne semble avoir rien repéré d'anormal. Les Marshals ne peuvent pas fuir, mais le premier mouvement leur appartient.",
+      "information": [
+        "Les joueurs obtiennent le jeton jaune."
+      ],
+      "actions": [{ "type": "read", "target": "021", "label": "Consultez l'entrée 021." }]
     },
     {
       "id": "020",
       "title": "020",
-      "text": "",
+      "text": "Les Marshals foncent vers les herbes. Malgré la rapidité du groupe, la boue se révèle traîtresse — ils glissent. À peine relevés, le premier Crampocroc fait son apparition. Il se cramponne à un arbre voisin de griffes qui feraient de courte besogne du métal, sans parler de la chair et des os. Les Marshals atteignent l'abri, mais pas avant que les yeux du Crampocroc ne virent au jaune. Il est en alerte et cherche.\n\nEn quelques instants, toute sa meute débarque, accompagnée d'un Épinaillon qui traîne à l'arrière, apportant avec lui l'odeur de son acide mortel.\n\nHeureusement, aucune des machines n'a encore repéré le groupe — mais elles sont en alerte et scrutent les alentours, à l'affût du moindre signe suspect.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "021", "label": "Consultez l'entrée 021." }]
     },
     {
       "id": "021",
       "title": "021",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "« On peut semer cet Épinaillon si besoin, mais les Crampocrocs seront trop rapides, » siffle Bialla.\n\n« Ça me convient. Je ne suis pas du genre à montrer mon dos de toute façon. » Nagallo esquisse un sourire et se faufile rapidement à travers les herbes. Drokkeh signe à tout le monde de se disperser. Il se glisse discrètement vers un autre bosquet d'herbes, et après avoir échangé un regard de solidarité avec Bialla, Rikitta l'imite.",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 4 et tentez la rencontre."
+      ],
+      "actions": [
+        { "type": "read", "target": "022", "label": "En cas d'échec, les joueurs peuvent réessayer ou consulter l'entrée 024." },
+        { "type": "read", "target": "023", "label": "Si le combat est réussi et que le Épinaillon n'a pas été vaincu, consultez l'entrée 022." },
+        { "type": "read", "target": "024", "label": "Si le Épinaillon a été vaincu, consultez l'entrée 023." }
+      ]
     },
     {
       "id": "022",
       "title": "022",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le dernier Crampocroc s'effondre dans les broussailles avec un fracas métallique, son corps crachant des étincelles. L'Épinaillon, désormais seul, projette un jet d'acide en direction des Marshals, mais le groupe a pris assez de distance pour s'échapper. La lourde masse tente de prendre les Marshals en chasse. Habilement, Bialla entraîne ses compagnons à travers un dense rideau d'arbres, se faufilant entre les troncs. Le corps de l'Épinaillon est trop large pour passer, et bientôt, la seule trace de la machine est son appel au loin et un vague effluve caustique dans l'air humide.\n\nDrokkeh est courbé en deux, soufflant profondément. Rikitta lui tend son outre, et il boit avec gratitude. Bialla tape Nagallo dans le dos. « Tu t'en es bien montré, du dos, là-bas, » rit-elle. Nagallo hausse les épaules.\n\nLe groupe échange des regards. C'est le premier combat des Marshals ensemble depuis le Kulrut, et ils en sont sortis vainqueurs. Dans le calme paisible, on sent qu'une camaraderie longtemps enfouie a commencé à germer.\n\nMais la victoire s'estompe vite. Une tâche difficile les attend, et la piste doit être suivie avant de disparaître. Les Marshals ont fui dans la même direction vers l'ouest que le Griffemâchoire et les soldats renégats à sa poursuite. Les traces sont faciles à repérer, mais elles s'étendent sans fin.",
+      "information": [
+        "Les personnages gagnent : ",
+        "- 3 Éclats de métal, plus 1 par personnage ayant participé.",
+        "- 2 Metalbite et 2 flambées.",
+        "- La carte quête annexe 1",
+        "- Chaque personnage gagne 2 cartes Action."
+      ],
+      "actions": [{ "type": "chapter", "target": "act2ChapterA", "label": "Continuer vers le prochain chapitre" }]
     },
     {
       "id": "023",
       "title": "023",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le groupe échange des regards, contemplant les machines abattues, puis se regarde l'un l'autre. C'est le premier combat des Marshals ensemble depuis le Kulrut, et ils en sont sortis vainqueurs. Dans le calme paisible, on sent qu'une camaraderie longtemps enfouie a commencé à germer.\n\nDrokkeh reprend son souffle et s'accroupit au-dessus de la dépouille d'un Crampocroc, inspectant sa forme pour en déceler les faiblesses. Habitant du désert, c'était le premier auquel il s'était confronté, mais en tant que Marshal, il sait que ce ne sera pas le dernier. « Mon conseil ? Faites tomber leur masque, » explique Rikitta par gestes en lui tendant une outre, dont il boit avec gratitude.\n\nBialla tape Nagallo dans le dos. « Bien combattu. » Il la fixe un instant, attendant une pointe d'ironie — qui ne vient jamais. Il hoche la tête en silence, en guise de remerciement.\n\nMais la victoire s'estompe vite. Une tâche difficile les attend, et la piste doit être suivie avant de disparaître. Le Griffemâchoire, avec sa démarche étrange et blessée, a continué vers l'ouest, les soldats renégats sur ses talons. Les traces s'étendent sans fin.",
+      "information": [
+        "Les personnages gagnent : ",
+        "- 7 Éclats de métal, plus 1 par personnage ayant participé.",
+        "- 2 Metalbite et 2 flambées.",
+        "- La carte quête annexe 1",
+        "- Chaque personnage gagne 2 cartes Action."
+      ],
+      "actions": [{ "type": "chapter", "target": "act2ChapterA", "label": "Continuer vers le prochain chapitre" }]
     },
     {
       "id": "024",
       "title": "024",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le combat ne se passe pas comme prévu. Peut-être que les environs des Basses-Terres sont trop étrangers pour deux des Marshals, ou simplement que le groupe, en tant qu'escadron, reste inéprouvé. Ce qui est clair, c'est que les Marshals doivent fuir. Rikitta s'éclipse la première avec habileté. Les autres tentent de tenir les machines à distance tandis qu'elles se rapprochent.\n\nPuis, une explosion au loin. Les machines se retournent, et Drokkeh, Nagallo et Bialla s'échappent, fuyant vers l'ouest. Bientôt, il ne reste des adversaires de métal que des appels si lointains qu'ils méritent à peine d'être mentionnés. D'un arbre voisin, Rikitta tombe comme une Crampocroc elle-même.\n\nLe groupe échange des regards. C'est le premier combat des Marshals ensemble depuis le Kulrut, et ils ont échoué. Nagallo maudit les machines ; c'est sa fierté qui est la plus blessée.\n\nMais l'échec s'estompe vite. Une tâche difficile les attend, et la piste doit être suivie avant de disparaître. Les Marshals s'élancent dans la même direction vers l'ouest que le Griffemâchoire et les soldats renégats à sa poursuite. Les traces sont faciles à repérer, mais elles s'étendent sans fin.",
+      "information": [
+        "Les personnages gagnent : ",
+        "- Les personnages qui sont evanoui récupère 4 PV.",
+        "- 1 potion de soin.",
+        "- 1 Metalbite et 1 flambées.",
+        "- La carte quête annexe 1",
+        "- Chaque personnage gagne 2 cartes Action."
+      ],
+      "actions": [{ "type": "chapter", "target": "act2ChapterA", "label": "Continuer vers le prochain chapitre" }]
     }
   ]
 }

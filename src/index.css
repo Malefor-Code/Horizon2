@@ -4,6 +4,9 @@
   --accent:#2b2b2b;
   --muted:#666;
   --accent-2:#b89262;
+  --btn-read:#2f855a; /* green */
+  --btn-test:#d9534f; /* red */
+  --btn-chapter:#2b6cb0; /* blue */
   --max-width:900px;
 }
 *{box-sizing:border-box}
@@ -27,6 +30,9 @@ body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helve
 .actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:12px}
 .action-btn{flex:1 1 200px;padding:14px 18px;font-size:18px;border-radius:10px;border:none;background:var(--accent-2);color:#fff;cursor:pointer;transition:transform .08s ease,box-shadow .08s ease;box-shadow:0 4px 10px rgba(0,0,0,0.08)}
 .action-btn:active{transform:translateY(1px)}
+.action-btn.action-read{background:var(--btn-read)}
+.action-btn.action-test{background:var(--btn-test)}
+.action-btn.action-chapter{background:var(--btn-chapter)}
 .test-overlay{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.4);padding:20px}
 .test-panel{background:var(--card);padding:20px;border-radius:10px;min-width:280px;text-align:center}
 .test-label{font-weight:600;margin-bottom:12px}

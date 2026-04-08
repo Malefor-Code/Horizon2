@@ -195,8 +195,17 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
       console.warn('Entry not found:', id);
       return;
     }
-    const parent = story?.chapters.find((c) => c.entries.some((ent) => ent.id === id)) ??
-      (Object.values(actsCache.current).find((c) => !!c && c.entries.some((ent) => ent.id === id)) as Chapter | undefined);
+
+    // Prefer the currently selected chapter if it contains the entry.
+    const preferredChap = getChapter(currentChapterId ?? undefined);
+    let parent: Chapter | undefined = undefined;
+    if (preferredChap && preferredChap.entries.some((ent) => ent.id === id)) {
+      parent = preferredChap;
+    } else {
+      parent = story?.chapters.find((c) => c.entries.some((ent) => ent.id === id)) ??
+        (Object.values(actsCache.current).find((c) => !!c && c.entries.some((ent) => ent.id === id)) as Chapter | undefined);
+    }
+
     if (parent) setCurrentChapterId(parent.id);
     setCurrentEntryId(id);
     setPendingTest(null);
