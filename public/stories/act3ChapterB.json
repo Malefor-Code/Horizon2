@@ -1,25 +1,512 @@
 {
   "id": "act3ChapterB",
-  "title": "ACT 3 - CHAPTER B : REVELATION",
+  "title": "ACT 3 - CHAPTER B : RÉVÉLATION",
   "startId": "INTRO",
   "entries": [
     {
       "id": "INTRO",
-      "title": "ACT 3 - CHAPTER B : REVELATION",
-      "text": "A new chapter begins with fresh challenges.",
-      "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
+      "title": "ACT 3 - CHAPTER B : RÉVÉLATION",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
-      "id": "102",
-      "title": "A new threat",
-      "text": "You sense eyes in the dark.",
-      "actions": [{ "type": "read", "target": "103", "label": "Face it bravely" }]
+      "id": "001",
+      "title": "001",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
-      "id": "103",
-      "title": "Cliffhanger",
-      "text": "To be continued...",
+      "id": "002",
+      "title": "002",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "003",
+      "title": "003",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "004",
+      "title": "004",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "005",
+      "title": "005",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "006",
+      "title": "006",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "007",
+      "title": "007",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "008",
+      "title": "008",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "009",
+      "title": "009",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "010",
+      "title": "010",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "011",
+      "title": "011",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "012",
+      "title": "012",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "013",
+      "title": "013",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "014",
+      "title": "014",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "015",
+      "title": "015",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "016",
+      "title": "016",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "017",
+      "title": "017",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "018",
+      "title": "018",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "019",
+      "title": "019",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "020",
+      "title": "020",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "021",
+      "title": "021",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "022",
+      "title": "022",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "023",
+      "title": "023",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "024",
+      "title": "024",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "025",
+      "title": "025",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "026",
+      "title": "026",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "027",
+      "title": "027",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "028",
+      "title": "028",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "029",
+      "title": "029",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "030",
+      "title": "030",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "031",
+      "title": "031",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "032",
+      "title": "032",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "033",
+      "title": "033",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "034",
+      "title": "034",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "035",
+      "title": "035",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "036",
+      "title": "036",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "037",
+      "title": "037",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "038",
+      "title": "038",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "039",
+      "title": "039",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "040",
+      "title": "040",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "041",
+      "title": "041",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "042",
+      "title": "042",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "043",
+      "title": "043",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "044",
+      "title": "044",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "045",
+      "title": "045",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "046",
+      "title": "046",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "047",
+      "title": "047",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "048",
+      "title": "048",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "049",
+      "title": "049",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "050",
+      "title": "050",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "051",
+      "title": "051",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "052",
+      "title": "052",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "053",
+      "title": "053",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "054",
+      "title": "054",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "055",
+      "title": "055",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "056",
+      "title": "056",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "057",
+      "title": "057",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "058",
+      "title": "058",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "059",
+      "title": "059",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "060",
+      "title": "060",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "061",
+      "title": "061",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "062",
+      "title": "062",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "063",
+      "title": "063",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "064",
+      "title": "064",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "065",
+      "title": "065",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "066",
+      "title": "066",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "067",
+      "title": "067",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "068",
+      "title": "068",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "069",
+      "title": "069",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "070",
+      "title": "070",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "071",
+      "title": "071",
+      "text": "",
+      "information": [],
       "actions": []
     }
+
   ]
 }

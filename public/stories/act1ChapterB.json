@@ -1,24 +1,174 @@
 {
   "id": "act1ChapterB",
-  "title": "ACT 1 - CHAPTER B : IN PURSUIT",
-  "startId": "INTRO",
+  "title": "ACT 1 - CHAPTER B : EN POURSUITE",
+  "startId": "RESUPPLY",
   "entries": [
     {
+      "id": "RESUPPLY",
+      "title": "ACT 1 - CHAPTER B : EN POURSUITE",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
       "id": "INTRO",
-      "title": "ACT 1 - CHAPTER B : IN PURSUIT",
-      "text": "You stand at the edge of a dark forest.\nThe moon hangs low.",
-      "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
+      "title": "INTRO",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
-      "id": "102",
-      "title": "A new threat",
-      "text": "You sense eyes in the dark.",
-      "actions": [{ "type": "read", "target": "103", "label": "Face it bravely" }]
+      "id": "001",
+      "title": "001",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
-      "id": "103",
-      "title": "Cliffhanger",
-      "text": "To be continued...",
+      "id": "002",
+      "title": "002",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "003",
+      "title": "003",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "004",
+      "title": "004",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "005",
+      "title": "005",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "006",
+      "title": "006",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "007",
+      "title": "007",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "008",
+      "title": "008",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "009",
+      "title": "009",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "010",
+      "title": "010",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "011",
+      "title": "011",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "012",
+      "title": "012",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "013",
+      "title": "013",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "014",
+      "title": "014",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "015",
+      "title": "015",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "016",
+      "title": "016",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "017",
+      "title": "017",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "018",
+      "title": "018",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "019",
+      "title": "019",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "020",
+      "title": "020",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "021",
+      "title": "021",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "022",
+      "title": "022",
+      "text": "",
+      "information": [],
       "actions": []
     }
   ]

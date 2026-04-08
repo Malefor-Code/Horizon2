@@ -1,24 +1,76 @@
 {
   "id": "act4ChapterD",
-  "title": "ACT 4 - CHAPTER D : THE LAST STAND",
+  "title": "ACT 4 - CHAPTER D : LE DERNIER COMBAT",
   "startId": "INTRO",
   "entries": [
     {
       "id": "INTRO",
-      "title": "ACT 4 - CHAPTER D : THE LAST STAND",
-      "text": "A new chapter begins with fresh challenges.",
-      "actions": [{ "type": "read", "target": "102", "label": "Proceed" }]
+      "title": "ACT 4 - CHAPTER D : LE DERNIER COMBAT",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
-      "id": "102",
-      "title": "A new threat",
-      "text": "You sense eyes in the dark.",
-      "actions": [{ "type": "read", "target": "103", "label": "Face it bravely" }]
+      "id": "001",
+      "title": "001",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
-      "id": "103",
-      "title": "Cliffhanger",
-      "text": "To be continued...",
+      "id": "002",
+      "title": "002",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "003",
+      "title": "003",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "004",
+      "title": "004",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "005",
+      "title": "005",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "006",
+      "title": "006",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "EPILOGUE1",
+      "title": "EPILOGUE 1",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "EPILOGUE2",
+      "title": "EPILOGUE 2",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "EPILOGUE3",
+      "title": "EPILOGUE 3",
+      "text": "",
+      "information": [],
       "actions": []
     }
   ]

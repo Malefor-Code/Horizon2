@@ -1,74 +1,182 @@
 {
   "id": "act1ChapterA",
-  "title": "ACT 1 - CHAPTER A : BLIGHTED TRACKS",
+  "title": "ACT 1 - CHAPTER A : VOIES DÉVASTÉES",
   "startId": "INTRO",
   "entries": [
     {
       "id": "INTRO",
-      "title": "ACT 1 - CHAPTER A : BLIGHTED TRACKS",
-      "text": "You stand at the edge of a dark forest.\nThe moon hangs low.",
-      "information": ["Night: visibility reduced", "Wind: strong"],
-      "actions": [
-        { "type": "read", "target": "002", "label": "Step forward" },
-        { "type": "test", "label": "Make 2 arrows", "pass": "015", "fail": "018" }
-      ]
+      "title": "ACT 1 - CHAPTER A : VOIES DÉVASTÉES",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "001",
+      "title": "001",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "002",
-      "title": "A fork in the road",
-      "text": "Two paths appear: one lit by lanterns, one swallowed by shadow.",
-      "actions": [
-        { "type": "read", "target": "003", "label": "Take left path" },
-        { "type": "read", "target": "004", "label": "Take right path" }
-      ]
+      "title": "002",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "003",
-      "title": "Left Path",
-      "text": "A friendly traveler offers a hint.",
-      "information": ["You feel slightly safer here."],
-      "actions": [{ "type": "read", "target": "005", "label": "Continue" }]
+      "title": "003",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "004",
-      "title": "Right Path",
-      "text": "Shadows tug at your cloak.",
-      "actions": [{ "type": "read", "target": "005", "label": "Steady on" }]
+      "title": "004",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "005",
-      "title": "Crossroads",
-      "text": "You arrive at a crossroads where two choices matter.",
-      "actions": [
-        { "type": "test", "label": "Search for traps", "pass": "006", "fail": "007" }
-      ]
+      "title": "005",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "006",
-      "title": "You find a trap",
-      "text": "You disarm it and move on.",
-      "actions": [{ "type": "read", "target": "015", "label": "Move on" }]
+      "title": "006",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "007",
-      "title": "A misstep",
-      "text": "You stumble; it's a learning moment.",
-      "actions": [{ "type": "read", "target": "015", "label": "Recover" }]
+      "title": "007",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "008",
+      "title": "008",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "009",
+      "title": "009",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "010",
+      "title": "010",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "011",
+      "title": "011",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "012",
+      "title": "012",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "013",
+      "title": "013",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "014",
+      "title": "014",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "015",
-      "title": "Success - Crafting Complete",
-      "text": "You made 2 arrows successfully.",
-      "information": ["Arrows: +2"],
-      "actions": [
-        { "type": "chapter", "label": "Continue to Act 2", "targetChapter": "act2" }
-      ]
+      "title": "015",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "016",
+      "title": "016",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "017",
+      "title": "017",
+      "text": "",
+      "information": [],
+      "actions": []
     },
     {
       "id": "018",
-      "title": "Failure - Crafting Failed",
-      "text": "You failed to make the arrows.",
-      "actions": [{ "type": "read", "target": "002", "label": "Try a different approach" }]
+      "title": "018",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "019",
+      "title": "019",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "020",
+      "title": "020",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "021",
+      "title": "021",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "022",
+      "title": "022",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "023",
+      "title": "023",
+      "text": "",
+      "information": [],
+      "actions": []
+    },
+    {
+      "id": "024",
+      "title": "024",
+      "text": "",
+      "information": [],
+      "actions": []
     }
   ]
 }
