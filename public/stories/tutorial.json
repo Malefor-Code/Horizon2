@@ -7,52 +7,46 @@
       "id": "INTRO",
       "title": "TUTORIAL : THE KULRUT",
       "text": "Le soleil inonde l’Arène d’une lumière éclatante, le sable sous les pieds d’un blanc brûlant contrastant avec l’explosion de couleurs dans les gradins. Des centaines de visages observent la scène. Des Tenakth de tous les clans sont réunis aujourd’hui, fièrement peints aux couleurs de leur tribu, impatients de voir les leurs triompher au combat.\n\nIls sont six à briguer une place parmi les élus du chef Hekarro, prêts à coopérer sur ce sol sacré. Non loin d’ici, les Visions des Dix vacillent dans le Bosquet du Mémorial, conservant les récits d’honneur d’un âge révolu.\n\nAlors que le chef s’avance au bord de sa plateforme, dominant l’arène, il s’adresse à la foule et accueille son rugissement.\n« Une guerre s’achève ; une autre commence ! » Sa voix résonne dans toute l’arène.\n« Les batailles à venir réclament notre sang. Nos ennemis deviennent plus rusés, plus violents. Et nous devons en faire autant. »\n\nHekarro évoque les machines. Aussi incompréhensibles que les ruines de l’Ancien Monde qui s’effondrent à travers les terres des clans, même la plus petite de ces créatures peut tuer un chasseur aguerri en un instant. La lueur rouge glaciale de leurs yeux furieux rappelle à quel point le corps humain est fragile face à la réalité mortelle d’une griffe d’acier.\n\n« À mesure que nos ennemis évoluent, le Kulrut évolue lui aussi. » Il tourne son regard vers les participants.\n« Combattants ! Aujourd’hui, vos capacités seront mises à l’épreuve. Rester indétectables. Arracher les crocs de votre proie. Et enfin… la tuer. »\n\n« Le prix de l’échec est votre vie. Et la récompense de la victoire, une place parmi mes Maréchaux. » Il lève la main.\n« Votre gloire est ici. Prenez-la ! »\n\nUn rugissement de la foule répond à ses paroles tandis que sa main s’abaisse, signalant le début. De grandes portes en bois, à l’autre extrémité de l’arène, commencent à s’ouvrir, laissant filtrer le bruit mécanique et menaçant des machines.",
-      "actions": [{ "type": "read", "target": "001", "label": "Lire l'entrée 001." }]
+      "actions": [{ "type": "read", "target": "001", "label": "Commencer la partie" }]
     },
     {
       "id": "001",
       "title": "001",
       "text": "« Nos chances sont meilleures si nous travaillons ensemble », déclare la plus âgée des six aspirants, une soldate dont l’armure arbore le bleu et le rouge du Clan des Basses-Terres.\n« Ces machines sont insaisissables. Mais nous avons l’avantage du nombre. C’est une épreuve de discrétion. »\n\nLa Tenakth à sa gauche, une femme aux épaules larges armée d’une lance, renifle avec mépris.\n« Parle pour toi. Ce ne sont que des Fouisseurs, Basse-Terre ! »\nUn autre soldat, les cheveux tressés en une longue natte serrée, siffle son approbation.\n« En effet. La gloire n’est pas faite pour les faibles. »\n\nTous deux se ruent vers les machines. La femme s’élance vers le Fouisseur le plus proche et frappe de sa lance. La machine esquive avec agilité et riposte d’un coup de queue. Le membre puissant frappe la soldate à la tempe, lui tordant la tête dans un angle impossible.\n\nL’homme à la natte se fige devant une mort si rapide. Il n’entend pas le sol se fissurer derrière lui lorsque le second Fouisseur surgit de terre et l’abat par surprise.\n\nLa foule hue, attendant que les aspirants restants entrent dans la mêlée. Avec déjà deux combattants à terre, les quatre derniers échangent des regards de solidarité. Leurs chances sont en effet meilleures ensemble.\n\nAujourd’hui, ils combattront comme un seul.",
-      "information": [
-        "Ouvrez le Livre de Campagne à la page 2, mettez en place et tentez la rencontre du Kulrut comme décrit dans la phase 1."
-      ],
-      "actions": [{ "type": "read", "target": "002", "label": "Lire l'entrée 002." }]
+      "information": ["Ouvrez le Livre de Campagne à la page 2, mettez en place et tentez la rencontre du Kulrut comme décrit dans la phase 1."],
+      "actions": [{ "type": "read", "target": "002", "label": "Continuer l'histoire" }]
     },
     {
       "id": "002",
       "title": "002",
       "text": "La foule acclame la chute du dernier Fouisseur, pris au dépourvu. Les quatre survivants se tiennent debout, indemnes et restés invisibles aux machines.\n\nTandis que trois d’entre eux se concentrent sur la suite, le soldat du Clan du Ciel savoure les applaudissements.\n« Nagallo ! Du Rempart ! » lance-t-il avec un sourire à la foule.\n« Souvenez-vous de ce nom ! »\n\nLes portes de bois grincent à nouveau, annonçant l’arrivée de nouvelles machines.\n« Hé, Nagallo, c’est ça ?! » lance le plus jeune du groupe, un Basse-Terre aux cheveux dorés, en désignant les portes.\n« Certains d’entre nous sont encore en service ! »\n\nLes quatre aspirants se regroupent tandis que les machines s’avancent dans l’arène.\n« Des Charognards. Inutiles sans leurs cellules d’énergie. On devrait les détruire à distance. »\nElle se met à couvert.\n« Moi, c’est Rikitta… au cas où ça intéresserait quelqu’un. »",
-      "information": [
-        "Mettez en place et tentez la phase suivante de la rencontre du Kulrut comme décrit dans la phase 2."
-      ],
-      "actions": [{ "type": "read", "target": "003", "label": "Lire l'entrée 003." }]
+      "information": ["Mettez en place et tentez la phase suivante de la rencontre du Kulrut comme décrit dans la phase 2."],
+      "actions": [{ "type": "read", "target": "003", "label": "Continuer l'histoire" }]
     },
     {
       "id": "003",
       "title": "003",
       "text": "Le Charognard subit le même sort que sa cellule d’énergie, s’effondrant sans vie dans la poussière. Le répit est de courte durée : presque immédiatement, un craquement de bois retentit à l’autre bout de l’arène. La dernière machine frappe contre la porte encore fermée, rugissant de l’autre côté.\n\n« Un Dos-de-Braise », murmure le membre du Clan du Désert, reconnaissant la machine à son cri.\n\n« Nous nous en sommes bien sortis », déclare la Basse-Terre la plus âgée avec l’autorité d’une vétérane tandis que les quatre se regroupent.\n« Mais le cours de la bataille peut changer à tout moment. Ne devenez pas complaisants. »\n\nLes peintures sur ses bras confirment qu’elle a connu plus de combats que les trois autres réunis.\n\n« Rikitta, Nagallo. Vous prenez un côté. Je prendrai l’autre avec… »\n\n« Drokkeh », marmonne le soldat du désert, mince et discret.\n\n« Et toi, tu es qui exactement ? » demande Nagallo, avec une pointe d’insolence.\n\n« Bialla », répond la vétérane avec un sourire en coin,\n« …de Thornmarsh. »",
-      "information": [
-        "Mettez en place et tentez la phase suivante de la rencontre du Kulrut comme décrit dans la phase 3."
-      ],
-      "actions": [{ "type": "read", "target": "004", "label": "Lire l'entrée 004." }]
+      "information": ["Mettez en place et tentez la phase suivante de la rencontre du Kulrut comme décrit dans la phase 3."],
+      "actions": [{ "type": "read", "target": "004", "label": "Continuer l'histoire" }]
     },
     {
       "id": "004",
       "title": "004",
       "text": "Habitués à terrasser leurs ennemis dans le silence des terres sauvages, applaudis seulement par les battements de leur propre cœur, les quatre combattants sont presque submergés par le rugissement assourdissant de la foule.\n\nLa lumière qui s’éteint dans les yeux du Dos-de-Braise confirme leur victoire. Le Kulrut est terminé.\n\nDe grandes portes s’ouvrent dans le mur le plus proche. Le vacarme des gradins s’apaise lorsque le chef Hekarro apparaît, entouré de ses Maréchaux. En quelques longues enjambées, ils rejoignent les quatre soldats victorieux.\n\n« Vous avez survécu au Kulrut. »\nHekarro s’adresse aux combattants, mais parle à toute la foule.\n« Et désormais, vous rejoignez les rangs de mes soldats les plus dignes de confiance. Émissaires de ma paix et arbitres de ma justice. »\n\n« Comme nos clans, seuls, vous êtes puissants. Mais ensemble, vous êtes invincibles. »\n\nLes Maréchaux s’approchent de chaque vainqueur et leur remettent de nouvelles armures — non pas aux couleurs d’un clan, mais aux teintes bleues et jaunes qu’ils portent eux-mêmes.\n\n« Honneur et force, mes nouveaux Maréchaux ! »\n\nLa foule reprend en écho, s’élevant en un rugissement assourdissant tandis que la cérémonie s’achève.\n\nLa foule en liesse se disperse peu à peu, et les nouveaux Maréchaux se rassemblent lorsqu’un émissaire du chef s’approche d’eux.",
-      "actions": [{ "type": "read", "target": "005", "label": "Lire l'entrée 005." }]
+      "actions": [{ "type": "read", "target": "005", "label": "Continuer l'histoire" }]
     },
     {
       "id": "005",
       "title": "005",
       "text": "Sortir victorieux d’un Kulrut est une occasion que peu ont la chance de célébrer. Les nouveaux Maréchaux se dirigent vers la Gueule de l’Arène. Le marché qui s’y trouve est le plus riche de toutes les Terres des Clans, rassemblant armes, armures et ressources venues de la jungle, des montagnes et du désert.\n\nEn traversant une foule animée de Tenakth, ils sont accueillis avec respect et admiration par tous ceux qu’ils croisent. Tous les quatre réalisent que l’anonymat qu’ils ressentaient autrefois ici a disparu. Ils occupent désormais une place d’honneur au sein de la tribu.\n\nCette nuit de célébration pourrait durer jusqu’à l’aube, mais les Maréchaux ont à peine le temps de se rassasier de ragoût de Griffe-de-Feu avant d’être abordés.",
-      "actions": [{ "type": "read", "target": "006", "label": "Lire l'entrée 006." }]
+      "actions": [{ "type": "read", "target": "006", "label": "Continuer l'histoire" }]
     },
     {
       "id": "006",
       "title": "006",
       "text": "Fashav, un proche bien connu du Chef, se tient devant les nouveaux Maréchaux. Ancien prisonnier Carja et supposément de sang royal de Méridian, sa brutalité au combat alimente les murmures autour des feux de camp, rivalisant avec celle de n’importe quel Tenakth. Son ascension au rang de Maréchal a envoyé un message clair à tous : l’engagement d’Hekarro pour la paix avec ses anciens ennemis est aussi fort que celui d’un grand conquérant.\n\n« Maréchaux. Le Chef souhaite vous parler. »\n\nLe groupe est guidé à travers le Bosquet du Mémorial. Les ruines sont silencieuses dans la nuit, éclairées seulement par quelques torches et les anciennes silhouettes lumineuses vacillantes représentant les Dix.\n\nFashav est imposant, mais sa présence reste humble. Les quatre marchent désormais aux côtés de ce Carja en tant que Maréchal, un égal dont la loyauté ne va à aucun clan en particulier. Il leur adresse quelques mots de félicitations avant de les laisser à l’entrée de la salle du trône du Chef.",
-      "actions": [{ "type": "read", "target": "007", "label": "Lire l'entrée 007." }]
+      "actions": [{ "type": "read", "target": "007", "label": "Continuer l'histoire" }]
     },
     {
       "id": "007",

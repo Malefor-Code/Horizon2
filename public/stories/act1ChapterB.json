@@ -6,170 +6,243 @@
     {
       "id": "RESUPPLY",
       "title": "ACT 1 - CHAPTER B : EN POURSUITE",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le couvert dense des arbres cache le ciel matinal tandis que les Marshals s'éveillent dans leurs sacs de couchage. Leur sommeil était bien mérité, mais la nuit trop brève.\n\n« Nous devrions nous réapprovisionner avant de partir. » Bialla fait un signe de tête vers une Réserve d'Abri.\n\nLes Terres du Clan Tenakth forment un réseau logistique complexe d'unités militaires, d'avant-postes et de campements. Disséminées à travers ses vastes plaines se trouvent de nombreux Abris où les escouades peuvent se reposer ou collecter les fournitures nécessaires depuis une Réserve d'Abri, en laissant un nombre approprié d'Éclats. Ces réserves fonctionnent selon un code d'honneur — prendre gratuitement dans la réserve, c'est voler tous les Tenakth. C'est un crime puni brutalement.",
+      "information": [
+        "Chaque personnage récupère soit 5 PV, soit 1 blessure.",
+        "SHOP : Lisez la page 16 du livre narratif."
+      ],
+      "actions": [{ "type": "chapter", "target": "act1ChapterC", "label": "Continuer l'histoire" }]
     },
     {
       "id": "INTRO",
       "title": "INTRO",
-      "text": "",
+      "text": "Après avoir levé le camp, les Marshals reprennent la piste des soldats renégats sans un mot, chacun ruminent les maigres informations dont ils disposent.\n\nUn groupe inconnu de Basse-Terriens a attaqué une patrouille, apparemment pour une proie. Mais un Griffemâchoire mis à la ferraille n'a pas grande valeur, et un vivant encore moins. Comme toujours, c'est la voix de Nagallo qui brise le calme paisible du matin. « Pourquoi ne pas simplement trouver un autre Griffemâchoire ? »\n\n« Celui-ci est déjà blessé. Une proie plus facile ? » répond Bialla, peu convaincue de son propre argument. « Les machines changent constamment. Il y a peut-être quelque chose d'unique qu'ils recherchaient. »\n\nNagallo tourne la conversation vers sa faim et, aussi vite, Rikitta sort une pochette de mélange de voyage. Elle regarde avec un sourire narquois Nagallo inspecter les noix de jungle et les fruits secs, saupoudrés de poudre rouge, puis en avaler une poignée. Quelques secondes plus tard, Rikitta ne peut réprimer un éclat de rire quand Nagallo demande pourquoi sa bouche brûle.\n\nBialla lance un regard désapprobateur. « Entre vous deux, nous ne trouverons jamais de réponses. Le bruit voyage vite comme un Pisteur sur ces sentiers. Si ces soldats renégats n'ont pas eu les oreilles arrachées par ce Griffemâchoire, ils nous entendront arriver. » Elle pointe le sol. « Ces traces. Elles sont plus fraîches. »\n\nAccroupi, Drokkeh passe les doigts sur les empreintes profondes. « Traces de machine et de bottes. Faites en même temps. »\n\nRikitta poursuit sa pensée. « Donc, soit ils sont juste dans son sillage. Soit Hovveh avait raison, et ils voyageaient ensemble. »\n\n« Un Griffemâchoire qui les suit comme un chevreau pleurnicheur ? » ricane Nagallo, la langue à moitié engourdie. « On obtiendra des réponses plus vite avec nos lances qu'en inspectant la boue. »\n\nBialla lève les yeux au ciel. « Tu es si pressé de charger au combat ? On ne sait même pas combien ils sont. »\n\nNagallo répond par un haussement d'épaules défiant, la discussion interrompue par un appel de Rikitta.\n\n« Eh bien, il y en a déjà un de moins ! »\n\nUn cadavre gît face contre terre sur le sentier devant eux, partiellement dissimulé par les hautes herbes. La cause de la mort est immédiatement apparente. De longues entailles ont été lacérées profondément dans le dos de l'homme par les griffes d'une grande machine. Une large flaque de sang imprègne la terre autour du corps. Avant que les Marshals puissent l'examiner davantage, un cri mécanique retentit au loin.\n\n« Griffemâchoire. » Nagallo ne peut retenir le sourire sur son visage.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "001", "label": "Prendre le temps d'examiner le cadavre avant de partir" },
+        { "type": "read", "target": "002", "label": "Suivre le son immédiatement" }
+      ]
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le cadavre appartient à un soldat en couleurs de Basse-Terre. Il n'est pas mort depuis longtemps, à en juger par l'absence de mouches et l'humidité du sang qui tache le sol. Bialla soupire. « Les Griffemâchoires ne sont pas des machines discrètes. Comment l'un d'eux peut-il vous atteindre dans le dos ? »\n\nRikitta se baisse pour récupérer une potion dans la sacoche ensanglantée à son côté. « Il n'en aura plus besoin de sitôt — mais nous, peut-être. » En la tirant, un autre objet tombe du sac, que Drokkeh récupère avec agilité. Le groupe le fixe, et il offre une remarque rare. « Marqueur de piste. » Il le retourne entre ses mains. Les couleurs de l'encre ont été submergées par le sang, rendant ses marques illisibles. « Hmph. Abîmé. » Il l'empoche quand même.\n\nAvant que quiconque puisse poser des questions sur le bibelot, Nagallo se déplace impatiemment pour partir. « C'est bon ? On est bons ? Bien. » Le reste du groupe suit rapidement son initiative, se dirigeant vers le son.",
+      "information": [
+        "Les joueurs reçoivent une potion de soin et 3 jetons de suivi.",
+        "Récupérez la carte d'enquête « Ruined Trail Marker »."
+      ],
+      "actions": [{ "type": "read", "target": "003", "label": "Continuer l'histoire" }]
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Nagallo désigne la direction d'où provient l'appel de la machine.\n\"Chaque seconde perdue, les soldats renégats et leur précieux Grifpas s'éloignent davantage.\"\n\nBialla, à contrecœur, acquiesce. \"Les morts offriront moins de réponses que les vivants.\"\n\nDrokkeh hausse les épaules une fois puis suit tandis qu'ils avancent, laissant Rikitta seule un moment. Bien qu'elle veuille examiner le cadavre, elle ne peut contredire cette logique et se dépêche de les rejoindre.",
+      "information": ["Les joueurs obtiennent une potion de santé et 5 jetons de suivi."],
+      "actions": [{ "type": "read", "target": "003", "label": "Continuer l'histoire" }]
     },
     {
       "id": "003",
       "title": "003",
-      "text": "",
+      "text": "Le groupe suit la trace d'un combat : une chaîne chaotique de flèches mal tirées, d'empreintes de bottes et de marques de griffes. Ces soldats se sont battus en fuyant. Après une courte distance, les Maréchaux arrivent au bord élevé d'une large clairière. Trois corps sont éparpillés sur le sol verdoyant du vallon, entourés de machines. Les Maréchaux se accroupissent dans les hautes herbes et observent plusieurs Bondafouets fouiller les affaires dispersées des morts et charger leurs pods de transport.\n\nIls ne sont pas seuls.\n\nLe Grifpas arpente le centre de la clairière, ses veines oscillant entre un bleu habituel et un rouge profond inhabituel. Son appel aussi est un cri étrange et brisé. Ses mouvements sont saccadés, et il secoue la tête comme s'il essayait de chasser de la boue de ses yeux.\n\n\"C'est... étrange.\" La voix de Rikitta est un murmure pressant. \"Regardez ses veines. Rouge sang. Vous avez déjà vu ça ?\" Elle se tourne vers Bialla, la plus expérimentée du groupe, qui secoue la tête, perplexe.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "004", "label": "Continuer l'histoire" }
+      ]
     },
     {
       "id": "004",
       "title": "004",
-      "text": "",
+      "text": "Bien qu'il soit stationnaire pour le moment, il est impossible de savoir combien de temps le Grifpas va s'attarder. Il y a de nombreuses stratégies à préparer mais peu de temps pour les exécuter. Rikitta semble inquiète et suggère immédiatement un plan. \"Je pourrais fabriquer un piège et le déclencher pour neutraliser certaines des autres machines ?\"\n\nDrokkeh n'est pas d'accord. Il désigne le Grifpas puis pointe ses yeux ; il préférerait observer les mouvements de la machine. Nagallo est ardent. \"Pas le temps de rester là à regarder. C'est notre chance de faire quelque chose. Ne la gâchons pas à bavasser.\" Il pointe le bord est de la clairière, où de hautes herbes poussent sur une crête. \"Là. Prenons position et attaquons.\"\n\n\"Il y en a trop pour foncer comme ça.\" Bialla est la dernière à intervenir. \"On devrait d'abord éliminer les machines les plus faibles. Celle près du bord lointain est seule. Je peux la neutraliser sans que les autres ne remarquent rien.\" Nagallo sourit à cette perspective. \"Voilà qui est mieux.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "005", "label": "Tendre un piège" },
+        { "type": "read", "target": "008", "label": "Observer les machines et noter leurs mouvements" },
+        { "type": "read", "target": "011", "label": "Approcher discrètement pour une meilleure position offensive" },
+        { "type": "read", "target": "014", "label": "Réduire le nombre de machines" }
+      ]
     },
     {
       "id": "005",
       "title": "005",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Rikitta est rapide. Elle fouille les ressources éparpillées pas encore collectées par les Bondafouets. Se faufilant le long du périmètre de la clairière, elle rassemble une bonne quantité de Pâte explosive. Dès qu'elle a ce qu'il lui faut, la Maréchal se met à l'abri derrière un vieux tronc et commence à assembler le piège, sans craindre les machines qui patrouillent de l'autre côté.\n\nObservant impuissante depuis les buissons, Bialla jure. \"Elle a même vérifié ses arrières ?!\" Nagallo ricane jusqu'à ce qu'il le remarque : un Bondafouet s'approche de la position de Rikitta.",
+      "information": ["Les joueurs peuvent défausser un jeton de suivi pour relancer ce jet d'action."],
+      "actions": [{ "type": "test", "label": "Faire 3 flèches.", "pass": "006", "fail": "007" }]
     },
     {
       "id": "006",
       "title": "006",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Le Leaplasher s'approche mais ne remarque pas Rikitta. Il tourne sur lui-même, poursuivant son chemin, ignorant la Maréchale à quelques mètres à peine. Rikitta est expérimentée et ne se laisse pas troubler par la présence de la machine. En quelques instants, elle a terminé. Elle revient en rampant, arborant un large sourire — indétectée, et un piège impressionnant entre les mains.",
+      "information": [
+        "Les joueurs obtiennent le jeton jaune.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "007",
       "title": "007",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Bien qu'elle soit expérimentée et experte en matière de pièges, des erreurs peuvent survenir sous la pression des machines qui rôdent. Le Leaplasher se rapproche de Rikitta, et elle entend le bourdonnement menaçant de ses composants. Un faux mouvement de sa main brise le piège dans un craquement sonore.\n\nLe Leaplasher se tourne vers le bruit au moment où Rikitta se glisse dans la sécurité des grandes herbes rouges. Malheureusement, le piège est irrécupérable, et elle revient vers le groupe les mains vides.",
+      "information": ["Défaussez un jeton de suivi."],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "008",
       "title": "008",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Drokkeh s'éloigne des autres Maréchaux et commence à longer le bord de la clairière. « Je croyais qu'il allait juste observer ? » Rikitta semble perplexe, bien que Bialla soit visiblement impressionnée. « Plusieurs angles de vue. Méthodique. » Alors qu'il contourne la clairière, sa tête pivote dans un sens puis dans l'autre, ses yeux passant de machine en machine, évaluant leurs trajectoires de patrouille et le terrain.",
+      "information": ["Les joueurs peuvent défausser un jeton de suivi pour relancer ce jet d'action."],
+      "actions": [{ "type": "test", "label": "Faire 1 flèche OU 1 critique.", "pass": "009", "fail": "010" }]
     },
     {
       "id": "009",
       "title": "009",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les mouvements de Drokkeh sont aussi silencieux que la nuit du désert. Il se déplace d'un point d'observation à l'autre, gravant dans sa mémoire le chemin de chaque machine. Il revient peu après. Regroupé avec ses compagnons Maréchaux, il trace dans la terre les trajectoires de patrouille des machines, partageant ses informations. Cela sera utile dans le combat à venir.",
+      "information": [
+        "Les joueurs obtiennent le jeton bleu.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "010",
       "title": "010",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "À peine Drokkeh a-t-il commencé sa reconnaissance qu'un Leaplasher tourne son attention vers un tas de ferraille dans ses environs. Malgré ses efforts, les mouvements de la machine le mettent trop en danger pour qu'il reste aussi exposé, et il est contraint de battre en retraite sans aucune information supplémentaire à partager.",
+      "information": ["Défaussez un jeton de suivi."],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "011",
       "title": "011",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "« Suivez mon exemple. » Nagallo adresse aux autres un sourire carnassier. Puis il s'élance, progressant à bonne allure vers le carré de hautes herbes qu'il avait indiqué. Bialla soupire. « Subtil comme un Bellowback dans un atelier de couture… »\n\nDrokkeh secoue la tête tandis qu'ils regardent Nagallo tenter de foncer vers une zone de hautes herbes rouges.",
+      "information": ["Les joueurs peuvent défausser un jeton de suivi pour relancer ce jet d'action."],
+      "actions": [{ "type": "test", "label": "Faire 3 flèches.", "pass": "012", "fail": "013" }]
     },
     {
       "id": "012",
       "title": "012",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Nagallo atteint les hautes herbes sans incident et fait signe au reste du groupe de le suivre. En quelques instants, les Maréchaux sont tous réunis, dans une bien meilleure position pour lancer une attaque dans la clairière — et, plus important encore, le Clawstrider est dans leur ligne de tir.",
+      "information": [
+        "Les joueurs obtiennent le jeton vert.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "013",
       "title": "013",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "L'évaluation de Bialla s'avère juste. Nagallo, imprudent, heurte une bûche en se précipitant vers les herbes. Le reste du groupe regarde, horrifié et silencieux, la bûche dévaler dans la clairière et se retrouver sur le chemin d'un Leaplasher, le faisant trébucher. La machine reprend son équilibre grâce à sa queue, ses yeux s'illuminant en jaune tandis qu'elle scrute les alentours à la recherche d'intrus. Après une longue et angoissante attente, elle reprend son chemin tandis que Nagallo revient, penaud.",
+      "information": ["Défaussez un jeton de suivi."],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "014",
       "title": "014",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Bialla fait un signe de tête aux autres Maréchaux, puis s'éloigne discrètement de leur position, ramassant une pierre au passage. Elle contourne le bord du vallon sans se faire remarquer jusqu'à atteindre le côté opposé. Là, un Leaplasher charge son pod de transport avec de la ferraille.\n\nElle lance la pierre, attirant l'attention de la machine loin de sa troupe. Alors qu'elle s'éloigne un instant pour inspecter le bruit, Bialla encoche une flèche et vise.",
+      "information": ["Les joueurs peuvent défausser un jeton de suivi pour relancer ce jet d'action."],
+      "actions": [{ "type": "test", "label": "Faire 1 critique.", "pass": "015", "fail": "016" }]
     },
     {
       "id": "015",
       "title": "015",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Au moment où elle juge la machine suffisamment éloignée, Bialla tire. Sa flèche trouve expertement le chemin entre deux plaques du visage de la machine. Celle-ci s'effondre dans la poussière avec un bruit sourd, loin de sa troupe. Bialla revient vers le groupe, où elle trouve Nagallo impressionné par son exécution. « T'as peut-être encore des choses à m'apprendre, l'ancienne. »\n\nElle lui lance un regard noir tandis qu'il bredouille des excuses apeurées.",
+      "information": [
+        "Les joueurs obtiennent le jeton rouge.",
+        "Défaussez un jeton de suivi."
+      ],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "016",
       "title": "016",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Au moment où elle juge la machine suffisamment éloignée, Bialla tire. Sa flèche vole droit vers la tête de la machine, mais celle-ci s'incline juste à temps pour éviter la pointe mortelle.\n\nLe son de la flèche suffit cependant à attirer l'attention du Leaplasher. Il bondit vers la position de Bialla, mais ne l'y trouve pas — elle est déjà à mi-chemin du retour vers le groupe. Sa cible est désormais plus près de ses alliés, et tenter un autre tir serait trop risqué.",
+      "information": ["Défaussez un jeton de suivi."],
+      "actions": [
+        { "type": "read", "target": "018", "label": "Si les joueurs n'ont plus de jetons de suivi" },
+        { "type": "read", "target": "017", "label": "Si les joueurs possèdent encore un ou plusieurs jetons de suivi" }
+      ]
     },
     {
       "id": "017",
       "title": "017",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "En observant la clairière, il semble qu'il reste encore un peu de temps avant que le groupe ne soit forcé d'attaquer.",
+      "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
+      "actions": [
+        { "type": "read", "target": "005", "label": "Tendre un piège" },
+        { "type": "read", "target": "008", "label": "Observer les machines et noter leurs mouvements" },
+        { "type": "read", "target": "011", "label": "Approcher discrètement pour une meilleure position offensive" },
+        { "type": "read", "target": "014", "label": "Réduire le nombre de machines" },
+        { "type": "read", "target": "019", "label": "Si vous avez encore des jetons de suivis, mais que vous êtes prêt et souhaitez frapper" }
+      ]
     },
     {
       "id": "018",
       "title": "018",
-      "text": "",
+      "text": "Le Clawstrider, relativement docile jusqu'à présent, semble enfin s'être ressaisi. Ses câbles ne vacillent plus et retrouvent, pour l'instant, leur bleu naturel. Bien que sa patte soit endommagée, il repart vers l'ouest. Les Maréchaux réalisent qu'ils ont épuisé le peu de temps dont ils disposaient. C'est maintenant ou jamais.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "019", "label": "Continuer l'histoire" }]
     },
     {
       "id": "019",
       "title": "019",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Pendant un instant, un calme étrange plane sur la clairière. Le sol est moucheté de taches lumineuses pâles là où la lumière filtre à travers les feuilles humides. N'importe quel autre jour, ce spectacle apporterait la tranquillité. Aujourd'hui, le cœur des Maréchaux bat fort contre leur poitrine.\n\nChacun est prêt, armes en main. Il n'y aura pas de meilleur moment pour frapper. « Nous avons suffisamment traîné. » Les mots secs de Bialla sont des constats, bien loin d'un discours inspirant, mais personne n'a besoin d'encouragement.\n\nD'un même élan, les Maréchaux se lèvent, prêts à frapper. Mais à cet instant précis, le Clawstrider se retourne et aperçoit le groupe. Sa gueule s'ouvre et laisse échapper un cri perçant. Rikitta se couvre les oreilles tandis que le Clawstrider détale de la clairière.\n\nÀ sa place, deux autres machines chargent dans la clairière, attirées par son appel. Des Bristlebacks. Larges et redoutables, avec des défenses capables de percer le métal de l'armure des Maréchaux comme du tissu. Le groupe échange des regards et comprend immédiatement ce qu'il faut faire. Drokkeh lance une bombe fumigène au sol, et les Maréchaux se dispersent chacun à couvert, armes dégainées.",
+      "information": ["Ouvrez le livre de campagne à la page 6 et tentez la rencontre."],
+      "actions": [
+        { "type": "read", "target": "020", "label": "Si les joueurs ont réussi la rencontre" },
+        { "type": "read", "target": "021", "label": "Si les joueurs ont échoué à la rencontre" }
+      ]
     },
     {
       "id": "020",
       "title": "020",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Les machines réduites à des carcasses fumantes, le silence revient sur la clairière, seulement rompu par les fontaines occasionnelles d'étincelles jaillissant des épaves métalliques.",
+      "information": [
+        "Les personnages gagnent : ",
+        "- 4 Éclats de métal, plus 1 par personnage ayant participé.",
+        "- Chaque personnage gagne 1 Metalbite, flambée ou étincelle.",
+        "- La carte quête annexe 2",
+        "- Chaque personnage gagne 1 cartes Action."
+      ],
+      "actions": [{ "type": "read", "target": "022", "label": "Continuer l'histoire" }]
     },
     {
       "id": "021",
       "title": "021",
-      "text": "",
-      "information": [],
-      "actions": []
+      "text": "Alors que le combat tourne en leur défaveur, Nagallo trouve en lui un ultime réservoir de force. Il se relève de la poussière et plante son épieu dans la tête d'une machine. Celle-ci rugit de rage. Il s'enfuit dans les bois, entraînant les machines à sa suite.\n\nCela prend du temps, mais le reste du groupe finit par entendre un craquement de brindilles et se retourne pour trouver Nagallo qui a fait le tour pour revenir. Bialla fait remarquer que ses actions étaient bien trop risquées, mais il balaie ses reproches d'un haussement d'épaules, non sans une pointe de suffisance.",
+      "information": [
+        "Les personnages gagnent : ",
+        "- Les personnages qui sont evanoui récupère 4 PV.",
+        "- 2 potions de soins",
+        "- La carte quête annexe 2",
+        "- Chaque personnage gagne 1 cartes Action."
+      ],
+      "actions": [{ "type": "read", "target": "022", "label": "Continuer l'histoire" }]
     },
     {
       "id": "022",
       "title": "022",
-      "text": "",
+      "text": "Rikitta longe déjà les traces laissées par le Clawstrider, cherchant une piste à suivre. Drokkeh, pendant ce temps, fouille les corps des soldats à la recherche d'indices. L'un des renégats morts a un bandage enroulé autour du biceps droit.\n\nPar-dessus son épaule, Bialla soupire. « Blessure par flèche au bras droit. Hovveh est un sacré tireur. » Sa déception est évidente. D'un côté, les soldats renégats ont été éliminés. De l'autre, aucune réponse quant aux raisons pour lesquelles ils ont attaqué leurs frères Tenakth ou abandonné leur clan.\n\n« J'ai trouvé quelque chose, » appelle Nagallo depuis l'autre côté de la clairière, près d'un autre corps. « Tous les trois sont équipés d'armures Lowlander, mais celui-là... »\n\nIl retourne le cadavre avec un grognement et désigne les marques cramoisi et bleu sur le cou du soldat, visibles entre le masque et le plastron. « Celui-là a l'encre du Clan du Ciel. » Nagallo fronce les sourcils, murmurant pour lui-même. « Et ce tatouage... je le connais... » Il se tait, cherchant à se rappeler son origine.\n\nBialla regarde vers le bas, le dégoût perceptible dans sa voix. « Les déserteurs forment un clan à part entière. Ceux qui ont du bon sens fuient vers les terres de bandits bien au sud. »\n\nDrokkeh soulève le masque du soldat pour examiner les lignes autour de ses yeux et une cicatrice en forme de T distincte courant sur sa lèvre. « Elle est bien plus expérimentée que les autres. Et elle vient des Sheersides. »\n\nBialla plisse les yeux, réfléchissant à voix haute. « Pourquoi rejoindre un groupe de Lowlanders renégats ? »\n\n« Peut-être qu'elle était contrainte de les aider et a dû se contenter de la ferraille qui passe pour une armure par ici ? » Nagallo cherche ses mots.\n\nRikitta revient après avoir inspecté les traces. « Le Clawstrider est parti. Mais on a une piste, qui descend vers la rivière. C'est l'escadron disparu ? » Bialla commence à la mettre au courant, mais est interrompue par Nagallo, qui examine de près le tatouage de la femme. « Le Siège des Sheersides ! Ce soldat a longtemps résisté aux forces du Chef Hekarro. Je reconnaîtrais cette encre n'importe où. Certains vétérans la portent avec fierté. Impossible de les faire taire quand ils se lancent. » Il se tourne vers Bialla. « Vous avez peut-être même combattu lors des Guerres de Clans ! »\n\nElle fronce les sourcils, contrariée à la fois par l'interruption et ses paroles. C'est Rikitta qui joue les pacificatrices, prenant la parole avant que sa compagne Lowlander ne puisse répliquer. « Peut-être que quelqu'un à la Forteresse la connaît ? »\n\nÀ l'évocation de sa maison, un sourire fier traverse le visage de Nagallo. « Tekotteh pourrait le découvrir, sans aucun doute. C'est un génie. Le Commandant le plus brillant de tous les clans. » Sa voix se réduit à un grommellement. « Mais j'hésiterais à lui faire perdre son temps pour une déserteure anonyme. »\n\n« D'abord, on traque le Clawstrider. » Bialla acquiesce. « Il est loin d'être 'apprivoisé', et trop dangereux pour le laisser errer sur les sentiers. Et il y avait quelque chose de différent en lui. Ces renégats pensaient qu'il valait la peine d'être pourchassé jusqu'à leur dernier souffle. Une fois cette chose abattue, on pourra parler de cette autre piste et de la visite à ton domaine glacial. »",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "chapter", "target": "act1ChapterC", "label": "Continuer vers le prochain chapitre" }]
     }
   ]
 }
