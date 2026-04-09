@@ -10,7 +10,7 @@
       "information": [
         "Les joueurs doivent défausser tous leurs dés d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "001", "label": "Continuer l'histoire" }]
     },
     {
       "id": "001",
@@ -20,7 +20,7 @@
         "Ajoutez les cartes \"arme\" et \"munitions\" LVL 2 à la section disponible de la boîte.",
         "Les Maréchaux devront réussir un jet d'action difficile la prochaine fois qu'ils s'adresseront à Tekotteh, ils devront donc d'abord récupérer leurs dés d'action en parlant avec les habitants du Rempart."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Continuer l'histoire" }]
     },
     {
       "id": "002",
@@ -29,7 +29,15 @@
       "information": [
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "003", "label": "Parler à la marchande d'armes" },
+        { "type": "read", "target": "006", "label": "Parler à l'herboriste" },
+        { "type": "read", "target": "009", "label": "Parler au quartier-maître" },
+        { "type": "read", "target": "012", "label": "Parler aux soldats autour du feu" },
+        { "type": "read", "target": "015", "label": "Vous pensez que les cadets pourraient avoir des réponses" },
+        { "type": "read", "target": "018", "label": "Suivre Gerrah et son compagnon" },
+        { "type": "read", "target": "020", "label": "Aucune autre options ou prêt à affronter Tekotteh" }
+      ]
     },
     {
       "id": "003",
@@ -38,7 +46,12 @@
       "information": [
         "Lisez la page 58 du Livre Narratif."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "019", "label": "Si vous avez la carte d'enquête 'Tusk'" },
+        { "type": "read", "target": "004", "label": "Vous montrer le fer de la lance" },
+        { "type": "read", "target": "005", "label": "Discuter de la présence des soldats du clan du ciel" },
+        { "type": "read", "target": "002", "label": "Vous avez terminé ici" }
+      ]
     },
     {
       "id": "004",
@@ -47,21 +60,27 @@
       "information": [
         "Récupérez 2 dés d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "005",
       "title": "005",
       "text": "Elle sourit d'un air d'excuse après que les Maréchaux ont décrit le soldat. \"J'ai bien peur de ne pas pouvoir beaucoup vous aider. Je passe la plupart de mon temps à mon établi et je ne m'éloigne pas au-delà de mes patrouilles assignées.\" Elle regarde vers un arc abîmé qui l'attend. \"Je devrais probablement retourner à mes tâches.\" Rikitta lui rend un regard compatissant.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "004", "label": "Si Rikitta est la chef d'escouade" },
+        { "type": "read", "target": "002", "label": "Sinon" }
+      ]
     },
     {
       "id": "006",
       "title": "006",
       "text": "\"Il n'y a pas de fournitures, personne pour m'en procurer, et une escouade complète de blessés ambulants à soigner.\" L'herboriste, un homme plus âgé aux cheveux poivre et sel et aux manières brusques, se plaint alors que les Maréchaux approchent. L'attirail habituel de guérisseur se trouve ici, mais en quantité limitée. Seules quelques poignées d'herbes sont suspendues à l'auvent, et des pots jonchent chaque surface, bien que beaucoup soient vides.\n\n\"Et voici le reste d'entre eux maintenant,\" remarque l'herboriste alors que les Maréchaux voient des soldats en sang s'approcher lentement de sa cabane. L'un d'eux est porté sur une civière improvisée formée de lances.\n\nL'herboriste regarde les Maréchaux, évaluant les blessures qu'ils ont subies lors de leur combat avec le Frappe-défenses et sur la route depuis lors. \"Écoutez, je peux vous soigner vous, ou eux. Je n'ai pas les provisions pour les deux. Vous êtes d'un rang plus élevé. Vous me dites de qui je dois m'occuper.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Soigner les Maréchaux" },
+        { "type": "read", "target": "008", "label": "Soigner les soldats blessés" }
+      ]
     },
     {
       "id": "007",
@@ -71,7 +90,7 @@
         "Chaque personnage récupère tous ses points de vie, soigne 2 blessures et gagne 2 potions de soin.",
         "Les personnages peuvent soigner des blessures supplémentaires en défaussant 5 Éclats de Métal pour chacune."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "008",
@@ -82,7 +101,7 @@
         "Les personnages peuvent soigner des blessures supplémentaires en défaussant 2 Éclats de Métal pour chacune.",
         "Récupérez un dé d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "009",
@@ -91,7 +110,10 @@
       "information": [
         "Si Nagallo est le chef de l'escouade, gagnez 3 Eclats de Métal."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "010", "label": "Montrer la pointe de la lance" },
+        { "type": "read", "target": "011", "label": "Demander au sujet de la soldate rebelle du Clan du Ciel" }
+      ]
     },
     {
       "id": "010",
@@ -100,7 +122,7 @@
       "information": [
         "Récupérez un dé d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "011",
@@ -109,14 +131,17 @@
       "information": [
         "Récupérez 2 dés d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "012",
       "title": "012",
       "text": "Le rire fort et vulgaire est la première chose que Drokkeh et Bialla discernent en s'approchant. Il n'est pas nécessaire d'être très discret pour écouter aux portes. Le terme \"conversation\" serait plutôt généreux pour décrire l'échange qu'ils entendent, il s'agit davantage d'une joute verbale où chaque soldat hurle une nouvelle insulte à l'autre. Entre deux cris, ils s'arrêtent pour boire quelques gorgées de bouteilles d'une boisson non identifiée. C'est de l'alcool fort, quel qu'il soit, de quoi griller les poils du nez à une bonne dizaine de pas de là.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "013", "label": "Interrompre et demander au sujet du vétéran du Clan du Ciel" },
+        { "type": "read", "target": "014", "label": "Demander au sujet de la lance" }
+      ]
     },
     {
       "id": "013",
@@ -125,14 +150,17 @@
       "information": [
         "Récupérez 2 dés d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "014",
       "title": "014",
       "text": "Drokkeh sort la pointe de lance, demandant aux soldats de l'examiner. Elle est à peine sortie de son sac lorsqu'une réponse fuse. \"Pas à moi.\" Tous rient en retour sans même lever les yeux du feu. Drokkeh sent la peau autour de ses yeux se tendre alors qu'il fusille le groupe du regard, mais il parvient à se contrôler.\n\n\"Tu ne l'as même pas regardée, soldat.\"\n\n\"Non. Pas besoin. Jamais perdu une lance de ma vie. Je ne m'y risquerais pas avec le quartier-maître qu'on a. Un œil plus vif qu'un Étincelleur et deux fois plus rancunier.\"\n\nDavantage d'éclats de rire, bien que moindres qu'auparavant. Aveuglés par l'alcool, ils n'ont pas réalisé à qui ils s'adressaient. Discipliner ces soldats est autant une perte de temps que de leur parler.\n\nDrokkeh se tourne vers Bialla et parle assez fort pour qu'ils l'entendent. \"Une honte. Ils ont de la chance d'avoir un mur derrière lequel se cacher.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "013", "label": "Si Bialla est la chef d'escouade : demander au sujet du vétéran du Clan du Ciel" },
+        { "type": "read", "target": "002", "label": "Sinon : Vous avez terminé ici" }
+      ]
     },
     {
       "id": "015",
@@ -141,7 +169,10 @@
       "information": [
         "Récupérez la carte d'investigation 'Patarro'."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "016", "label": "Presser pour plus d'informations sur Patarro" },
+        { "type": "read", "target": "017", "label": "Montrer la lance à la place" }
+      ]
     },
     {
       "id": "016",
@@ -150,14 +181,17 @@
       "information": [
         "Récupérez 2 dés d'action."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "017",
       "title": "017",
       "text": "Drokkeh sort la lance de son sac et la tend pour que les recrues puissent la voir. Cela ne provoque pas la réaction espérée. Au lieu de l'examiner, il y a un semblant d'intérêt fugace, puis le groupe enchaîne rapidement pour poser ses propres questions aux Maréchaux.\n\n\"Quelle est la plus grosse machine que vous ayez jamais vaincue ?\"\n\n\"Avez-vous déjà combattu un Gueule-d'orage ? Et un Massacépine ?\"\n\nIl est douloureusement évident qu'ils ne savent rien. Tous les Maréchaux, à l'exception de Rikitta, estiment que c'était une perte de temps.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "016", "label": "Si Rikitta est la chef d'escouade : demander à propos de Patarro" },
+        { "type": "read", "target": "002", "label": "Sinon : Vous avez terminé ici" }
+      ]
     },
     {
       "id": "018",
@@ -167,7 +201,7 @@
         "Récupérez un dé d'action.",
         "Si Drokkeh est le chef de l'escouade, récupérez un dé d'action supplémentaire."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "002", "label": "Vous avez terminé ici" }]
     },
     {
       "id": "019",
@@ -176,7 +210,11 @@
       "information": [
         "Récupérez une carte \"arme\" LVL 2 dans la boîte et ajoutez-la à la sacoche de n'importe quel personnage."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "004", "label": "Demander d'inspecter la pointe de la lance et l'épine du Corrompu" },
+        { "type": "read", "target": "005", "label": "Discuter de la présence des soldats du Clan du Ciel" },
+        { "type": "read", "target": "002", "label": "Vous avez terminé ici" }
+      ]
     },
     {
       "id": "020",
@@ -185,7 +223,7 @@
       "information": [
         "Choisissez quel Maréchal parlera avec Tekotteh et il deviendra le chef de l'escouade."
       ],
-      "actions": []
+      "actions": [ { "type": "read", "target": "021", "label": "Continuer l'histoire" } ]
     },
     {
       "id": "021",
@@ -198,7 +236,9 @@
         "Nagallo - Vous pouvez relancer un ou plusieurs dés bleus.",
         "Rikitta - Vous pouvez relancer le dé noir."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faire3 critiques / 6 flèches et 2 critiques / 8 flèches et 1 critique OU / flèches.", "pass": "022", "fail": "023" }
+      ]
     },
     {
       "id": "022",
@@ -207,21 +247,21 @@
       "information": [
         "Les joueurs gagnent le pion bleu."
       ],
-      "actions": []
+      "actions": [ { "type": "read", "target": "025", "label": "Continuer l'histoire" } ]
     },
     {
       "id": "023",
       "title": "023",
       "text": "Les Maréchaux présentent leurs découvertes. Tekotteh conserve un regard impassible. À un moment, il bâille.\n\n\"C'est ça que vous m'apportez ? Des chuchotements ?\" Il a un sourire en coin. \"Je dirige ce clan depuis que le plus jeune d'entre vous n'était qu'un bébé. Ce sont des histoires familières, et elles font partie de la nature brutale de la vie sur les Escarpements. Le Clan du Ciel les surmontera comme nous l'avons toujours fait. Seuls.\"\n\nLe regard de Bialla est fixé sur Tekotteh. \"Hekarro aura sa propre opinion à ce sujet.\"\n\nLe Commandant parle d'une voix forte. \"Alors laissez-le faire. Tout ce que nous recevons de l'Anneau, ce sont des exigences. Pour de la nourriture. Pour des armes. Pour... des représentants à ses vaines ambassades.\" Il regarde sa foule de partisans et proclame : \"Pendant ce temps, la menace des machines s'aggrave, et la nielle rouge grimpe sur nos montagnes. Nous n'avons pas besoin de votre ingérence dans cette affaire, et je n'ai rien de plus à vous offrir. Au revoir, Maréchaux.\"\n\nAlors que le reste des Maréchaux se tourne pour partir, Nagallo s'attarde un instant, une force perdue revenant dans sa voix. \"Les élus d'Hekarro apprécient votre soutien, Commandant. Il est clair que votre superbe direction a mené la tribu à la position stable dans laquelle elle se trouve aujourd'hui.\"\n\nUn murmure d'inquiétude se propage dans l'auditoire alors que Nagallo rejoint le reste des Maréchaux pour quitter la salle, en lançant par-dessus son épaule : \"Puissent les trois clans rester unis, Tekotteh. Et puisse ton mur ne jamais s'effondrer !\"",
       "information": [],
-      "actions": []
+      "actions": [ { "type": "read", "target": "024", "label": "Continuer l'histoire" } ]
     },
     {
       "id": "024",
       "title": "024",
       "text": "Une vallée s'étend du Rempart jusqu'à une seconde chaîne de montagnes au nord. Dans un champ verdoyant, les Maréchaux établissent leur campement. Rikitta sort une jarre de liqueur d'Épine, et à la tombée de la nuit, le groupe se rassemble autour du feu de camp, laissant la boisson apaiser leur manque de progrès.\n\n\"Alors,\" demande Bialla, l'air lourd. \"Où allons-nous à partir d'ici ?\" Sa prestance habituelle est totalement absente.\n\n\"J'ai entendu dire qu'il y a une plage magnifique à la Pointe de la Marée,\" hoquette Rikitta en passant la jarre à Nagallo.\n\nSoudain, Drokkeh se lève, un doigt posé sur ses lèvres. Une silhouette solitaire s'approche du groupe affligé, avançant prudemment dans l'obscurité grandissante. Les Maréchaux préparent leurs armes alors que la silhouette émerge dans la lumière du feu.\n\n\"Essayer de surpasser Tekotteh sur sa propre scène, ce n'est pas la manœuvre la plus délicate.\" La lueur orange du feu révèle nulle autre que Gerrah, l'Aumônière. \"Repos. Je viens en paix.\" Elle lève une main pour prévenir toute conversation. \"Vous avez été courageux tout à l'heure. Mais vous avez mal joué. Et Tekotteh... fait simplement de son mieux.\" Elle soupire. \"Je ne suis pas du genre à croire aux rumeurs de trahison, et encore moins à les poursuivre. Mais si je l'étais, je me rendrais à Crête Frissonnante. Ce qui s'y est passé... Probablement juste un mensonge répandu par nos ennemis.\" L'Aumônière s'apprête à partir avant qu'un dernier sentiment ne l'arrête. \"C'est bon de te revoir, Nagallo. Nous avons été affaiblis par ton départ.\"\n\nSes mots prononcés, Gerrah disparaît, s'éloignant dans la nuit. La prochaine étape du voyage est décidée — ce dont on peut au moins se réjouir. Même si la marche ne sera pas facile, et que les Maréchaux ont perdu du temps.",
       "information": [],
-      "actions": []
+      "actions": [ { "type": "read", "target": "025", "label": "Continuer l'histoire" } ]
     },
     {
       "id": "025",
@@ -230,7 +270,10 @@
       "information": [
         "Ouvrez le Livre de Campagne à la page 12 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "026", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "027", "label": "Si la rencontre a échoué" }
+      ]
     },
     {
       "id": "026",
@@ -239,7 +282,7 @@
       "information": [
         "Les personnages gagnent :\n2 Éclats de Métal par villageois survivant. 1 Éclat de Métal par joueur y ayant participé.\n6 ressources de votre choix parmi : Flambée, Eau de refroidissement et Lumétincelle.\nLa carte de rencontre secondaire 5.\nChaque personnage gagne 1 carte d'action."
       ],
-      "actions": []
+      "actions": [ { "type": "read", "target": "028", "label": "Continuer l'histoire" } ]
     },
     {
       "id": "027",
@@ -248,7 +291,7 @@
       "information": [
         "Les personnages gagnent :\nSi la rencontre a échoué car les pions villageois ont été retirés, gagnez 5 Éclats de Métal. Sinon, le personnage qui est tombé inconscient récupère 5 PV et gagne une potion de soin.\nLa carte de rencontre secondaire 5.\nChaque personnage gagne 1 carte d'action."
       ],
-      "actions": []
+      "actions": [ { "type": "read", "target": "028", "label": "Continuer l'histoire" } ]
     },
     {
       "id": "028",
@@ -257,14 +300,22 @@
       "information": [
       "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "029", "label": "Demander au sujet de la soldate rebelle du Clan du Ciel" },
+        { "type": "read", "target": "030", "label": "Demander au sujet des désertions récentes" },
+        { "type": "read", "target": "031", "label": "Si vous avez la carte d'enquête 'Patarro' : demander à son sujet" },
+        { "type": "chapter", "target": "act2ChapterC", "label": "Si vous avez le pion vert : Continuer l'acte 2, chapitre C" }
+      ]
     },
     {
       "id": "029",
       "title": "029",
       "text": "Les Maréchaux expliquent ce qui les a amenés là, mais restent discrets sur les détails. Une déserteuse du Clan du Ciel causait des problèmes dans les Basses Terres. Le groupe cherche à en savoir plus sur eux. \"Un vieux soldat,\" explique Bialla, \"avec des tatouages du Siège de Sheersides et une cicatrice distincte sur le visage. Elle portait une lance similaire à celles que je vois fabriquées ici. La sienne était... modifiée. Vous la connaissez ?\"\n\nLe vieil homme acquiesce. \"Oui, je me souviens d'elle. Elle a été l'une des premières à disparaître. Nos réserves ont été pillées peu de temps avant, et nous n'avons ni entendu parler ni vu d'elle depuis. Nous avons supposé qu'elle avait pourchassé les voleurs et s'était perdue dans les étendues sauvages.\" Il sourit. \"Une supposition optimiste, peut-être.\"\n\nLes Maréchaux se regardent dans un silence éloquent. Les pièces commencent à s'assembler. Cette soldate, désillusionnée par la paix d'Hekarro, n'était qu'une parmi tant d'autres à abandonner son poste à Crête Frissonnante. La lance qu'elle portait, avec ses étranges modifications, provenait d'une réserve pillée. Et tout cela s'est passé après qu'une marchande soit passée par ici.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "028", "label": "Si vous avez plus de questions : vous avez fini ici" },
+        { "type": "chapter", "target": "act2ChapterC", "label": "Si vous avez le pion vert : Continuer vers le prochain chapitre" }
+      ]
     },
     {
       "id": "030",
@@ -273,14 +324,20 @@
       "information": [
         "Les joueurs gagnent le pion vert."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "028", "label": "Si vous avez plus de questions : vous avez fini ici" },
+        { "type": "chapter", "target": "act2ChapterC", "label": "Continuer vers le prochain chapitre" }
+      ]
     },
     {
       "id": "031",
       "title": "031",
       "text": "\"Dites-moi,\" demande Rikitta, \"y avait-il un jeune soldat nommé Patarro ici ? Il aurait été envoyé depuis le Rempart.\"\n\nLe vieil homme hoche la tête, se mordillant légèrement la lèvre alors qu'il rassemble ses souvenirs. \"Ah, oui. Celui-là. C'était un genre désabusé. Toujours en colère contre ses anciens camarades d'escouade. Comment ils avaient conspiré contre lui. Ils l'ont fait envoyer ici pour je ne sais quelle raison.\"\n\n\"Est-il là ?\"\n\n\"Non, il n'y est pas... Il a disparu avec les autres. C'est dommage. Un bon couseur. Avec le temps, sa rage se serait apaisée, et il aurait pu trouver sa place ici.\" L'homme sort un tissage délicat et le tend à Rikitta. \"Il n'arrêtait pas de marmonner qu'il allait se venger...\"\n\nMême sans avoir un grand œil pour ces choses-là, les Maréchaux peuvent tous dire que le travail artisanal est unique et artistiquement accompli. Rikitta fait attention lorsqu'elle le rend.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "028", "label": "Si vous avez plus de questions : vous avez fini ici" },
+        { "type": "chapter", "target": "act2ChapterC", "label": "Si vous avez le pion vert : Continuer vers le prochain chapitre" }
+      ]
     }
   ]
 }

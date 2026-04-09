@@ -11,7 +11,7 @@
         "Chaque personnage récupère soit 5 PV, soit 1 blessure.",
         "SHOP : Lisez la page 16 du livre narratif."
       ],
-      "actions": [{ "type": "chapter", "target": "act1ChapterC", "label": "Continuer l'histoire" }]
+      "actions": [{ "type": "read", "target": "INTRO", "label": "Continuer l'histoire" }]
     },
     {
       "id": "INTRO",
