@@ -187,7 +187,7 @@
         "Les personnages gagnent : ",
         "- 3 Éclats de métal, plus 1 par personnage ayant participé.",
         "- 2 Metalbite et 2 flambées.",
-        "- La carte quête annexe 1",
+        "- La carte de rencontre secondaire 1",
         "- Chaque personnage gagne 2 cartes Action."
       ],
       "actions": [{ "type": "chapter", "target": "act2ChapterA", "label": "Continuer vers le prochain chapitre" }]
@@ -200,7 +200,7 @@
         "Les personnages gagnent : ",
         "- 7 Éclats de métal, plus 1 par personnage ayant participé.",
         "- 2 Metalbite et 2 flambées.",
-        "- La carte quête annexe 1",
+        "- La carte de rencontre secondaire 1",
         "- Chaque personnage gagne 2 cartes Action."
       ],
       "actions": [{ "type": "chapter", "target": "act2ChapterA", "label": "Continuer vers le prochain chapitre" }]
@@ -214,7 +214,7 @@
         "- Les personnages qui sont evanoui récupère 4 PV.",
         "- 1 potion de soin.",
         "- 1 Metalbite et 1 flambées.",
-        "- La carte quête annexe 1",
+        "- La carte de rencontre secondaire 1",
         "- Chaque personnage gagne 2 cartes Action."
       ],
       "actions": [{ "type": "chapter", "target": "act2ChapterA", "label": "Continuer vers le prochain chapitre" }]

@@ -16,8 +16,8 @@
       "text": "Une pensée traverse l'esprit de Rikitta. La rivière de l'ouest, que ces traces semblent longer, finira par dévier vers un delta bien au nord de Ronciermarais. Cet endroit, là où la rivière rejoint la mer, est connu et évité en raison de sa population de redoutables Griffetrotteurs.\n\n« Je crois connaître un raccourci », dit finalement Rikitta. « Ces cours d'eau filent vers l'ouest jusqu'à la mer, mais certains remontent vers le nord, et mènent à... »\n\nBialla la coupe : « ... Un delta. Plein de Griffetrotteurs. Oui. La machine y retourne peut-être. J'ai été affectée dans ce secteur autrefois. Le commandant était aussi ennuyeux qu'une chasse à l'Utaru. On pourrait prendre un raccourci vers le nord-ouest en longeant la base des Escarpements. On rejoindrait directement le delta et on devancerait le Griffetrotteur. »\n\nBialla secoue la tête. « On reste avec la rivière. Le chemin de la machine n'est pas certain. Les traces sont là, elles nous mènent près de Ronciermarais. On peut se ravitailler dans le campement, recueillir des informations, et s'assurer qu'on est bien sur la piste du Griffetrotteur. »\n\nNagallo soutient Rikitta. « Un flanc de montagne solide me semble préférable à la boue. »\n\n« Je suis sérieuse. On pourrait prendre de l'avance sur cette chose. » Rikitta s'arrête net, campée sur ses positions. « Tu as de l'expérience, Bialla, mais on est tous Maréchaux depuis aussi longtemps. Pourquoi ce serait toi qui décides ? »\n\nLe groupe marque une pause et discute de la route à suivre.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "002", "label": "Leader : Emprunter le chemin de Bialla le long de la rivière et traverser le Marais des Épines" },
-        { "type": "read", "target": "035", "label": "Leader : Prendre le raccourci de Rikitta à flanc de montagne" }
+        { "type": "read", "target": "002", "label": "Chef : Emprunter le chemin de Bialla le long de la rivière et traverser le Marais des Épines" },
+        { "type": "read", "target": "035", "label": "Chef : Prendre le raccourci de Rikitta à flanc de montagne" }
       ]
     },
     {
@@ -222,10 +222,10 @@
       "text": "Une paire de Pillards s'affaire sur un tas de ferraille près de la sortie, leurs corps illuminés par des étincelles tandis qu'ils découpent le métal. Drokkeh désigne un tas de débris derrière lequel les Maréchaux pourraient se glisser sans être détectés, bien que ce soit un pari risqué.\n\n\"Les laisser dans notre dos pour protéger notre retraite est une mauvaise idée\", chuchote Rikitta. \"Cette ruine est fragile. Nous pouvons faire tomber la pierre au-dessus pour tuer ces deux-là et avancer.\"\n\nNagallo secoue la tête. \"Tant de drame pour deux Pillards. Chargeons-les et en finissons. Pas même un vrai combat.\" Bialla acquiesce. \"Il a raison. On pourrait juste s'approcher par surprise. Plus rapide. Moins risqué.\"",
       "information": [],
       "actions": [
-        { "type": "read", "target": "022", "label": "Leader : Drokkeh - Pour tenter de passer sans combattre" },
-        { "type": "read", "target": "025", "label": "Leader : Rikitta - Pour tenter de faire s'effondrer la pierre sur les machines" },
-        { "type": "read", "target": "028", "label": "Leader : Nagallo - Pour charger les Pilleurs" },
-        { "type": "read", "target": "031", "label": "Leader : Bialla - Pour tenter une élimination furtive" }
+        { "type": "read", "target": "022", "label": "Chef : Drokkeh - Pour tenter de passer sans combattre" },
+        { "type": "read", "target": "025", "label": "Chef : Rikitta - Pour tenter de faire s'effondrer la pierre sur les machines" },
+        { "type": "read", "target": "028", "label": "Chef : Nagallo - Pour charger les Pilleurs" },
+        { "type": "read", "target": "031", "label": "Chef : Bialla - Pour tenter une élimination furtive" }
       ]
     },
     {
@@ -334,10 +334,10 @@
       "text": "Assez vite, le raccourci de Rikitta se rétrécit en un ravin. Le sol est accidenté, et la terre meuble, les arbres renversés et les débris indiquent un récent glissement de terrain ayant coupé le chemin. Alors que les Maréchaux escaladent prudemment le blocage et sautent de l'autre côté, le groupe fait face à un nouveau défi : un groupe d'yeux bleus brillant dans le paysage au loin.\n\nUn grand convoi de machines — un Bellowback accompagné de plusieurs Guetteurs et d'un Marcheur-Carapace — avance lentement vers le groupe, piégeant les Maréchaux contre la roche.\n\n\"Ce n'était pas aussi fréquenté la dernière fois que j'ai emprunté ce chemin. J'étais en poste à Raintrace Nord et—\" insiste Rikitta.\n\n\"C'était quand ?\" Bialla n'est pas impressionnée.\n\n\"Euh, il y a peut-être deux étés ?\" Rikitta l'admet penaude. \"On ne peut pas faire demi-tour maintenant.\" Elle marque une pause, évaluant le ravin. Une ruine de l'Ancien Monde se dresse en hauteur au-dessus d'eux. \"Et si on utilisait une bombe fumigène ? Il faudra que ce soit une grande. Ou plusieurs. Et il faudra s'approcher. Si le vent est de notre côté—\"\n\n\"On a déjà pris un risque en venant par ici, et maintenant tu veux qu'on en prenne un autre.\" Bialla est incrédule. \"Laissez-moi régler votre bazar. Je vais juste prendre les devants et attirer les machines à l'écart.\" Drokkeh fait signe aux herbes rouges à proximité, suggérant que les Maréchaux se faufilent discrètement, mais Bialla n'est pas non plus pour cette option. \"Je préfère mes chances à guider les machines à l'écart plutôt qu'un groupe de quatre à passer inaperçu.\"\n\nNagallo soupire. \"On fait des plans, et ensuite on en fait encore plus. Faisons simplement dévier les machines d'un côté, puis on sprint de l'autre.\" Quand il surprend le regard noir de Bialla, il sourit. \"Quoi, vous avez peur de ne pas pouvoir suivre ?\"",
       "information": [],
       "actions": [
-        { "type": "read", "target": "037", "label": "Leader : Rikitta - Si vous souhaitez créer un écran de fumée" },
-        { "type": "read", "target": "040", "label": "Leader : Bialla - Si vous souhaitez que Bialla attire les machines" },
-        { "type": "read", "target": "043", "label": "Leader : Drokkeh - Si vous souhaitez que Drokkeh vous guide" },
-        { "type": "read", "target": "046", "label": "Leader : Nagallo - Si vous souhaitez attirer les machines, puis les dépasser en sprintant" }
+        { "type": "read", "target": "037", "label": "Chef : Rikitta - Si vous souhaitez créer un écran de fumée" },
+        { "type": "read", "target": "040", "label": "Chef : Bialla - Si vous souhaitez que Bialla attire les machines" },
+        { "type": "read", "target": "043", "label": "Chef : Drokkeh - Si vous souhaitez que Drokkeh vous guide" },
+        { "type": "read", "target": "046", "label": "Chef : Nagallo - Si vous souhaitez attirer les machines, puis les dépasser en sprintant" }
       ]
     },
     {
@@ -509,7 +509,7 @@
       "text": "Rikitta explique aux autres comment construire le piège. \"Donnez-moi un coup de main, Drokkeh — tenez ça en place. Nagallo, passez ce fil autour et entre ces pièces qui coupent dans le métal.\" Nagallo glisse et jure alors que le fil lui entaille le doigt, laissant traîner un filet de sang.\n\nRikitta siffle avec irritation. \"Focus. On doit bien faire ça.\"\n\n\"Rikitta,\" dit doucement Bialla en posant une main rassurante sur son épaule. \"Respire. Le travail avance bien, détends-toi.\" La tension sur le visage de Rikitta s'atténue alors que Bialla aide Nagallo à ramasser le fil tombé — le piège se met rapidement en place.",
       "information": [
         "Defaussez un jeton de suivi.",
-        "Si Rikitta possède le jeton de leader, elle peut relancer n'importe lequel des dés de ce jet d'action."
+        "Si Rikitta est la chef d'escouade, elle peut relancer n'importe lequel des dés de ce jet d'action."
       ],
       "actions": [{ "type": "test", "label": "Faire 5 flèches OU 1 critique.", "pass": "056", "fail": "057" }]
     },
@@ -541,7 +541,7 @@
       "title": "058",
       "text": "Le groupe se déploie, cherchant des signes de menaces à proximité. Drokkeh trouve des traces d'autres machines — des monticules indiquant des Fouisseurs — et repère une grande entrée de tunnel.\n\n\"Les Fouisseurs. Attaquer le Griffemarcheur pourrait les attirer et les amener à l'aider.\" La voix de Bialla exprime une nouvelle complication que chacun ressent. \"On pourrait effondrer les tunnels, alors,\" déclare Nagallo.\n\n\"C'est... c'est en fait une bonne idée,\" dit Bialla en regardant les monticules. \"Pour une fois.\"",
       "information": [
-        "Si Drokkeh ne possède pas le jeton leader, défaussez un jeton de suivi.",
+        "Si Drokkeh n'est pas le chef d'escouade, défaussez un jeton de suivi.",
         "Les joueurs peuvent défausser un jeton de pistage pour relancer autant de dés qu'ils le souhaitent lors de ce jet d'action."
       ],
       "actions": [{ "type": "test", "label": "Faire 6 flèches / 2 critiques / 3 flèches & 1 critique.", "pass": "059", "fail": "060" }]
@@ -572,7 +572,7 @@
       "text": "Les Maréchaux suivent les traces jusqu'à leur source — un cadavre de Tenakth, vêtu des couleurs des Basses-Terres, face contre terre au bord d'une flaque boueuse. Il porte un masque impressionnant façonné à partir d'une mâchoire de Griffemarcheur.\n\nLa cause de la mort est sans aucun doute la large déchirure qui a été creusée dans sa poitrine et sur le côté de sa tête, suffisamment profonde pour révéler l'os. À en juger par ses blessures, il semble qu'il ait été pris au dépourvu.\n\n\"Une mauvaise mort. Au moins, c'était rapide\", déclare Nagallo.\n\n\"Nous devrions fouiller les environs, voir s'il a laissé quelque chose derrière lui. Ou si ses compagnons d'escouade sont ici\", répond Bialla.",
       "information": [
         "Defaussez un jeton de suivi.",
-        "Si Bialla possède le jeton leader, récupérez 2 dés d'action."
+        "Si Bialla est la chef d'escouade, récupérez 2 dés d'action."
       ],
       "actions": [
         { "type": "read", "target": "062", "label": "Si vous avez le jeton vert" },
@@ -613,7 +613,7 @@
       "id": "065",
       "title": "065",
       "text": "Le Griffemarcheur pousse un cri effrayant au loin. Les Maréchaux conviennent tous que Nagallo a soulevé un point valide : chaque instant passé à planifier est un instant où la machine pourrait s'échapper. Rikitta serre le piège à choc dans ses mains, le souvenir de la machine fuyant Fall's Edge encore frais dans son esprit.\n\n\"Ne t'inquiète pas,\" la rassure Bialla. \"Tu gères.\"",
-      "information": ["Nagallo devient le leader."],
+      "information": ["Nagallo devient le chef d'escouade."],
       "actions": [{ "type": "read", "target": "067", "label": "Continuer l'histoire" }]
     },
     {
@@ -643,7 +643,7 @@
         "- 4 Eclats de métal, plus 2 pour chaque personnage qui a participé à la rencontre.",
         "- Chaque joueur améliore sa carte Profil LVL 2 et l’une de ses cartes Équipement.",
         "- 4 Ressources Élémentaires.",
-        "- La carte quête annexe 3",
+        "- La carte de rencontre secondaire 3",
         "- Chaque personnage gagne 2 cartes Action."
       ],
       "actions": [{ "type": "read", "target": "070", "label": "Continuer l'histoire" }]
@@ -659,7 +659,7 @@
         "- 4 Eclats de métal.",
         "- Chaque joueur améliore sa carte Profil LVL 2 et l’une de ses cartes Équipement.",
         "- 2 potions de soin.",
-        "- La carte quête annexe 3",
+        "- La carte de rencontre secondaire 3",
         "- Chaque personnage gagne 2 cartes Action."
       ],
       "actions": [{ "type": "read", "target": "070", "label": "Continuer l'histoire" }]
