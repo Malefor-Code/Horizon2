@@ -7,35 +7,46 @@
       "id": "INTRO",
       "title": "ACT 2 - CHAPTER B : MUR DE PIERRE",
       "text": "Au sommet d'un siège dentelé sur une estrade escarpée dans sa salle d'audience, le Commandant Tekotteh s'entretient avec ses chefs d'escouade blottis autour de lui. Un observateur cynique les qualifierait de flagorneurs. Ils boivent les paroles de Tekotteh, rient plus longtemps que ne le justifie son esprit limité, et s'observent nerveusement pour voir qui s'arrêtera en premier.\n\nAprès des jours à traverser des pics glacés, les Maréchaux ont trouvé l'accueil du Commandant pas plus chaleureux que le voyage. Il n'oserait peut-être pas refuser une audience aux élus de Hekarro, mais il est clair, à la façon dont il regarde le groupe de haut dans sa salle, que la présence des Maréchaux est indésirable.\n\n\"Nagallo. Tu viens encore mendier une place dans nos rangs ?\" Tekotteh a un sourire en coin. \"Eh bien, les pierres ne peuvent pas remonter la pente. Celles qui sont denses, encore moins.\"\n\nNagallo devient rouge et hésite, une réponse coincée dans sa gorge alors qu'une vague de petits rires et de reniflements se propage parmi les partisans de Tekotteh. Avant que Nagallo ne puisse trouver ses mots, ses camarades Maréchaux se lèvent à son secours, offrant un rapport de leur enquête. Alors qu'ils couvrent en détail les événements qui les ont menés ici, Nagallo reste muet, ses affirmations de camaraderie avec Tekotteh manifestement exagérées.\n\nTekotteh fait étalage de son désintérêt. \"Ce dont vous parlez est une tragédie, mais c'en est une des Basses-Terres. Suis-je censé connaître chaque bout de métal laqué avec notre encre ? Dois-je maintenant endosser la responsabilité de chaque soldat avec une arme et une rancune ?\"\n\nAlors que Tekotteh parle, un autre membre de son entourage entre. Nagallo la reconnaît comme son aumônière, Gerrah. Elle est posée et moins encline à suivre le mouvement de Tekotteh que ses jeunes officiers. \"Peut-être aimeraient-ils simplement vos sages conseils, Commandant ?\" Le ton de Gerrah est apaisant et ne révèle rien de ses pensées. \"Maréchaux. Qu'est-ce qui vous amène à solliciter les conseils de notre Commandant ?\"\n\nDrokkeh sort la pointe de lance de son sac et la présente. Tekotteh se redresse immédiatement, un éclair de ce qui pourrait être de la reconnaissance traversant son visage. Nagallo retrouve la voix, brisant le silence alors que Tekotteh inspecte l'arme.\n\n\"Je suis sûr que vous reconnaîtriez le soldat sur lequel nous l'avons trouvée, Commandant. Elle a tenu bon lors du siège de Sheersides. Vous—\"\n\n\"—Les derniers jours des Guerres des Clans ont été des temps troublés. Nous ne faisions pas l'appel avant chaque bataille.\" Tekotteh ne lève pas les yeux vers son ancien protégé. \"Et ce n'était pas un endroit pour les imbéciles.\" Bien qu'adressés à la pièce, ces mots sont une pique directe envers Nagallo, à qui Tekotteh lance la pointe de lance en se levant.\n\n\"Quant à savoir ce qu'est cette lance de piètre qualité, je l'ignore. Je ne suis pas quartier-maître. Je commande mon clan d'une main de fer. C'est mon rôle, et je le remplis sans faute. Vous devriez pouvoir comprendre tout cela, non ? Vous êtes les élus de Hekarro.\"\n\nSur ce, Tekotteh quitte la salle à grands pas, suivi de son entourage.",
-      "information": [],
+      "information": [
+        "Les joueurs doivent défausser tous leurs dés d'action."
+      ],
       "actions": []
     },
     {
       "id": "001",
       "title": "001",
       "text": "Bialla est la première à parler. \"Bon. Tekotteh semble peu disposé à nous aider.\" Elle regarde Nagallo. \"Heureusement, tout le monde dans le Clan du Ciel ne partage pas son mépris puéril.\"\n\nNagallo se tient exactement comme il était lorsque Tekotteh est parti, figé sur place, comme si le moindre mouvement rendrait son humiliation réelle, comme si ce grand homme espérait rapetisser jusqu'à disparaître. Rikitta pose une main réconfortante sur son épaule, qu'il repousse d'un haussement lorsque les Maréchaux quittent la chambre.\n\n\"Tekotteh cache quelque chose,\" spécule Bialla. \"Si nous rassemblons des informations, nous pourrions le forcer à agir. À propos de la lance, de déserteurs, de violations du protocole — n'importe quelle faiblesse qu'il pourrait vouloir cacher. Il faut qu'il veuille s'en débarrasser suffisamment pour partager ce qu'il sait.\"\n\nLa capitale du Clan du Ciel est un vaste endroit qui dort rarement. Les fortifications naturelles des montagnes encerclent la colonie, avec de hauts murs nécessitant une verticalité pour les structures. Un quartier-maître, une marchande d'armes et un herboriste distribuent tous des biens tard dans la nuit. Ils ont peut-être le plus d'informations puisqu'ils voyagent plus largement à travers les terres et ont plus de contacts.\n\nDe nombreux locaux profitent également d'un feu chaleureux et d'une boisson ardente, récupérant après une longue journée de chasse. Autour de l'un de ces feux, un groupe de soldats plus âgés rit bruyamment. À la fosse de mêlée, des cadets échangent des potins. Dans un coin sombre, Nagallo distingue une personne qu'il croit être Gerrah, emmenant un autre membre de l'entourage de Tekotteh.",
-      "information": [],
+      "information": [
+        "Ajoutez les cartes \"arme\" et \"munitions\" LVL 2 à la section disponible de la boîte.",
+        "Les Maréchaux devront réussir un jet d'action difficile la prochaine fois qu'ils s'adresseront à Tekotteh, ils devront donc d'abord récupérer leurs dés d'action en parlant avec les habitants du Rempart."
+      ],
       "actions": []
     },
     {
       "id": "002",
       "title": "002",
       "text": "La soirée ne fait que commencer au Rempart. La garde de Tekotteh est élevée, mais avec les bonnes informations, il pourrait se fissurer comme un mur de pierre fragile.",
-      "information": [],
+      "information": [
+        "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
+      ],
       "actions": []
     },
     {
       "id": "003",
       "title": "003",
       "text": "Tout ce qui est exposé possède un bord tranchant, à l'exception de la jeune marchande d'armes elle-même, qui assemble joyeusement une lance sur son établi. Elle compte parmi les commerçants les plus accommodants que l'un des Maréchaux se souvienne d'avoir rencontrés.\n\nAvec allégresse, elle fait l'éloge de ses marchandises. Ce faisant, elle bavarde, sautant d'un sujet à l'autre. De quelle lame est la meilleure pour vider un Veilleur à sa passion pour les pièces de machinerie rares. Après avoir passé tant de temps avec ses compatriotes plus âgés et plus sévères, Rikitta savoure l'occasion de parler à quelqu'un de son niveau.",
-      "information": [],
+      "information": [
+        "Lisez la page 58 du Livre Narratif."
+      ],
       "actions": []
     },
     {
       "id": "004",
       "title": "004",
       "text": "Les Maréchaux lui montrent la pointe de la lance. Elle l'examine soigneusement de son œil d'expert. \"Le métal central est lisse. Probablement d'un Traqueur ? Vous pouvez le dire à la façon dont la lumière le frappe. Je ne sais pas à quoi sert cette partie rouillée. Elle déséquilibre l'ensemble de la pièce. C'est fait grossièrement aussi, comme si quelqu'un faisait des expériences...\"\n\nElle hausse les épaules en signe d'excuse. \"Désolée, je ne peux pas vous être d'une plus grande utilité. C'est étrange que vous me demandiez, cela dit. J'ai récemment fabriqué des lances en métal de Traqueur — en remplacement d'une cache volée dans une tour de stockage plus au nord.\" Elle se penche de manière conspiratrice. \"Ils ne voulaient pas dire vers quel avant-poste c'était destiné. Tekotteh voulait que ça reste 'confidentiel'.\" Drokkeh lève un sourcil. \"Mais ils ne m'ont pas dit de ne pas le dire aux Maréchaux.\" Elle hausse les épaules alors qu'elle retourne à son ouvrage.\n\nDes fournitures pillées, et Tekotteh veut garder cela secret. Une information utile.",
-      "information": [],
+      "information": [
+        "Récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
@@ -56,35 +67,48 @@
       "id": "007",
       "title": "007",
       "text": "La route jusqu'ici n'a pas été facile, et ce qui nous attend est inconnu. Ne sachant pas quand le groupe croisera un autre herboriste, les Maréchaux demandent à être soignés. Pendant que les soldats blessés patientent dehors, le guérisseur se tourne vers chacun des membres du groupe. Il fait de son mieux compte tenu de la rareté des fournitures.\n\nBialla tente de poser une question au moment où le dernier cataplasme est appliqué sur une blessure à son bras, espérant glaner quelque information utile, mais l'herboriste secoue la tête. \"Je n'ai pas le temps de répondre aux questions. Vous avez fini, et je dois voir ce que je peux faire pour l'escouade. C'est à leur tour maintenant.\"\n\nSur ce, les Maréchaux sont congédiés.",
-      "information": [],
+      "information": [
+        "Chaque personnage récupère tous ses points de vie, soigne 2 blessures et gagne 2 potions de soin.",
+        "Les personnages peuvent soigner des blessures supplémentaires en défaussant 5 Éclats de Métal pour chacune."
+      ],
       "actions": []
     },
     {
       "id": "008",
       "title": "008",
       "text": "Ces soldats ont besoin d'aide. Ils en ont besoin maintenant. Et les Maréchaux décident que les soldats en ont plus besoin qu'eux-mêmes. C'est Bialla qui l'annonce à l'herboriste.\n\nIl semble sincèrement pris de court. \"Merci, Maréchale. Ce n'est pas souvent que les personnes en position d'autorité sont prêtes à se mettre de côté pour les autres. Mais j'insiste pour que vous preniez au moins quelque chose.\" Il s'adoucit l'espace d'un instant et secoue la tête. \"Le Commandant s'est démené pour maintenir les patrouilles complètes. Tuer des machines est une priorité par rapport à la cueillette de baies... je suppose. C'est avoir la vue courte. Et avec toutes ces histoires d'escouades disparues...\"\n\nL'un des blessés crie de douleur, et l'herboriste se précipite à ses côtés avant qu'il ne puisse finir sa phrase.\n\nLes Maréchaux remarquent la mention de soldats absents.",
-      "information": [],
+      "information": [
+        "Chaque personnage récupère 7 points de vie, soigne une blessure et gagne 2 potions de soin.",
+        "Les personnages peuvent soigner des blessures supplémentaires en défaussant 2 Éclats de Métal pour chacune.",
+        "Récupérez un dé d'action."
+      ],
       "actions": []
     },
     {
       "id": "009",
       "title": "009",
       "text": "L'étape suivante est le quartier-maître. Quelqu'un qui sait où va chaque lance et où est rangée chaque flèche. Les Maréchaux le trouvent facilement. C'est un homme de petite taille et sobre, pas un cheveu de travers sur la tête, pas une tache sur son équipement. Dès que le groupe entre dans son repaire, la raison pour laquelle il occupe ce poste est évidente. Des armes aux rations sèches, tout est méticuleusement organisé. \n\nIl est occupé à compter des flèches, ajoutant une noix séchée dans un bol chaque fois qu'il atteint le nombre de dix. Entendant les Maréchaux, il lève les yeux. \"Un, deux, trois, quatre Maréchaux.\" Apercevant Nagallo, il offre un mince sourire. \"Nagallo. Tu viens réclamer notre vieille dette d'Attaque ? Je croyais y avoir échappé.\"\n \nC'est suffisant pour tirer Nagallo de sa rêverie sombre l'espace d'un instant.",
-      "information": [],
+      "information": [
+        "Si Nagallo est le chef de l'escouade, gagnez 3 Eclats de Métal."
+      ],
       "actions": []
     },
     {
       "id": "010",
       "title": "010",
       "text": "La réaction du quartier-maître face à la lance est instantanée. Pas de manière suspecte, il s'agit simplement de la réaction immédiate de quelqu'un qui s'intéresse davantage à la logistique de la chose qu'à l'histoire qui l'accompagne.\n\n\"Cette lance est d'un modèle standard. Mais le bois — ça me dit qu'elle provient d'un campement éloigné.\" Il fait une pause d'un instant. \"Nous avons pourtant récemment réquisitionné un lot de lances exactement comme celle-ci. La rumeur dit qu'un avant-poste a été pillé.\" Les Maréchaux lui demandent s'il en sait plus, et il fronce les sourcils. \"Je m'approvisionne en matériaux dans les bonnes quantités et du bon type, et je les envoie à des endroits. Pourquoi on en a besoin ne me regarde pas. Je n'accorde pas beaucoup de crédit à quoi que ce soit que je ne puisse vérifier par moi-même.\"\n\nIl n'est pas disposé à en dire plus, et les Maréchaux sentent qu'il regrette d'en avoir déjà dit autant. Le groupe prend note de la nouvelle d'un dépôt de fournitures pillé : cela pourrait s'avérer utile pour faire pression sur Tekotteh.",
-      "information": [],
+      "information": [
+        "Récupérez un dé d'action."
+      ],
       "actions": []
     },
     {
       "id": "011",
       "title": "011",
       "text": "\"Je ne me souviens de personne avec cette cicatrice. Pourtant, j'ai vu pas mal d'encre du Siège à mon époque.\" Le quartier-maître s'interrompt un instant, s'assurant que personne d'autre ne se trouve à proximité. \"Si j'étais Maréchal, je me préoccuperais moins de la vieille garde et davantage de la jeune. Il en manque quelques-uns au Rempart, c'est certain, et —\" Il hésite avant de reprendre. Il jette un regard à chacun des Maréchaux, l'un après l'autre. Finalement, il soupire.\n\n\"Il y a eu beaucoup de... rumeurs, récemment. Encore une fois, rien d'inhabituel. Juste beaucoup plus qu'avant. Chaque soldat qui passe par ici semble avoir de quoi se plaindre. Plus de patrouilles par unité doit signifier que nous faisons face à plus de machines. Ou... nous avons moins de combattants.\"\n\nIl regarde un lot de lances groupées, emballées et prêtes à partir. \"Il y avait des murmures. Au sujet d'un avant-poste dans le nord où il ne restait pas assez de soldats pour patrouiller. Des ragots, tout au plus.\"\n\nL'information n'est pas énorme pour confronter Tekotteh, mais c'est déjà ça.",
-      "information": [],
+      "information": [
+        "Récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
@@ -98,7 +122,9 @@
       "id": "013",
       "title": "013",
       "text": "Bialla s'avance, laissant ses pas résonner lourdement, les épaules rejetées en arrière comme si elle pénétrait dans la fosse de mêlée. \"Quand vous aurez fini de glousser comme des enfants avec leurs premières lances en jouet, peut-être pourrez-vous répondre à quelques questions.\"\n\nLes soldats se retournent pour se retrouver face à l'armure bleue et jaune des élus d'Hekarro. Ils ravalent leurs mots, et leurs poings se desserrent pour offrir des saluts. La plus sobre d'entre eux se tient de travers en parlant au nom du groupe. \"Nos excuses, Maréchale. Nous passions juste... notre chasse à l'eau. En quoi pouvons-nous vous aider ?\"\n\nBialla décrit la soldate rebelle qui a été trouvée dans les Basses Terres. Elle avait environ leur âge. Balafrée et marquée à l'encre du Siège des Versants. Elle pourrait être passée ici récemment.\n\n\"Je ne peux pas dire que je la connais. Mais nous voyons le genre. Beaucoup de ceux qui ont tenu le plus longtemps n'aimaient pas beaucoup plier le genou devant le Chef.\" Un murmure d'approbation se fait entendre. \"Mais nous avons notre honneur. Un traître est un traître, que vous me le demandiez ou à n'importe qui d'autre autour de ce feu.\" Le groupe rugit en signe d'accord et engloutit ses boissons.\n\n\"Encore désolée. Nous avons couvert plus de patrouilles avec moins de main-d'œuvre. Je jure que nous sommes moins nombreux de jour en jour. Et si vous interrogez le Commandant à ce sujet... Eh bien, vous le regretterez.\"\n\nLes Maréchaux échangent des regards. Tekotteh essaie de garder secrète la disparition des soldats.",
-      "information": [],
+      "information": [
+        "Récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
@@ -112,14 +138,18 @@
       "id": "015",
       "title": "015",
       "text": "\"Écoutez, si vous voulez savoir ce qui se passe vraiment, ne demandez pas à ceux d'en haut,\" suggère Rikitta d'un signe de tête vers la fosse de mêlée. \"Allez parler aux plus jeunes. Tellement novices qu'ils ignorent ce qu'ils ne devraient pas dire.\"\n\nBialla sourit, \"Tu n'es pas beaucoup plus vieille que certains de ces cadets, Rikitta. Ou as-tu traîné avec nous, vieilles carcasses, depuis si longtemps que tu as oublié ?\" La jeune Maréchale lui sourit en retour. \"Peut-être. Allez, venez, avant qu'ils ne s'entretuent avec ce maniement de lance de débutant.\"\n\nEn s'approchant, les Maréchaux surprennent des vantardises habituelles, bien que centrées sur un sujet un peu moins courant. \"Eh bien, ce n'est pas une surprise que Patarro ait été réaffecté. Il était inutile à la lance et à l'arc. Il aurait pu se débrouiller contre le reste d'entre vous, mais moi je l'aurais taillé en pièces.\" Des protestations fusent contre celui qui parle, mais alors qu'elles s'estompent, un autre jeune intervient. \"Il était aussi utile qu'une lame d'entraînement face à un Gueule-d'orage. On est mieux sans lui... et sans ses précieux tissages.\"\n\nLes voix s'arrêtent net alors que le groupe aperçoit les Maréchaux.",
-      "information": [],
+      "information": [
+        "Récupérez la carte d'investigation 'Patarro'."
+      ],
       "actions": []
     },
     {
       "id": "016",
       "title": "016",
       "text": "\"Patarro, hein ? Que lui est-il arrivé ?\" demande Rikitta, favorisant le cadet d'un sourire ironique.\n\n\"Où lui est-il arrivé, plutôt.\" La voix du cadet n'est qu'un faible couinement alors qu'il jette des regards entre elle et Nagallo, la forte carrure du grand Maréchal l'intimidant manifestement. Il poursuit : \"Eh bien, il a été envoyé au nord. C'était un boulet, Maréchale. Très honnêtement, on est mieux sans lui.\"\n\n\"Il était un cadet, comme vous alors ?\" intervient Nagallo, brisant finalement son silence.\n\nLa recrue hoche la tête. \"Il a réussi la Marche des Dix — de justesse. La seule arme qu'il ait jamais cherché à maîtriser, c'était une aiguille de couturier.\"\n\n\"Et c'est tout ce que tu sais ?\"\n\nNouveau hochement de tête. Nagallo se tourne vers ses compagnons. \"Ils doivent parler des avant-postes frontaliers. C'est l'affectation qu'on reçoit si l'on contrarie le mauvais chef de patrouille. Si ce Patarro a leur âge, il est de toute façon trop jeune pour être notre soldat. Ce n'est pas notre problème.\"\n\nLes Maréchaux s'éloignent de l'arène de combat tandis que Bialla secoue la tête : \"Les affectations punitives, c'est ainsi que les chefs faibles gagnent le respect. Dissimuler leurs problèmes. Chercher à pousser à la désertion des soldats qui pourraient être aidés. Hekarro n'approuverait pas de telles pratiques.\"\n\nC'est un point à soulever avec Tekotteh.",
-      "information": [],
+      "information": [
+        "Récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
@@ -133,35 +163,50 @@
       "id": "018",
       "title": "018",
       "text": "Il règne une atmosphère de désespoir autour de Gerrah, les épaules affaissées par la déception, comme si une bataille qu'elle aurait livrée à maintes reprises s'achevait enfin, et qu'elle se trouvait du côté des perdants. Drokkeh s'approche en maintenant ses distances. Gerrah n'est peut-être pas d'accord avec Tekotteh, mais elle appartient au Rempart, et il n'est dans l'intérêt de personne de compromettre sa position ici. Elle ne s'exprimera pas contre lui. Pas ici. Pas maintenant.\n\nDrokkeh se glisse hors de la lumière des torches, se faufilant dans les coins sombres alors qu'il rattrape Gerrah et son camarade. Une grande partie de ce qui est dit n'a aucune importance, mais Gerrah mentionne néanmoins une information avec laquelle Drokkeh pourra repartir.\n\n\"Tekotteh ne se rend pas service en n'aidant pas les Maréchaux d'Hekarro. Et par peur de quoi ? De paraître faible ? La disparition des soldats atteint des proportions jamais vues depuis les Guerres des Clans...\" La vieille femme crache les mots avec un dégoût évident. \"Le Rempart se dresse avec force, et sera toujours. Jusqu'à ce qu'il se trouve vide.\"\n\nIl semble qu'il y ait des dissensions au Rempart, et c'est la preuve que des soldats disparaissent. Une information utile.",
-      "information": [],
+      "information": [
+        "Récupérez un dé d'action.",
+        "Si Drokkeh est le chef de l'escouade, récupérez un dé d'action supplémentaire."
+      ],
       "actions": []
     },
     {
       "id": "019",
       "title": "019",
       "text": "La vendeuse d'armes repéra immédiatement l'imposant trophée qui dépasse du sac de Nagallo. \"Est-ce que c'est... provenant d'un Frappe-défenses ?\" L'étonnement est perceptible dans sa voix.\n\n\"Je vous l'échange — contre tout ce que vous voulez. Attendez ! Mieux encore, je peux transformer ça en la plus belle des armes, digne des Dix !\"\n\nLes Maréchaux échangèrent un regard, résumé par le haussement d'épaules indifférent de Drokkeh. Rikitta déballa soigneusement la pièce et la tendit à la marchande, qui la prend presque avec vénération.\n\n\"Oh, par le sang des Dix, merci ! Vous ne serez pas déçus !\"",
-      "information": [],
+      "information": [
+        "Récupérez une carte \"arme\" LVL 2 dans la boîte et ajoutez-la à la sacoche de n'importe quel personnage."
+      ],
       "actions": []
     },
     {
       "id": "020",
       "title": "020",
       "text": "Trop de rumeurs, de coïncidences et de regards en biais pendant le passage des Maréchaux dans le campement. Le groupe a passé un long moment dans le Rempart, et il est clair pour les Maréchaux que, même si Tekotteh tient fermement son pouvoir et que son apparence reste implacable, le Clan du Ciel n'échappe pas aux défis que rencontrent tous les autres clans. En effet, ses méthodes de commandement pourraient bien aggraver ces problèmes.\n\n\"Le matin venu, ce sera le moment,\" déclare Bialla. \"Les tyrans comme Tekotteh détestent passer pour des imbéciles. La question est de savoir si nous en savons assez, ou si nous pouvons prétendre en savoir assez, pour le déstabiliser.\" Elle regarde autour d'elle. \"Et lequel d'entre nous s'en chargera ?\"",
-      "information": [],
+      "information": [
+        "Choisissez quel Maréchal parlera avec Tekotteh et il deviendra le chef de l'escouade."
+      ],
       "actions": []
     },
     {
       "id": "021",
       "title": "021",
       "text": "Faire irruption dans le repaire de Tekotteh et dénoncer son commandement n'est pas l'arme la plus diplomatique de l'arsenal des Maréchaux, mais c'est un risque calculé. Plus que tout, les Tenakths respectent la confiance et la force. Même la moindre fissure dans le mur de Tekotteh pourrait le faire s'effondrer.\n\nAu moment où les Maréchaux entrent avec fracas et s'adressent au Commandant du Clan du Ciel, un silence tombe sur le petit groupe fanfaron qui l'entoure. Même l'arrogance de Tekotteh vacille alors que, l'espace d'un instant, il perçoit clairement la menace représentée par les Maréchaux face à sa faible autorité.\n\nPuis, cela passe. Sa mâchoire se referme d'un coup sec, et il se penche en avant sur son siège. Ses subordonnés, eux aussi, se tournent vers le groupe. Tous les yeux dans la salle d'audience sont fixés sur les Maréchaux.\n\n\"De retour, je vois ? Vous avez un arc long fracassé à brandir ? Un heaume rouillé que je devrais identifier ? Avez-vous aimé courir comme des rats dans ma demeure ?\" Il se penche, un sourire en coin dessiné sur son visage. \"Dites-moi. Qu'avez-vous trouvé ?\"",
-      "information": [],
+      "information": [
+        "Vous recevez un avantage différent pour le jet d'action selon le Maréchal qui est le chef de l'escouade.",
+        "Drokkeh - Aucun avantage.",
+        "Bialla - Vous pouvez relancer un ou plusieurs dés orange.",
+        "Nagallo - Vous pouvez relancer un ou plusieurs dés bleus.",
+        "Rikitta - Vous pouvez relancer le dé noir."
+      ],
       "actions": []
     },
     {
       "id": "022",
       "title": "022",
       "text": "Les Maréchaux présentent leurs découvertes à Tekotteh. Il tente de dissimuler ses réactions, de garder un visage impassible. Pourtant, les Maréchaux peuvent voir leurs mots ébranler sa résolution. Il réajuste sa posture continuellement. Il y a un murmure grandissant parmi ses officiers. L'argument semble avoir touché un point sensible.\n\nLe Commandant lève la main. \"Silence.\" D'un geste de la main, il fait se disperser ses partisans hors de la chambre avant de s'adresser seul aux Maréchaux.\n\nUn silence tendu règne dans la pièce jusqu'à ce qu'il prenne la parole. \"Vous ne savez pas ce que c'est de commander un clan.\" Les yeux rancuniers de Tekotteh vont d'un Maréchal à l'autre. \"Vous remettez en question ma maîtrise de la situation dans le Rempart et au-delà, mais je sais tout. Je sais pour les soldats disparus. Pour les réserves d'armes pillées. Tout comme je sais que cette lance vient presque certainement de Crête Frissonnante.\" Nagallo hoche la tête au groupe, confirmant qu'il connaît l'avant-poste.\n\nTekotteh se lève de son siège et descend lentement l'estrade vers les Maréchaux. \"Quant à ces... défis. Ils peuvent menacer le Clan du Ciel, mais nous les surmonterons. Seuls. Nous ne recevons de l'Anneau que des exigences. Des soldats. Des armes. Des représentants à des ambassades sans valeur. Pendant ce temps, la menace des machines s'aggrave, et la nielle rouge grimpe sur nos montagnes. Je n'ai pas besoin de votre aide dans le nord glacial, mais si vous souhaitez y errer, soyez mes invités.\"\n\nAlors qu'un Tekotteh voûté et vaincu s'apprête à quitter sa chambre, Nagallo prend la parole, une force perdue de nouveau présente dans sa voix. \"Les élus d'Hekarro apprécient votre soutien, Commandant. Il est clair que votre formidable leadership a mené la tribu à la position stable dans laquelle elle se trouve aujourd'hui.\"\n\nLe soleil est encore haut lorsque les Maréchaux prennent le treuil pour descendre du Rempart, chaque grincement de l'engin de bois leur rappelant agréablement que Tekotteh s'éloigne de plus en plus du groupe.",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le pion bleu."
+      ],
       "actions": []
     },
     {
@@ -191,21 +236,27 @@
       "id": "026",
       "title": "026",
       "text": "Les survivants s'agglutinent autour des Maréchaux. Meurtris et désorientés, plusieurs d'entre eux sont affaiblis par la perte de sang. Le soldat à la jambe cassée s'approche en claudiquant, soutenu par une lance. \"Nous n'avons pas réussi à réduire le nombre de machines\", explique l'homme plus âgé, la joue maculée de sang provenant d'une entaille au-dessus de son œil gauche. \"Nous avons des difficultés depuis les désertions. Vraiment, nous perdions l'espoir que Tekotteh envoie le moindre soutien.\"\n\nLes Maréchaux échangent des regards. \"Oui. Tekotteh nous a, en effet, envoyés.\" Nagallo s'éclaircit la gorge. \"Il a dit que vous pourriez aussi nous aider à répondre à quelques questions.\"",
-      "information": [],
+      "information": [
+        "Les personnages gagnent :\n2 Éclats de Métal par villageois survivant. 1 Éclat de Métal par joueur y ayant participé.\n6 ressources de votre choix parmi : Flambée, Eau de refroidissement et Lumétincelle.\nLa carte de rencontre secondaire 5.\nChaque personnage gagne 1 carte d'action."
+      ],
       "actions": []
     },
     {
       "id": "027",
       "title": "027",
       "text": "Juste au moment où le combat semble tourner au désavantage des Maréchaux, une rafale de flèches s'abat sur les machines restantes. Plusieurs soldats se tiennent au sommet d'une tour de guet, l'arc levé. C'est parce que les Maréchaux ont affaibli les Traqueurs et attiré leur attention que les soldats en poste à Crête Frissonnante ont pu reprendre l'avantage et achever le combat, sauvant ainsi le groupe à leur tour.\n\nLes survivants s'agglutinent autour des Maréchaux. Meurtris et désorientés, plusieurs membres du groupe sont affaiblis par la perte de sang. \"Il semble que nous nous soyons entraidés aujourd'hui. Sincèrement, nous perdions l'espoir que Tekotteh nous envoie du renfort.\"\n\nLes Maréchaux échangent des regards. \"Oui. Tekotteh nous a effectivement envoyés.\" Nagallo s'éclaircit la gorge. \"Il nous a dit que vous pourriez aussi nous aider à trouver des réponses à quelques questions.\"",
-      "information": [],
+      "information": [
+        "Les personnages gagnent :\nSi la rencontre a échoué car les pions villageois ont été retirés, gagnez 5 Éclats de Métal. Sinon, le personnage qui est tombé inconscient récupère 5 PV et gagne une potion de soin.\nLa carte de rencontre secondaire 5.\nChaque personnage gagne 1 carte d'action."
+      ],
       "actions": []
     },
     {
       "id": "028",
       "title": "028",
       "text": "Les maigres survivants à Crête Frissonnante sont reconnaissants de l'aide des Maréchaux. Ils répondront volontiers à toutes leurs questions.",
-      "information": [],
+      "information": [
+      "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
+      ],
       "actions": []
     },
     {
@@ -219,7 +270,9 @@
       "id": "030",
       "title": "030",
       "text": "\"Vous avez parlé... de désertions ?\" s'enquiert Rikitta.\n\nL'homme hoche la tête. \"Il y a ici une vie solennelle pour ceux qui choisissent de l'embrasser. Au petit matin, du haut de notre tour de guet, vous ne trouverez rien d'autre que du ciel et de la neige dans toutes les directions. C'est une paix qui ne ressemble à aucun autre endroit sur les Terres des Clans. Mise à part les machines, bien sûr.\"\n\nIl se laisse glisser sur un rocher voisin, soulageant sa lance de son poids et poussant un gémissement. \"Mais beaucoup sont envoyés ici en guise de punition et attendent une relève qui ne vient jamais. Certains ont soif de bataille, et il y a rarement des escarmouches dignes d'être encrées sur la peau. D'abord, quelques-uns ont disparu. L'œuvre des machines, pensions-nous. Puis d'autres. Certains sont partis alors qu'ils n'étaient même pas en patrouille.\"\nIl y a dans la voix de l'homme un véritable chagrin caché derrière son stoïcisme. \"Une nuit... nous avons perdu l'équivalent de trois patrouilles. Ils ont pillé la réserve d'armes avant de partir.\" Un petit sourire de consolation apparaît sur son visage. \"Heureusement, ils n'ont pas pillé tout ce que Hassak nous avait apporté.\"\n\n\"Hassak ?\" relance Bialla.\n\n\"L'un des vôtres !\" Il désigne Drokkeh. \"Nous avons trouvé cela étrange, aussi. Je n'ai jamais considéré Crête Frissonnante comme le genre d'endroit où un marchand s'arrêterait. Certainement pas un qui vient du désert.\"\n\n\"Et il est arrivé juste avant que les disparitions ne commencent ?\" La suspicion dans la voix de Bialla est manifeste.\n\n\"Pour être honnête, nous avons été surpris. Mais nous avons si peu d'occasions de commercer que nous n'y avons pas réfléchi à ce moment-là. Il semblait être un soldat chaleureux et dévoué. Et généreux avec sa liqueur. Il nous racontait des histoires de ses voyages. Mais maintenant que vous le dites, sa présence était... étrange.\" L'homme fronce les sourcils. \"Il nous a dit qu'il était basé à Étendues du Coureur si jamais nous passions par là... dans une ruine avec une flèche.\"",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le pion vert."
+      ],
       "actions": []
     },
     {

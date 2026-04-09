@@ -14,7 +14,11 @@
       "id": "001",
       "title": "001",
       "text": "Après des jours de marche dans les dunes, l'ascension d'une pente rocheuse est une ultime épreuve épuisante. Le feu de camp de l'Abri semble ne pas avoir été utilisé depuis un certain temps, et les Maréchaux sont rassurés de constater que la réserve de l'abri n'a pas été fouillée. Le soulagement, cependant, est de courte durée, car en jetant un coup d'œil au-dessus d'une crête voisine, le toit d'une tour de guet confirme qu'ils ont presque atteint le camp.\n\nLes Maréchaux fouillent la Réserve, à la recherche de tout ce qui pourrait les aider dans leur périple.\n\n******\nPause \n******\n\nEnsuite, ils se dirigent vers un grand contrefort dans la direction de la tour de guet. Ce qui les attend est une vision troublante : un grand campement s'étalant en contrebas.",
-      "information": [],
+      "information": [
+        "Chaque personnage récupère 7 PV.",
+        "Soignez 1 blessure.",
+        "Lisez la page 92 du Livre Narratif."
+      ],
       "actions": []
     },
     {
@@ -56,7 +60,18 @@
       "id": "007",
       "title": "007",
       "text": "Les Maréchaux n'ont pas encore été repérés — il est encore temps de recueillir des informations.",
-      "information": [],
+      "information": [
+        "Il y a quatre options d'investigation. Chacune nécessite qu'un Maréchal y soit assigné.",
+        "Un Maréchal ne peut investiguer qu'une seule option - une fois assigné, il ne peut pas investiguer d'autre option jusqu'à la fin du chapitre.",
+        "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau.",
+        "Pendant cette investigation, certains résultats peuvent rendre les rebelles plus conscients de la présence des Maréchaux. Prenez l'un des cadrans de points de vie des ennemis et réglez-le sur la valeur correspondant au Maréchal chef de l'escouade.",
+        "- Drokkeh : 0",
+        "- Rikitta : 1",
+        "- Bialla : 2",
+        "- Nagallo : 3",
+        "Utilisez ce cadran pour suivre la pression de révélation que subissent les Maréchaux. Lorsque l'investigation est terminée, les joueurs seront dirigés vers une entrée correspondant à cette pression.",
+        "Si vous possédez une carte d'investigation 'Survivant du Recrutement', vous pouvez la défausser pour réduire la pression jusqu'à 3."
+      ],
       "actions": []
     },
     {
@@ -84,14 +99,18 @@
       "id": "011",
       "title": "011",
       "text": "Elle trouve une combinaison qui fonctionne alors que le loquet de la porte saute, et elle est récompensée par le grincement de la porte de l'enclos qui s'ouvre. Le Frappe-Défenses à l'intérieur n'attend pas, sortant immédiatement de sa captivité et dévalant le camp en direction de la porte ouverte.\n\nBialla regarde à l'intérieur de l'enclos. Il y a un cadavre de rebelle plus au fond, écrasé contre le métal inflexible — probablement l'un des dresseurs qui s'est retrouvé pris au piège avec une machine mortelle et imprévisible. À côté du corps, elle trouve de la ferraille.",
-      "information": [],
+      "information": [
+        "Bialla gagne une flambée."
+      ],
       "actions": []
     },
     {
       "id": "012",
       "title": "012",
       "text": "Elle ne trouve jamais la combinaison, et pire encore, perdue dans sa tentative de résoudre le puzzle, elle attire l'attention du Frappe-Défenses. Un ronflement bruyant est son seul avertissement alors que la machine se jette sur les barreaux.\n\nL'impact la projette au sol, et tandis que Bialla retrouve péniblement son sang-froid, elle entend des soldats approcher. Avant d'être repérée, elle se glisse de nouveau dans les hautes herbes, retournant au point de rendez-vous les mains vides.",
-      "information": [],
+      "information": [
+        "Ajoutez 2 de pression."
+      ],
       "actions": []
     },
     {
@@ -112,7 +131,9 @@
       "id": "015",
       "title": "015",
       "text": "La patience et la main ferme de Drokkeh semblent porter leurs fruits, mais concentré sur sa tentative de forcer la serrure, il attire l'attention du Frappe-Défenses. Un ronflement sonore est son seul avertissement alors que la machine se jette contre les barreaux.\n\nLe choc projette Drokkeh au sol. Alors qu'il se redresse avec difficulté, il entend des soldats s'approcher. Immédiatement, il se glisse dans les hautes herbes et retourne au point de rendez-vous les mains vides.",
-      "information": [],
+      "information": [
+        "Ajoutez 3 de pression."
+      ],
       "actions": []
     },
     {
@@ -133,7 +154,9 @@
       "id": "018",
       "title": "018",
       "text": "Nagallo, utilisant toute sa force, tente une puissante dernière poussée, mais les pièces de bois restantes s'avèrent plus résistantes. Pire encore, ses efforts ont attiré l'attention du Frappe-Défenses. Un ronflement puissant est son seul avertissement avant que la machine ne se jette contre les barreaux.\n\nL'impact projette Nagallo au sol, et tandis qu'il se redresse difficilement, essuyant la poussière de son équipement, il entend des soldats approcher. Avant d'être repéré, Nagallo se glisse de nouveau dans les hautes herbes, retournant au point de rendez-vous les mains vides.",
-      "information": [],
+      "information": [
+        "Ajoutez 2 de pression."
+      ],
       "actions": []
     },
     {
@@ -154,14 +177,18 @@
       "id": "021",
       "title": "021",
       "text": "L'explosion est aussi petite et soigneusement contenue que Rikitta l'avait prévu, mais alors que le petit nuage de fumée se dissipe, le verrou a tenu bon. Soit elle a été trop parcimonieuse avec sa pâte, soit le loquet était plus solide qu'elle ne le pensait — quoi qu'il en soit, la cage reste fermée.\n\nPire encore, le bruit semble avoir attiré l'attention d'un garde éloigné. Avant de se faire repérer, Rikitta se faufile à nouveau dans les hautes herbes, regagnant le point de rendez-vous convenu avec les autres Maréchaux.",
-      "information": [],
+      "information": [
+        "Ajoutez 1 de pression."
+      ],
       "actions": []
     },
     {
       "id": "022",
       "title": "022",
       "text": "De l'intérieur, les enclos sont connectés, et c'est l'affaire de quelques instants que de libérer d'autres machines. Chacune d'entre elles suit le Frappe-Défenses, chargeant à travers puis loin du camp. Plusieurs gardes quittent leurs postes pour se lancer dans une poursuite désespérée.\n\nParmi les enclos interconnectés, l'un d'eux se démarque, plus profondément ancré dans l'enclave. Il est entouré d'échafaudages, et il est complètement vide. De gros troncs de bois aux extrémités aiguisées comme des lances pointent vers l'intérieur, placés de sorte que la machine captive ne puisse pas se libérer sans subir de dégâts. Les rebelles avaient des craintes concernant ce qu'ils gardaient ici, et à en juger par la large surface au sol et la hauteur des barricades, la machine devait être colossale.\n\nSi Hassak possède une arme de cette taille, la menace qu'elle représente est immense.",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le pion jaune."
+      ],
       "actions": []
     },
     {
@@ -182,14 +209,18 @@
       "id": "025",
       "title": "025",
       "text": "Tous les outils sont inconnus de Bialla — clairement le travail d'une autre tribu — mais des années de missions d'infiltration lui ont appris à identifier rapidement ce qui est important, En triant ce qui semble d'abord n'être que de la pacotille, elle finit par trouver. À côté d'une poignée d'Éclats de Métal, qu'elle empoche, Bialla découvre une pointe de Corrupteur rouillée ajustée à un support qui pourrait s'attacher à une lance réglementaire.\n\nSon esprit est ramené au Galop-griffes dans les Tracepluies et à la pièce de métal rouillé enfouie profondément dans le corps de la machine. Elle est certaine que les rebelles y étaient d'une manière ou d'une autre mêlés. C'est une information utile à rapporter à ses camarades Maréchaux.",
-      "information": [],
+      "information": [
+        "Bialla gagne 5 Éclats de Métal."
+      ],
       "actions": []
     },
     {
       "id": "026",
       "title": "026",
       "text": "Tous les outils sont inconnus de Bialla. Peut-être qu'un autre Maréchal aurait pu comprendre tout ce fatras. Dans sa recherche précipitée, elle cogne son coude contre un morceau détaché d'une pince de Testudien qui vacille sur le bord d'un établi.\n\nCelui-ci chute bruyamment. Réagissant rapidement, elle retourne en courant à travers l'espace ouvert, et se glisse dans les hautes herbes.\n\nUne paire de rebelles, couverts de suie et de sueur, émergent de l'atelier un instant plus tard. Alors qu'ils se tiennent là, confus, Bialla réalise que la seule chose qu'elle puisse faire est de retourner au point de rendez-vous, les mains vides.",
-      "information": [],
+      "information": [
+        "Ajoutez 3 de pression."
+      ],
       "actions": []
     },
     {
@@ -203,14 +234,18 @@
       "id": "028",
       "title": "028",
       "text": "Aucun des outils ne semble familier dans sa conception, chaque pièce étant beaucoup plus imposante et encombrante que tout ce qu'un Tenakth pourrait employer, ce qui est clairement l'œuvre d'une autre tribu. Cependant, le temps que Drokkeh a passé ici n'est pas perdu. L'espace de travail est également parsemé d'éclats précieux et de ressources utiles, qu'il s'empresse de récupérer.\n\nPuis il l'aperçoit, une pointe de Corrupteur rouillée ajustée à un support pour une lance réglementaire. Cela ramène ses pensées à la lance dans les Basses Terres et au Galop-griffes dans les Tracepluies avec la pièce de métal rouillé enfouie profondément dans son corps.\n\nIl est sûr que les rebelles étaient impliqués d'une façon ou d'une autre. C'est une information utile à rapporter aux Maréchaux.",
-      "information": [],
+      "information": [
+        "Drokkeh gagne 2 Éclats de Métal."
+      ],
       "actions": []
     },
     {
       "id": "029",
       "title": "029",
       "text": "Drokkeh fouille parmi les amas de boyaux de machines filamenteux et d'outils étrangers, mais est bientôt forcé d'admettre qu'il n'est tout simplement pas assez expérimenté pour savoir ce qu'il regarde ou ce qu'il cherche. Tout n'est que métal rouillé pour lui. Dans sa recherche pressante, il heurte de son coude un morceau détaché d'une pince de Testudien en équilibre sur le bord d'un établi.\n\nIl tombe au sol avec un fracas. Poussé par l'instinct, Drokkeh se dirige vers la sortie, et juste au bon moment. Une paire de rebelles jurant sortent de la pièce adjacente pour examiner le bruit tandis que Drokkeh s'échappe. Les rebelles fouillent l'atelier, et tout ce que Drokkeh peut faire, c'est retourner au point de rendez-vous.",
-      "information": [],
+      "information": [
+        "Ajoutez 2 de pression."
+      ],
       "actions": []
     },
     {
@@ -224,14 +259,19 @@
       "id": "031",
       "title": "031",
       "text": "Nagallo fouille et fouille encore. Il trouve même une poignée de précieux Éclats de Métal. Mais inspecter les pièces de la machine semble être une tâche impossible. Nagallo est sur le point d'admettre sa défaite lorsqu'une pensée soudaine lui vient à l'esprit : bien qu'il ne sache rien sur la récupération de machines, il connaît ses armes. Changeant l'orientation de sa recherche, il identifie rapidement une pointe de lance identique à celle qu'ils ont trouvée dans les Basses Terres.\n\nLa pointe de lance n'a pas encore été modifiée — la lame est encore plate et brute — mais un morceau d'un ancien Corrupteur repose à côté. L'esprit de Nagallo est ramené vers le Galop-griffes dans les Tracepluies et la pièce de métal rouillé enfouie profondément dans le corps de la machine.\n\nIl est sûr que les rebelles étaient impliqués d'une manière ou d'une autre. C'est une information utile à rapporter aux autres Maréchaux,",
-      "information": [],
+      "information": [
+        "Nagallo gagne 2 Éclats de Métal."
+      ],
       "actions": []
     },
     {
       "id": "032",
       "title": "032",
       "text": "Rien de tout cela n'a de sens pour Nagallo. Peut-être qu'un autre Maréchal aurait pu tirer quelque chose de tout ce bazar. Dans sa précipitation, il percute de son coude un fragment détaché d'une pince de Testudien qui menace de tomber du bord d'un établi.\n\nIl tombe avec un grand fracas. Réagissant rapidement, Nagallo saisit quelques débris qui pourraient lui être utiles et repart en courant à travers la cour à découvert. Pas un instant trop tôt, il se glisse dans les hautes herbes.\n\nUne paire de rebelles, couverts de suie et de sueur, émergent de l'atelier. Alors qu'ils se tiennent là, confus, Nagallo réalise qu'il ne peut que retourner au point de rendez-vous.",
-      "information": [],
+      "information": [
+        "Nagallo gagne 1 Éclat de Métal.",
+        "Ajoutez 3 de pression."
+      ],
       "actions": []
     },
     {
@@ -252,7 +292,9 @@
       "id": "035",
       "title": "035",
       "text": "Rikitta fouille parmi les enchevêtrements de tripes de machines métalliques et d'outils étrangers, aussi excitée qu'une recrue lors de sa première visite à l'armurerie. Elle pourrait passer la journée entière ici. Perdue dans son émerveillement, elle heurte accidentellement de son coude un morceau détaché d'une pince de Testudien en équilibre précaire sur le bord d'un établi.\n\nIl tombe au sol avec un fracas, et de manière instinctive, Rikitta se précipite vers la sortie, et juste au bon moment. Une paire de rebelles lâchant des jurons émergent de l'atelier juste au moment où elle se glisse dans les hautes herbes. Tandis que les rebelles continuent de chercher, tout ce que Rikitta peut faire, c'est retourner au point de ronde.",
-      "information": [],
+      "information": [
+        "Ajoutez 3 de pression."
+      ],
       "actions": []
     },
     {
@@ -287,7 +329,9 @@
       "id": "040",
       "title": "040",
       "text": "La flèche de Bialla vole droit, mais malheureusement, le garde bouge au dernier moment, et elle lui transperce l'épaule au lieu de la gorge comme prévu. Il crie de douleur, en s'agrippant à la flèche, alors que Bialla vise et l'achève d'un second tir. Son cadavre vacille incertainement avant de basculer de la plateforme.\n\nSes cris ont alerté une paire de rebelles, qui sont venus enquêter. Bialla ne peut que battre en retraite en sécurité. Elle devra retourner les mains vides au point de rendez-vous.",
-      "information": [],
+      "information": [
+        "Ajoutez 4 de pression."
+      ],
       "actions": []
     },
     {
@@ -308,7 +352,9 @@
       "id": "043",
       "title": "043",
       "text": "L'instinct de Drokkeh est bon, et lorsqu'il atteint la plateforme, il trouve le garde regardant dans la direction opposée. Cependant, alors que Drokkeh réduit la distance, le garde perçoit le mouvement du coin de l'œil et tourne sur lui-même, poussant un cri d'alarme.\n\nLa voix du garde s'éteint dans sa gorge un instant plus tard lorsque le couteau de Drokkeh ne fait qu'une bouchée de lui, mais il est trop tard. De ce point de vue privilégié, Drokkeh peut voir que d'autres rebelles sont en route.\n\nIl se glisse derrière les quartiers du chef et se laisse tomber silencieusement dans l'herbe rouge en contrebas. Ensuite, Drokkeh retourne au point de rendez-vous bredouille.",
-      "information": [],
+      "information": [
+        "Ajoutez 5 de pression."
+      ],
       "actions": []
     },
     {
@@ -322,14 +368,18 @@
       "id": "045",
       "title": "045",
       "text": "Le garde ne se doute de rien. Lorsque Nagallo atterrit sur la plateforme, la lance de l'homme est toujours à ses côtés, et il se tient affaissé, regardant le camp. Lorsqu'il aperçoit Nagallo du coin de l'œil, il est bien trop tard. Le Maréchal le maîtrise rapidement, écrasant la trachée du rebelle avec le manche de sa lance et balançant le corps sans vie dans l'herbe en contrebas.\n\nEnsuite, Nagallo se remet en mouvement, disparaissant dans les quartiers du chef.",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le pion rouge."
+      ],
       "actions": []
     },
     {
       "id": "046",
       "title": "046",
       "text": "Nagallo trouve le garde rebelle avec son arme tirée. Néanmoins, il charge le rebelle, prenant le dessus sur lui, mais pas assez vite. Le rebelle crie d'alarme avant que Nagallo ne lui brise la trachée avec la garde de sa lance. De ce point de vue privilégié, Nagallo peut voir que l'agitation a déjà alerté un groupe de gardes distants.\n\nMaudissant sa mauvaise fortune, Nagallo est contraint de battre en retraite avant d'enquêter dans les quartiers du chef. Il devra retourner les mains vides au point de rendez-vous.",
-      "information": [],
+      "information": [
+        "Ajoutez 2 de pression."
+      ],
       "actions": []
     },
     {
@@ -350,14 +400,18 @@
       "id": "049",
       "title": "049",
       "text": "Juste au moment où Rikitta est sur le point d'attraper une autre pierre, le garde crie, \"Hé !\" Deux autres rebelles, éloignés mais à portée de voix du poste élevé du garde, apparaissent de derrière une caserne voisine. \"Je crois avoir entendu quelque chose par ici ! Suis-je le seul à garder l'œil ouvert par ici ?!\"\n\nLa paire commence à fouiller la zone. Réalisant qu'elle ne peut pas rester là, Rikitta recule à travers l'herbe rouge. Elle retourne au point de rendez-vous bredouille.",
-      "information": [],
+      "information": [
+        "Ajoutez 1 de pression."
+      ],
       "actions": []
     },
     {
       "id": "050",
       "title": "050",
       "text": "L'intérieur s'avère bel et bien être les quartiers d'Hassak, si l'on en juge par les sacs et les vêtements de voyage suspendus dans un coin — ils sont identiques à ceux trouvés à Étendues du Coureur.\n\nLe reste tient davantage du guerrier accompli que du modeste marchand ou transporteur de marchandises. Des marques de la fosse de mêlée, des trophées de chasse, des armes et des armures jonchent l'espace, le lot typique d'un jeune soldat désespéré de prouver sa valeur et pas encore assez expérimenté pour savoir que la gloire s'achète avec du sang et non avec des babioles. Une grande partie de l'armure et des armes est barbouillée d'encre rouge, verte et noire.\n\nÀ l'arrière de la pièce se dresse une vision étrange, une sorte de sanctuaire. Les objets à l'intérieur semblent sans valeur. Une armure cabossée pend à côté de flèches usagées, et au centre de la collection, un arc brisé en deux est éclairé par la flamme d'une bougie. Une inspection plus minutieuse de l'encre sur l'arme révèle qu'il a appartenu à Regalla en personne.\n\nHassak a rassemblé l'équipement abandonné de sa cheffe. Il peut bien être totalement inutile au combat, mais pour ce subordonné dévoué, chaque objet abandonné est un précieux artefact. Cette collection n'est pas seulement déroutante, elle est aussi troublante.\n\nDes voix résonnent à proximité. Il est temps de partir. Un tas de baies médicinales attendent près de la porte, un prix généreux pour avoir réussi à accéder à ce sanctuaire intérieur. Hassak regrettera très vite de ne pas avoir ces provisions avec lui.",
-      "information": [],
+      "information": [
+        "Chaque personnage récupère 3 PV."
+      ],
       "actions": []
     },
     {
@@ -385,7 +439,9 @@
       "id": "054",
       "title": "054",
       "text": "Tandis que Bialla s'approche, les soldats ne remarquent rien. Mais un changement de direction du vent joue contre elle. Une rafale transporte vers elle l'odeur âcre et brûlante des barils d'acide. Elle ne peut retenir une toux douloureuse, ce qui attire l'attention des rebelles.\n\nC'est uniquement grâce aux disputes prolongées du duo pour savoir qui devrait enquêter sur le bruit que Bialla parvient à se glisser, inaperçue, dans les hautes herbes. Elle retourne au point de rendez-vous tandis que les rebelles continuent leurs recherches en vain.",
-      "information": [],
+      "information": [
+        "Ajoutez 1 de pression."
+      ],
       "actions": []
     },
     {
@@ -406,7 +462,9 @@
       "id": "057",
       "title": "057",
       "text": "Il est aussi furtif que l'on puisse l'être, mais un changement dans le vent joue en la défaveur de Drokkeh. Une rafale pousse l'odeur âcre des barils d'acide de son côté. Il ne peut étouffer la toux brûlante, et cela attire l'attention des rebelles.\n\nC'est uniquement parce que les deux se chamaillent longuement pour savoir qui devrait enquêter sur le son que Drokkeh peut se faufiler sans être repéré jusqu'aux hautes herbes. Il rentre au point de rendez-vous pendant que les rebelles continuent de chercher en vain.",
-      "information": [],
+      "information": [
+        "Ajoutez 2 de pression."
+      ],
       "actions": []
     },
     {
@@ -420,14 +478,18 @@
       "id": "059",
       "title": "059",
       "text": "C'est un flou de mouvements. Nagallo sprinte de couverture en couverture, puis s'engouffre dans la porte un instant plus tard. Il expire et regarde autour de lui. Il est dans une sorte de réserve, entouré de fournitures — nourriture, munitions, et même un râtelier de lances. Il décide de se servir pendant qu'il est là, puis retourne à sa tâche.\n\nMaintenant qu'il est plus proche, Nagallo peut entendre clairement les mots des rebelles.",
-      "information": [],
+      "information": [
+        "Nagallo gagne 3 Éclats de Métal."
+      ],
       "actions": []
     },
     {
       "id": "060",
       "title": "060",
       "text": "C'est un flou de mouvements. Nagallo court de couverture en couverture, mais avant d'atteindre la cabane, un cri déchire l'air.\n\n\"Hé ! Il y a quelqu'un là-bas ?!\"\n\nUn instant, Nagallo envisage d'éliminer les rebelles, mais les cris ont déjà suffisamment alerté le camp. Maudissant sa malchance, Nagallo est contraint de battre en retraite et de retourner au point de rendez-vous.",
-      "information": [],
+      "information": [
+        "Ajoutez 4 de pression."
+      ],
       "actions": []
     },
     {
@@ -448,7 +510,9 @@
       "id": "063",
       "title": "063",
       "text": "Le lancer de Rikitta est bien placé. La pierre heurte un haut morceau de métal avant de plonger bruyamment dans la boîte, où elle rebondit entre plusieurs autres pièces. Malheureusement, l'un des soldats a repéré la pierre en vol.\n\nIl se lève brusquement, la graisse de la patte de la volaille du désert qu'il mangeait étalée sur son visage. \"Il y a quelqu'un là-bas ?\" Il donne un coup de coude au soldat à côté de lui.\n\nCe n'est que grâce aux chamailleries prolongées des rebelles sur qui devrait examiner le bruit que Rikitta parvient à se glisser, inaperçue, dans les hautes herbes. Elle retourne au point de rendez-vous alors que les rebelles poursuivent leurs recherches en vain.",
-      "information": [],
+      "information": [
+        "Ajoutez 3 de pression."
+      ],
       "actions": []
     },
     {
@@ -469,7 +533,10 @@
       "id": "066",
       "title": "066",
       "text": "Chakka, le commandant en second d'Hassak, s'avance lourdement dans le champ de vision. Son armure lourde cliquette et racle à chaque pas. Il a l'allure lente d'un chef de patrouille qui aime exercer son autorité et observer les cadets sous ses ordres se contorsionner. \"Quel est le problème avec ce tas de ferraille ?\" Il crache sur le sol avant de s'agenouiller à côté du Frappe-Défenses. \"Vous deux l'avez bousillé, celui-ci ?\"\n\nLes recrues qui maîtrisaient la machine murmurent quelques excuses pendant que les Maréchaux discutent de ce qu'ils vont faire maintenant. \"Nous ne pouvons pas rentrer au Bosquet maintenant,\" murmure Bialla. \"Peu importe où Hassak se dirige, nous devons y arriver en premier et les avertir.\"\n\nNagallo observe le camp de près. \"Ils ne savent toujours pas que nous sommes là. Ça nous donne l'avantage. Je dis qu'on en élimine autant que possible, puis on fait chanter le second d'Hassak.\" Ses yeux dardent vers Chakka, dont la large carrure défie même celle du Frappe-Défenses en taille.\n\nLes Maréchaux échangent un regard, puis hochent la tête et se séparent pour trouver une position d'attaque.",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le pion bleu.",
+        "Ouvrez le Livre de Campagne à la page 18 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
@@ -483,21 +550,34 @@
       "id": "068",
       "title": "068",
       "text": "Les Maréchaux se sont bien battus, mais le nombre de rebelles était trop grand. Chakka a été blessé lors du combat et souffre visiblement. Mais c'est un Béhémoth parmi les lieutenants, et il se dresse au-dessus d'un Nagallo blessé.\n\nL'étrange construction en bois qui abrite le Frappe-Défenses est derrière Chakka, et il ne prête aucune attention à la machine qui s'agite à l'intérieur. \"Maréchaux. Ma récompense sera douce.\" Il lève sa lame, qui scintille sous l'insoutenable soleil du désert. \"Je vous livrerai à Regalla en morceaux.\"\n\nChakka est si satisfait de cette victoire qu'il n'a pas remarqué que Rikitta ne figure pas parmi les autres. Dans son dos, elle a rampé vers la construction en bois. La machine à l'intérieur est furieuse, et ses fils ne brillent ni d'un bleu constant ni d'un rouge, mais oscillent entre les deux, comme c'était le cas pour le Galop-griffes dans les Basses Terres.\n\nRikitta tire sur une chaîne sur le flanc de la construction et ouvre la cage, libérant ainsi ce Frappe-Défenses partiellement dompté. Il charge, percutant violemment Chakka, l'une de ses défenses transperçant son flanc avant de le jeter à terre.\n\nAlors que la machine se précipite vers la sortie, les Maréchaux se relèvent péniblement.",
-      "information": [],
+      "information": [
+        "Si vous possédez la carte d'investigation 'Missing Supplies', défaussez-la."
+      ],
       "actions": []
     },
     {
       "id": "069",
       "title": "069",
       "text": "Chakka chancelle, souffrant de multiples blessures. Haletant, il regarde autour de lui ses soldats tombés au combat, chacun devenu un cadavre immobile maculant le sable. Ses yeux, rétrécis à la fois par la douleur et une haine profonde et implacable, sont plus vivants que jamais, mais son corps lui fait défaut.\n\n\"Regalla. Vous. Tuera.\" rit Chakka. C'est un son hideux, un râle rauque tiré par une gorge ensanglantée. Bialla le réduit au silence d'un coup de pied dans l'estomac. \"Assez. Où va Hassak ? Quelle est la cible ?\"\n\nLe rebelle crache du sang en direction de la Maréchale, mais cela ne touche que la poussière. Nagallo le frappe au visage. \"Dis-nous ce que nous voulons savoir.\" Sa voix est grave et menaçante.\n\n\"Au moins, vous avez de la fougue.\" Chakka est méprisant mais grimace quand Nagallo lève son poing une nouvelle fois. \"La chute de Hekarro commencera sur les lieux de sa première victoire.\"\n\n\"Nous n'avons pas le temps pour des énigmes, vermine.\" Il frappe Chakka encore une fois. Bialla l'arrête. \"Assez.\"\n\n\"La première grande victoire de Hekarro a été contre l'ancien commandant du Clan des Basses Terres. Un combat à mort brutal pour décider de qui dirigerait notre clan. On dit que sa lame s'est brisée dans la mêlée, mais que le jeune chef de guerre a triomphé à mains nues.\" La voix de Bialla est solennelle. \"Hassak attaque Garde-Solitaire.\"\n\nNagallo acquiesce. \"C'est réglé. On se soigne et on se met en route, direction les Basses Terres.\" Il assène un coup final à Chakka, et le lieutenant s'effondre en saignant dans la poussière.",
-      "information": [],
+      "information": [
+        "Les personnages gagnent :",
+        "- Si la rencontre n'a pas échoué, gagnez 2 Éclats de Métal pour chaque personnage y ayant participé.",
+        "- La carte de rencontre secondaire 8.",
+        "- Chaque personnage gagne 1 carte d'action.",
+        "- Si la rencontre a échoué, le personnage évanoui récupère 7 PV.",
+        "- Si la rencontre a échoué, gagnez 2 potions de soin.",
+        "- Si Chakka a été vaincu durant la rencontre, chaque personnage gagne 1 carte d'action, 1 ressource élémentaire et 1 Éclat de Métal.",
+        "- Si le pion a atteint l'emplacement le plus élevé du piège du campement, chaque personnage gagne 1 ressource élémentaire."
+      ],
       "actions": []
     },
     {
       "id": "070",
       "title": "070",
       "text": "Un appel à l'aide désespéré résonne de l'intérieur d'une des structures. En entrant, Drokkeh découvre un prisonnier dans un petit enclos. Il porte l'armure du Clan des Basses Terres.\n\n\"Maréchaux ! Loués soient les Dix. Je suis sauvé !\" L'homme est faible, ses lèvres fendillées par la déshydratation, mais il sourit tout de même.\n\n\"Que faites-vous ici ?\" demande Bialla.\n\n\"Je suis affecté au quartier-maître de Marépine. Je transférais du matériel entre les avant-postes. Nous avons été attaqués sur la route.\" Sa voix est pleine d'amertume. \"Plusieurs responsables des vivres de la tribu se sont laissés persuader d'aider ces... rebelles. J'ai refusé de faire de la contrebande pour eux.\"\n\nLes Maréchaux hochent la tête, chacun se remémorant le quartier-maître peu coopératif qu'ils avaient rencontré à Marépine. Une fois leur mission achevée, il serait probablement de bon ton de lui rendre visite.\n\nDrokkeh crochète la serrure et libère l'homme. \"Merci. Maréchaux, je ne peux pas vous offrir grand-chose en remerciement, mais je peux vous montrer où ils stockent leurs réserves mal acquises.\"\n\nIl révèle aux Maréchaux l'endroit où ces vivres ont été dissimulées. Bien qu'une grande partie soit probablement en possession des forces de marche de Hassak, les Maréchaux prennent ce qu'ils peuvent porter. Chaque arc, flèche et lance récupérés auprès des rebelles est une bénédiction dans la lutte contre eux.",
-      "information": [],
+      "information": [
+        "Récupérez toutes les cartes de modification de tissu de la boîte, ajoutez-en une à la sacoche de n'importe quel personnage, puis remettez le reste."
+      ],
       "actions": []
     },
     {

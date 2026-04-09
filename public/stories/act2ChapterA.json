@@ -14,21 +14,29 @@
       "id": "001",
       "title": "001",
       "text": "L'approche de Gardefalaise par l'est rappelle l'exploit presque impossible que le Chef Hekarro a accompli en perçant les défenses du Clan du Ciel et en conquérant leurs montagnes bien gardées.\n\nLe chemin que suivent les Maréchaux traverse une gorge étroite. Des pieux martelés dans la pierre pointent vers le haut, et les parois rocheuses menaçantes sont enduites de sceaux de guerre. Tout en haut, des ponts enjambent l'étroit fossé, occupés par des soldats qui observent tous ceux qui le traversent. Il est trop facile d'imaginer comment, dans les temps anciens, des crânes étaient fracassés par des rochers lancés et des corps percés de flèches tirées par des assaillants invisibles. Heureusement, les Guerres des Clans sont terminées depuis longtemps.\n\nLe groupe continue d'avancer tandis que les murs se resserrent, le chemin devenant si étroit que même le soleil est masqué. Des torches éclairent la voie vers l'ouverture finale, un chaud pilier de soleil de fin d'après-midi au loin.\n\nNagallo émerge le premier dans le vaste creux où le campement de Gardefalaise est construit à flanc de montagne, surplombant les Basses-Terres. Les parois rocheuses de chaque côté du campement ont été sculptées et peintes dans les teintes du Clan du Ciel, pointes dentelées d'azur et de magenta. D'un côté du campement se trouvent une herboriste et deux vendeurs proposant leurs marchandises. L'un semble être le quartier-maître local ; l'autre est clairement une marchande itinérante. Son sac est grand, et elle frissonne sous une chaude cape à capuche pendant qu'elle travaille sur des bombes explosives avec une concentration totale.\n\nDes enfants dévalent les marches de pierre qui mènent à des passerelles en bois occupées par des gardes solennels qui se redressent à la vue des Maréchaux. Ils sont respectueux, bien qu'un soupçon de tension rappelle que de tous les clans, le Clan du Ciel est le plus replié sur lui-même.\n\nRikitta marche jusqu'au bord d'une plateforme en bois centrale s'étirant au-dessus des flancs de la montagne et contemple l'horizon illimité. Elle remarque un autre Maréchal se tenant à proximité, parlant doucement à un soldat local.\n\n\"Autant en profiter pendant que nous sommes là, non ?\" proclame Nagallo, d'humeur soudainement joyeuse. \"Se soigner. Faire des échanges. Poser des questions sur notre soldat disparu. Ou la lance. Nous avons de bonnes chances. La plupart passeraient par ici en descendant vers les Basses-Terres.\"\n\nBialla offre un demi-sourire. \"Peut-être que nous n'aurons même pas besoin d'aller jusqu'au Rempart ?\"\n\n\"Peut-être,\" sourit Nagallo.\n\nDrokkeh intervient : \"Nous devrions faire attention à qui nous révélons nos affaires.\"",
-      "information": [],
+      "information": [
+        "Ajoutez les cartes d'armure LVL 1, ainsi que toutes les cartes de modification, à la section disponible de la boîte."
+      ],
       "actions": []
     },
     {
       "id": "002",
       "title": "002",
       "text": "Gardefalaise reste animée et il vous reste amplement de temps pour profiter au maximum de votre escale ici.",
-      "information": [],
+      "information": [
+        "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la retenter. Vous pouvez rester aussi longtemps que nécessaire, bien que toutes les voies ne soient pas forcément avantageuses."
+      ],
       "actions": []
     },
     {
       "id": "003",
       "title": "003",
       "text": "\"Je n'ai pas besoin de potions. L'air de la montagne me maintient en bonne santé.\" se vante Nagallo alors que lui et Rikitta s'approchent de la structure à toit de toile où l'herboriste, une femme plus âgée, fait son travail. Ses mots portent suffisamment pour amener quelques locaux à se retourner et à le fixer.\n\nL'attention de l'herboriste reste sur le patient blessé devant elle. Une série de vilaines entailles s'étend sur son épaule gauche, et sa peau est poisseuse à cause de l'onguent appliqué sur les plaies. Nagallo lâche une grimace de dégoût à cette vue.\n\nRikitta réprime un petit rire devant l'inconfort de Nagallo, et les yeux de l'herboriste se tournent vers elle. L'ombre d'un sourire joue sur ses lèvres.\n\n\"Je ne suis pas sûre d'avoir quelque chose pour l'estomac fragile de votre compagnon, Maréchal, mais je pourrais avoir quelque chose pour vous aider dans vos voyages.\"\n\nAprès que les Maréchaux ont pansé leurs blessures, une pensée leur traverse l'esprit. La déserteuse du Clan du Ciel avec une cicatrice en forme de T a peut-être séjourné ici. Ils pourraient poser des questions à son sujet.",
-      "information": [],
+      "information": [
+        "Chaque personnage guérit jusqu'à son maximum de points de vie. Soignez 2 blessures.",
+        "Si Rikitta est la chef d'escouade, gagnez une potion de soin.",
+        "Les personnages peuvent soigner des blessures supplémentaires en défaussant 5 Éclats de Métal pour chacune."
+      ],
       "actions": []
     },
     {
@@ -42,7 +50,9 @@
       "id": "005",
       "title": "005",
       "text": "\"Vous tombez mal, mes amis,\" déclare le quartier-maître alors que les Maréchaux s'approchent. D'habitude, les vendeurs étalent leurs marchandises autour d'eux, une auréole d'outils, de bibelots et d'autres objets. Pourtant, en vous approchant de cet homme, vous voyez qu'il ne reste presque aucune marchandise. Cependant, parmi les rares options, les Maréchaux remarquent plusieurs lances de fabrication du Clan du Ciel.\n\n\"Que s'est-il passé ? Un Ferrailleur est passé par là ?\" Bialla offre une plaisanterie inhabituelle. Le quartier-maître rit, levant les mains en signe d'apaisement. \"Que puis-je dire ?\"\n\nTous deux marchandent un petit moment jusqu'à ce que, finalement, Bialla secoue la tête. \"Vous pouvez sûrement faire mieux que ça pour des Maréchaux.\"",
-      "information": [],
+      "information": [
+        "Lisez la page 44 du Livret Narratif."
+      ],
       "actions": []
     },
     {
@@ -56,7 +66,9 @@
       "id": "007",
       "title": "007",
       "text": "Un Maréchal seul est une scène peu commune dans la majeure partie des Terres des Clans. Un groupe de Maréchaux voyageant ensemble est encore plus rare. Pourtant, cette marchande, qui a emballé une quantité considérable de marchandises dans un grand sac, semble n'accorder aucune attention au groupe. Elle se concentre sur la fabrication de munitions pour sa Fronde Explosive — versant méthodiquement de la flambée dans des coques sphériques creuses. Elle est précise et prudente.\n\n\"Vous ne cherchez pas à commercer ?\" demande Nagallo. La femme lève les yeux de sa cape en peau de chèvre. Elle est épaisse et la protège des poudreries de neige qui soufflent dans ce recoin isolé du camp.\n\n\"Rien qui vaille la peine d'être vendu.\" Peut-être est-elle mal à l'aise quant à la façon de parler à un Maréchal — mais elle semble moins nerveuse que fuyante.\n\n\"Allons,\" dit Bialla, \"Nos fragments ont autant de valeur que ceux de n'importe qui d'autre. Et nous en avons quelques-uns à dépenser. Vous faites route quelque part ?\"\n\nLa marchande semble prête à refuser une seconde fois avant de se raviser. \"Pic-Gris,\" dit-elle alors qu'elle commence à déballer ses affaires et change de sujet pour parler des marchandises devant elle. Parmi elles, se trouvent plusieurs armes mais aucune lance ni pièce de machine ancienne.\n\n\"En fait, j'aimerais me remettre en route bientôt. Quand vous aurez terminé, bien sûr.\"",
-      "information": [],
+      "information": [
+        "Lisez la page 45 du Livret Narratif."
+      ],
       "actions": []
     },
     {
@@ -70,7 +82,9 @@
       "id": "009",
       "title": "009",
       "text": "\"En effet,\" répond Rikitta. \"Vous y allez aussi ?\"\n\n\"Non. J'en viens tout juste — un voyage sans encombre. J'espère qu'il en sera de même pour vous.\" Le ton de la marchande est devenu bien plus amical alors qu'elle se remet à sceller l'explosif sur lequel elle travaillait. \"Je dois retourner à mon travail.\"\n\nAprès avoir quitté la marchande, Drokkeh murmure à Rikitta : \"Les ordres du Chef ne sont pas pour toutes les oreilles.\"",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le jeton jaune."
+      ],
       "actions": []
     },
     {
@@ -84,7 +98,9 @@
       "id": "011",
       "title": "011",
       "text": "Le Maréchal sourit chaleureusement à l'approche du groupe. La moitié inférieure de son visage est peinte en bleu, et une bande d'un blanc pur et dentelé ondule à travers ses yeux. Son crâne est rasé de près. Nagallo s'avance, sa voix baissant notoirement de quelques octaves alors qu'il lance une salutation. \"Chekkatah !\"\n\n\"Sang des Dix ! J'ai entendu dire qu'il y avait eu un Kulrut fructueux. Hekarro a bien choisi.\" Le Maréchal considère le groupe. \"Et Tekotteh s'est enfin débarrassé du jeune Nagallo.\" La bouche de Nagallo reste entrouverte un instant avant que Chekkatah ne lui tape dans le dos pour le rassurer. \"Je plaisante, bien sûr.\"\n\n\"Nous allons justement voir Tekotteh.\" Nagallo rejette les épaules en arrière et bombe le torse. \"Pour des renseignements.\"\n\n\"Bien.\" Chekkatah hoche la tête. \"Le voyage vers le Rempart est périlleux. Les machines sont plus en colère et leurs nombres augmentent. Les terres se retournent aussi contre nous. Des blizzards une minute et une chaleur inhabituelle la suivante.\" Il soupire.\n\nSon compagnon, silencieux jusqu'ici, s'éclaircit la gorge. L'homme a les cheveux très ras et un froncement de sourcils impatient. Chekkatah lève la tête au garde-à-vous. \"Oh ! Oui. Toutes mes excuses, mais j'ai promis à Ikkotah ici présent de l'aider à dégager un troupeau de Fouisseurs avant mon départ pour le Bosquet.\"\n\n\"Le Maréchal doit se préparer pour une Ambassade avec les Carjas.\" Il y a un ton taquin dans la voix d'Ikkotah qui arrache un sourire timide à Chekkatah.\n\n\"Ces questions bureaucratiques prennent encore plus de temps à organiser qu'un plan de bataille. Et je fais confiance à ces Carjas autant qu'à mon lancer de l'un de ces Prêtres du Soleil aux panses de sanglier.\" Son visage devient sévère. \"Mais Hekarro ne nous a pas encore mal orientés.\"\n\n\"Je pense que tu serais plutôt élégant dans de la soie Carja, à siroter du vin à Meridian.\" Bien que les paroles d'Ikkotah relèvent de l'hérésie, ce n'est visiblement qu'une plaisanterie entre eux.\n\nChekkatah éclate de rire. \"Comme si tu pouvais te passer de moi à l'Est ! Je ne serais pas parti depuis une demi-journée que tu ferais envoyer un message pour qu'on me ramène afin de résoudre encore une 'urgence' à Gardefalaise.\" L'œil vif, il se tourne vers ses confrères Maréchaux. \"Maintenant, mes amis, avant que je ne vous quitte, y a-t-il autre chose ?\"",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le jeton vert."
+      ],
       "actions": []
     },
     {
@@ -105,21 +121,27 @@
       "id": "014",
       "title": "014",
       "text": "Le chemin depuis Gardefalaise est long et sinueux. Les Maréchaux montent sur une pente de plus en plus raide jusqu'à ce que l'air devienne assez froid pour laisser du givre sur leurs capes.\n\nIl règne une paix au milieu de ces crêtes élevées qui apaise même Nagallo, et ainsi le groupe marche en silence. Cela, jusqu'à ce que le chemin redescende et se rétrécisse en un profond ravin, et qu'un puissant gémissement métallique déchire les murmures du vent.\n\nUne grosse machine approche. Si vaste que la roche tremble sous les pieds des Maréchaux.\n\nAu-dessus, les montagnes se penchent comme si elles conspiraient pour encercler le groupe. Les Maréchaux avancent prudemment le long d'un virage dans le ravin en direction du son. Les défenses de la machine apparaissent en premier, d'un jaune éclatant, éclaboussées de sang rouge.\n\nUn Frappe-Défenses piétine la vallée en contrebas, des formes brisées d'une patrouille Tenakth éparpillées autour de sa carcasse énorme. La neige sous ses grands pieds a été réduite à une pulpe cramoisie.\n\n\"Bon sang.\" Nagallo évalue les alentours. \"Nous devrions grimper plus haut sur la corniche. C'est le seul moyen de contourner.\" Bialla aspire vivement de l'air entre ses dents. \"La falaise ici est peut-être de la pierre, mais plus haut, elle est recouverte de glace glissante.\"\n\n\"C'est peut-être vrai, mais c'est le meilleur moyen d'éviter cette machine. J'ai déjà vu un Frappe-Défenses poussé à bout.\" Le silence suit ces mots. L'imprudence de Nagallo ne cède généralement pas. Bialla examine le problème et repère une corniche plus près du sol. \"Là. Si nous parvenions à atteindre cette corniche à la place, nous aurions un meilleur point de vue. Nous pourrions affaiblir le mur de glace au-dessus de la machine et le faire s'effondrer dessus.\"\n\n\"Oui !\" s'exclame Rikitta, parvenant à peine à contrôler le volume de sa voix tout en claquant sa main dans la neige. \"Avalanche !\" Son enthousiasme scelle le plan. Les Maréchaux se retournent tous et se préparent à grimper sur la corniche.",
-      "information": [],
+      "information": [
+        "Si Drokkeh est le chef d'escouade, le jet nécessite une « flèche » supplémentaire pour réussir."
+      ],
       "actions": []
     },
     {
       "id": "015",
       "title": "015",
       "text": "Un par un, avec un mélange d'expérience, de force et d'obstination, les Maréchaux luttent pour atteindre le sommet de la corniche. Regardant vers le bas, le groupe observe le Frappe-Défenses lointain faire les cent pas dans le col de la montagne. Des bourrasques de neige tombent des hauteurs alors qu'il marche lourdement, secouant le ravin.\n\n\"La glace ne se brisera pas facilement. Elle est compactée,\" dit Nagallo en testant la stabilité du mur avec son pied. Rikitta sait déjà quoi faire. \"Nous pouvons la compromettre à quelques endroits. Ensuite, laissons le poids de la glace en suspension faire le reste.\"\n\nBialla approuve d'un signe de tête. \"D'accord, mais avec quoi allons-nous...\" Nagallo dégage le Lance-Piques de son épaule. \"... Je m'en occupe.\"",
-      "information": [],
+      "information": [
+        "Si Nagallo est le chef d'escouade, après avoir effectué le jet d'action, récupérez immédiatement l'un des dés lancés."
+      ],
       "actions": []
     },
     {
       "id": "016",
       "title": "016",
       "text": "Le travail de Nagallo est lent et étonnamment méthodique. Rikitta lui indique où viser ses piques à impact, et il fait de son mieux pour atteindre chaque section de la paroi glacée. Une par une, les piques percent le mur de glace, formant une ligne droite entre les Maréchaux et le Frappe-Défenses. La glace devient aussi blanche qu'une vague agitée, tandis que des fissures se répandent. Ce n'est pas encore suffisant pour faire s'écrouler le mur sur le Frappe-Défenses, mais c'est un début.\n\n\"Nous devons nous assurer que le Frappe-Défenses est en position quand nous déclencherons l'avalanche,\" dit Bialla. \"Je vais suivre sa trajectoire.\" Nagallo lève les yeux de sa tâche. \"Tu devras être plus près pour ça.\"\n\nBialla observe les mouvements de l'énorme machine un moment, puis répond sèchement. \"Ah. J'ai vécu assez longtemps.\"\n\nElle avance le long de la corniche, se rapprochant de la machine, à la recherche d'un point d'observation au-delà du virage où le Frappe-Défenses patrouille. Cependant, plus elle avance, plus le chemin se rétrécit. Elle se plaque contre la falaise alors que la corniche se réduit à peine à la largeur de ses bottes.\n\nBialla se retrouve dangereusement près de la machine, observant sa forme redoutable en contrebas, espérant ne pas être repérée.",
-      "information": [],
+      "information": [
+        "Si Bialla est la chef d'escouade, vous pouvez relancer n'importe quel nombre de dés pour ce jet d'action."
+      ],
       "actions": []
     },
     {
@@ -161,7 +183,10 @@
       "id": "022",
       "title": "022",
       "text": "Bialla observe aussi longtemps qu'elle ose, s'agrippant au mur, parfaitement immobile et tentant d'ignorer le froid mordant qui s'infiltre par son flanc. Il y a un motif dans les mouvements du Frappe-Défenses, et il se dirige droit sur elle. Avec chaque défense plus grande que n'importe quel soldat, le bord de la trajectoire de la machine l'amène à une proximité terrifiante de Bialla. Heureusement, sa patrouille l'éloigne avant qu'il ne la voie.\n\nElle rejoint bien vite ses compagnons avec le chemin mémorisé. \"C'est bon, nous sommes prêts. Redescendons sur la piste et lançons le piège.\" Les autres approuvent silencieusement, et Nagallo se retourne pour ouvrir la voie, constatant la descente abrupte qui les attend.",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le jeton bleu.",
+        "Si Nagallo est le chef d'escouade, récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
@@ -175,7 +200,9 @@
       "id": "024",
       "title": "024",
       "text": "\"Qu'est-ce que tu fais !?\" siffle Bialla.\n\n\"Cache de ravitaillement\", signale Rikitta en retour. \"Je récupère.\" Et avec un clin d'œil, elle a disparu.",
-      "information": [],
+      "information": [
+        "Si Rikitta est la chef d'escouade, récupérez 1 dé d'action et le test nécessite un « critique » de moins pour réussir."
+      ],
       "actions": []
     },
     {
@@ -189,7 +216,9 @@
       "id": "026",
       "title": "026",
       "text": "Sous les yeux impuissants de ses compagnons, Rikitta se balance habilement vers une autre corniche où elle accède à une cache de ravitaillement. Elle est nichée dans un creux naturel de la roche. Elle n'est recouverte que d'une fine couche de neige et, heureusement, ne demande pas beaucoup d'efforts pour être ouverte. À l'intérieur, elle trouve une abondance de ressources.\n\nSe penchant par-dessus la corniche, Rikitta fait signe qu'elle revient et est bientôt réunie avec ses compagnons, ignorant une Bialla contrariée.",
-      "information": [],
+      "information": [
+        "Rikitta et un autre personnage de son choix gagnent 1 Flambée, 1 Eau de Gel et 1 Éclat de Métal."
+      ],
       "actions": []
     },
     {
@@ -217,7 +246,9 @@
       "id": "030",
       "title": "030",
       "text": "La chance n'a pas manqué pour arriver jusqu'ici sans attirer l'attention du Frappe-Défenses. Le piège est posé. Les pieux de Nagallo dépassent de la paroi de la falaise, affaiblissant la plaque de glace. Le chemin de la machine a été mémorisé, et les Maréchaux l'ont fait sans se faire prendre.\n\nIl ne reste plus qu'à frapper. Attirer la machine vers le mur et briser la glace, l'ensevelissant sous une douloureuse avalanche de neige et de pierres.",
-      "information": [],
+      "information": [
+        "Les joueurs gagnent le jeton rouge."
+      ],
       "actions": []
     },
     {
@@ -231,35 +262,54 @@
       "id": "032",
       "title": "032",
       "text": "Soudain, une explosion retentit derrière et sur le côté du groupe. Le monde devient un brouillard de neige et de fumée. Les yeux des Maréchaux, qui étaient rivés sur la machine, n'ont vu aucune salve tirée de ses canons.\n\nDrokkeh, chancelant et désorienté, émerge le premier de la brume. Il cligne des yeux pour dégager la gadoue glacée. Un instant, il parvient à distinguer une silhouette très haut, au sommet de la falaise. Sa cape en peau de chèvre vole au vent et une capuche familière masque son visage.\n\nLa marchande, Fronde Explosive en main, se tient là un instant avant de disparaître derrière une grosse bourrasque de neige. Drokkeh peut à peine donner du sens à ce qui s'est passé avant de remarquer que le Frappe-Défenses approche. Son esprit bouillonne de confusion. L'avait-il réellement vue ? Avaient-ils été suivis ? Pour qui travaille-t-elle ? Rien de tout cela n'a d'importance pour le moment.\n\nLe reste des Maréchaux se lève. Le Frappe-Défenses est presque sur eux, et ils doivent s'en tenir à leur plan : déclencher une avalanche sur une machine colossale.",
-      "information": [],
+      "information": [
+        "Ouvrez le Livret de Campagne à la page 10 et tentez l'affrontement qui y est détaillé."
+      ],
       "actions": []
     },
     {
       "id": "033",
       "title": "033",
       "text": "Bien que les préparatifs ne se soient pas déroulés comme prévu, au moins la machine n'a pas repéré les Maréchaux. Il ne reste plus qu'à frapper. Attirer la machine vers le mur et briser la glace, l'ensevelissant sous une douloureuse avalanche de neige et de roches.",
-      "information": [],
+      "information": [
+        "Ouvrez le Livret de Campagne à la page 10 et tentez l'affrontement qui y est détaillé."
+      ],
       "actions": []
     },
     {
       "id": "034",
       "title": "034",
       "text": "Les Maréchaux considèrent la tâche qui les attend, évaluant la glace fissurée s'élevant le long de la face abrupte de la montagne. Une avalanche doit être déclenchée, faisant s'effondrer la plaque de glace sur la machine, et soit écraser la machine à mort de cette façon, soit au moins l'engloutir dans une congère si lourde que même sa force impossible ne la libérerait pas. Ce n'est pas une grande chance, mais c'est la seule chance qu'ont les Maréchaux.",
-      "information": [],
+      "information": [
+        "Ouvrez le Livret de Campagne à la page 10 et tentez l'affrontement qui y est détaillé."
+      ],
       "actions": []
     },
     {
       "id": "035",
       "title": "035",
       "text": "C'est fait. Dans un rugissement, la glace déchiquetée se détache de la falaise et s'écrase sur le Frappe-Défenses. La formidable machine est empalée par les lames de glace translucides et matraquée par la roche. Le hurlement strident de ses systèmes n'est plus qu'un bêlement pitoyable alors qu'elle s'éteint dans la mort.\n\nÉpuisés, les Maréchaux se rassemblent. Le silence témoigne de la difficulté du combat que le groupe a enduré. La voie à suivre est dégagée, mais de lourds nuages gris ont envahi le ciel au-dessus. Impatients de mettre de la distance entre eux et le Frappe-Défenses avant qu'une lourde tempête n'éclate, les membres du groupe se mettent en route.\n\nLes derniers vestiges de la machine, ceux qui n'ont pas été écrasés par la roche ni enterrés dans la glace, sont bientôt recouverts par la neige, ensevelissant le Frappe-Défenses dans un manteau blanc.",
-      "information": [],
+      "information": [
+        "Les personnages gagnent : ",
+        "- 5 Éclats de Métal, plus 1 pour chaque personnage ayant participé.",
+        "- 6 des ressources élémentaires suivantes, dans n'importe quelle combinaison (Flambée, Eau de Gel et Lumexplosion).",
+        "- La carte de rencontre secondaire 4.",
+        "- La carte d'investigation 'Felled Tremortusk'.",
+        "- Chaque personnage gagne 2 cartes d'action."
+      ],
       "actions": []
     },
     {
       "id": "036",
       "title": "036",
       "text": "La glace au-dessus des Maréchaux commence à se fissurer. Elle ne tombe pas d'un seul coup comme prévu, mais par morceaux mortels, tranchants comme des rasoirs. Dans leur état blessé, les membres du groupe parviennent tout juste à les esquiver alors qu'ils s'abattent. Heureusement, une partie du mur de glace atterrit sur le Frappe-Défenses, le ralentissant alors qu'il se prépare à attaquer mortellement les Maréchaux.\n\nChacun s'échappe de justesse, fuyant vers le Rempart, laissant une traînée de sang que la machine ne daigne pas suivre.",
-      "information": [],
+      "information": [
+        "Les personnages gagnent : ",
+        "- 3 Éclats de Métal, plus 1 pour chaque personnage ayant participé.",
+        "- Le personnage qui s'est évanoui récupère 4 PV.",
+        "- La carte de rencontre secondaire 4.",
+        "- Chaque personnage gagne 2 cartes d'action."
+      ],
       "actions": []
     },
     {
