@@ -6,273 +6,337 @@
     {
       "id": "RESUPPLY",
       "title": "ACT 3 - CHAPTER C : LE SECRET DE LA MONTAGNE",
-      "text": "",
-      "information": [],
+      "text": "Les Maréchaux allument un petit feu, presque juste des braises. Il les réchauffe tout au long de la nuit et au matin, ils se regroupent. Drokkeh recommande de s'équiper pour le chemin à venir alors qu'il fait l'inventaire de ce qui est stocké dans la Réserve de l'Abri.",
+      "information": [
+        "Chaque personnage soigne 5 PV.",
+        "Lisez la page 110 du Livre Narratif."
+      ],
       "actions": []
     },
     {
       "id": "INTRO",
       "title": "INTRO",
-      "text": "",
-      "information": [],
+      "text": "Une course contre la montre semble dérisoire dans le désert, où les minutes paraissent ralentir, et où chaque plaine aride se fond dans la suivante. Le voyage est fastidieux, étiré par la pensée qu'Hassak, ses rebelles, et un bataillon de machines se rapprochent de la colonie de Garde-Solitaire, là-bas dans les Terres Basses.\n\nDrokkeh mène ses compagnons Maréchaux vers un chemin caché qui devrait leur donner de l'avance sur Hassak et partage ce qu'il sait en cours de route. \"L'Entrailles d'Acier est un chemin oublié. Beaucoup pensent que c'est une légende pour empêcher les enfants du Clan du Désert de s'aventurer dans les montagnes. Un labyrinthe obscur grouillant de machines.\" La roche rugueuse des contreforts crisse sous la botte de Drokkeh.\n\n\"Et c'est un chemin vers le cœur des Basses Terres,\" ajoute Bialla avec un sourire presque nostalgique. \"Moi aussi, je pensais que c'était un conte de la Guerre des Clans. Et pourtant tu sais où il se trouve ?\"\n\n\"J'ai passé de nombreuses années seul dans les dunes. J'ai découvert une entrée quand j'étais jeune et j'ai appris les voies de la caverne avec soin et minutie.\" Il regarde Bialla. \"La plupart de ceux qui la trouvent n'en ressortent jamais. C'est une caverne de métal qui traverse les montagnes comme une veine, et un tombeau pour les impréparés et les téméraires.\"\n\nLa journée s'étire, et les assurances constantes de Drokkeh que l'entrée de la caverne est proche deviennent plus difficiles à croire, jusqu'à ce qu'enfin, il s'arrête devant une paroi rocheuse qui semble identique à d'innombrables autres que les Maréchaux ont dépassées. Tout comme les chemins qui ont mené les Maréchaux ici, l'entrée des Entrailles d'Acier est modeste, l'une des centaines de fissures anonymes et étroites creusées dans le flanc de la chaîne de montagnes ouest de Trace-Sable. Pourtant, Drokkeh semble sûr que c'est la bonne.\n\n\"Une crevasse sinistre sans fin en vue. Génial.\" Rikitta se tient impatiemment près de l'ouverture, plissant les yeux vers l'intérieur. \"On y va ?\"\n\nCassant une branche solide de bois-d'arête et enveloppant son sommet d'un chiffon imbibé de Flambée, Drokkeh guide les Maréchaux dans la nuit noire. La fissure est à peine assez large pour que Nagallo y passe de profil, et alors que les Maréchaux s'y glissent lentement, ils peuvent sentir leur propre souffle sur leurs visages.\nAprès plusieurs minutes claustrophobiques, les Maréchaux sentent enfin le chemin s'élargir. Puis, il y a une soudaine lumière et une odeur de Flambée brûlée alors que Drokkeh enflamme le sommet de sa torche en bois-d'arête.",
+      "information": [
+        "Le chef d'escouade peut donner le leader token à un autre joueur."
+      ],
       "actions": []
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
-      "information": [],
+      "text": "Les murs du tunnel sont en roche montagneuse naturelle, mais leur forme est circulaire, comme creusée, offrant plus d'espace pour se déplacer. Alors que les Maréchaux progressent dans l'obscurité d'encre, le chemin se sépare en d'autres tunnels encore. Certains mènent à gauche, d'autres descendent, et certains montent.\n\nIl est clair que même un navigateur expérimenté ne pourrait jamais retrouver son chemin hors d'un tel endroit. Pourtant, Drokkeh est confiant à chaque tournant qu'il prend, observant le feu de sa torche. Une légère brise pousse les flammes dans la direction du flux d'air, et espérons-le, vers la sortie de cet endroit.\n\nSoudain, une lumière bleue brillante se reflète sur les murs du tunnel et gagne rapidement en intensité. Rikitta regarde derrière Bialla et aperçoit deux froids yeux mécaniques, luisants, chargeant droit sur les Maréchaux. Elle attrape Bialla par le brassard droit et lui indique un renfoncement peu profond dans le mur. Les Maréchaux plongent pour se mettre à l'abri.",
+      "information": [
+        "Si Rikitta est la chef d'escouade, passez le test.",
+        "Sinon, faites le jet d'action suivant."
+      ],
       "actions": []
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
-      "information": [],
+      "text": "Les Maréchaux parviennent à peine à ramper dans la niche rocheuse avant qu'une immense machine ne passe à toute allure. Son corps remplit toute la caverne, passant à une vitesse vertigineuse, ses broyeurs mortels raclant le sol où les Maréchaux se tenaient une seconde plus tôt.\n\nHeureusement, la lumière bleue s'estompe du tunnel aussi vite qu'elle était apparue, et les Maréchaux sont de nouveau seuls. C'était moins une.\n\nÀ en juger par l'odeur acide laissée dans son sillage et la façon dont son long corps a tranché la roche comme une lame dans la chair, une chose est certaine : Les Maréchaux sont dans le repaire d'un Rampant.",
+      "information": [
+        "Si Rikitta est la chef d'escouade, gagnez 2 Éclats de métal.",
+        "Sinon, récupérez un dé d'action."
+      ],
       "actions": []
     },
     {
       "id": "003",
       "title": "003",
-      "text": "",
-      "information": [],
+      "text": "Les réactions des Maréchaux face à la machine viennent une fraction de seconde trop tard. Trois d'entre eux atteignent la sécurité, mais Drokkeh, choisissant de laisser les autres entrer dans la niche rocheuse en premier, n'y parvient qu'en grande partie avant que la machine ne passe à toute allure. Son corps remplit entièrement la caverne, ses broyeurs mortels raclant le sol où les Maréchaux se tenaient une seconde plus tôt, écorchant la jambe de Drokkeh alors qu'il se glisse de justesse dans le renfoncement.\n\nHeureusement, la lumière bleue s'estompe du tunnel aussi vite qu'elle était apparue, et les Maréchaux sont de nouveau seuls. À en juger par l'odeur acide laissée dans son sillage et la façon dont son long corps a tranché la roche comme une lame dans la chair, une chose est certaine. C'est le repaire d'un Rampant.",
+      "information": [
+        "Drokkeh subit une blessure."
+      ],
       "actions": []
     },
     {
       "id": "004",
       "title": "004",
-      "text": "",
+      "text": "Les Maréchaux continuent de suivre le tunnel alors qu'il descend doucement. Malgré les éraflures et les entailles fraîches causées par l'immense machine, le tunnel autour d'eux tient bon. Finalement, une autre lumière devient visible au loin, une étrange lueur violette vacillante.\n\nPlus loin, le chemin de la grotte débouche sur une ancienne pièce en contrebas. Les Maréchaux se glissent dans la salle prudemment, étouffant le bruit de leurs bottes sur le sol métallique. Un lit encastré dans le mur, presque entièrement décomposé, laisse deviner qu'il s'agissait peut-être autrefois de casernes utilisées par les Anciens.\n\nLa source de cette étrange lumière est une apparition chancelante semblable à celles du Bosquet de la Mémoire, bien que beaucoup moins grandiose et ne présentant aucune image discernable.\n\nUn tunnel mène de la pièce à travers une série de petites antichambres d'une conception similaire. \"On dirait que des machines sont passées par ici.\" Bialla désigne une rangée de panneaux métalliques arrachés, leurs entrailles évidées par des machines de récupération. \"Nous devrions jeter un œil. S'équiper de ressources au cas où.\"\n\n\"Ça ressemble à une perte de temps très prudente.\" La réponse de Rikitta est froide, et ponctuée par le son lointain et familier de métal qui grince. Drokkeh montre du doigt une pièce attenante où la silhouette d'un Pilleur s'acharne sur un morceau de métal ancien, éclairée seulement par les étincelles jaillissant de ses dents acérées alors qu'il décompose les débris.",
       "information": [],
       "actions": []
     },
     {
       "id": "005",
       "title": "005",
-      "text": "",
+      "text": "Le dos du Pilleur étant tourné vers les Maréchaux et le grincement de ses mâchoires couvrant le bruit de leurs pas, s'éclipser est un jeu d'enfant. Tandis que Bialla, Drokkeh et Rikitta courent rapidement en gardant la tête baissée, Nagallo ne prend même pas la peine de se cacher, se promenant sous l'arche avec un manque d'urgence qui lui vaut un rare roulement d'yeux de la part de Drokkeh.",
       "information": [],
       "actions": []
     },
     {
       "id": "006",
       "title": "006",
-      "text": "",
-      "information": [],
+      "text": "\"Ce n'est pas un combat dont nous avons besoin,\" siffle Rikitta.\n\nBialla riposte en encochant sa flèche. \"Reste calme. On n'en arrivera pas là. De plus, nous ne devrions pas laisser une machine en vie dans notre dos.\" Bialla vise. Le Pilleur étant détourné et son visage bas, un tir à la tête est impossible, mais détruire la batterie peut le renverser sur le dos. À partir de là, ce devrait être expéditif.",
+      "information": [
+        "Si Bialla est la chef d'escouade, passez le test.",
+        "Sinon, faites le jet d'action suivant."
+      ],
       "actions": []
     },
     {
       "id": "007",
       "title": "007",
-      "text": "",
-      "information": [],
+      "text": "La flèche de Bialla perce la batterie, qui explose dans une pluie d'étincelles. Le Pilleur s'effondre, étourdi et luttant pour se redresser tandis que des arcs d'énergie parcourent son corps, mais il est trop tard. Drokkeh est sur lui, enfonçant sa lame dans sa gorge.\n\nLa machine se débat une dernière fois, puis ses lumières s'éteignent, laissant aux Maréchaux son précieux tas de ferraille.",
+      "information": [
+        "Gagnez 3 Éclats de métal et 1 Étincelleur."
+      ],
       "actions": []
     },
     {
       "id": "008",
       "title": "008",
-      "text": "",
+      "text": "La flèche de Bialla passe largement à côté. Elle se fiche dans une plaque de métal fixée sur le mur opposé au lieu du Pilleur, un métal vieilli et terne percé par une pointe de flèche acérée et brillante. Les Maréchaux restent immobiles, retenant leur souffle, leurs armes en main, prêts au combat, mais le Pilleur ne semble pas le moins du monde remarquer la flèche. Il est tellement absorbé par la récupération de métal dans les ruines que ses yeux restent d'un bleu d'aplomb.\n\n\"Il a l'air plutôt occupé avec ce qu'il fait.\" Il y a un ton suffisant dans la voix de Rikitta.\n\nBialla n'est pas perturbée. \"Très bien. Passons à autre chose.\"\n",
       "information": [],
       "actions": []
     },
     {
       "id": "009",
       "title": "009",
-      "text": "",
-      "information": [],
+      "text": "La voie qui s'offre à eux est une toile de couloirs de roche et d'acier interconnectés où les pas des Maréchaux résonnent sans fin. Il est difficile de dire où se terminent les couloirs des Anciens et où commence le réseau de terriers des machines. De nombreux passages se sont effondrés là où la montagne a tenté de reprendre ses droits sur l'installation.\n\nFinalement, l'air semble plus léger et plus frais. Drokkeh montre du doigt un point devant eux où un filet de lumière est visible. \"Cette voie mène à un grand espace creux.\" Cependant, alors qu'ils approchent, ils constatent que le chemin est bloqué. Des plaques de métal tombées et un mur effondré n'ont laissé qu'une étroite faille dans les débris.\n\n\"Nous devons passer,\" confirme Drokkeh.\n\nLes Maréchaux se glissent de profil dans l'ouverture, l'un après l'autre. En se faufilant, chacun reste sur ses gardes face au métal rouillé qui a été déchiré et tordu, créant des bords tranchants comme des rasoirs. Drokkeh passe le premier, puis Bialla, puis Rikitta.\n\nNagallo est le dernier, passant son arme puis se faufilant dans la cavité serrée du mieux qu'il peut. Il est à moitié engagé quand il remarque une faible lumière bleue dans le couloir derrière lui. Elle est lointaine au début. Mais ensuite elle se rapproche. Et avec elle vient un grincement, un grondement qui confirme les craintes de Nagallo.\n\n\"Rampant !\" siffle Nagallo à ses camarades. Le reste des Maréchaux se précipite à son aide, plongeant les mains dans la crevasse, tirant sur son bras, et dégageant les débris.",
+      "information": [
+        "Si Nagallo est le chef d'escouade passez le test.",
+        "Sinon, faites le jet d'action suivant."
+      ],
       "actions": []
     },
     {
       "id": "010",
       "title": "010",
-      "text": "",
+      "text": "La lumière devient orangée alors que le Rampant commence à chercher. Nagallo s'accroche au bord de la crevasse, les muscles tendus alors que le grincement se fait de plus en plus fort derrière lui. Ses camarades tirent plus fort et, avec un dernier effort désespéré, il se glisse à travers juste au moment où la faible lumière bleue remplit l'étroit couloir. Son cœur s'emballe, mais il est indemne lorsqu'il s'écrase sur le sol de l'autre côté.\n\nLe son des broyeurs du Rampant se rapproche rapidement. La lumière ambre brille à travers la crevasse, et un hurlement mécanique à glacer le sang déchire l'air. Immuables comme une nuit dans le désert, les Maréchaux attendent, retenant leur souffle et serrant leurs armes. Après un instant, la lumière se détourne, et le Rampant disparaît dans l'obscurité de l'autre côté du blocage.\n\n\"Nous nous en sommes sortis,\" murmure Bialla. \"Mais je pense qu'il sait qu'il y a quelque chose sur son territoire.\"\n\nBialla et Drokkeh aident Nagallo à se relever. Même essoufflé, il force un commentaire. \"Je trouve que j'ai plutôt bien géré ça.\" Nagallo sourit, ses yeux dardant de nouveau vers l'endroit où se trouvait la lumière.",
       "information": [],
       "actions": []
     },
     {
       "id": "011",
       "title": "011",
-      "text": "",
+      "text": "Nagallo sent le métal froid s'enfoncer dans ses côtes alors que la lumière bleue se rapproche. Puis, elle vire à l'orange. Avec cela, il puise dans une réserve de force intérieure. Le grincement du Rampant résonne dans ses oreilles alors qu'il se force à travers l'étroit passage et en ressort de l'autre côté. L'adrénaline masque la douleur qu'il devrait ressentir alors qu'un morceau de débris tranchant comme un rasoir lui entaille le mollet.\n\nLe son des broyeurs du Rampant se rapproche rapidement. Une lumière ambre brille à travers la crevasse, et un cri mécanique à glacer le sang déchire l'air. Immuables comme la nuit dans le désert, les Maréchaux attendent, leur souffle et leurs armes en suspens. Après un moment, la lumière se détourne, et le Rampant disparaît dans l'obscurité de l'autre côté du blocage.\n\n\"On s'en est sortis,\" murmure Bialla. \"Mais je pense qu'il sait qu'il y a quelque chose sur son territoire.\"\n\nLe sang dégouline de la blessure de Nagallo alors qu'il se relève péniblement. \"Mince.\" Il secoue la tête. \"Je saigne dans mon armure préférée.\"",
       "information": [],
       "actions": []
     },
     {
       "id": "012",
       "title": "012",
-      "text": "",
+      "text": "Les Maréchaux observent leur environnement. L'espace creux est gigantesque. Loin au-dessus des Maréchaux, et bien hors de leur portée, une large fissure fend le plafond. À travers celle-ci, un rideau de lumière solaire blanche et brillante tombe, capturée par l'air poussiéreux.\n\nPartiellement préservée des éléments pendant un millénaire, l'installation au centre de la montagne semble largement intacte. De plus petites pièces bifurquent de ce hall, leur contenu assombri par l'obscurité. Autour des Maréchaux, des sièges en métal s'alignent le long d'établis en fer constellés de bibelots anciens. Le rêve d'un Oseram, cet endroit.\n\nDrokkeh se tourne vers le groupe. \"Nous avançons bien. Il serait préférable de faire profil bas un moment et de nous assurer que le Rampant est parti.\"\n\n\"D'accord,\" Nagallo est toujours haletant de son escapade. \"Je préférerais éviter des retrouvailles, si possible.\"\n\nRikitta riposte. \"Les habitants de Garde-Solitaire pêchent à la lance et patrouillent alors qu'ils devraient s'armer. Nous n'avons pas de temps pour ça.\"\n\nBialla lance un regard à la plus jeune de la tribu des Terres Basses. \"Tu sembles très préoccupée par Garde-Solitaire. L'une de tes affectations ?\"\n\n\"Juste une parmi d'autres.\" Le ton de Rikitta est bref, et elle n'a manifestement pas envie d'entrer dans les détails.\n\n\"Quoi qu'il en soit, Garde-Solitaire ne sera pas prévenue du tout si nous sommes réduits en bouillie par un Rampant.\" Bialla passe un doigt sur une surface couverte de poussière. \"Pendant que nous attendons, je suggère de récupérer ce que nous pouvons. Ou de nous reposer.\" Les autres Maréchaux acquiescent, bien que Rikitta lutte visiblement contre son esprit agité.",
       "information": [],
       "actions": []
     },
     {
       "id": "013",
       "title": "013",
-      "text": "",
+      "text": "Rikitta soupire, \"Bien. Va pour les provisions.\"\n\nLes Maréchaux se déploient dans les ruines à la recherche de ferraille utile. Au début, la fouille est moins fructueuse que prévu. Les traces de Charognards sont nombreuses et, bien que la structure du bâtiment soit intacte, les machines semblent avoir raflé une grande partie des ressources. Nagallo, Drokkeh et Bialla ne trouvent rien.",
       "information": [],
       "actions": []
     },
     {
       "id": "014",
       "title": "014",
-      "text": "",
-      "information": [],
+      "text": "Rikitta monte la garde, faisant les cent pas avec impatience, pendant que les autres Maréchaux s'accordent un moment de répit. Les matières premières ne sont pas les seules ressources dont ils doivent se soucier. Après tant de combats et de frôlements avec le danger, chacun d'eux porte des blessures, des blessures qui, si elles n'étaient pas soignées, pourraient les affaiblir au combat.\n\nMieux vaut se reposer maintenant tant qu'il y a du temps.",
+      "information": [
+        "Récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
       "id": "015",
       "title": "015",
-      "text": "",
-      "information": [],
+      "text": "\"Bien. Reposez-vous tous. Je m'occupe de la récupération.\" Rikitta cesse de faire les cent pas et regarde autour des ruines désertes. Avant que quiconque ne puisse objecter, Rikitta tend la main pour demander la torche de Drokkeh. Il regarde Bialla pour son approbation. \"Laisse-la y aller.\"\n\nIl acquiesce et lui cède la flamme. Nagallo, adossé contre un mur ancien, ferme ses yeux, satisfait de ne pas s'en mêler.",
+      "information": [
+        "Récupérez 2 dés d'action.",
+        "Gagnez 5 Éclats de métal, 1 Flambée et 1 Eau de refroidissement."
+      ],
       "actions": []
     },
     {
       "id": "016",
       "title": "016",
-      "text": "",
-      "information": [],
+      "text": "Rikitta entre dans l'une des nombreuses pièces assombries et est accueillie par une odeur fétide. Dans un coin oublié, recouverts de toiles d'araignées, elle aperçoit les corps perdus depuis longtemps d'un groupe de Tenakths du Désert. Leur armure date de l'époque des Guerres des Clans. Il semble qu'ils soient tombés sous les coups des machines alors qu'ils naviguaient dans ces tunnels il y a bien longtemps.\n\nÀ proximité, une petite cache recèle quelques ressources. Alors que Rikitta ramasse ce qui est utile, ses pensées se tournent vers Garde-Solitaire, et elle se jure que les morts insensées des Guerres des Clans ne doivent pas recommencer.",
+      "information": [
+        "Gagnez 5 Éclats de métal, 1 Flambée et 1 Eau de refroidissement."
+      ],
       "actions": []
     },
     {
       "id": "017",
       "title": "017",
-      "text": "",
+      "text": "Rikitta retourne dans le grand espace creux pour trouver les autres prêts à partir. \"Il était temps.\"\n\nSans faire de commentaire, Drokkeh allume une nouvelle torche enveloppée d'un chiffon frais imbibé de Flambée. Il mène les Maréchaux par une large ouverture au bout du grand hall et de nouveau dans les ténèbres.\n\nC'est silencieux dans la pénombre. Pas un bruissement de terre grinçante n'est audible alors qu'ils cheminent de nouveau à travers les méandres des anciens couloirs. Les portes métalliques qui s'ouvrent de part et d'autre sont scellées depuis longtemps.\n\nLes Maréchaux continuent pendant un certain temps dans cette obscurité jusqu'à atteindre un embranchement. À droite, le couloir est obstrué par des rochers, que Drokkeh inspecte avec la lumière de sa torche. \"Ce passage était dégagé la dernière fois que je suis passé par là. Mais c'était il y a un certain temps.\"\n\nÀ la gauche des Maréchaux, un autre chemin, celui-ci creusé par des machines. Bien qu'il ne soit pas aussi large que le corps d'un Rampant, cette excavation est probablement la cause de l'effondrement. Depuis le tunnel creusé, une légère brise souffle. Nagallo se penche vers le vide. \"Je sens de l'air frais par ici. Sommes-nous bientôt sortis ?\"\n\nRikitta scrute le tunnel, ses yeux perçant l'obscurité. \"Peut-être. Mais nous n'avons aucune idée d'où cela mène. Ça pourrait nous recracher n'importe où.\" Elle inspecte ensuite l'éboulement à droite du groupe. \"Non. Mieux vaut exploser cette voie pour la dégager et garder le chemin que Drokkeh connaît.\"\n\n\"Une telle explosion pourrait résonner à travers ces tunnels et attirer l'attention de chaque machine dans [Bouche-de-Métal],\" siffle Bialla. Son inquiétude est partagée par Nagallo. \"Ou leur épargner cet effort et nous enterrer sous un éboulement.\"",
       "information": [],
       "actions": []
     },
     {
       "id": "018",
       "title": "018",
-      "text": "",
-      "information": [],
+      "text": "Imperturbable face à l'accord hésitant et final de ses camarades Maréchaux, et aidée par Drokkeh, Rikitta s'accroupit dans la lumière vacillante et assemble rapidement deux explosifs avec ses provisions, ajoutant un supplément de Pâte explosive pour une détonation plus puissante. Son travail accompli, elle les place tous les deux sous le plus gros rocher et recule pour se mettre en sécurité avec les autres Maréchaux, à bonne distance dans le tunnel.\n\n\"D'accord, Bialla. Déclenche-les.\"\n\nBialla acquiesce et lève son arc, la pointe de sa flèche allumée par le feu. Elle la décoche, éclatant de Flambée en frappant une paroi éloignée et l'explosif de Rikitta.",
+      "information": [
+        "Si Drokkeh est le chef d'escouade, passez le test.",
+        "Sinon, faites le jet d'action suivant."
+      ],
       "actions": []
     },
     {
       "id": "019",
       "title": "019",
-      "text": "",
+      "text": "Une explosion secoue le tunnel, soulevant un épais nuage de poussière. Les Maréchaux attendent que l'air se dissipe et écoutent si des bruits de machines se font entendre. Heureusement, aucun ne vient, et alors que la brume s'estompe, le plan de Rikitta semble avoir fonctionné : là où le passage était bloqué, une riche mare de lumière éclatante illumine maintenant le chemin de Drokkeh.\n\nDrokkeh mène le groupe plus avant.",
       "information": [],
       "actions": []
     },
     {
       "id": "020",
       "title": "020",
-      "text": "",
+      "text": "Une explosion secoue le tunnel, soulevant un épais nuage de poussière. Les Maréchaux attendent que l'air se dissipe et tendent l'oreille pour détecter d'éventuels bruits de machines. Heureusement, aucune n'est audible, mais alors que la brume s'estompe, le plan de Rikitta semble avoir échoué : là où le chemin était bloqué par un seul rocher, d'autres se sont effondrés.\n\nRikitta semble prête à réessayer, mais Bialla l'arrête d'un regard sévère. \"Ça suffit. Nous prenons l'autre chemin.\"",
       "information": [],
       "actions": []
     },
     {
       "id": "021",
       "title": "021",
-      "text": "",
-      "information": [],
+      "text": "Les Maréchaux grimpent prudemment le long du tunnel creusé. Au début, dans cet espace étroit, ils sont accroupis, et la chaleur ainsi que l'odeur de Flambée de la torche de Drokkeh raréfie l'air tout en rendant la respiration difficile.\n\nFinalement, le terrier débouche dans un énième couloir en métal. Ou ce qu'il en reste. Les murs d'acier sont déchirés, et le câblage situé derrière a été pillé depuis longtemps. L'eau s'égoutte du plafond, et l'air humide a favorisé la prolifération de myriades de champignons qui s'épanouissent dans l'obscurité. Scintillant devant les Maréchaux telles des étoiles dans le ciel nocturne, des champignons luminescents inondent l'espace d'une lueur froide.\n\nMalgré l'humidité, il y a de la fraîcheur dans la brise qui traverse le lieu. Cela, ajouté à une lueur de lumière naturelle au loin, suggère que les Maréchaux doivent approcher de la surface.\n\nLeur chance ne dure cependant pas longtemps, car ils repèrent une meute de Fouisseurs devant eux. Une poignée de petites machines pourrait être gérable, mais il est impossible de connaître leur nombre exact ici. Les Maréchaux vont devoir se faufiler.\n\nBialla fait signe à Drokkeh — éteins ce feu — et aux autres : préparez-vous à courir.\n\nElle lève son arc et vise non pas les machines mais les amanites tue-mouches qui poussent au-dessus. Alors que sa flèche frappe la tête d'un grand champignon, un nuage de spores en jaillit, remplissant l'espace et offrant une couverture temporaire.",
+      "information": [
+        "Si Bialla est la chef d'escouade, passez le test.",
+        "Sinon, faites le jet d'action suivant."
+      ],
       "actions": []
     },
     {
       "id": "022",
       "title": "022",
-      "text": "",
+      "text": "Éviter l'attention de ces Fouisseurs est une tâche aisée pour des chasseurs accomplis lorsqu'ils disposent d'un couvert abondant. Têtes baissées et se déplaçant rapidement, les Maréchaux laissent vite derrière eux le nuage de spores et les machines qui s'y trouvent, traversant la caverne jusqu'à l'autre côté sans le moindre heurt.\n\n\"Présages dissimulateurs,\" sourit Bialla. \"Ces champignons ont le goût du cul d'un sanglier, mais ils ont souvent sauvé les miens.\"",
       "information": [],
       "actions": []
     },
     {
       "id": "023",
       "title": "023",
-      "text": "",
-      "information": [],
+      "text": "Au début, le nuage de spores joue en faveur des Maréchaux. En se déplaçant rapidement, ils parviennent presque à traverser sans incident.\n\nPresque.\n\nLa vision brouillée là où elle se concentre pour aider les autres, Bialla ne remarque pas une profonde dépression dans le sol devant elle et se tord la cheville. Son grognement de douleur attire un Fouisseur à proximité. Alors qu'il se dresse au-dessus d'elle, la lueur de son œil rouge dirigée vers le bas, elle enfonce une flèche de son carquois dans sa lumière, terrassant la machine sur le coup et sans attirer davantage l'attention.\n\nElle libère son pied, puis se hâte de rejoindre le reste du groupe de l'autre côté de la caverne, ignorant la douleur lancinante dans sa jambe.",
+      "information": [
+        "Bialla subit une blessure."
+      ],
       "actions": []
     },
     {
       "id": "024",
       "title": "024",
-      "text": "",
+      "text": "Le tunnel commence à mener en montée raide et la végétation parsème les murs et le sol. Des fissures dans la caverne laissent entrer une lumière chaude. Plus loin, la sortie de la grotte encadre un ciel d'un bleu éclatant.\n\nLes Maréchaux accélèrent l'allure et émergent bientôt dans un vent puissant. L'entrée de la caverne se situe encore haut dans les montagnes, mais en dessous d'eux, les dernières collines arides ne sont pas loin, et au-delà, le vert luxuriant et familier de Tranchecime conquiert l'horizon.\n\nNagallo respire profondément l'air. \"On a réussi.\" Il sourit. \"Ne recommençons jamais ça.\"\n\n\"Nous devons encore descendre. Escalader sera plus rapide.\" Rikitta repère déjà un itinéraire vers une clairière en contrebas. Il y a beaucoup d'arêtes étroites à utiliser comme prises pour les mains et les pieds, bien que dans certaines zones, le sable puisse rendre la prise difficile.\n\nBialla acquiesce mais offre une autre suggestion en pointant du doigt un chemin rocailleux avec une pente plus graduelle. \"Un chemin plus lent nous donnera le temps de collecter des ressources pour le voyage à venir.\"\n\n\"J'adore l'escalade. Et c'est une nouvelle montagne pour moi.\" Nagallo jette un coup d'œil par-dessus le bord. \"Un privilège rare.\" Il sourit avec excitation à Drokkeh, qui ne lui rend qu'un froncement de sourcils amusé.",
       "information": [],
       "actions": []
     },
     {
       "id": "025",
       "title": "025",
-      "text": "",
+      "text": "Les Maréchaux décident de risquer la descente rapide. Ils choisissent leur itinéraire avec soin, notant les chutes à pic et le gravier meuble. Les arêtes sont peu profondes mais gérables, et chaque Maréchal trouve son propre rythme, s'agrippant là où le sable se dérobe et se tenant là où la roche offre une certaine stabilité.\n\nLeurs souffles sont coupés, et les rochers sous leurs pieds cèdent parfois un peu trop. Mais il n'y a plus de retour en arrière possible. La descente est tendue, le vent gagnant en vitesse, les poussant avec force.",
       "information": [],
       "actions": []
     },
     {
       "id": "026",
       "title": "026",
-      "text": "",
-      "information": [],
+      "text": "Les Maréchaux s'accrochent fermement, résistant aux rafales, descendant rapidement mais prudemment. Drokkeh atteint le bas en premier, faisant signe aux autres de le suivre. Ils atteignent tous la terre ferme au sommet de l'ultime contrefort, le cœur battant à tout rompre mais sans blessure. Le temps qu'ils ont gagné pourrait faire toute la différence sur la route qui les attend.",
+      "information": [
+        "Récupérez 2 dés d'action."
+      ],
       "actions": []
     },
     {
       "id": "027",
       "title": "027",
-      "text": "",
-      "information": [],
+      "text": "La descente commence bien, mais la précipitation de Rikitta pour avancer s'avère dangereuse. À mi-chemin, son pied glisse sur du sable meuble et elle perd l'équilibre. Elle racle rudement contre les rochers, une douleur aiguë fulgurant dans son flanc. Serrant les dents, elle attrape une branche dépassant du flanc de la montagne, stoppant sa chute. Mais le mal est fait.\n\nElle est ralentie pour le reste de la descente, perdant tout le temps supplémentaire qu'ils auraient pu gagner.",
+      "information": [
+        "Rikitta subit une blessure."
+      ],
       "actions": []
     },
     {
       "id": "028",
       "title": "028",
-      "text": "",
+      "text": "Les Maréchaux choisissent le chemin plus lent, serpentant à travers les collines poussiéreuses avec prudence. Le sentier est moins abrupt mais plus sinueux, leur donnant l'occasion de faire des provisions en cours de route. Le soleil est bas et le sol sec, mais ils avancent, sachant que chaque seconde compte. Ce faisant, les Maréchaux gardent l'œil ouvert pour toute ressource qui pourrait être utile.",
       "information": [],
       "actions": []
     },
     {
       "id": "029",
       "title": "029",
-      "text": "",
-      "information": [],
+      "text": "Le rythme plus lent porte ses fruits. Bialla repère un tapis de Célépine médicinale poussant le long d'une crête ombragée, et les Maréchaux en ramassent assez pour soigner d'éventuelles blessures futures. Quelques ressources éparpillées sont également découvertes, s'ajoutant à leurs provisions. Même Rikitta cueille quelques baies à contrecœur et les range dans son sac.",
+      "information": [
+        "Un personnage se soigne de 5 PV ou une blessure."
+      ],
       "actions": []
     },
     {
       "id": "030",
       "title": "030",
-      "text": "",
+      "text": "Les Maréchaux fouillent le chemin à la recherche de ressources mais trouvent peu de choses de valeur. Le soleil tape impitoyablement, et au moment où ils atteignent le bas, les nerfs sont à vif.\n\n\"Eh bien, c'était relaxant,\" lâche Rikitta, sa patience s'amenuisant.",
       "information": [],
       "actions": []
     },
     {
       "id": "031",
       "title": "031",
-      "text": "",
+      "text": "Alors que les Maréchaux descendent les derniers contreforts vers une clairière, le sol commence à trembler. Des rochers dévalent les pentes alors que la montagne elle-même semble frémir. Leurs cœurs palpitent alors que la terre se dérobe derrière eux.\n\nDans un fracas assourdissant, le Rampant jaillit du flanc de la montagne, et des blocs de pierre pleuvent alors que sa forme massive se dresse au-dessus d'eux. La machine pousse un hurlement strident, ses glandes venimeuses crachant une odeur fétide et acide.\n\nLes secousses renversent les Maréchaux, et ils dégringolent la pente tandis que leurs bottes cherchent une prise.",
       "information": [],
       "actions": []
     },
     {
       "id": "032",
       "title": "032",
-      "text": "",
+      "text": "La poussière se dissipe rapidement à découvert, révélant non seulement l'endroit où le Rampant a percé mais aussi la machine elle-même — un prédateur cauchemardesque les dominant de toute sa hauteur, immense et absolument mortel. Il hurle avec défi une fois de plus, cherchant des intrus dans la clairière.\n\nMais les Maréchaux sont vifs sur leurs pieds et atteignent sans être vus les hautes herbes, à l'abri du regard du Rampant. Et mieux encore, alors qu'ils se font signe, il est clair qu'aucun des Maréchaux n'a été blessé par les chutes de pierres.",
       "information": [],
       "actions": []
     },
     {
       "id": "033",
       "title": "033",
-      "text": "",
-      "information": [],
+      "text": "La poussière se dissipe rapidement à découvert, révélant non seulement l'endroit où le Rampant a percé mais aussi la machine elle-même — un prédateur cauchemardesque dominant la scène, immense et absolument mortel. Il hurle avec défi une fois de plus, cherchant les Maréchaux dans la clairière.\n\nMais les Maréchaux sont vifs sur leurs pieds, et tous atteignent sans être vus les hautes herbes, à l'abri du regard du Rampant.\n\nAlors que Nagallo, Bialla et Rikitta se font silencieusement signe, Drokkeh ne répond pas, et ils comprennent vite pourquoi. Il a été blessé, un rouge luisant peint sur son front. Finalement, il reprend ses esprits et leur fait signe en retour, mais il est clair qu'il souffre, les dents serrées alors qu'il se redresse et se prépare à combattre.",
+      "information": [
+        "Drokkeh subit une blessure."
+      ],
       "actions": []
     },
     {
       "id": "034",
       "title": "034",
-      "text": "",
-      "information": [],
+      "text": "Le Rampant s'écrase à travers la clairière, ses anneaux massifs déchirant la terre alors qu'il continue sa recherche d'intrus. L'air crépite de tension alors que sa queue claque sur le sol, envoyant des arcs électriques danser sur la terre sèche. L'odeur âcre du poison brûle la gorge des Maréchaux alors qu'ils restent accroupis, à peine hors de vue de la machine, et se réunissent dans les hautes herbes.\n\nLes yeux de Bialla sont rivés sur la machine qui se débat. \"Nous ne nous en sortirons pas si facilement cette fois,\" murmure-t-elle, la voix tendue par la peur et la résolution.\n\nNagallo plisse les yeux, scrutant le champ de bataille. \"Il sera difficile à abattre. Mais peut-être que nous n'avons pas à le faire.\"\n\nDrokkeh regarde Nagallo, attendant d'entendre son plan.\n\n\"Nous le repoussons dans le tunnel. Ensuite, nous faisons s'effondrer l'entrée. L'enterrer,\" dit Nagallo. Sa voix est audacieuse, et ses yeux sont fixés sur le trou béant ouvert par la machine. Dans l'ombre, on peut voir encore d'autres tunnels de ce vaste réseau.\n\nRikitta siffle une réponse. \"La roche sera instable. Quelques pièges devraient suffire. Tout ce qui peut nous permettre de déguerpir.\" Elle regarde vers la caverne, d'où un essaim de Fouisseurs se déverse, leurs corps métalliques luisant dans la faible lumière. \"On devra peut-être s'occuper d'eux, aussi.\"",
+      "information": [
+        "Lancez chaque dé d'action restant. Pour chaque critique et / ou flèche par 3 obtenus, soignez une blessure, soignez 5 PV, ou placez un pion d'Explosol sur la carte lors de la mise en place de la rencontre de combat (comme décrit dans la règle spéciale Prêt à S'effondrer).",
+        "Ouvrez le Livre de Campagne à la page 20 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "035",
       "title": "035",
-      "text": "",
-      "information": [],
+      "text": "Le piège fonctionne. Coincé sous les lourds débris, le Rampant tente de soulever sa tête vers les Maréchaux mais ne réussit qu'à provoquer une nouvelle coulée de terre et de roche sur son corps, enfouissant la machine.\n\n\"Tirons-nous d'ici avant qu'il ne parvienne à se libérer.\" Bialla n'a pas besoin de le répéter, et les Maréchaux ne perdent pas de temps pour s'éloigner rapidement de la clairière en courant.",
+      "information": [
+        "Ajoutez les cartes de capacité et d'interruption LVL 4 à la section disponible de la boîte.",
+        "Les personnages gagnent :",
+        "- 2 Éclats de métal pour chaque joueur ayant participé.",
+        "- Chaque joueur améliore sa carte de profil LVL 4 et l'une de ses cartes d'équipement.",
+        "- 5 des ressources élémentaires suivantes, dans n'importe quelle combinaison - Flambée, Morsure de métal et Explosol.",
+        "- Les cartes de rencontre secondaire 9 et 10.",
+        "- Chaque personnage gagne 2 cartes d'action."
+      ],
       "actions": []
     },
     {
       "id": "036",
       "title": "036",
-      "text": "",
-      "information": [],
+      "text": "Un instant avant que le Rampant ne porte un coup fatal à Drokkeh, un pic à chocs frappe le Rampant à la mâchoire. Il se retourne pour trouver Nagallo près de l'entrée de la caverne, à peine capable de tenir debout. Furieuse et féroce, la machine se lance vers le Maréchal.\n\n\"MAINTENANT !\" crie-t-il en plongeant pour esquiver le Rampant.\n\nLa machine s'écrase dans sa propre caverne juste au moment où Rikitta déclenche ses pièges. La machine n'est que partiellement ensevelie, coincée juste pour le moment. Ce n'est pas parfait, mais cela sert de distraction, offrant aux Maréchaux un temps bien nécessaire pour s'échapper.",
+      "information": [
+        "Ajoutez les cartes de capacité et d'interruption LVL 4 à la section disponible de la boîte.",
+        "Les personnages gagnent :",
+        "- Le personnage qui s'est évanoui se soigne de 5 PV.",
+        "- 2 potions de soin.",
+        "- 2 Éclats de métal.",
+        "- Chaque joueur améliore sa carte de profil LVL 4 et l'une de ses cartes d'équipement.",
+        "- Les cartes de rencontre secondaire 9 et 10.",
+        "- Chaque personnage gagne 2 cartes d'action."
+      ],
       "actions": []
     },
     {
       "id": "037",
       "title": "037",
-      "text": "",
+      "text": "Ce n'est que lorsque le soleil tombe du ciel et qu'ils sont profondément enfoncés dans la jungle que les Maréchaux s'arrêtent, espérant avoir mis assez de distance entre eux et le Rampant. Même Rikitta, anxieuse qu'elle est du sort de Garde-Solitaire, cède lorsque Drokkeh suggère de monter le camp. Après tant de temps dans les Entrailles d'Acier avec peu de repos, et après avoir combattu le Rampant, même elle montre des signes de fatigue sur la piste.\n\n\"Tu es la plus expérimentée. As-tu déjà abattu un Rampant ?\" La voix de Nagallo perce la tranquillité, tentant de repousser le silence. Il regarde Bialla à travers la lueur vacillante du feu, les ombres dansant sur son visage.\n\nBialla hoche la tête, l'éclat du feu se reflétant dans ses yeux. \"Une fois. Mais nous étions un grand groupe de chasse. Rassemblé après que la machine eut déjà coûté la vie à une demi-douzaine de patrouilles. Même alors, ce fut un combat qu'aucun de nous ne souhaiterait revivre.\" Elle touche distraitement une cicatrice dentelée sur son mollet encerclée par un tatouage, ses doigts traçant la texture rugueuse comme si elle se rappelait la douleur. Nagallo, silencieux, lève sa coupe en guise de reconnaissance solennelle.\n\n\"Et si Hassak a une machine comme celle-là ?\" La vivacité habituelle de Rikitta est tempérée par un froid sentiment d'effroi. Pour la centième fois, elle inspecte l'appareil que Hassak avait utilisé pour attirer les machines dans les Terres des Coureurs, l'étudiant avec une petite lame. \"Garde-Solitaire pourrait déjà n'être qu'un tas de bois fracturé, balayé à marée haute.\"\n\nBialla détourne le regard vers le poignet tatoué de Rikitta, la voix adoucie de compréhension. \"Cette marque... J'avais toujours cru qu'elle désignait un poste de garde où tu avais servi. Mais c'est plus que ça, n'est-ce pas ?\"\n\n\"J'ai servi à Garde-Solitaire,\" admet Rikitta. \"Mais j'y suis aussi née. C'est chez moi.\"\n\nLe feu crépite, seul son dans la jungle dense, et pour un instant, le silence les engloutit tous. Ils sont assis autour des flammes, leurs corps implorant le repos, mais leurs esprits bien trop alertes, trop conscients des dangers qui rôdent encore dans les ombres des terres sauvages. Finalement, pourtant, ils trouvent le repos.\n\nPlus tard cette nuit-là, alors que les Maréchaux dorment, une légère secousse fait trembler le sol en dessous, et à l'horizon, en direction des montagnes, une volée d'oiseaux s'envole avec effroi.",
       "information": [],
       "actions": []
     }
