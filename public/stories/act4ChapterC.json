@@ -7,364 +7,483 @@
       "id": "RESUPPLY",
       "title": "ACT 4 - CHAPTER C : LA CHASSE",
       "text": "",
-      "information": [],
+      "information": [
+        "Chaque personnage soigne 8 PV.",
+        "Soignez 2 blessures.",
+        "Lisez la page 130 du Livre Narratif."
+      ],
       "actions": []
     },
     {
       "id": "INTRO",
       "title": "INTRO",
-      "text": "",
+      "text": "Les rebelles ont laissé une abondance de traces dans leur sillage. Même dans la jungle, il est impossible de cacher une armée, encore moins une armée en pleine retraite. Après seulement quelques jours, avec des jambes fraîches, un but précis et n'étant que quatre, les Maréchaux les trouvent. Les rebelles sont désorganisés et campent dans l'ombre d'une tour de guet abandonnée depuis longtemps, près d'un petit ruisseau où prolifère la nielle rouge.\n\nLes rebelles ont besoin de temps pour récupérer avant de repartir. Ainsi, les Maréchaux se retirent sur les hauteurs où ils peuvent garder un œil vigilant tout en décidant de la prochaine marche à suivre.\n\nAlors que les Maréchaux s'installent dans leur campement caché et sans feu, et que le soleil se couche lentement, un grondement désormais familier traverse la terre. Drokkeh suit ces phénomènes depuis son arrivée dans les Basses Terres, et pendant que le reste des Maréchaux discute de la façon de gérer les rebelles, il fait les cent pas et colle son oreille au sol à plusieurs endroits, avant de s'aventurer dans la nature.",
       "information": [],
       "actions": []
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
+      "text": "Nagallo soupire alors qu'il taille des pointes pour son lance-pic, une grimace pensive sur le visage. \"Ce n'est pas seulement la soif de combat et la haine qui poussent les gens vers cette rébellion. Des chefs comme Tekotteh s'accrochent aux vieilles coutumes. N'est-ce pas ce qu'il sème ?\" Nagallo regarde vers le camp rebelle. \"Ils sont trop nombreux. Quelle est la colonie la plus proche ? Marépine ? Nous devrions chercher de l'aide.\"\n\n\"Trop loin.\" Rikitta secoue la tête. \"Le temps de rassembler des renforts et de les ramener, Hassak sera peut-être parti.\"\n\nBialla est d'accord. \"Ils sont affaiblis. Certains sont blessés et ne se battront pas bien. Nous pourrions les éliminer un par un.\"\n\n\"Et qu'en est-il de leurs montures ? Les machines n'ont pas besoin de repos.\" Nagallo pointe du doigt un Frappe-Défenses en contrebas, marqué aux couleurs de Regalla et effectuant un circuit discipliné d'un pas lourd.\n\n\"Depuis quand es-tu devenu le plus prudent ?\" Bialla renâcle, amusée. \"C'est un bon point.\"\n\n\"Nous avons une machine, nous aussi. Une encore plus mortelle.\" Drokkeh est revenu aussi silencieusement qu'il était parti. \"Le Rampant que nous avons combattu. Son territoire est vaste, et notre intrusion l'a peut-être agité. Pour l'instant, il rôde dans une ruine à l'ouest d'ici.\"\n\nNagallo plante une pointe dans la terre avec un rire. \"C'est vrai, le Rampant tuera tout ce qui se trouve sur son passage — y compris nous.\"\n\n\"Alors, mettons les rebelles sur son passage !\" Rikitta fouille dans son sac, en tirant l'appareil qu'Hassak a utilisé contre eux dans le désert. \"Je crois que c'est une sorte d'appât. Vous vous souvenez des machines qu'Hassak a invoquées dans les Terres des Coureurs ? Leurs câbles n'étaient pas du rouge de celles que les rebelles chevauchent, et ils clignotaient.\" Elle lève en l'air l'étrange paquet de fils et de métal. \"Peut-être que ça attire les machines, et ensuite les rebelles les soumettent et les domptent. Nous ne pouvons pas contrôler le Rampant, mais nous pouvons l'attirer.\"\n\nRikitta regarde Bialla, s'attendant à de la résistance, mais elle trouve une détermination inébranlable dans la voix de l'aînée. \"Si les rebelles ont trouvé de nouvelles façons de se battre, nous devons en faire autant.\"",
       "information": [],
       "actions": []
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
-      "information": [],
+      "text": "Cette nuit-là, un plan prend forme, et au matin, les Maréchaux sont prêts à l'exécuter.\n\nDeux des Maréchaux se concentreront sur l'infiltration du camp. Ils se faufileront, élimineront les traînards, sèmeront la confusion, et tenteront de détruire la tour de guet, limitant la capacité des rebelles à voir ce qui arrive.\n\nLes deux autres auront la tâche périlleuse d'attirer un Rampant et de gagner du temps pour que l'équipe d'infiltration affaiblisse les défenses du camp.\n\n\"Plus nous passons de temps dans le camp, plus nous pouvons affaiblir leurs défenses. Quand la tour de guet brûlera, c'est à ce moment-là que le Rampant devrait arriver. Nous devons synchroniser cela avec soin,\" explique Bialla.\n\n\"Repousser une telle machine est plus facile à imaginer qu'à faire.\" Rikitta sort une bombe fumigène de son sac. \"Tenez. Si l'équipe d'infiltration est découverte, ils peuvent l'utiliser pour signaler qu'il est temps de frapper, et avec de la chance, ça peut aussi fournir une couverture. De toute façon, la fumée est le signal.\"\n\n\"C'est une idée imprudente,\" sourit Nagallo. \"J'adore.\"",
+      "information": [
+        "Les joueurs doivent maintenant diviser les quatre Maréchaux en deux équipes de deux. L'équipe une attirera le Rampant vers le camp rebelle. Plus ils pourront faire durer cela, plus l'équipe deux aura de temps pour infiltrer le camp et tenter de prendre l'avantage.",
+        "Gardez une trace de quels Maréchaux font partie de quelle équipe avec leurs figurines. Bien que les joueurs résolvent les actions de l'équipe une en premier, la narration de chaque équipe se déroule simultanément.",
+        "Cette section narrative est divisée en plusieurs phases. Au début de chaque phase, les joueurs récupèrent tous les dés d'action."
+      ],
       "actions": []
     },
     {
       "id": "003",
-      "title": "003",
-      "text": "",
-      "information": [],
+      "title": "PHASE 1 - Team 1 - 003",
+      "text": "Les ruines que Drokkeh a trouvées sont un peu éloignées. De profondes traces sculptées dans la terre rappellent aux Maréchaux qu'ils sont sur la piste de l'une des machines les plus dangereuses connues des Tenakths.\n\nLorsque l'Équipe Une arrive, la destination n'est rien de plus qu'une coquille de pierre dotée de poteaux métalliques rouillés et dotée d'anciens escaliers en ruine menant sous terre. Un grand trou a récemment été percé dans le sol, et le sable est encore frais et humide dans l'air moite. Le Rampant est passé par là récemment.\n\nL'Équipe Une pénètre dans la ruine souterraine, pensant qu'il s'agit du repaire temporaire de la machine. Le son de chaque pas résonne contre les murs glacés et les anciens chariots de métal qui pourrissent dans cet espace sombre. En inspectant l'étrange appareil qu'ils tiennent en main, les Maréchaux identifient un bouton sur un côté. Ils retiennent leur souffle tout en pressant le bouton et l'appareil reprend les hurlements aigüs et misérables qu'il avait lâchés pour la dernière fois dans les Terres des Coureurs.",
+      "information": [
+        "Si Rikitta est dans l'équipe une, elle peut relancer n'importe lequel des dés pour ce jet d'action."
+      ],
       "actions": []
     },
     {
       "id": "004",
-      "title": "004",
-      "text": "",
-      "information": [],
+      "title": "PHASE 1 - Team 1 - 004",
+      "text": "En quelques instants, le sol commence à trembler. Des fissures s'étirent sur les murs de pierre de part et d'autre des Maréchaux. De petites pierres tombent du plafond sur le sol, où elles frétillent sous l'effet des secousses. Le son de la machine est un sinistre grattement de plaques de métal qui s'entrechoquent.\n\nLe vicieux cri de la machine est étouffé par la terre et la pierre sous leurs pieds, mais il est toujours indéniablement reconnaissable. Les deux Maréchaux foncent vers la sortie à temps pour entendre une explosion de roche derrière eux.",
+      "information": [
+        "Les joueurs gagnent 2 jetons de suivi, qui représentent le temps qu'il reste à l'équipe avant qu'ils ne soient obligés de conduire le Rampant vers le camp."
+      ],
       "actions": []
     },
     {
       "id": "005",
-      "title": "005",
-      "text": "",
-      "information": [],
+      "title": "PHASE 1 - Team 1 - 005",
+      "text": "Rien ne se passe. Une série de lumières clignote sur l'appareil. Pour le moment, les Maréchaux doutent qu'il s'agisse d'un appât. Ils font les cent pas et attendent jusqu'à ce que le couinement ne les dérange plus mais se fonde en toile de fond. L'appareil vit. Peut-être que la machine ne l'entend pas.\n\nLes Maréchaux raisonnent qu'ils devront s'enfoncer plus loin dans la sombre ruine, là où la lumière filtrant du monde d'en haut a complètement disparu. La tension est palpable, et le sang bat à leurs oreilles. C'est peut-être la raison pour laquelle les Maréchaux manquent les signes avant-coureurs.\n\nDepuis le sol devant eux, une explosion de roche les projette à terre.",
+      "information": [
+        "Les joueurs gagnent 1 jeton de suivi, qui représente le temps qu'il reste à l'équipe avant qu'ils ne soient obligés de conduire le Rampant vers le camp."
+      ],
       "actions": []
     },
     {
       "id": "006",
-      "title": "006",
-      "text": "",
-      "information": [],
+      "title": "PHASE 1 - Team 2 - 006",
+      "text": "Pendant ce temps, l'Équipe Deux glisse le long de la colline et dans l'herbe bordant le campement provisoire d'Hassak.\n\nIsolé des sentiers utilisés par le clan des Basses Terres, le camp se tient à la lisière d'une rangée d'arbres courbée d'un côté. De l'autre, un terrain dégagé menant au bord d'une falaise. Une poignée de cavaliers sur machines patrouillent pendant que des soldats épuisés montent la garde. Leurs expressions sont masquées par des peintures de guerre, mais leur langage corporel dévoile tout de même leur fatigue.\n\nMême ainsi, l'Équipe Deux devra être prudente alors que les Maréchaux cherchent une brèche par laquelle se faufiler.",
+      "information": [
+        "Si Drokkeh est dans l'équipe deux, ajoutez un critique au résultat.",
+        "Si Bialla est dans l'équipe deux, récupérez un dé d'action."
+      ],
       "actions": []
     },
     {
       "id": "007",
-      "title": "007",
-      "text": "",
+      "title": "PHASE 1 - Team 2 - 007",
+      "text": "Se déplaçant prudemment autour du périmètre, à l'abri des hautes herbes, l'Équipe Deux trouve ce qu'elle cherche. Une jeune rebelle s'affaisse à l'ombre d'un arbre, exténuée et luttant pour garder la tête haute. Elle s'appuie contre le tronc en fermant les yeux. Quelques instants plus tard, elle semble être endormie.\n\nC'est par là. L'Équipe Deux se faufile sans être remarquée.",
       "information": [],
       "actions": []
     },
     {
       "id": "008",
-      "title": "008",
-      "text": "",
-      "information": [],
+      "title": "PHASE 1 - Team 2 - 008",
+      "text": "Les Maréchaux se déplacent prudemment autour du périmètre, restant à l'abri des hautes herbes alors qu'ils cherchent une ouverture. Malheureusement, il n'y a pas de brèche évidente par laquelle se faufiler.\n\nAttendre coûte un temps précieux, mais finalement, les gardes changent de service. L'Équipe Deux saisit l'opportunité de se glisser à l'intérieur sans être remarquée.",
+      "information": [
+        "Défaussez un jeton de suivi."
+      ],
       "actions": []
     },
     {
       "id": "009",
-      "title": "009",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 1 - 009",
+      "text": "La première partie du plan a fonctionné. Du moins en partie. Le Rampant est là, et il en a après les Maréchaux. Vient maintenant la partie dangereuse : l'éloigner. L'appât en main, l'Équipe Une s'élance dans un sprint alors que des morceaux de pierre commencent à tomber entre eux et la sortie. La machine immense fonce à travers la ruine à leur poursuite.",
+      "information": [
+        "Si Bialla est dans l'équipe une, elle peut relancer un dé pour ce jet.",
+        "Si Nagallo est dans l'équipe une, ajoutez 2 flèches au résultat."
+      ],
       "actions": []
     },
     {
       "id": "010",
-      "title": "010",
-      "text": "",
+      "title": "PHASE 2 - Team 1 - 010",
+      "text": "L'Équipe Une court vers la sortie, évitant les chutes de pierres, les mâchoires métalliques qui claquent et les projections d'acide.\n\nIls s'en sortent in extremis.\n\nL'air extérieur n'offre que peu de soulagement alors que les Maréchaux sont confrontés à une décision difficile. Il y a de nombreux itinéraires à travers la jungle. Combien de temps peuvent-ils repousser cette machine ?",
       "information": [],
       "actions": []
     },
     {
       "id": "011",
-      "title": "011",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 1 - 011",
+      "text": "L'équipe une court vers la sortie mais est coupée lorsqu'une grande dalle de pierre s'effondre du plafond, couvrant les Maréchaux de poussière. Alors que l'air s'éclaircit, le chemin de retour vers la surface a disparu. Derrière, le bruit du Rampant s'amplifie.\n\nIl n'y a pas le temps de débattre de la prochaine étape. Les Maréchaux fuient plus profondément dans la ruine, le chemin à peine éclairé par la lumière clignotante de l'appât et les yeux rouge vif du Rampant sur leurs talons. La puanteur de l'acide est forte alors qu'un jet de cette substance manque les Maréchaux d'un cheveu.\n\nC'est alors qu'ils la voient, une fissure de lumière juste assez grande pour se faufiler. Les Maréchaux s'y forcent le passage, s'écorchant contre la roche alors qu'ils s'échappent de l'autre côté.\n\nL'air frais n'offre que peu de soulagement alors que l'équipe une se rend vite compte que le campement rebelle n'est nulle part en vue, et pour y arriver, ils devront mener le Rampant sur un long, très long chemin.",
+      "information": [
+        "Chacun des Maréchaux de l'Équipe Une subit 1 dégât.",
+        "Les joueurs gagnent 4 jetons de suivi supplémentaires."
+      ],
       "actions": []
     },
     {
       "id": "012",
-      "title": "012",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 1 - 012",
+      "text": "Le Rampant est rapide — bien plus rapide que prévu. Inutile de gagner du temps si les Maréchaux meurent avant même de pouvoir conduire ce colosse à sa destination finale. Avec l'appât en main, les Maréchaux optent pour le chemin le plus rapide, directement vers le camp rebelle.",
+      "information": [
+        "Les joueurs gagnent 2 jetons de suivi supplémentaires."
+      ],
       "actions": []
     },
     {
       "id": "013",
-      "title": "013",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 1 - 013",
+      "text": "Le Rampant est rapide, mais les Maréchaux doivent gagner du temps pour leurs camarades qui infiltrent le camp. Ils occuperont la machine pendant un certain temps, mais inutile de gagner du temps si les deux meurent de ne pouvoir conduire le colosse à sa destination finale.\n\nAvec l'appât en main, les Maréchaux sprintent vers un repère familier, une rivière d'où jaillit de la nielle rouge qui mène au campement rebelle. Ce n'est pas un chemin direct, mais il finira par mener au camp.",
+      "information": [
+        "Les joueurs gagnent 3 jetons de suivi supplémentaires."
+      ],
       "actions": []
     },
     {
       "id": "014",
-      "title": "014",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 1 - 014",
+      "text": "L'Équipe Une essaiera d'attendre la fumée à l'horizon aussi longtemps qu'elle le pourra. Peu importe la vitesse de ce Rampant — les autres Maréchaux comptent sur eux pour attaquer au bon moment.",
+      "information": [
+        "Les joueurs gagnent 4 jetons de suivi supplémentaires."
+      ],
       "actions": []
     },
     {
       "id": "015",
-      "title": "015",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 2 - 015",
+      "text": "Pour l'Équipe Deux, il n'y a pas de temps à perdre. Le camp lui-même est impressionnant, compte tenu du peu de temps qu'ils ont passé ici. Un habitant des Basses Terres devenu rebelle devait connaître cette base de la Guerre des Clans désaffectée.\n\nLes Maréchaux restent autant que possible dans les hautes herbes. De faibles gémissements provenant de l'une des tentes indiquent où les blessés ont été regroupés. Un enclos de fortune se trouve de l'autre côté, où un imposant Frappe-Défenses attend son cavalier.\n\nL'Équipe Deux doit se faufiler devant lui et abandonner leur couverture s'ils veulent se rapprocher de la tour de guet.",
+      "information": [
+        "Défaussez un jeton de suivi.",
+        "Si Rikitta est dans l'équipe deux, ajoutez un critique au résultat.",
+        "Si Drokkeh est dans l'équipe deux, ajoutez 3 flèches au résultat."
+      ],
       "actions": []
     },
     {
       "id": "016",
-      "title": "016",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 2 - 016",
+      "text": "Gardant un œil aiguisé sur la machine, les Maréchaux se glissent furtivement aussi vite que la brise marine, alors que les yeux de la machine scintillent en jaune. Les Maréchaux se mettent à couvert tout aussi rapidement et sont soulagés de voir que la machine retourne à sa position stationnaire.\n\nLa tour de guet qu'ils espèrent détruire est plus proche, et les habitants du camp n'y voient que du feu.",
+      "information": [
+        "Récupérez l'un des cadrans de points de vie et réglez-le sur 10. Cela permet de suivre à quel point l'équipe a réussi à maintenir sa furtivité pendant l'infiltration du camp.",
+        "Soustrayez 0 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "017",
-      "title": "017",
-      "text": "",
-      "information": [],
+      "title": "PHASE 2 - Team 2 - 017",
+      "text": "L'Équipe Deux tente de se faufiler discrètement devant la machine, mais ses yeux clignotent en jaune. Les Maréchaux glissent sur du gravier boueux pendant un bref instant, de minuscules pierres crissant sous leurs bottes. Ils se remettent à couvert, mais pas assez vite. Les yeux de la machine conservent leur lueur orangée alors qu'elle rugit, attirant l'attention de deux gardes.\n\nLe premier regarde autour de lui. \"Elle a vu quelque chose ?\"\n\n\"Oh, je parle machine maintenant ?\" crache le second. \"Garde l'œil ouvert, c'est tout.\"\n\nLa tour de guet qu'ils espèrent détruire est plus proche, mais certains des gardes sont sur les nerfs.",
+      "information": [
+        "Récupérez l'un des cadrans de points de vie et réglez-le sur 10. Cela permet de suivre à quel point l'équipe a réussi à maintenir sa furtivité pendant l'infiltration du camp.",
+        "Soustrayez 2 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "018",
-      "title": "018",
-      "text": "",
-      "information": [],
+      "title": "PHASE 3 - Team 1 - 018",
+      "text": "L'Équipe Une s'échappe des ruines pour percer l'orée de la jungle alors que le Rampant siffle. Les Maréchaux n'ont pas besoin de regarder derrière eux ; les bruits de bois qui craque et la morsure de l'air acide annoncent que la machine les suit comme prévu.\n\nEnsemble, les deux Maréchaux courent, zigzaguant entre les arbres alors qu'ils s'effondrent derrière eux. Pendant un moment, la machine les rattrape, son énorme visage juste à la droite des Maréchaux. Elle dénude ses crocs métalliques et s'élance sur eux. Les deux Maréchaux font de leur mieux pour esquiver.",
+      "information": [
+        "Si Bialla est dans l'équipe une, récupérez deux des dés utilisés lors de ce jet, après l'avoir résolu.",
+        "Si Nagallo est dans l'équipe une, ajoutez 4 flèches au résultat."
+      ],
       "actions": []
     },
     {
       "id": "019",
-      "title": "019",
-      "text": "",
+      "title": "PHASE 3 - Team 1 - 019",
+      "text": "Alors qu'il s'élance, les Maréchaux parviennent de justesse à sauter hors de sa trajectoire. Ses crocs, chacun ayant facilement la taille d'un soldat, laissent une traînée d'acide dans leur sillage. L'air nocif suffit à arracher des larmes aux yeux des Maréchaux alors qu'ils continuent leur course.",
       "information": [],
       "actions": []
     },
     {
       "id": "020",
-      "title": "020",
-      "text": "",
-      "information": [],
+      "title": "PHASE 3 - Team 1 - 020",
+      "text": "Alors que le Rampant s'élance, les Maréchaux font de leur mieux pour sauter hors de son chemin. Bien qu'ils n'aient pas été frappés par ses crocs, la trace qu'il a laissée est inévitable. Les bottes des Maréchaux encaissent le plus gros du choc, mais un peu d'acide s'infiltre à travers, leur brûlant les pieds.\n\nMalgré cela, les deux Maréchaux continuent de courir.",
+      "information": [
+        "Chacun des personnages de l'équipe une subit 2 dégâts."
+      ],
       "actions": []
     },
     {
       "id": "021",
-      "title": "021",
-      "text": "",
-      "information": [],
+      "title": "PHASE 3 - Team 2 - 021",
+      "text": "Le temps presse de façon inquiétante alors que chaque instant passé à se faufiler dans ce camp, oblige les autres Maréchaux à repousser un vicieux Rampant.\n\nLes Maréchaux aperçoivent une grande tente, vraisemblablement celle d'Hassak. Des voix fortes se font entendre de l'intérieur, puis deux soldats sortent de la tente. \"Cet enfant capricieux de commandant va nous faire tuer,\" jure le plus âgé des deux alors qu'ils se dirigent vers la lisière du camp.\n\nIl n'y a personne d'autre à proximité. Ce pourrait bien être l'occasion idéale d'éclaircir les défenses des rebelles.",
+      "information": [
+        "Défaussez un jeton de suivi.",
+        "Si Bialla est dans l'équipe deux, récupérez deux dés d'action.",
+        "Si Rikitta est dans l'équipe deux, elle peut relancer n'importe lequel des dés."
+      ],
       "actions": []
     },
     {
       "id": "022",
-      "title": "022",
-      "text": "",
-      "information": [],
+      "title": "PHASE 3 - Team 2 - 022",
+      "text": "Les Maréchaux se séparent alors qu'ils approchent leurs cibles par derrière. Le premier est un homme plus âgé, qui tourne le dos aux Maréchaux, et sa mort est prompte. Ses luttes cessent à l'instant où une ligne rouge est tracée en travers de sa gorge. Le suivant est un jeune officier, marchant avec une démarche arrogante. Sa bravade ne lui est d'aucune utilité lorsqu'il est traîné dans les ombres, pour ne plus jamais en revenir.\n\nL'action accomplie, les Maréchaux se regroupent et se préparent à s'enfoncer plus loin dans le camp.",
+      "information": [
+        "Les joueurs gagnent le jeton jaune.",
+        "Soustrayez 0 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "023",
-      "title": "023",
-      "text": "",
-      "information": [],
+      "title": "PHASE 3 - Team 2 - 023",
+      "text": "Les Maréchaux de l'Équipe Deux se séparent, espérant approcher leurs cibles par derrière sans être vus. L'un est plus âgé et marche avec colère devant, tandis que son jeune compagnon avance d'un pas fanfaron. Ils ne semblent pas remarquer les Maréchaux, mais alors que ceux-ci s'approchent, une autre paire de rebelles arrive de face. Les Maréchaux glissent à couvert tout juste à temps, alors que les rebelles commencent à discuter entre eux.\n\nL'Équipe Deux avait espéré éclaircir les rangs des rebelles. Il semble que ce n'était pas la bonne méthode.",
+      "information": [
+        "Soustrayez 1 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "024",
-      "title": "024",
-      "text": "",
-      "information": [],
+      "title": "PHASE 4 - Team 1 - 024",
+      "text": "La jungle défile dans un flou de verdure. Le monde est réduit à une minuscule bulle d'essoufflement et de membres engourdis se profilant quelque part derrière la canopée. Finalement, les Maréchaux de l'Équipe Une espèrent apercevoir la silhouette de la tour de guet des rebelles parmi la jungle infinie.\n\nLe Rampant ralentit, mais ils entendent ses mécanismes à l'œuvre. Les Maréchaux se retournent pendant une demi-seconde et voient sa collerette s'ouvrir et commencer à vibrer en un léger bourdonnement, se chargeant avant de libérer une attaque sonique. Une déflagration assourdissante fonce tout droit vers l'équipe une.",
+      "information": [
+        "Si Drokkeh est dans l'équipe une, ajoutez un critique au résultat.",
+        "Si Rikitta est dans l'équipe une, ajoutez un critique au résultat."
+      ],
       "actions": []
     },
     {
       "id": "025",
-      "title": "025",
-      "text": "",
+      "title": "PHASE 4 - Team 1 - 025",
+      "text": "Les deux Maréchaux se bouchent fermement les oreilles alors que la détonation sonique passe. Ça les ralentit un instant, mais la machine a dû s'arrêter pour préparer cette attaque, et maintenant elle a perdu du terrain. Les Maréchaux saisissent l'occasion pour glisser le long d'une pente de sous-bois, creusant la distance entre eux et le Rampant.",
       "information": [],
       "actions": []
     },
     {
       "id": "026",
-      "title": "026",
-      "text": "",
-      "information": [],
+      "title": "PHASE 4 - Team 1 - 026",
+      "text": "Une explosion sonique frappe les deux Maréchaux. Leurs pieds grattent le sol en quête d'une prise, mais ils ne trouvent que de la boue glissante. Soudain, les Maréchaux dégringolent, perdant tout sens de l'orientation.\n\nQuelques douloureux instants plus tard, tous deux s'arrêtent de rouler, haletant, le cœur battant à la chamade. Il leur faut un moment pour reprendre leurs esprits alors que leurs cœurs s'apaisent. L'instinct de survie prend le dessus et permet aux Maréchaux d'avoir la présence d'esprit de rester immobiles et au travers des battements dans leur crâne pour écouter.\n\nLe silence.\n\nMais seulement pour un instant. Une cascade de terre et de feuilles venant d'en haut annonce le retour du Rampant qui jaillit de la terre vers l'équipe une. De retour sur leurs pieds, écorchés et endoloris qu'ils sont, les Maréchaux continuent de courir. Par chance, il y a plus d'espace entre l'équipe une et la machine.",
+      "information": [
+        "Chacun des personnages de l'Équipe Une subit 1 dégât.",
+        "L'un des personnages de l'Équipe Une subit une blessure."
+      ],
       "actions": []
     },
     {
       "id": "027",
-      "title": "027",
-      "text": "",
-      "information": [],
+      "title": "PHASE 4 - Team 2 - 027",
+      "text": "Pendant ce temps, l'Équipe Deux se glisse plus loin dans le camp. C'est là qu'ils voient une opportunité : De la Flambée. Des stocks non utilisés lors de l'assaut des rebelles sur Garde-Solitaire sont stockés au hasard dans la boue sous un soleil de plomb.\n\nIl suffirait de quelques bonbonnes volées pour abattre la tour de guet, et saboter le reste n'affaiblira pas seulement les rebelles, mais le feu jettera également leur camp dans le désarroi. Les Maréchaux attendent que la voie soit libre et se mettent au travail.\n\nIls prennent quelques bonbonnes. En revanche, enflammer le reste sera difficile. Les Maréchaux rassemblent ce qu'ils peuvent de broussailles et de bois pour créer du petit bois sec et le poussent sous une pile de Flambée. D'une distance sûre, ils fabriquent des Munitions Incendiaires puis visent.",
+      "information": [
+        "Défaussez un jeton de suivi.",
+        "Si Nagallo est dans l'équipe deux, récupérez deux dés d'action.",
+        "Si Rikitta est dans l'équipe deux, elle peut relancer l'un des dés."
+      ],
       "actions": []
     },
     {
       "id": "028",
-      "title": "028",
-      "text": "",
-      "information": [],
+      "title": "PHASE 4 - Team 2 - 028",
+      "text": "Le tir fait mouche. En quelques instants, les flammes lèchent les bonbonnes métalliques, noircissant la surface en métal. Une rebelle à proximité aperçoit le feu, mais sa seule récompense pour sa vigilance est d'être prise dans l'explosion et aspergée par les flammes.\n\nAmincis par l'agitation et les cris de douleur de leur camarade, plusieurs autres rebelles se précipitent pour enquêter, mais sont repoussés par l'enfer grandissant. Alors que les rebelles se protègent la bouche et jettent de la terre sur les flammes pour tenter de les contrôler, les Maréchaux s'éclipsent furtivement, satisfaits.\n\nIls peuvent maintenant se diriger vers leur véritable cible — la tour de guet.",
+      "information": [
+        "Les joueurs gagnent le jeton bleu.",
+        "Soustrayez 0 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "029",
-      "title": "029",
-      "text": "",
-      "information": [],
+      "title": "PHASE 4 - Team 2 - 029",
+      "text": "Le tir est trop court, et il faut un instant avant que ça ne prenne feu. Avant même que les flammes ne lèchent les bonbonnes de métal, une rebelle toute proche sent la fumée. Elle se précipite vers la pile avant que les flammes ne se propagent trop loin et commence à jeter les bonbonnes au loin pour les éloigner de la chaleur croissante tout en appelant à l'aide.\n\nAlertés par l'agitation, plusieurs autres rebelles se précipitent pour se joindre à elle tandis que d'autres, gardant leur sang-froid, commencent à scruter les environs pour trouver ce qui a pu déclencher le feu.",
+      "information": [
+        "Soustrayez 3 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "030",
-      "title": "030",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 1 - 030",
+      "text": "Pendant ce temps, dans la nature, l'Équipe Une s'approche du camp. La tour de guet apparaît à l'horizon devant eux comme un phare au bout de la lisière des bois. Il n'y a toujours aucun signe de fumée, et une soudaine indécision s'empare des Maréchaux — et s'ils sont trop en avance, et que l'autre équipe n'est pas encore en position ?\n\nLes deux Maréchaux s'arrêtent un instant, espérant reprendre leur souffle pour décider de la marche à suivre. Mais alors que leurs jambes épuisées ralentissent, le Rampant s'élance soudainement en avant depuis les broussailles, son corps crépitant d'étincelles bleues brillantes. Il abat sa queue directement sur les Maréchaux de l'Équipe Une.",
+      "information": [
+        "Si Bialla est dans l'équipe une, récupérez deux des dés utilisés lors de ce jet, après l'avoir résolu.",
+        "Si Nagallo est dans l'équipe une, récupérez deux des dés utilisés lors de ce jet, après l'avoir résolu."
+      ],
       "actions": []
     },
     {
       "id": "031",
-      "title": "031",
-      "text": "",
+      "title": "PHASE 5 - Team 1 - 031",
+      "text": "Des réflexes rapides sauvent l'Équipe Une d'une fin prématurée alors que la queue du Rampant s'abat vers les Maréchaux. Ils esquivent alors qu'elle frappe un arbre à sa base, en l'abattant entre eux et la machine colossale. La queue du Rampant libère un torrent de charge électrique qui roussit les broussailles.\n\nLes Maréchaux se précipitent pour trouver un abri dans l'herbe rouge, désactivant l'appât un instant d'une pression sur un bouton.\n\nAvec une aisance terrifiante, l'adversaire tourne son cou et rejette l'arbre abattu avant de vaporiser un arc d'acide dans le feuillage alors qu'il essaie d'appâter les Maréchaux pour les faire sortir. Il semble qu'ils soient de nouveau réduits à se cacher — mais avec si peu de couverture et leur poursuivant à une telle proximité, l'Équipe Une ne pourra pas tenir longtemps comme ça.",
       "information": [],
       "actions": []
     },
     {
       "id": "032",
-      "title": "032",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 1 - 032",
+      "text": "La chance pure sauve l'Équipe Une d'une fin prématurée alors que la queue du Rampant attaque et les manque de justesse. Elle frappe un arbre à sa base, l'envoyant chuter entre les deux Maréchaux et la machine colossale. La queue du Rampant fait éclater le bois en le frappant puis libère un torrent de charge électrique qui se propage largement. Bien qu'ils aient échappé de peu à la force de sa queue, sa morsure électrique brûle atrocement la peau des Maréchaux.\n\nRéagissant rapidement, ils désactivent l'appât pour un moment et glissent dans l'herbe rouge.\n\nAvec une facilité terrifiante, l'adversaire tourne le cou et jette l'arbre tombé avant d'y vaporiser un jet d'acide dans le feuillage pour faire sortir les Maréchaux. Il semblerait qu'ils en soient de nouveau réduits à la cachette — mais avec si peu de couverture et leur poursuivant à une telle proximité, l'Équipe Une ne pourra pas tenir ainsi bien longtemps.",
+      "information": [
+        "Chacun des personnages de l'équipe une subit 1 dégât.",
+        "L'un des personnages de l'équipe une subit une blessure."
+      ],
       "actions": []
     },
     {
       "id": "033",
-      "title": "033",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 2 - 033",
+      "text": "De retour au camp rebelle, l'Équipe Deux peut entendre des cris éclater à travers le camp alors que la confusion s'installe. La nouvelle d'un incendie aux stocks de Flambée s'est répandue. Certains des rebelles se saisissent de leurs armes et courent vers le périmètre, croyant essuyer une attaque ennemi. D'autres essaient de trouver leurs chefs d'escouade, incertains de ce qu'ils doivent faire.\n\nLes Maréchaux peuvent utiliser l'agitation comme couverture pour se diriger vers la tour de guet, serpenter entre les tentes, et éviter les rebelles qui se regroupent et parlent à voix pressantes.\n\nSeule une paire de rebelles se dresse entre les deux Maréchaux et leur objectif — des gardes expérimentés en armure lourde. Ils ont deux options : combattre les gardes ; l'autre serait de les observer et d'attendre qu'ils soient appelés pour aider à faire respecter la discipline dans les rangs.",
+      "information": [
+        "Défaussez un jeton de suivi."
+      ],
       "actions": []
     },
     {
       "id": "034",
-      "title": "034",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 2 - 034",
+      "text": "Il n'y a pas de temps à perdre. Malgré la lourde armure de leurs ennemis. Ils ont l'élément de surprise. Cela pourrait suffire pour en finir rapidement.",
+      "information": [
+        "Si Drokkeh est dans l'équipe deux, ajoutez un critique au résultat.",
+        "Si Rikitta est dans l'équipe deux, ajoutez 3 flèches au résultat."
+      ],
       "actions": []
     },
     {
       "id": "035",
-      "title": "035",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 2 - 035",
+      "text": "Aucun des deux gardes ne voit venir les Maréchaux. Ils se faufilent dans les ombres et lancent une attaque simultanée de chaque côté. La première garde s'effondre rapidement, frappée à la tête, et tombe sans un bruit en un tas. Son compagnon est alerté par le mouvement, mais cela ne lui sert pas davantage, une frappe fauchant ses genoux. Alors qu'il lutte pour se relever sous le poids de son armure, les Maréchaux terminent rapidement le travail, abrégeant ses souffrances.\n\nL'acte est accompli, et maintenant, l'Équipe Deux peut avancer.",
+      "information": [
+        "Gagnez un jeton de suivi supplémentaire.",
+        "Soustrayez 0 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "036",
-      "title": "036",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 2 - 036",
+      "text": "Les Maréchaux lancent une attaque simultanée de chaque côté. La première garde ne la voit pas venir. Elle s'effondre au sol, frappée à la tête, et tombe sans un bruit. Son compagnon, cependant, est alerté par le mouvement et offre plus de résistance. Sa lance fend l'air et touche les Maréchaux avant qu'il ne soit abattu. Par chance, l'avertissement qu'il tente de crier à ses camarades ne s'échappe de sa gorge que sous la forme d'un râle d'agonie.\n\nBien que les blessures hâtivement bandées fassent mal, la tâche est accomplie, et l'Équipe Deux peut avancer.",
+      "information": [
+        "Soustrayez 1 Furtivité.",
+        "Chacun des personnages de l'équipe deux subit 2 dégâts."
+      ],
       "actions": []
     },
     {
       "id": "037",
-      "title": "037",
-      "text": "",
-      "information": [],
+      "title": "PHASE 5 - Team 2 - 037",
+      "text": "Les Maréchaux sont arrivés jusqu'ici : tout perdre maintenant serait un trop grand risque. Heureusement, ce pari s'avère payant. La première garde, une femme plus âgée portant les tatouages du Clan du Désert, brise le silence entre eux. \"Tu sais quoi ? J'en ai assez de ce marais gorgé de sang.\"\n\nSon compagnon approuve. \"Nous aurions dû retourner dans le désert.\"\n\n\"Je crois en Regalla - pas en un gamin puéril qui braille comme un Grand-Front.\" Elle dirige le regard de son compagnon vers le chaos qui les entoure. \"Des ratés et des cadets se démenant pour maintenir les stocks de Flambée en ordre. Combattre nos propres camarades... Ce n'est pas ce qu'on nous avait promis. Je m'en vais.\"\n\nElle s'éloigne à grands pas, essuyant sa peinture de guerre d'un geste de la main. Après un moment d'hésitation, son compagnon se hâte de la suivre. La voie est libre entre l'Équipe Deux et la tour de guet.",
+      "information": [
+        "Défaussez un jeton de suivi.",
+        "Soustrayez 0 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "038",
-      "title": "038",
-      "text": "",
-      "information": [],
+      "title": "PHASE 6 - Team 2 - 038",
+      "text": "L'objectif est en vue. La tour de guet se dresse imposante, relique antique d'un passé brutal. De telles structures ont été construites pour survivre à une guerre et ont obstinément tenu bon, non entretenues, pendant une génération.\n\nUn fracas bruyant provenant de la nature sauvage détourne temporairement l'attention des deux Maréchaux. Ils espèrent que ce sont les autres Maréchaux qui accomplissent leur tâche. Il est maintenant temps de leur envoyer un signal.\n\nLe vacarme qui a commencé près des réserves de Flambée a perturbé le camp. Quelque part dans ce brouhaha, l'équipe deux peut entendre Hassak hurler des ordres. Les Maréchaux doivent saisir ce moment. Les deux sont équipés de Flambée. Les supports en bois de la tour et la mousse qui les recouvre sont tous deux secs — parfaits pour prendre feu avec un peu d'encouragement.",
+      "information": [
+        "Défaussez un jeton de suivi."
+      ],
       "actions": []
     },
     {
       "id": "039",
-      "title": "039",
-      "text": "",
-      "information": [],
+      "title": "PHASE 6 - Team 2 - 039",
+      "text": "Une seule volée de Munitions Incendiaires suffit. Elle éclate sur la structure en bois dans une pluie de flammes. En quelques secondes, tout est embrasé, le feu se propageant avidement sur le bois.\n\nHaut perchée au sommet de la tour, une garde repère enfin les Maréchaux et crie un avertissement, mais il est trop tard — sa voix se perd dans le bruit en contrebas et le rugissement des flammes qui s'élèvent. Bientôt, elle disparaît derrière une colonne de fumée gris sombre qui s'élève haut dans le ciel.",
+      "information": [
+        "Les joueurs gagnent le jeton rouge.",
+        "Soustrayez 0 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "040",
-      "title": "040",
-      "text": "",
-      "information": [],
+      "title": "PHASE 6 - Team 2 - 040",
+      "text": "Les Maréchaux lancent une volée de Munitions Incendiaires, mais la chance et l'air humide des Basses Terres jouent contre eux. Malgré un coup direct, la flamme ne prend pas. Deux autres tirs rencontrent le même échec, éclatant en lueurs vives qui ne font que noircir le bois avant qu'ils ne soient repérés par la garde au sommet de la tour. La rebelle se penche et tire précipitamment sur les Maréchaux, faisant mouche et appelant des renforts.\n\nL'Équipe Deux a bien réussi à infiltrer le camp et à affaiblir leurs défenses mais a échoué à l'étape finale : enflammer la tour de guet. Il ne faudra pas longtemps avant que quelqu'un ne voie le corps tombé de la tour. Il ne leur reste plus qu'à déclencher la bombe fumigène, signalant aux autres qu'il est temps d'attaquer, et l'utiliser pour trouver une couverture.",
+      "information": [
+        "Soustrayez 3 Furtivité."
+      ],
       "actions": []
     },
     {
       "id": "041",
-      "title": "041",
-      "text": "",
+      "title": "PHASE 6 - Team 1 - 041",
+      "text": "De retour au-delà de la lisière des arbres, à l'extérieur du camp, le Rampant cherche en vain. Les Maréchaux observent le camp. Tous deux la voient en même temps : De la fumée ! C'est l'heure.\n\nIls réactivent l'appât, sortent de leur cachette et franchissent la lisière des arbres, sprintant vers le campement. Un sifflement bruyant derrière eux confirme que la machine les poursuit de près.\n\nUne épaisse couronne de fumée flotte au-dessus du campement, des gris tachetés luttant pour dominer. Des cris puissants s'élèvent de l'intérieur, poussés par une vingtaine de voix. Un garde posté au périmètre repère les deux Maréchaux et crie un avertissement, et soudain, les Maréchaux se retrouvent à esquiver une pluie de flèches.",
       "information": [],
       "actions": []
     },
     {
       "id": "042",
-      "title": "042",
-      "text": "",
+      "title": "PHASE 6 - Team 1 - 042",
+      "text": "Avec une sombre satisfaction, les Maréchaux réalisent que les rebelles ne tirent pas sur eux — ils sont bien plus préoccupés par le Rampant. Les deux risquent un regard en arrière et voient l'attention de la machine se tourner vers les rebelles alors que les flèches ricochent sur son blindage métallique.",
       "information": [],
       "actions": []
     },
     {
       "id": "043",
-      "title": "043",
-      "text": "",
-      "information": [],
+      "title": "PHASE 6 - Team 1 - 043",
+      "text": "Les Maréchaux réalisent que la plupart des flèches ne leur sont pas destinées, mais visent plutôt le Rampant à leurs trousses. C'est une maigre consolation alors que quelques flèches entaillent la chair des Maréchaux. Les deux risquent un coup d'œil en arrière et voient l'attention de la machine se tourner vers le campement rebelle alors que les flèches ricochent sur son blindage de métal.",
+      "information": [
+        "Chacun des personnages de l'équipe une subit 2 dégâts."
+      ],
       "actions": []
     },
     {
       "id": "044",
-      "title": "044",
-      "text": "",
-      "information": [],
+      "title": "PHASE 7 - 044",
+      "text": "L'Équipe Une fonce vers le camp. Les rebelles devant eux, et le Rampant sur leurs talons. Une volée de flèches rebelles fait mouche, transperçant les yeux de la machine. Elle gémit de douleur avant de plonger dans la terre. Un instant, les deux Maréchaux se demandent si la machine a fui. Maintenant, ils se retrouvent exposés devant un camp de rebelles à quelques mètres seulement.\n\nCette inquiétude est balayée par une soudaine éruption de terre devant eux, projetant les Maréchaux au sol. Le Rampant les domine, sa fureur sans retenue. L'acide coule violemment à travers le sac dans sa gorge alors qu'il se prépare à les asperger de ce liquide mortel.\n\nPeut-être que ce serait la fin sans une autre volée de flèches, frappant la machine par derrière.\n\nAu loin, les Maréchaux entendent les rebelles s'avertir mutuellement — un Rampant sur le périmètre. Maintenant, il est temps de lancer l'appât directement dans le camp.",
+      "information": [
+        "Si vous avez encore des jetons de suivi, vous pouvez relancer un dé pour chaque jeton."
+      ],
       "actions": []
     },
     {
       "id": "045",
-      "title": "045",
-      "text": "",
-      "information": [],
+      "title": "PHASE 7 - 045",
+      "text": "Les Maréchaux de l'Équipe Une y sont presque. S'ils veulent qu'il fasse autant de dégâts que possible, les deux devront envoyer l'appât au cœur du camp. L'un des Maréchaux prend la responsabilité et lance l'appât de toutes ses forces au beau milieu du campement.",
+      "information": [
+        "Si vous avez encore des jetons de suivi, ajoutez 2 de Furtivité pour chaque jeton.",
+        "Si vous avez 7 de Furtivité ou plus, gagnez le jeton vert."
+      ],
       "actions": []
     },
     {
       "id": "046",
-      "title": "046",
-      "text": "",
+      "title": "PHASE 7 - 046",
+      "text": "Le lancer est bon — parfait. L'appareil plane au-dessus des têtes des rebelles confus et disparaît dans la fumée. Les yeux brillant d'un rouge écarlate, le Rampant plonge dans la terre aux côtés des Maréchaux, les fauchant au passage alors qu'il fore sous terre, les aspergeant d'un mélange de terre boueuse et de végétation déchiquetée.",
       "information": [],
       "actions": []
     },
     {
       "id": "047",
-      "title": "047",
-      "text": "",
-      "information": [],
+      "title": "PHASE 7 - 047",
+      "text": "Le lancer est bon, mais son timing est mauvais. Les Maréchaux sont pris entre le Rampant et l'appareil hurlant. Les Maréchaux se précipitent pour un second lancer, l'étrange amas de fils et de métal plane au-dessus des têtes des rebelles confus et disparaît dans la fumée. Malheureusement, alors que le Rampant plonge en terre, les yeux étincelant de rouge, les Maréchaux sont frappés par une projection de terre rocailleuse, les heurtant durement.",
+      "information": [
+        "Chaque personnage subit 3 dégâts."
+      ],
       "actions": []
     },
     {
       "id": "048",
-      "title": "048",
-      "text": "",
-      "information": [],
+      "title": "PHASE 7 - 048",
+      "text": "Un moment de silence relatif s'installe suite à la disparition du Rampant sous terre. Les rebelles ont été pris au dépourvu et courent récupérer leurs armes. Ceux qui se reposaient se hâtent d'enfiler leur armure. \"Des intrus !\" s'écrit l'un. \"Armez-vous !\" hurle un autre.\n\nAvec un pressentiment pesant, les Maréchaux se demandent si l'appareil a été endommagé d'une manière ou d'une autre par le lancer — et alors que la fumée commence à se dissiper, la machine n'est nulle part en vue.\n\nPuis, une énorme secousse prend naissance, et un fort bruit de broyage signale le retour du Rampant. Il jaillit du sol au centre du camp. Son métal est taché de boue et de terre fraîches, et des fûts de flèches brisés dépassent du corps de la créature. Les yeux de la machine brûlent d'une intensité que les Maréchaux n'ont fait qu'entrevoir. Elle déchaîne sa fureur et attaque le rebelle le plus proche, le déchiquetant.\n\nAlors que les rebelles survivants se dispersent pour trouver un abri, les quatre Maréchaux se regroupent une fois de plus dans les hautes herbes. Les Maréchaux s'échangent un salut avant de reporter leur attention sur le camp, où le Rampant rôde à la recherche de ses prochaines proies.",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 26 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "049",
       "title": "049",
-      "text": "",
-      "information": [],
+      "text": "Le cri final s'étouffe dans la gorge du dernier rebelle ; l'écho du métal qui s'entrechoque se perd dans la nature sauvage. Tout est immobile à l'exception des flammes basses, vacillant timidement avant de s'éteindre, et de minces nuages de fumée qui dérivent à travers la clairière.\n\nD'une manière ou d'une autre, contre toute attente, le camp a été nettoyé. La menace que représentait ce grand bataillon de rebelles n'est plus.\n\nLes Maréchaux se rassemblent, meurtris mais victorieux. Drokkeh s'appuie sur Nagallo ; la peau de sa jambe est tachée d'un cramoisi rougeoyant, et la chair autour de son tibia est tranchée. La peinture de guerre de Bialla s'est mélangée à une trace rouge vif de sang en travers de son front.\n\nBialla offre des potions et des onguents qu'elle a trouvés dans les réserves du camp tandis que Drokkeh panse sa blessure.\n\nRikitta se tient légèrement à l'écart, le menton haut. Pour elle en particulier, ce fut à la fois une épreuve et un rite de passage, et un sentiment de catharsis court maintenant dans ses veines. \"Ce n'est pas fini\", dit-elle en regardant parmi les différents cadavres. \"Hassak. Où est-il ? Quelqu'un l'a-t-il vu ?\"\n\nDrokkeh et Bialla secouent tous deux la tête. \"J'ai été un peu trop occupé avec le Rampant pour organiser une patrouille de recherche\" lance Nagallo entre deux gorgées de potion de santé. \"Une grande tente a brûlé par là. Il m'a l'air d'être le genre de type à avoir une grande tente.\"\n\n\"Peut-être.\" Rikitta n'est pas convaincue. \"Nous devons le trouver avant de partir. Ou ce qu'il en reste. Je veux livrer sa tête à Hekarro moi-même.\" Bialla hoche la tête en signe d'accord. Elle s'apprête à offrir un contre-argument lorsqu'un bruit de toux l'interrompt, un râle rauque provenant d'une gorge abîmée.\n\nLa silhouette se dresse, au centre d'un dernier contingent de rebelles qui constituent sa garde personnelle. Son sourire autrefois arrogant est maintenant un regard sombre, amer et haineux. Hassak lève son arme alors qu'il s'adresse aux Maréchaux.",
+      "information": [
+        "Les personnages gagnent :",
+        "- Soignez 3 blessures et chaque personnage soigne 15 PV.",
+        "- Chaque personnage améliore une de ses cartes d'équipement.",
+        "- 4 potions de soin.",
+        "- Les joueurs doivent basculer directement au chapitre suivant et ne peuvent pas tenter de rencontre secondaire à ce stade."
+      ],
       "actions": []
     },
     {
       "id": "050",
       "title": "050",
-      "text": "",
-      "information": [],
+      "text": "Il n'y a pas le temps de s'enfuir — l'immense silhouette du Rampant domine les Maréchaux. Sa collerette palpite, déclenchant une détonation assourdissante. Il est sur le point de porter un coup de grâce lorsqu'une lance traverse sa collerette par-derrière.\n\nFolle de rage, la machine se retourne pour faire face à ses agresseurs : un reste du contingent rebelle. Des flèches et des lances volent, distrayant la machine juste assez pour que les Maréchaux reprennent pied. Grimaçant de douleur, ils se précipitent vers un parterre proche de Célépine et l'appliquent à la hâte sur leurs plaies.\n\nEn arrière-plan, la machine se débat dans le combat, et au milieu du chaos, les Maréchaux voient leurs sauveurs inattendus, Hassak et sa garde personnelle. Avec une adresse redoutable, il achève le Rampant affaibli, faisant s'effondrer la bête colossale au sol. Le champ de bataille devient silencieux, hormis le sifflement de ses pièces mécaniques agonisantes.\n\nAlors que les Maréchaux se relèvent, la souffrance marquant leurs blessures. Hassak s'avance vers eux, le regard froid et calculateur. \"Je ne laisserai pas une stupide machine s'emparer de ma proie,\" grogne-t-il.",
+      "information": [
+        "Les personnages gagnent :",
+        "- Soignez 2 blessures et chaque personnage soigne 8 PV.",
+        "- 4 potions de soin.",
+        "-Les joueurs doivent basculer directement au chapitre suivant et ne peuvent pas tenter de rencontre secondaire à ce stade."
+      ],
       "actions": []
     }
 

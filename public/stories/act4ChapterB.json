@@ -6,63 +6,93 @@
     {
       "id": "INTRO",
       "title": "ACT 4 - CHAPTER B : EN CENDRES",
-      "text": "",
-      "information": [],
+      "text": "Rikitta marche à grands pas à travers la colonie, évaluant les dégâts infligés à son foyer. Elle croise le chemin de Kirro, faisant de son mieux pour éviter son regard. Quelque chose reste froid entre eux.\n\nAlors qu'elle s'apprête à partir, ses mots la figent sur place. \"Ce ne fut jamais un manque de talent avec toi, Rikitta. Je ne regrette pas de t'avoir renvoyée. Tu étais insolente. Puérile.\" Elle se tourne vers lui, son expression sévère adoucie. \"Tu as changé, maintenant. Je le vois. Mais tu ne serais jamais devenue ce que tu es si tu étais restée ici.\"\n\n\"Hekarro choisit bien ses ambassadeurs,\" dit-il enfin avant de s'enfoncer plus profondément dans Garde-Solitaire.\n\nLe prix a été lourd. Trop lourd. Garde-Solitaire a tout juste résisté à l'assaut. De nombreuses tours ont été éventrées à plusieurs endroits, réduites en éclats de bois et en cordes arrachées par les machines déchaînées.\n\nLes soldats survivants pressent leurs mains sur leurs blessures, certains tenant à peine debout. Les Maréchaux peuvent prendre un moment pour visiter le poste de l'herboriste qui travaille rapidement sur les blessés.\n\nBialla se déplace à travers la colonie, ralliant ceux qui sont encore capables de se battre. Ses compétences du temps de guerre ont ravivé un feu qu'elle n'avait pas ressenti depuis des années. Bientôt, les Maréchaux sont rassemblés avec les derniers soldats de Garde-Solitaire près des portes démolies.\n\nTous se tiennent prêts lorsqu'un seul cavalier sur machine émerge de la lisière de la forêt. Il chevauche jusqu'à être juste assez près pour que sa voix familière puisse être entendue. \"Maréchaux !\" s'écrie Hassak. \"Si heureux de vous voir ici. Vos morts rendront cette victoire plus historique !\"\n\nLe Frappe-Défenses de Hassak fait les cent pas docilement. \"Peuple de Garde-Solitaire ! Notre tribu a été affaiblie. Mais tous n'ont pas oublié ce qu'est être Tenakth. Au moment où je vous parle, notre chef, Regalla, mène une armée qui écrasera l'Ambassade traîtresse de Hekarro.\"\n\n\"Un beau parleur,\" grommelle Drokkeh, provoquant un grognement d'approbation de Nagallo.\n\n\"Garde-Solitaire sera mon cadeau pour Regalla quand je prendrai ma place à ses côtés. Ensuite, ensemble, nous briserons cette paix méprisable avec les Carjas et sèmerons la mort sur nos ennemis. Rejoignez-nous ou mourez !\"\n\nLes Maréchaux préparent leurs armes, et les soldats de Garde-Solitaire restent impassibles. Ils ont perdu des camarades aujourd'hui.\n\nAvec un haussement d'épaules, Hassak lève une corne de guerre et libère un son profond. Une armée émerge de la jungle. Cavaliers et fantassins en vert et rouge, sans aucune trace de leurs anciennes allégeances. Ils ne chargent pas. Pendant un instant, il n'y a que le silence. Et puis, le bruit d'arbres qui se brisent et le lent battement lourd de pas massifs.\n\nLes bois derrière Hassak tremblent alors qu'un immense Frappe-Terre entre lourdement en scène. Mené par des rebelles tirant de grosses cordes, ses câbles clignotent en bleu avant de se stabiliser sur un pourpre sombre. Les mouvements de la machine gigantesque sont saccadés et pleins de résistance alors qu'elle avance pesamment vers la colonie.\n\n\"Feu !\" hurle Hassak. À ces mots, un rebelle brandissant une lance modifiée, animée de décharges électriques, poignarde la machine sous ses canons. Le Frappe-Terre rugit d'agonie et lance une volée de flammes et de roches.\n\nDe gigantesques rochers enflammés réduisent les bâtiments en miettes. Les flammes se propagent rapidement vers le dépôt de ravitaillement, où la Flambée stockée s'embrase dans une explosion massive.\n\nLes rebelles, Hassak à leur tête, chargent en dévalant la pente vers la colonie, hurlant des cris de guerre et entrechoquant leurs lames alors qu'ils fondent sur les Maréchaux, acculant les forces de Garde-Solitaire contre les flammes.",
+      "information": [
+        "Chaque personnage soigne 10 PV.",
+        "Soignez 3 blessures.",
+        "Gagnez une potion de soin. Les joueurs peuvent défausser n'importe quel nombre d'Éclats de métal pour gagner 1 potion de soin supplémentaire pour chaque tranche de 5 défaussés."
+      ],
       "actions": []
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
+      "text": "Les Maréchaux font bloc. Chacun sait que ce sera le dernier combat de Garde-Solitaire. Mais les rebelles saigneront en retour.",
       "information": [],
       "actions": []
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
-      "information": [],
+      "text": "Alors que le feu pleut autour d'elle, Bialla prend rapidement le commandement, scrutant le champ de bataille avant de donner son premier ordre. Ils ne peuvent pas rester ici — les rebelles vont les repousser dans la colonie en flammes. Ses yeux se posent sur une petite colline. Ce n'est pas grand-chose, mais c'est mieux que rien. \"Avec moi ! Vers les hauteurs !\"\n\nLes soldats restants reprennent le cri et chargent derrière elle alors qu'elle s'élance dans un sprint.",
+      "information": [
+        "Les joueurs gagnent le jeton bleu.",
+        "Lancez tous les dés d'action. Pour chaque flèche par 5 et / ou 1 critique obtenus, le joueur gagne un jeton de suivi.",
+        "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "003",
       "title": "003",
-      "text": "",
-      "information": [],
+      "text": "Garde-Solitaire est déjà perdue, avant même que le deuxième rocher ne s'écrase parmi les bâtiments. S'ils restent ici, la colonie sera leur tombeau mortel alors que les rebelles les précipiteront dans les flammes.\n\nAvec le feu pleuvant autour d'eux, Drokkeh prend rapidement le commandement. \"Dispersez-vous et trouvez un abri !\"",
+      "information": [
+        "Les joueurs gagnent le jeton vert.",
+        "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "004",
       "title": "004",
-      "text": "",
-      "information": [],
+      "text": "Garde-Solitaire est déjà perdue, avant même que le deuxième tir ne s'écrase parmi les bâtiments. S'ils restent ici, ils seront tous massacrés alors que les rebelles, bien trop nombreux, submergeront les défenseurs assiégés.\n\nLes yeux de Nagallo se posent sur le Frappe-Terre, l'instrument de destruction des rebelles. L'abattre pourrait briser leur moral. C'est un mince espoir, mais c'est mieux que rien.\n\n\"Ce traître remet en question notre esprit Tenakth. Notre loyauté. Nous tomberons au combat, notre honneur intact. Avec moi !\" Il s'élance dans un sprint, les soldats restants chargeant derrière lui.",
+      "information": [
+        "Les joueurs gagnent le jeton rouge.",
+        "Lancez tous les dés d'action. Pour chaque flèche par 5 et / ou 1 critique obtenus, le joueur gagne un jeton de suivi.",
+        "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "005",
       "title": "005",
-      "text": "",
-      "information": [],
+      "text": "Avec le feu pleuvant autour d'elle, Rikitta prend rapidement le commandement, scrutant le champ de bataille avant de donner son premier ordre. Ils ne peuvent pas rester ici — les rebelles vont les repousser dans la colonie en flammes. Le Frappe-Terre est redoutable, ils ne l'abattront jamais avec tous les soldats rebelles à affronter.\n\nElle ramasse un arc sur le sol et décoche un tir instinctif dans la masse des rebelles chargeant vers eux. \"Éclaircissez leurs rangs !\"",
+      "information": [
+        "Les joueurs gagnent le jeton jaune.",
+        "Lancez tous les dés d'action. Pour chaque flèche par 5 et / ou 1 critique obtenus, le joueur gagne un jeton de suivi.",
+        "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "006",
       "title": "006",
-      "text": "",
-      "information": [],
+      "text": "Le Frappe-Terre lance un dernier hurlement strident aux interférences assourdissantes avant de basculer en avant et de s'effondrer sur le sol. Le rouge torturé s'efface de ses yeux alors qu'une série d'explosions internes secoue sa carcasse.\n\nContre toute attente, les défenseurs ont triomphé de la grande arme d'Hassak.\n\nMalgré la fatigue, l'adrénaline maintient les Maréchaux debout alors qu'un silence stupéfait s'abat sur le champ de bataille. Hassak observe depuis le sommet d'une colline à quelque distance, les yeux écarquillés. Son arme est détruite, et le moral de ses troupes vacille, non seulement à cause du choc de la mort du Frappe-Terre, mais aussi des pertes qu'ils ont subies.\n\nHassak regarde, l'incrédulité et la peur évidentes sur son visage. \"Retraite !\" crie-t-il en courant vers sa monture, sa lame toujours dégainée.",
+      "information": [
+        "Les personnages gagnent :",
+        "- 6 Éclats de métal, plus 1 pour chaque personnage ayant participé.",
+        "- Chaque personnage gagne 1 carte d'action.",
+        "- Chaque personnage gagne 2 ressources élémentaires."
+      ],
       "actions": []
     },
     {
       "id": "007",
       "title": "007",
-      "text": "",
-      "information": [],
+      "text": "Peut-être que tout se serait terminé ici sans ce qui ressemble à un coup de chance providentiel.\n\nJuste au moment où Hassak semble sur le point de vaincre enfin les Maréchaux, le Frappe-Terre s'arrête. Ses câbles passent de leur rouge faible à un bleu régulier. Alors qu'un de ses dresseurs tente de l'électrocuter de nouveau, il rugit avec défi et écrase un rebelle armé d'une lance tout en en projetant plusieurs autres avec sa grande trompe.\n\nLa machine gargantuesque se retourne contre ses ravisseurs, et ils se battent désespérément pour terminer ce que les défenseurs ont commencé. Beaucoup d'entre eux meurent en abattant le Frappe-Terre endommagé, mais ils réussissent alors que la machine tombe en un tas fumant.\n\nHassak observe, l'incrédulité et la peur évidentes sur son visage. \"Retraite !\" crie-t-il en courant pour rejoindre sa monture, la lame toujours dégainée.",
+      "information": [
+        "Les personnages gagnent :",
+        "- 1 Éclat de métal pour chaque personnage ayant participé.",
+        "- Chaque personnage gagne 1 carte d'action.",
+        "- Le personnage qui s'est évanoui soigne 8 PV.",
+        "- 2 potions de soin."
+      ],
       "actions": []
     },
     {
       "id": "008",
       "title": "008",
-      "text": "",
+      "text": "Hassak perd encore plus de combattants dans sa retraite. Les cavaliers s'éloignent au galop tandis que des fantassins désespérés s'agrippent aux flancs des machines domptées. Certains sont écrasés dans le processus. En quelques instants, les forces d'Hassak ont disparu, leurs silhouettes s'évanouissant dans la jungle sombre et le galop des sabots métalliques s'estompant dans le silence.\n\nBien que les rebelles aient été repoussés une fois de plus, la victoire a un goût amer pour les quelques survivants qui inspectent les morts. Parmi les corps, la frêle silhouette de Kirro se détache. Son visage est résolu et sévère, même dans la mort.\n\nLa soirée est passée par les deux camps à se regrouper et à panser leurs plaies. De Garde-Solitaire, seule la tour centrale tient encore debout, un monument solitaire marquant la première bataille de la rébellion et un symbole de la destruction que Regalla est sur le point d'apporter à tous les Tenakths.\n\nLa garnison de Garde-Solitaire a été décimée, avec seulement une poignée de soldats encore debout. Ceux qui restent s'occuperont des morts avant de tenter de rejoindre ceux qui ont été évacués sur le chemin de Marépine. La colonie est au-delà de toute réparation, et la guerre approche.\n\nPour les Maréchaux, la prochaine étape est claire : Ils doivent poursuivre Hassak et ses forces dans la jungle. Il n'y a pas de temps pour traverser la moitié des Terres des Clans afin de rallier une armée.\n\nUn feu crépite, perturbant le silence endeuillé des Maréchaux lors de leur première nuit de campement au plus profond de la jungle. L'image du mémorial de Kirro pèse lourdement dans leurs pensées. Son corps a été enveloppé dans un tissu au sommet d'une plinthe de pierre, le tissu blanc encré du bleu et du rouge de son clan, et sa lame déposée sur sa poitrine. Ce respect de la tradition fut le travail dévoué de Rikitta et de plusieurs autres locaux.\n\nDrokkeh insiste pour prendre le tour de garde autour du camp pour la nuit. Alors qu'il erre dans ces contrées sauvages étrangères, il trouve de larges traces, comparables à des tranchées, dans la terre, qui indiquent le passage d'une grande machine.\n\nPendant ce temps, Rikitta fouille méthodiquement les provisions rassemblées dans les vestiges de la colonie et rumine sur ce qui va suivre. Pour l'instant, du repos.",
       "information": [],
       "actions": []
     }

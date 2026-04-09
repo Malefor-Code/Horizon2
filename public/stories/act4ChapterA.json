@@ -6,77 +6,101 @@
     {
       "id": "INTRO",
       "title": "ACT 4 - CHAPTER A : ATTAQUE SUR UNE VEILLE SOLITAIRE",
-      "text": "",
+      "text": "Chaque jour du périple vers Garde-Solitaire se déroule de la même manière. Rikitta s'endort la dernière et se réveille la première, levant le camp alors que ses camarades s'éveillent à peine. Elle est une force implacable, poussant le groupe à avancer.\n\nLes Maréchaux évitent les machines quand ils le peuvent et les tuent quand ils le doivent, ne mangeant et ne se reposant que si nécessaire. Parfois, la terre gronde sous leurs pieds. Des secousses. Encore une malédiction à ajouter à la liste, avec les tempêtes et la nielle rouge désormais abondante. Bien que les autres Maréchaux n'y prêtent guère attention, Drokkeh colle son oreille au sol et écoute jusqu'à ce que les tremblements passent.\n\nLe spectre de la rébellion hante chaque pas à travers Tranchecime. Pour la première fois depuis des décennies, Bialla tend l'oreille pour détecter aussi bien des soldats que des machines dissimulés parmi les arbres.\n\nLa connaissance des sentiers locaux par Rikitta s'avère vitale, et bientôt, le sol s'incline doucement vers le bas. Avec le bruit des vagues s'écrasant sur le rivage, Garde-Solitaire se révèle, heureusement intacte.\n\nLa colonie est nichée dans une crique naturelle le long de la côte, encerclée par la roche de presque tous les côtés ; une porte en bois basse et bien gardée sert d'unique entrée. Un endroit difficile à conquérir. Quand Hekarro l'a fait, sa victoire a résonné à travers les Terres des Clans, annonçant une longue et violente campagne qui finirait par unir les clans.\n\nPerdre Garde-Solitaire serait le signe que les temps changent de nouveau.",
       "information": [],
       "actions": []
     },
     {
       "id": "001",
       "title": "001",
-      "text": "",
+      "text": "Rikitta ne s'accorde pas un instant de soulagement bien que, contre toute attente, ils aient devancé les rebelles jusqu'à leur cible. Elle rend à peine le salut du garde à la porte, demandant où trouver Kirro, le chef de la colonie.\n\nLes Maréchaux trouvent Kirro en pleine discussion avec une sentinelle, marchant près d'une eau azur. Sa prestance dégage une confiance désinvolte et mesurée. La sentinelle salue et s'en va alors que Kirro accueille le groupe.\n\n\"Les trois clans sont unis.\" Il jauge les Maréchaux. D'après le peu que Rikitta a raconté pendant le voyage, le chef de Garde-Solitaire est sobre, à la limite du taciturne, mais largement respecté pour son calme et sa lucidité.\n\nUn rictus barre son visage à la vue de son ancienne protégée. \"Rikitta. Une Maréchale, maintenant.\" Il la toise de la tête aux pieds, un ton condescendant dans la voix. \"Tu as fait du chemin depuis que tu as suspendu le chef de ta patrouille avec ce piège à corde. J'imagine.\"\n\n\"Je ne suis pas vraiment là pour une leçon de morale, Kirro.\" Les mots de Rikitta sont aussi acérés que sa dague.\n\nBialla s'interpose, désamorçant la tension. \"Aussi difficile à croire que cela puisse paraître, une force de rebelles marche sur Garde-Solitaire en ce moment même.\"\n\nKirro fronce les sourcils. \"Des rebelles ? Et que voulez-vous dire par marchent, montent ?\"\n\nLes Maréchaux expliquent à Kirro ce qu'ils ont vu durant leur voyage. Les soldats disparus, l'équipement volé, le vaste camp rebelle, et pour finir, les machines domptées qui s'y trouvaient. C'est à ce dernier détail que son visage blêmit. Le chef de la colonie semble à court de mots. Pendant un instant, on dirait qu'il peine à croire ce qu'il entend. Il observe chacun des Maréchaux et lit la sincère préoccupation sur leurs visages. Kirro prend une profonde inspiration avant que sa mâchoire ne se crispe avec détermination.\n\n\"Ils marchent au nom de Regalla,\" ajoute solennellement Rikitta.\n\n\"Je vois.\" Il hoche la tête puis se détourne, aboyant déjà des ordres aux hommes et aux femmes sous son commandement.",
       "information": [],
       "actions": []
     },
     {
       "id": "002",
       "title": "002",
-      "text": "",
+      "text": "La somnolence du village côtier est rapidement remplacée par le tumulte des préparatifs. Les chefs d'escouade sont informés. Des soldats au visage grave défilent devant les Maréchaux en direction de l'armurerie. Des messagers courent entre la quartier-maître et les tours de guet. Quelque part dans l'agitation, une escouade d'évacuation rassemble les enfants.\n\nSon travail immédiat terminé, Kirro retourne auprès des Maréchaux. \"Nos gens ne sont pas étrangers au combat, mais vous avez de l'expérience avec ces rebelles. Votre aide pour nous préparer serait appréciée.\"\n\nBialla est la première à répondre. \"Nous pourrions concevoir un plan de bataille. Et nous avons voyagé pendant un long moment. Il serait peut-être judicieux pour nous de nous soigner.\"\n\nNagallo inspecte les défenses. \"Nous devrions fortifier ces murs, aussi. Ce n'est pas le Rempart.\"\n\nLes yeux de Kirro se posent sur Rikitta. \"J'aimerais aussi avoir votre avis, Maréchale.\"\n\nRikitta acquiesce, d'une voix empreinte d'une confiance mature, bien loin de la fanfaronnade qu'elle affichait au début de la mission. \"Ils viendront en deux vagues. Nous pourrions repérer les environs de la colonie. Ils arriveront comme des machines. Ils peuvent être piégés comme telles.\"",
       "information": [],
       "actions": []
     },
     {
       "id": "003",
       "title": "003",
-      "text": "",
-      "information": [],
+      "text": "Le temps presse. Les Maréchaux n'auront pas le temps de tout faire. Les décisions prises maintenant sont vitales.",
+      "information": [
+        "Ouvrez l'un des livres de rencontres aux pages 58-59, et placez chacune des quatre figurines de Maréchal à côté. Placez le pion d'alerte sur l'emplacement 5 de la piste d'alerte.",
+        "La préparation à la bataille se déroule sur cinq tours. Durant chacun de ces tours, chacune des quatre figurines de Maréchal peut être assignée à l'une des six sections détaillées dans le livre de rencontres - Concevoir un Plan de Bataille, Informer les Soldats, Éclairer les Environs, Renforcer les Fortifications, Visiter l'Herboriste, Visiter le Quartier-Maître.",
+        "Une fois qu'une assignation a été choisie pour chaque Maréchal, résolvez les effets détaillés sur chaque section à laquelle un Maréchal a été assigné.",
+        "Une fois que cela a été accompli, déplacez le pion d'alerte d'une case vers le bas. Plus d'un Maréchal peut être assigné à la même section lors du même tour.",
+        "Lorsque le pion atteint le bas de la piste, chaque joueur peut placer un pion de suivi sous l'un des pions d'objectif que les joueurs ont gagnés au cours de cette section.",
+        "Ensuite, lisez l'entrée 005."
+      ],
       "actions": []
     },
     {
       "id": "004",
       "title": "004",
-      "text": "",
-      "information": [],
+      "text": "Se souvenant des fournitures volées trouvées dans le camp rebelle, les Maréchaux font du dépôt de ravitaillement leur premier arrêt.\n\nIls arrivent pour trouver le dépôt en train d'être rapidement vidé. La stricte quartier-maître se détourne d'une étagère de plus en plus dégarnie et fait un signe de tête en guise de remerciement. \"Des provisions des trois clans...\" murmure-t-elle, évaluant l'offrande.\n\nElle place une poignée d'éclats devant vous. \"En guise de remerciement.\"",
+      "information": [
+        "Gagnez 10 Éclats de métal.",
+        "La première fois qu'un Maréchal est assigné au quartier-maître, il peut effectuer deux achats supplémentaires."
+      ],
       "actions": []
     },
     {
       "id": "005",
       "title": "005",
-      "text": "",
-      "information": [],
+      "text": "Un calme discipliné s'empare des habitants de Garde-Solitaire alors que les soldats se tiennent prêts et que les gardes occupent les tours de guet, les yeux rivés sur l'horizon. À l'exception des vagues qui s'écrasent contre le rivage, le silence est absolu.\n\nCertains des soldats se demandent sûrement si ce qui se murmure est vrai. Jusqu'à ce que le grondement commence. D'abord, il est faible. De lointaines explosions signalent que les pièges posés plus tôt ont attrapé quelques rebelles malchanceux. Mais le bruit ne cesse pas ; il continue de s'amplifier.\n\nPuis, les Maréchaux le voient depuis les murs frontaux de la colonie — le premier des rebelles percute la lisière des arbres. Puis un autre et un autre. Chaque machine aux câbles irradiant comme des veines sanglantes est accompagnée de fantassins, et tous sont parés du vert et du rouge traîtres de la rébellion. Une marée de sabots métalliques et d'yeux rouges déferle vers Garde-Solitaire.\n\nUne onde de malaise traverse certains des soldats. L'un des défenseurs pousse un cri de désespoir. Kirro le fait taire rapidement, luttant pour se faire entendre par-dessus le vacarme alors que les rebelles chargent depuis la jungle, une vague sur le point de s'écraser contre les défenses de la colonie.\n\nL'un des rebelles pousse un cri de guerre enragé, ses mots se perdent dans le chaos, mais sa voix est bientôt rejointe par celles de ses alliés et des machines hurlantes. Un rugissement des défenseurs de Garde-Solitaire y répond, mené par Nagallo, qui hurle par défi.\n\n\"Soldats de Garde-Solitaire ! Tenez bon. Trouvez votre courage. Et frappez avec la justesse des Dix !\"",
+      "information": [
+        "Ouvrez le Livre de Campagne à la page 22 et tentez la rencontre qui y est détaillée."
+      ],
       "actions": []
     },
     {
       "id": "006",
       "title": "006",
-      "text": "",
-      "information": [],
+      "text": "Les bruits de la bataille connaissent d'abord un reflux avant de se dissiper complètement, laissant un vide. Soudainement, l'air n'est plus déchiré par les explosions, les hurlements des machines, ou le bruit du métal heurtant le métal. Au lieu de cela, le silence est brisé par des gémissements de douleur et des cris qui s'estompent, le sang tachant les sables.\n\nLes rebelles ont été repoussés.",
+      "information": [
+        "Les personnages gagnent :",
+        "- Pour chaque groupe de 4 emplacements sous le pion sur la piste de Garde-Solitaire, chaque personnage gagne : 3 Éclats de métal, 1 carte d'action, et 3 ressources élémentaires.",
+        "- Les cartes de rencontre secondaire 11 et 12."
+      ],
       "actions": []
     },
     {
       "id": "007",
       "title": "007",
-      "text": "",
-      "information": [],
+      "text": "\"Repliez-vous !\" crie l'un des cavaliers depuis sa monture. Il est clair que la force rebelle a souffert plus que prévu. Ils ne pouvaient pas savoir que Garde-Solitaire serait prête à les recevoir.\n\nPourtant, la tâche des cavaliers était d'affaiblir les défenses de la colonie, et ils y sont parvenus. Si la colonie avait été moins préparée, les cavaliers n'auraient pas été repoussés. Au moins pour l'instant, les soldats d'ici se sont acheté un bref répit avant le prochain assaut.",
+      "information": [
+        "Les personnages gagnent :",
+        "- Le personnage qui s'est évanoui soigne 6 PV.",
+        "- 2 potions de soin.",
+        "- Les cartes de rencontre secondaire 11 et 12.",
+        "- Chaque personnage gagne 1 carte d'action."
+      ],
       "actions": []
     },
     {
       "id": "008",
       "title": "008",
-      "text": "",
+      "text": "Ceux qui ont échappé aux blessures se fraient un chemin à travers le champ de bataille, vérifiant avec lassitude les rebelles tombés au combat et les carcasses de machines calcinées à la recherche de signes de vie.\n\nNagallo trouve l'un de ces rebelles, dont le bas du torse est écrasé sous la masse d'une monture Frappe-Défenses morte. Le jeune homme gémit d'agonie.",
       "information": [],
       "actions": []
     },
     {
       "id": "009",
       "title": "009",
-      "text": "",
-      "information": [],
+      "text": "Il n'est pas beaucoup plus vieux qu'un cadet, et il porte un mélange d'abattement et de honte sur son visage. C'est à ce moment-là que Nagallo aperçoit le tissu familier sur son armure, le motif de couture unique vu à Piton Frissonnant. \"Patarro ?\"\n\nLe jeune homme regarde Nagallo, confus que ce Maréchal connaisse son nom. \"Je... c'est moi. Comment...\"\n\n\"Les anciens ont parlé de toi à Piton Frissonnant.\" Le ton de Nagallo n'est pas tendre, mais il n'est pas non plus cruel.\n\nPatarro grogne de douleur. \"Je suis un idiot. Ils ont été bons avec moi, là-bas.\" Ses yeux sont penauds. \"Pourtant, je les ai abandonnés. J'ai cru aux mensonges d'Hassak. Il m'a promis la gloire et la liberté de tisser comme je le souhaitais. Mais c'était un mensonge. Quand j'ai voulu partir, les rebelles m'ont mis en cage.\"\n\n\"On m'a offert soit la mort dans le désert, soit la mort au combat. Il n'y a pas grand-chose pour rattraper mes mauvaises décisions. Tenez. S'il vous plaît, prenez ceci.\" Il sort un petit tissu d'une bourse attachée au Frappe-Défenses. \"C'est mon meilleur ouvrage. Un vrai guerrier le mérite. Pas un lâche.\"\n\nNagallo prend le tissu des mains de Patarro.",
+      "information": [
+        "Récupérez toutes les cartes de modification de tissu de la boîte, ajoutez-en une à la sacoche de n'importe quel personnage, puis rangez le reste."
+      ],
       "actions": []
     },
     {
       "id": "010",
       "title": "010",
-      "text": "",
+      "text": "\"Je t'en supplie. Mets-y fin.\" Le soldat croasse avant d'être délivré de ses souffrances par la lance de Nagallo. L'expression de douleur du rebelle quitte son visage, et il paraît encore plus jeune. L'encre bleue et violette sur l'un de ses bras arbore le symbole de Piton Frissonnant. Quelqu'un de son propre clan, se lamente Nagallo, alors que Drokkeh pose une main réconfortante sur son épaule. C'est le véritable prix de la rébellion.\n\n\"Il y en a d'autres à venir.\" La voix de Nagallo est inhabituellement basse, mais non moins intense pour autant. Les Maréchaux se regroupent, barbouillés de sang et de crasse. \"Nous n'avons pas encore vu la force principale d'Hassak.\"\n\n\"Quelle que soit cette force,\" dit Rikitta, \"elle ne quittera pas Garde-Solitaire.\"",
       "information": [],
       "actions": []
     }
