@@ -12,14 +12,21 @@
         "Soignez 3 blessures.",
         "Gagnez une potion de soin. Les joueurs peuvent défausser n'importe quel nombre d'Éclats de métal pour gagner 1 potion de soin supplémentaire pour chaque tranche de 5 défaussés."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "001", "label": "Lire l'entrée 001." }
+      ]
     },
     {
       "id": "001",
       "title": "001",
       "text": "Les Maréchaux font bloc. Chacun sait que ce sera le dernier combat de Garde-Solitaire. Mais les rebelles saigneront en retour.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "002", "label": "Si Bialla a le pion de leader, lisez l'entrée 002." },
+        { "type": "read", "target": "003", "label": "Si Drokkeh a le pion de leader, lisez l'entrée 003." },
+        { "type": "read", "target": "004", "label": "Si Nagallo a le pion de leader, lisez l'entrée 004." },
+        { "type": "read", "target": "005", "label": "Si Rikitta a le pion de leader, lisez l'entrée 005." }
+      ]
     },
     {
       "id": "002",
@@ -30,7 +37,10 @@
         "Lancez tous les dés d'action. Pour chaque flèche par 5 et / ou 1 critique obtenus, le joueur gagne un jeton de suivi.",
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+      ]
     },
     {
       "id": "003",
@@ -40,7 +50,10 @@
         "Les joueurs gagnent le jeton vert.",
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+      ]
     },
     {
       "id": "004",
@@ -51,7 +64,10 @@
         "Lancez tous les dés d'action. Pour chaque flèche par 5 et / ou 1 critique obtenus, le joueur gagne un jeton de suivi.",
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+      ]
     },
     {
       "id": "005",
@@ -62,7 +78,10 @@
         "Lancez tous les dés d'action. Pour chaque flèche par 5 et / ou 1 critique obtenus, le joueur gagne un jeton de suivi.",
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+      ]
     },
     {
       "id": "006",
@@ -74,7 +93,9 @@
         "- Chaque personnage gagne 1 carte d'action.",
         "- Chaque personnage gagne 2 ressources élémentaires."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "008", "label": "Lire l'entrée 008." }
+      ]
     },
     {
       "id": "007",
@@ -87,14 +108,18 @@
         "- Le personnage qui s'est évanoui soigne 8 PV.",
         "- 2 potions de soin."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "008", "label": "Lire l'entrée 008." }
+      ]
     },
     {
       "id": "008",
       "title": "008",
       "text": "Hassak perd encore plus de combattants dans sa retraite. Les cavaliers s'éloignent au galop tandis que des fantassins désespérés s'agrippent aux flancs des machines domptées. Certains sont écrasés dans le processus. En quelques instants, les forces d'Hassak ont disparu, leurs silhouettes s'évanouissant dans la jungle sombre et le galop des sabots métalliques s'estompant dans le silence.\n\nBien que les rebelles aient été repoussés une fois de plus, la victoire a un goût amer pour les quelques survivants qui inspectent les morts. Parmi les corps, la frêle silhouette de Kirro se détache. Son visage est résolu et sévère, même dans la mort.\n\nLa soirée est passée par les deux camps à se regrouper et à panser leurs plaies. De Garde-Solitaire, seule la tour centrale tient encore debout, un monument solitaire marquant la première bataille de la rébellion et un symbole de la destruction que Regalla est sur le point d'apporter à tous les Tenakths.\n\nLa garnison de Garde-Solitaire a été décimée, avec seulement une poignée de soldats encore debout. Ceux qui restent s'occuperont des morts avant de tenter de rejoindre ceux qui ont été évacués sur le chemin de Marépine. La colonie est au-delà de toute réparation, et la guerre approche.\n\nPour les Maréchaux, la prochaine étape est claire : Ils doivent poursuivre Hassak et ses forces dans la jungle. Il n'y a pas de temps pour traverser la moitié des Terres des Clans afin de rallier une armée.\n\nUn feu crépite, perturbant le silence endeuillé des Maréchaux lors de leur première nuit de campement au plus profond de la jungle. L'image du mémorial de Kirro pèse lourdement dans leurs pensées. Son corps a été enveloppé dans un tissu au sommet d'une plinthe de pierre, le tissu blanc encré du bleu et du rouge de son clan, et sa lame déposée sur sa poitrine. Ce respect de la tradition fut le travail dévoué de Rikitta et de plusieurs autres locaux.\n\nDrokkeh insiste pour prendre le tour de garde autour du camp pour la nuit. Alors qu'il erre dans ces contrées sauvages étrangères, il trouve de larges traces, comparables à des tranchées, dans la terre, qui indiquent le passage d'une grande machine.\n\nPendant ce temps, Rikitta fouille méthodiquement les provisions rassemblées dans les vestiges de la colonie et rumine sur ce qui va suivre. Pour l'instant, du repos.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "chapter", "target": "act4ChapterC", "label": "Continuer vers le prochain chapitre" }
+      ]
     }
   ]
 }
