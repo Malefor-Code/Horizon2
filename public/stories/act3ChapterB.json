@@ -8,7 +8,10 @@
       "title": "ACT 3 - CHAPTER B : RÉVÉLATION",
       "text": "Les repères gravés sur le marqueur de piste sont assez simples à interpréter. L'existence d'un tel artefact témoigne de l'audace de ce groupe et laisse entrevoir un niveau d'organisation supérieur à celui d'une simple bande de bandits. Pendant des jours, les Maréchaux suivent ses directions gravées sous une chaleur écrasante, s'interrogeant sur ce que cela pourrait signifier pour leur tribu.\n\nAucun des Maréchaux n'est étranger aux conflits entre Tenakths, bien sûr. Les bagarres sont monnaie courante chez un peuple aussi belliqueux. Mais ces désaccords, aussi violents soient-ils, ne sont rien en comparaison des Guerres de Clans. Un conflit sanglant qui a fait rage pendant des générations entre les trois clans pour la suprématie et pour le contrôle du Bosquet de la Mémoire. Finalement, ils ont tous été conquis par Hekarro, et unis. C'est cette unité qui a permis de repousser les Carjas.\n\nUn groupe important de rebelles, quels que soient leurs objectifs, pourrait signifier un retour à une telle effusion de sang fraternel.\n\nUne chose tracasse les Maréchaux. Quelque chose qui fait du groupe de cet adversaire une menace existentielle, peu importe leur nombre : Hassak a la capacité impossible de rallier les machines à sa cause. Si suffisamment de machines sont rassemblées, les dégâts que cette force pourrait causer seraient fatals à la paix de Hekarro.\n\nL'emplacement final du marqueur de piste est une enclave parmi les montagnes du côté ouest du désert. En s'approchant, les Maréchaux errants repèrent un Abri sur un haut piton rocheux.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "001", "label": "Si vous voulez utiliser l'Abri, inspecter ses marchandises et vous reposer, lisez l'entrée 001." },
+        { "type": "read", "target": "002", "label": "Ou, si vous préférez vous rendre directement au camp, lisez l'entrée 002." }
+      ]
     },
     {
       "id": "001",
@@ -19,42 +22,54 @@
         "Soignez 1 blessure.",
         "Lisez la page 92 du Livre Narratif."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "003", "label": "Lire l'entrée 003." }
+      ]
     },
     {
       "id": "002",
       "title": "002",
       "text": "Les Maréchaux décident d'avancer, impatients de découvrir la menace inconnue qui les attend. Finalement, Drokkeh, marchant en éclaireur, mène le groupe au sommet de la plus haute corniche d'un grand contrefort. Après des jours de marche dans les dunes, cette ascension rocheuse est une ultime épreuve épuisante.\n\nCe point d'observation offre une vue sur le désert au sud et à l'est, et sur la montée rocheuse vers les chaînes de montagnes à l'ouest. Lorsque les autres arrivent, Drokkeh attire leur attention sur une scène préoccupante : un grand campement s'étend en dessous d'eux.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "003", "label": "Lire l'entrée 003." }
+      ]
     },
     {
       "id": "003",
       "title": "003",
       "text": "Le camp est considérable et soigneusement construit dans une enclave de rochers escarpés, ce qui le dissimule bien. Des murs en bois ferment l'avant-poste côté désert, et à l'intérieur, on compte au moins une douzaine de bâtiments permanents, fraîchement érigés et récemment encrés de vert, de rouge et de noir.\n\nPlus loin dans la colonie, les Maréchaux distinguent la lueur vacillante de lumières bleues et rouges. Ils déduisent rapidement leur terrifiante provenance — des machines, faisant les cent pas dans des enclos.\n\nPuis, ils entendent le gémissement d'une corne de guerre et remarquent un mouvement soudain. Des dizaines de soldats se dirigent vers la porte du camp et commencent à se rassembler à l'extérieur. D'âges différents, de clans différents, et unis sous de nouvelles couleurs, cette milice se forme en deux colonnes distinctes.\n\nLe premier groupe est composé de fantassins portant des armes et se préparant à marcher. La seconde colonne donne des frissons aux Maréchaux : une grande meute de machines chevauchées par des cavaliers Tenakths. Les cavaliers dirigent leurs Frappe-Défenses avec précision et forment une unité très soudée. Une lueur cramoisie parcourt les câbles des machines, palpitant comme un battement de cœur.\n\nC'est une vision surréaliste, inspirant la peur. C'est une force de combat telle que le monde n'en a jamais vu. Même une seule brigade armée de machines pourrait facilement submerger une colonie, écrasant tout ennemi assez fou pour se dresser sur son chemin.\n\nLes deux colonnes font docilement face aux murs du camp.\n\"Ils vont recevoir leurs ordres de marche,\" siffle Bialla en guidant les Maréchaux vers le complexe.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "004", "label": "Lire l'entrée 004." }
+      ]
     },
     {
       "id": "004",
       "title": "004",
       "text": "Les Maréchaux arrivent au pied de l'enclave, cachés derrière un feuillage désertique clairsemé et noueux.\n\nUne silhouette familière apparaît au sommet du mur du camp, Hassak. Il lève un bras, arrachant un rugissement rauque au bataillon. Il a troqué son attitude docile pour celle d'un pillard vicieux, et son visage est peint d'une gueule rouge sang et noire, entourée de vert foncé.\n\nSa voix s'élève au-dessus des rebelles rassemblés, résonnant à travers l'enclave. \"Véritables soldats des Tenakths ! Une nouvelle ère est à nos portes ! Une ère libérée des chaînes d'une paix qui nous affaiblit — un fardeau que nous a imposé la coalition de Hekarro avec nos ennemis !\" Il marque une pause, accueilli par un rugissement d'approbation. \"Nous marchons vers une victoire glorieuse, pour prendre la première colonie au nom de notre grande cheffe.\"\n\n\"Cavaliers ! Vous êtes la pointe de notre lance. Vous verserez le premier sang et façonnerez le champ de bataille en notre faveur.\" Il redirige son attention vers la colonne de fantassins. \"Vous qui marchez. Vous n'attendrez pas longtemps pour teinter de sang vos lames. Je vous mènerai moi-même alors que nous rejoindrons notre force principale dans la jungle. Et lorsque les cavaliers auront affaibli notre cible, notre force totale portera le coup de grâce.\"\n\nHassak affiche un large sourire alors que les soldats poussent une acclamation à glacer le sang. Les bras levés, il tourne le dos à la foule pour s'adresser à ceux qui montent la garde à l'intérieur du camp.\n\n\"Pour ceux qui restent ici, un devoir important vous attend.\" Hassak interrompt son discours pour désigner du geste un lieutenant aux larges épaules à ses côtés. \"Chakka, mon second ! Toi et les soldats qui restent, garderez cet endroit. Vous accueillerez les recrues et leur enseignerez ce que c'est que d'être un vrai Tenakth.\"\n\n\"Mais n'oublions pas à qui nous prêtons allégeance. Nous ne sommes qu'une partie de son grand tout. Elle nous guide. Elle nous mène à nouveau vers la gloire. Regalla !\" À la mention de la Maréchale disgraciée d'Hekarro, les rebelles commencent à scander son nom.\n\nRegalla. Sa réputation est bien connue. Elle n'a été vaincue que par un seul : le Chef Hekarro. Même après avoir osé défier son règne, la vie de Regalla avait été épargnée par le Chef, qui l'a condamnée à l'exil.\n\nLes Maréchaux échangent des regards graves. Si elle est derrière cela, l'intention de cette rébellion ne sera rien de moins que le démantèlement du règne d'Hekarro — un coup d'État plus sanglant que tout ce que les Tenakths ont jamais affronté.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "005", "label": "Lire l'entrée 005." }
+      ]
     },
     {
       "id": "005",
       "title": "005",
       "text": "Au commandement de Hassak, les cavaliers s'éloignent du camp en chargeant, les sabots de leurs Frappe-Défenses soulevant un nuage de poussière dans lequel ils disparaissent. Bientôt, les fantassins entament leur marche, menés par Hassak lui-même, qui chevauche nonchalamment en tête sur sa propre machine.\n\nLes Maréchaux ne peuvent que regarder, impuissants, cette force s'éloigner.\n\n\"Où qu'ils aillent, nous devons les arrêter.\" Nagallo serre son Lance-Piques, fixant intensément la colonne alors qu'elle s'éloigne.\n\n\"Ils sont la force du nombre. Nous devons être plus intelligents.\" pense Bialla à voix haute. \"Chaque renseignement peut aider. Sur les machines. Leurs opérations.\"\n\nRikitta intervient. \"Si on les suit, on aura toujours un temps de retard. Si on découvre où ils vont, on peut leur couper la route. Une escouade peut prendre des raccourcis et se déplacer plus agilement qu'un bataillon.\" Elle inspecte déjà les tours de guet, pour la plupart vides après le discours d'Hassak. \"Peut-être qu'on trouvera quelque chose dans le camp pour nous orienter.\"\n\nNagallo cède. \"Et si ce n'est pas le cas... Ce commandant en second, Chakka. Il sera bien plus bavard avec une lame sous la gorge.\"\n\nBialla acquiesce. \"On dirait que la plus grande partie de leurs forces est partie. C'est le moment idéal pour infiltrer leur camp.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+      ]
     },
     {
       "id": "006",
       "title": "006",
       "text": "Profitant de la garde réduite du camp, les Maréchaux parviennent rapidement à se glisser à l'intérieur. Une grande étendue d'herbes rouges sèches près de la porte les dissimule. La mission est claire : se disperser pour en découvrir davantage sur l'opération des rebelles et l'emplacement de leur attaque imminente.\n\nLes Maréchaux identifient quatre emplacements. Les quartiers de Hassak pourraient receler des indices sur la cible des rebelles, tandis que les enclos à machines pourraient en dire plus sur leurs tactiques favorisant les machines. Près d'un feu de camp, deux soldats en pause bavardent bruyamment, et profondément à l'intérieur du camp, un atelier baigne dans l'obscurité.\n\nLes Maréchaux se regrouperont dans les hautes herbes une fois leurs tâches individuelles accomplies.\n\nBien que chacune de ces tâches présente des défis variés, le risque reste le même. Si trop de gardes commencent à avoir des soupçons, la couverture des Maréchaux sera compromise, et ils devront lutter pour leur survie.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "007",
@@ -72,28 +87,45 @@
         "Utilisez ce cadran pour suivre la pression de révélation que subissent les Maréchaux. Lorsque l'investigation est terminée, les joueurs seront dirigés vers une entrée correspondant à cette pression.",
         "Si vous possédez une carte d'investigation 'Survivant du Recrutement', vous pouvez la défausser pour réduire la pression jusqu'à 3."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "008", "label": "Inspecter les enclos à machines" },
+        { "type": "read", "target": "023", "label": "Explorer l'atelier" },
+        { "type": "read", "target": "037", "label": "Vous introduire discrètement dans les quartiers du commandant" },
+        { "type": "read", "target": "051", "label": "Ecouter une conversation entre deux soldats" },
+        { "type": "read", "target": "065", "label": "Si vous avez exploré toutes les options" }
+      ]
     },
     {
       "id": "008",
       "title": "008",
       "text": "Profondément à l'intérieur du camp, là où il y a moins de gardes, diverses machines occupent des enclos de bois et d'acier. D'un simple coup d'œil, les Maréchaux aperçoivent un Veilleur et une paire de Coureuses, mais le plus redoutable de tous est sans conteste le Frappe-Défenses, Bien que les plus petites machines semblent s'être calmées, le Frappe-Défenses force sur les barreaux de sa cage, essayant sans relâche de se libérer de sa captivité.\n\n\"Surveille leurs câbles,\" murmure Rikitta, \"Vacillant entre le rouge et le bleu. Je ne pense pas qu'elles aient encore été apprivoisées.\"\n\n\"Ça explique pourquoi elles sont dans des cages,\" répond Nagallo. Un sourire se glisse sur ses lèvres. \"Peut-être qu'on pourrait en libérer quelques-unes. Causer un peu de chaos pendant qu'on est là ?\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "009", "label": "Si vous possédez la carte d'investigation 'Patarro', lisez l'entrée 009." },
+        { "type": "read", "target": "010", "label": "Pour affecter Bialla à cette tâche" },
+        { "type": "read", "target": "013", "label": "Pour affecter Drokkeh à cette tâche" },
+        { "type": "read", "target": "016", "label": "Pour affecter Nagallo à cette tâche" },
+        { "type": "read", "target": "019", "label": "Pour affecter Rikitta à cette tâche" }
+      ]
     },
     {
       "id": "009",
       "title": "009",
       "text": "Alors que les Maréchaux inspectent les enclos à machines, une rangée de cages beaucoup plus petites attire l'œil de Rikitta. \"Ces cages. Elles sont trop petites pour des machines.\"\n\n\"Attendez ici.\" Drokkeh jette un coup d'œil aux alentours avant de se faufiler vers les enclos. L'itinéraire est facile, puisqu'il reste à l'abri des hautes herbes jusqu'aux cages inoccupées. Sous le regard des autres, Drokkeh glisse sa main entre les barreaux et en extrait un objet.\n\nLorsqu'il revient vers le groupe, il le leur tend. \"Un tissu. Inachevé. Très complexe.\"\n\nDrokkeh fronce les sourcils lorsque Nagallo l'inspecte. \"C'est le même type de tissage que nous avons vu à Crête Frissonnante.\"\n\n\"Cette recrue disparue. Patarro ?\" s'interroge Rikitta, \"Peut-être qu'il a réussi à atteindre ce camp. Je me demande pourquoi il a été mis en cage, par contre.\"\n\nBialla fait claquer sa langue de mécontentement, jetant un nouveau regard vers les enclos à machines. \"Peut-être qu'il montait la garde de qui que ce soit d'emprisonné ici. Dans tous les cas, nous devons rester concentrés sur notre tâche. Lequel d'entre nous va s'occuper de ces enclos à machines ?\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "010", "label": "Pour affecter Bialla à cette tâche" },
+        { "type": "read", "target": "013", "label": "Pour affecter Drokkeh à cette tâche" },
+        { "type": "read", "target": "016", "label": "Pour affecter Nagallo à cette tâche" },
+        { "type": "read", "target": "019", "label": "Pour affecter Rikitta à cette tâche" }
+      ]
     },
     {
       "id": "010",
       "title": "010",
       "text": "Gardant la tête baissée, Bialla sprinte jusqu'à l'enclos du Frappe-Défenses. La porte de la cage est verrouillée par un appareil étrange, tout de fer massif, orné d'une rangée de lumières clignotantes. De fabrication étrangère, probablement Oseram.\n\nPassant sa main sur la serrure, Bialla cherche désespérément un point où le métal a été soudé et serait donc plus faible. Elle ne le trouve pas, mais découvre à la place une série de petites roues dentées. En tournant l'une d'elles, une lumière s'éteint en clignotant. Fascinée, elle en tourne une autre, et une lumière clignotante devient fixe.\n\nPendant plusieurs instants, ses mains dansent sur la surface de l'appareil, essayant de voir s'il y a un motif dans le mécanisme de la serrure à mesure que les lumières changent.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faites 1 critique et 2 flèches", "pass": "011", "fail": "012" }]
     },
     {
       "id": "011",
@@ -102,7 +134,7 @@
       "information": [
         "Bialla gagne une flambée."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "022", "label": "Lire l'entrée 022." }]
     },
     {
       "id": "012",
@@ -111,21 +143,25 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "007", "label": "Lire l'entrée 007." }]
     },
     {
       "id": "013",
       "title": "013",
       "text": "Restant dans l'ombre, Drokkeh se faufile vers l'enclos du Frappe-Défenses. Il avance prudemment, veillant à ne jamais alerter les autres machines. La porte de la cage est verrouillée par un étrange appareil. Du fer lourd maintient un verrou en place, et une rangée de lumières clignotantes trouble l'esprit.\n\nAprès une rapide inspection, il identifie un point sur la surface de l'appareil où deux sections de métal sont jointes et commence à s'y attaquer avec sa dague. Remuer la pointe finit par porter ses fruits alors que la lame s'enfonce plus profondément, bougeant pour écarter l'appareil.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 2 flèches", "pass": "014", "fail": "015" }
+      ]
     },
     {
       "id": "014",
       "title": "014",
       "text": "Après un court moment, la patience de Drokkeh et ses mains fermes sont récompensées : les deux pièces se séparent, et le cadenas tombe. La porte de l'enclos s'ouvre, le Frappe-Défenses à l'intérieur n'attendant pas une seconde de plus, s'échappant immédiatement de sa captivité et chargeant à travers le camp vers les espaces sauvages.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "022", "label": "Lire l'entrée 022." }
+      ]
     },
     {
       "id": "015",
@@ -134,21 +170,27 @@
       "information": [
         "Ajoutez 3 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "016",
       "title": "016",
       "text": "Rasant les murs, Nagallo se faufile jusqu'à l'enclos du Frappe-Défenses. Il découvre que la porte de la cage est verrouillée par un étrange appareil en fer épais, doté d'une rangée de lumières clignotantes. Probablement de la ferraille élégante faite par les Oserams.\n\nIl survole à peine son design complexe avant de décider de sa solution : la force brute. Nagallo recule d'un pas, sort une pique de son sac, et la coince entre les barreaux autour de la porte. Puis, tous muscles contractés, il pèse de tout son poids sur la pique pour forcer l'ouverture. Le cadre en bois commence à se fendre sous la pression, les cordes qui attachent les rondins entre eux s'effilochent.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique ET 3 flèches", "pass": "017", "fail": "018" }
+      ]
     },
     {
       "id": "017",
       "title": "017",
       "text": "Avec un craquement sonore, l'une des petites pièces de l'appareil cède. Souriant triomphalement, Nagallo, utilisant toute sa force, donne une dernière poussée puissante, et la porte de l'enclos s'ouvre d'un coup.\n\nLe Frappe-Défenses à l'intérieur n'attend pas, se libérant immédiatement de sa captivité et dévalant le camp en direction de la porte ouverte, renversant Nagallo au passage.\n\nSe relevant de la poussière, le sourire de Nagallo ne l'a pas quitté. Ce n'est pas le chaos qu'il espérait, mais c'est toujours une machine rebelle de moins.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "022", "label": "Lire l'entrée 022." }
+      ]
     },
     {
       "id": "018",
@@ -157,21 +199,27 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "019",
       "title": "019",
       "text": "Baissant la tête, Rikitta se précipite vers l'enclos du Frappe-Défenses. La porte de la cage est verrouillée par un engin étrange. Du fer massif garni d'une rangée de lumières clignotantes. Le cadenas est complexe et intriqué : de petites roues dentées tournent les unes contre les autres. La bonne combinaison pourrait ouvrir la porte, mais Rikitta n'a pas le temps pour ça.\n\nElle opte pour une solution plus simple. Fouillant dans son sac, elle sort un petit pot de Pâte explosive et l'étale autour du verrou.  Elle fixe soigneusement une courte mèche et l'allume avant de se replier dans les hautes herbes.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique ET 2 flèches OU 4 flèches", "pass": "020", "fail": "021" }
+      ]
     },
     {
       "id": "020",
       "title": "020",
       "text": "L'explosion est petite et contenue, fendant le verrou en deux et éclatant le bois environnant. Les gardes du camp ne semblent pas alertés jusqu'à ce que la porte de l'enclos ne s'ouvre brusquement, et que le Frappe-Défenses ne se libère. La machine fonce à travers le camp en direction des espaces sauvages au-delà de la porte ouverte. Tandis qu'il s'enfuit vers la liberté, un garde rebelle le repère et se lance désespérément à sa poursuite, laissant tomber maladroitement son équipement au passage, ce qui arrache un rire discret à Rikitta.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "022", "label": "Lire l'entrée 022." }
+      ]
     },
     {
       "id": "021",
@@ -180,7 +228,9 @@
       "information": [
         "Ajoutez 1 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "022",
@@ -189,21 +239,30 @@
       "information": [
         "Les joueurs gagnent le pion jaune."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "023",
       "title": "023",
       "text": "L'atelier est encastré contre la pierre dure au fond du camp. De loin, les Maréchaux peuvent tout juste distinguer un établi au rez-de-chaussée de la structure à plusieurs niveaux. Le chemin qui y mène est dépourvu de gardes, mais n'offre aucune couverture lors de l'approche.\n\nIl suffirait d'un coup d'œil d'un rebelle de passage pour que le Maréchal désigné soit repéré. Ce qui se trouve à l'intérieur des murs de l'atelier est également un mystère. Peut-être des reliques qui nécessiteraient un esprit analytique pour être comprises, ou peut-être qu'il cache des rebelles qu'il faudra rapidement et silencieusement neutraliser.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "024", "label": "Pour assigner Bialla à cette tâche, lisez l'entrée 024." },
+        { "type": "read", "target": "027", "label": "Pour assigner Drokkeh à cette tâche, lisez l'entrée 027." },
+        { "type": "read", "target": "030", "label": "Pour assigner Nagallo à cette tâche, lisez l'entrée 030." },
+        { "type": "read", "target": "033", "label": "Pour assigner Rikitta à cette tâche, lisez l'entrée 033." }
+      ]
     },
     {
       "id": "024",
       "title": "024",
       "text": "Les yeux de Bialla parcourent le camp un instant, confirmant que la seule voie vers l'atelier passe par l'espace ouvert devant elle. Tête baissée, elle se faufile à travers le camp et, sans incident, atteint l'atelier.\n\nElle s'attarde un instant à l'entrée, l'oreille tendue. Bialla n'entend personne sur ce niveau inférieur, mais plus haut dans la structure, elle perçoit des voix et les échos de martèlements.\n\nElle entre et découvre des établis encombrés de ferraille et de pièces de machines, assemblées dans des configurations déroutantes. Bialla commence à chercher tout ce qui pourrait offrir un aperçu des opérations d'Hassak.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique OU 4 flèches", "pass": "025", "fail": "026" }
+      ]
     },
     {
       "id": "025",
@@ -212,7 +271,9 @@
       "information": [
         "Bialla gagne 5 Éclats de Métal."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "036", "label": "Lire l'entrée 036." }
+      ]
     },
     {
       "id": "026",
@@ -221,14 +282,18 @@
       "information": [
         "Ajoutez 3 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "027",
       "title": "027",
       "text": "Après un bref coup d'œil autour de lui, Drokkeh prend une profonde inspiration et sprinte à travers la cour ouverte en direction de l'atelier. La distance est considérable, mais il est rapide. Quelques battements de cœur nerveux plus tard, il se faufile par l'entrée de l'atelier, sa dague en main. Heureusement, le sol de la tour est vide, et il est seul pour le moment, bien qu'il entende des voix et un martèlement résonner depuis une autre chambre plus haut dans la structure.\n\nNe voulant pas perdre de temps, Drokkeh commence à fouiller les établis à la recherche de n'importe quelle relique qui pourrait offrir des réponses sur les machines d'Hassak ou des preuves pouvant indiquer la cible de l'attaque des rebelles.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique OU 2 flèches", "pass": "028", "fail": "029" }
+      ]
     },
     {
       "id": "028",
@@ -237,7 +302,9 @@
       "information": [
         "Drokkeh gagne 2 Éclats de Métal."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "036", "label": "Lire l'entrée 036." }
+      ]
     },
     {
       "id": "029",
@@ -246,14 +313,18 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "030",
       "title": "030",
       "text": "Nagallo ne s'intéresse guère au bricolage et à l'artisanat, mais sachant qu'il pourrait y avoir des rebelles cachés à éliminer, il accepte d'inspecter l'atelier. Se tenant dans l'ombre là où il le peut, Nagallo se dirige lentement vers l'atelier et se glisse à l'intérieur.\n\nL'étage inférieur est vide de rebelles, bien qu'il entende des voix et un martèlement résonner d'une autre chambre plus haut dans la bâtisse.\n\nIl tourne son attention vers l'établi. Un enchevêtrement de pièces de machines brisées, d'outils étranges et d'armes endommagées parsème la surface, entremêlés d'amas de fils électriques et de veines de machines.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 5 flèches", "pass": "031", "fail": "032" }
+      ]
     },
     {
       "id": "031",
@@ -262,7 +333,9 @@
       "information": [
         "Nagallo gagne 2 Éclats de Métal."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "036", "label": "Lire l'entrée 036." }
+      ]
     },
     {
       "id": "032",
@@ -272,21 +345,27 @@
         "Nagallo gagne 1 Éclat de Métal.",
         "Ajoutez 3 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "033",
       "title": "033",
       "text": "Rikitta prend une profonde inspiration et s'élance à travers l'espace ouvert, la tête baissée. La distance est conséquente, mais elle est rapide. Quelques battements de cœur frénétiques plus tard, elle se faufile par l'entrée de l'atelier. Elle découvre que l'endroit est inoccupé, bien qu'elle puisse entendre des voix et des coups de marteau résonner provenant d'une autre salle plus haut dans la structure.\n\nAutour d'elle, les établis sont encombrés de ferraille, de pièces de machines et d'appareils à moitié assemblés dont les utilités lui sont inconnues. Les yeux écarquillés par la simple quantité d'outils étranges, de matériaux de récupération rares et d'équipements de l'Ancien Monde, Rikitta entame ses recherches pour trouver un quelconque indice qui pourrait éclairer les opérations d'Hassak.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "034", "fail": "035" }
+      ]
     },
     {
       "id": "034",
       "title": "034",
       "text": "Beaucoup d'outils sont inconnus de Rikitta, mais ses années d'expérience en matière d'installation de pièges et de conception de mécanismes lui ont conféré une capacité unique à interpréter le fonctionnement interne d'appareils mêmes inconnus. En triant ce qui semblait d'abord n'être que de la vulgaire pacotille, elle trouve une pointe de Corrupteur rouillée fixée à un support qui s'attacherait à une lance de modèle standard.\n\nSon esprit est ramené au Galop-griffes dans les Tracepluies et à la pièce de métal rouillé enfouie profondément dans le corps de la machine. Elle est certaine que les rebelles étaient impliqués. Une information utile à rapporter aux Maréchaux.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "036", "label": "Lire l'entrée 036." }
+      ]
     },
     {
       "id": "035",
@@ -295,35 +374,48 @@
       "information": [
         "Ajoutez 3 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "036",
       "title": "036",
       "text": "En repensant au Galop-griffes aux veines sanglantes et aux machines dociles parmi les rebelles de ce camp, il semble y avoir un lien entre les machines aux câbles rouges et cet atelier.\n\nUn plus grand mystère est l'abondance d'outils et d'équipements étrangers ici. Comment ces rebelles ont-ils mis la main sur autant de matériel ? La profusion de pièces d'ici suggère qu'il s'agit d'une opération d'envergure, récoltant des composants spécifiques, puis fabricant des outils dédiés au domptage des machines.\n\nDes informations utiles, mais qui ne vous disent rien sur la destination de Hassak.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "037",
       "title": "037",
       "text": "\"Ce sont peut-être des rebelles, mais ils suivent nos coutumes. La configuration de ce camp est typique d'un avant-poste du désert.\" Drokkeh désigne une structure au sommet de laquelle un soldat se tient en alerte. \"Ce doivent être les quartiers du chef.\"\n\nSurplombant le reste du camp, les quartiers sont construits sur une plateforme surélevée érigée sur d'épais piliers en bois. La seule voie d'accès dégagée est une échelle exposée au reste du camp.\n\nBien qu'il soit seul, et que la voie semble libre, le garde en service semble prendre sa position très au sérieux et ne sera pas facile à contourner. Il faudra l'éloigner ou le tuer.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "038", "label": "Pour assigner Bialla à cette tâche, lisez l'entrée 038." },
+        { "type": "read", "target": "041", "label": "Pour assigner Drokkeh à cette tâche, lisez l'entrée 041." },
+        { "type": "read", "target": "044", "label": "Pour assigner Nagallo à cette tâche, lisez l'entrée 044." },
+        { "type": "read", "target": "047", "label": "Pour assigner Rikitta à cette tâche, lisez l'entrée 047." }
+      ]
     },
     {
       "id": "038",
       "title": "038",
       "text": "Bialla utilise les hautes herbes pour se couvrir autant que possible, se baissant et esquivant avec l'expertise née d'années passées dans la jungle. Se déplaçant lentement pour ne pas attirer l'attention sur elle, elle tire une flèche de son carquois, et stabilise sa respiration tout en l'encochant, lisant les herbes pour juger de la direction et de la force du vent.\n\nPuis, avec une aisance acquise par l'expérience, elle se lève des herbes. Rapidement, elle tire sur la corde et vise, le tout dans un seul mouvement.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 2 critiques OU 6 flèches", "pass": "034", "fail": "035" }
+      ]
     },
     {
       "id": "039",
       "title": "039",
       "text": "La flèche de Bialla atteint sa cible, transperçant le soldat à la gorge. Ses mains grattent la blessure avant qu'il ne perde l'équilibre et ne bascule de son perchoir, atterrissant sur le sol avec un bruit sourd. Le temps que Bialla l'atteigne, il est mort. Glissant ses mains sous ses aisselles, Bialla traîne son corps dans l'herbe et le fouille rapidement à la recherche de quoi que ce soit d'utile.\n\nPuis, elle se remet en mouvement, se hissant à l'échelle en direction des quartiers du chef.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "050", "label": "Lire l'entrée 050." }
+      ]
     },
     {
       "id": "040",
@@ -332,21 +424,27 @@
       "information": [
         "Ajoutez 4 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "041",
       "title": "041",
       "text": "Drokkeh se faufile aussi loin qu'il peut à travers les hautes herbes avant de quitter sa couverture et de sprinter sous la haute plateforme qui abrite les quartiers du chef. Hors de la ligne de mire du garde, Drokkeh escalade le pilier de la structure jusqu'à se trouver juste sous la plateforme.\n\nDe cette position, il peut entendre les bruits de pas du garde alors qu'il patrouille de long en large. Drokkeh compte chaque pas, jugeant de la position du rebelle. Lorsqu'il pense que le garde se retourne, Drokkeh dégaine sa dague et se hisse silencieusement sur la plateforme.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique OU 2 flèches", "pass": "042", "fail": "043" }
+      ]
     },
     {
       "id": "042",
       "title": "042",
       "text": "L'instinct de Drokkeh est correct. Le dos de l'homme est tourné alors que Drokkeh enroule un bras autour de sa gorge et enfonce sa dague dans le rebelle traître. Le rebelle se débat, gargouillant un crachat sanglant sur la main de Drokkeh tandis qu'il lui ferme la mâchoire.\n\nDrokkeh le dépose doucement sur le sol, puis il avance, disparaissant dans les quartiers du chef.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "050", "label": "Lire l'entrée 050." }
+      ]
     },
     {
       "id": "043",
@@ -355,14 +453,18 @@
       "information": [
         "Ajoutez 5 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "044",
       "title": "044",
       "text": "Nagallo rampe aussi loin qu'il peut à travers les hautes herbes avant de courir sous la haute plateforme. Le garde ne le repère pas, et personne ne remarque que Nagallo commence à grimper à l'échelle. Après des jours dans le désert avec seulement ses camarades Maréchaux, Nagallo a hâte de se battre.\n\nIl essaie de rester silencieux alors que chaque barreau l'amène plus haut, mais il ne peut s'empêcher de faire grincer l'échelle sous son poids. Lorsqu'il approche finalement du sommet, il se propulse sur la plateforme, l'arme tirée.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "045", "fail": "046" }
+      ]
     },
     {
       "id": "045",
@@ -371,7 +473,9 @@
       "information": [
         "Les joueurs gagnent le pion rouge."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "050", "label": "Lire l'entrée 050." }
+      ]
     },
     {
       "id": "046",
@@ -380,21 +484,27 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "047",
       "title": "047",
       "text": "Rikitta rampe à travers les hautes herbes en direction de la haute structure, s'avançant aussi loin qu'elle n'ose. Se déplaçant lentement pour ne pas attirer l'attention, elle ramasse une pierre sur le sol, les yeux cherchant quelque chose vers quoi la lancer. En quelques instants, elle a sa cible — une caisse pleine de ferraille rouillée, au bas de la pente, à l'écart de la plateforme du garde.\n\nAussi silencieusement qu'elle le peut, Rikitta se lève des herbes, vise, et lance la pierre.\n\nLe lancer de Rikitta est parfait. La pierre heurte un grand morceau de métal avant de dégringoler dans la caisse, où elle cliquète parmi plusieurs autres pièces. Le garde regarde dans la direction du son, se dressant sur la pointe des pieds et scrutant les alentours.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 flèche", "pass": "048", "fail": "049" }
+      ]
     },
     {
       "id": "048",
       "title": "048",
       "text": "Juste au moment où Rikitta est sur le point de saisir une autre pierre, le garde décide d'enquêter davantage, abandonnant son poste.\n\nAlors que le garde descend par l'échelle d'un côté de la plateforme, Rikitta escalade l'un des piliers en bois de la structure. C'est aussi facile que les arbres de la jungle. En quelques instants, elle est sur la plateforme, entrant dans les quartiers du chef.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "050", "label": "Lire l'entrée 050." }
+      ]
     },
     {
       "id": "049",
@@ -403,7 +513,9 @@
       "information": [
         "Ajoutez 1 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "050",
@@ -412,28 +524,39 @@
       "information": [
         "Chaque personnage récupère 3 PV."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "051",
       "title": "051",
       "text": "Comme dans n'importe quelle base d'opérations, le feu de camp sert de lieu pour se détendre pendant les heures de repos et, comme le font souvent les soldats, de ragoter entre eux. D'où les Maréchaux se cachent, il est difficile de saisir ce que discutent les deux soldats qui occupent actuellement les sièges de rondins.\n\nÀ proximité, une pile de barils d'acide offre une couverture derrière laquelle se cacher pour écouter la conversation, mais l'emplacement central du feu de camp pourrait exposer le Maréchal assigné à cette tâche s'il ne peut s'y rendre assez vite ou assez silencieusement.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "052", "label": "Pour assigner Bialla à cette tâche, lisez l'entrée 052." },
+        { "type": "read", "target": "055", "label": "Pour assigner Drokkeh à cette tâche, lisez l'entrée 055." },
+        { "type": "read", "target": "058", "label": "Pour assigner Nagallo à cette tâche, lisez l'entrée 058." },
+        { "type": "read", "target": "061", "label": "Pour assigner Rikitta à cette tâche, lisez l'entrée 061." }
+      ]
     },
     {
       "id": "052",
       "title": "052",
       "text": "Bialla scrute les alentours pendant un instant, cherchant la meilleure approche. Ses yeux se posent sur une autre parcelle de hautes herbes, avec leurs extrémités rouges ondulant dans le vent. Restant accroupie, elle court de parcelle en parcelle.\n\nLes gardes sont si concentrés sur leurs discussions et la volaille du désert qu'ils dévorent qu'ils ne remarquent pas l'avancée de Bialla. Cela ne fait qu'ajouter à son mépris pour eux. Non seulement ce sont des soldats à la langue pendue, mais ils sont aussi mal disciplinés. Ils auraient été tués en quelques instants pendant les Guerres de Clans.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 1 critique OU 1 flèche", "pass": "053", "fail": "054" }
+      ]
     },
     {
       "id": "053",
       "title": "053",
       "text": "Bialla atteint les barils près du feu de camp. Maintenant qu'elle est plus proche, elle peut voir leurs visages. L'un d'eux est très jeune, à peine plus qu'un cadet. L'autre est plus âgé et affiche un froncement de sourcils cynique. À en juger par leurs peintures faciales, il est évident qu'ils ne viennent pas du même clan. C'est ironique ; une alliance rendue possible par la paix de Hekarro prend maintenant les armes contre lui.\n\nL'odeur des tonneaux d'acide brûle les narines de Bialla alors qu'elle retient sa respiration et écoute.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "064", "label": "Lire l'entrée 064." }
+      ]
     },
     {
       "id": "054",
@@ -442,21 +565,27 @@
       "information": [
         "Ajoutez 1 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "055",
       "title": "055",
       "text": "Drokkeh étudie l'approche. Il repère une longue ombre s'étirant sur le sol, projetée par une haute tour de guet. En la suivant, elle se fond dans une autre ombre. Un chemin commence à se former dans son esprit. Restant bas, Drokkeh s'élance dans l'obscurité.\n\nLes gardes sont si absorbés par leur discussion et la volatille du désert qu'ils consomment qu'ils n'ont aucune idée de l'approche de Drokkeh. Cela ne fait qu'ajouter à son mépris pour eux. Il s'abrite derrière les fûts, et leurs voix deviennent suffisamment claires pour être comprises.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 3 flèches", "pass": "056", "fail": "057" }
+      ]
     },
     {
       "id": "056",
       "title": "056",
       "text": "Maintenant qu'il est plus proche, Drokkeh peut voir leurs visages. Le premier est un jeune homme aux cheveux d'un noir de jais, qui agite ses mains dans un geste animé. Son compagnon, qui l'observe avec un désintérêt cynique, est plus âgé et a du pigment rouge badigeonné autour des yeux. Cela ressemble à une marque du Clan du Désert, avec un léger ajout de couleur verte.\n\nL'odeur âcre des fûts d'acide brûle les narines de Drokkeh alors qu'il retient sa respiration et écoute.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "064", "label": "Lire l'entrée 064." }
+      ]
     },
     {
       "id": "057",
@@ -465,14 +594,16 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "058",
       "title": "058",
       "text": "Nagallo évalue la distance entre lui et le feu de camp. Ses yeux se posent à nouveau sur les rebelles. Chacun tient une cuisse d'un oiseau du désert. La pile de barils d'acide près d'eux est à peine de quoi le dissimuler. Nagallo repère plutôt une cabane juste au-delà. C'est un itinéraire plus risqué que ce que les autres Maréchaux auraient pris, mais c'est sa meilleure option.\n\nNagallo attend que les rebelles se concentrent sur leur nourriture avant de se diriger vers la cabane.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "059", "fail": "060" }]
     },
     {
       "id": "059",
@@ -481,7 +612,7 @@
       "information": [
         "Nagallo gagne 3 Éclats de Métal."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "064", "label": "Lire l'entrée 064." }]
     },
     {
       "id": "060",
@@ -490,21 +621,27 @@
       "information": [
         "Ajoutez 4 de pression."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+      ]
     },
     {
       "id": "061",
       "title": "061",
       "text": "Rikitta se faufile aussi loin qu'elle l'ose à travers les hautes herbes. Se déplaçant lentement pour ne pas attirer l'attention, elle ramasse une pierre au sol, ses yeux cherchant quelque chose vers quoi la lancer. Si elle peut distraire la paire de soldats suffisamment longtemps, elle pourra atteindre les barils sans être vue.\n\nEn quelques instants, elle a trouvé sa cible — une vieille caisse pleine de ferraille rouillée sur un côté. Aussi silencieusement que possible, Rikitta se lève de l'herbe, vise, et lance la pierre.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 2 flèches", "pass": "062", "fail": "063" }
+      ]
     },
     {
       "id": "062",
       "title": "062",
       "text": "Le lancer de Rikitta est parfait. La pierre frappe un long morceau de métal avant de plonger dans la caisse, où elle résonne parmi plusieurs autres pièces. La conversation retombe alors que les gardes regardent autour d'eux, inspectant çà et là. Rikitta saisit son opportunité, sprintant jusqu'aux barils.\n\nL'odeur âcre des barils brûle les narines de Rikitta alors qu'elle retient sa respiration et écoute.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "064", "label": "Lire l'entrée 064." }
+      ]
     },
     {
       "id": "063",
@@ -513,21 +650,24 @@
       "information": [
         "Ajoutez 3 de pression."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "007", "label": "Lire l'entrée 007." }]
     },
     {
       "id": "064",
       "title": "064",
       "text": "\"Un Maréchal ! Un vrai Maréchal, a dit Hassak !\" La voix du plus jeune rebelle porte l'excitation de l'inexpérience. \"Vaincre l'un des élus de Hekarro serait un grand honneur.\" Il prend une bouchée d'une patte d'oiseau, carbonisée dans le feu de camp.\n\n\"Et comment ferais-tu ça ? Tu as à peine réussi à abattre cette volaille du désert.\" Le second rebelle l'interrompt. Sa voix est sévère et condescendante. \"Ce n'était pas juste un Maréchal. Un groupe entier.\"\n\nLe plus jeune homme redouble d'ardeur. \"C'est encore mieux, alors. Plus de Maréchaux signifie plus de gloire. J'ai hâte de mouiller ma lame.\"\n\n\"Ton impatience est enfantine. Hassak a avancé cette opération parce qu'il est ébranlé. Sois heureux d'être ici à monter la garde. Je me suis engagé pour combattre les Carjas. Pourquoi frapper nos propres sœurs et frères ? Et pourquoi devons-nous cacher les détails de nos opérations aux autres camps ?\" Le rebelle plus âgé soupire. \"Je crains d'avoir jeté ma lance avec des imbéciles.\"\n\nIls sont interrompus par d'autres voix aboyant des ordres.\n\n\"C'est notre vocation, l'ancien. On ne peut plus faire demi-tour maintenant.\" Le premier rebelle sourit, suçant l'os de l'oiseau à sec avant de le jeter au feu.",
       "information": [],
-      "actions": []
+      "actions": [{ "type": "read", "target": "007", "label": "Lire l'entrée 007." }]
     },
     {
       "id": "065",
       "title": "065",
       "text": "Les Maréchaux se regroupent et partagent ce qu'ils ont appris. Cela dresse un portrait sombre, celui d'une force organisée de grande envergure. Les ressources et l'information les aideront dans leur combat contre les rebelles, mais les Maréchaux n'ont pas découvert la cible de l'attaque rebelle.\n\n\"Et maintenant ?\" murmure Rikitta aux autres. \"Retournons-nous au Bosquet ? Hekarro a besoin de—\"\n\nChacun des Maréchaux se raidit alors que des cris parcourent le camp.\n\n\"Est-ce qu'ils nous ont trouvés ?\" siffle Nagallo. Drokkeh secoue la tête, puis désigne d'un signe de tête une grande construction en bois près du centre du camp. Une paire de soldats rebelles luttent pour se frayer un chemin dans leur champ de vision, criant à leurs camarades de dégager la voie. Chacun tire sur une longueur de corde tendue, dont les extrémités opposées sont attachées autour du cou et des défenses d'un Frappe-Défenses.\n\n\"Dépêchez ! Celui-ci a attendu trop longtemps. Il est réveillé !\" L'un des rebelles crie un avertissement alors qu'ils mènent le Frappe-Défenses sur la rampe de la structure en bois. Une fois la machine arrivée en haut de la rampe, une cage est abaissée autour d'elle. Le Frappe-Défenses résiste un instant avant qu'un troisième rebelle, armé d'une lance identique à celle sur laquelle les Maréchaux sont tombés dans les Basses Terres, ne l'enfonce dans le flanc de la machine.\n\nUne étrange transformation s'opère. Des lumières rouge sang serpentent le long des câbles du Frappe-Défenses, et sa provocation diminue d'abord, pour finalement s'apaiser complètement. Il reste immobile, illuminé de rouge un instant, avant de pousser un hurlement troublé et de s'effondrer.\n\nLe rebelle tenant la lance reste essoufflé. \"Ça a marché ?\"\n\n\"Comment je saurais ?\" ronchonne un second rebelle. \"Tous les cavaliers sont partis. C'était mon premier, aussi.\"\n\nLes Maréchaux restent assis, stupéfaits. C'est ce que l'escouade rebelle essayait de faire à Rive-d'Automne. Ils collectaient des machines pour cette cause, levant une armée pour Regalla. Mais les renégats de la jungle ont été interrompus par l'escouade d'Hovveh et n'ont pas réussi à dompter correctement le Galop-griffes — une erreur qui leur a coûté la vie.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "066", "label": "Si vous avez 5 de pression ou moins, lisez l'entrée 066." },
+        { "type": "read", "target": "067", "label": "Sinon, lisez l'entrée 067." }
+      ]
     },
     {
       "id": "066",
@@ -537,14 +677,20 @@
         "Les joueurs gagnent le pion bleu.",
         "Ouvrez le Livre de Campagne à la page 18 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "069", "label": "Si la rencontre est réussie, lisez l'entrée 069." },
+        { "type": "read", "target": "068", "label": "Si la rencontre a échoué, lisez l'entrée 068." }
+      ]
     },
     {
       "id": "067",
       "title": "067",
       "text": "Chakka, le commandant en second de Hassak, s'avance lourdement dans leur champ de vision. Son armure imposante résonne et racle à chaque pas. Il arbore la démarche lente et le regard haineux d'un chef de patrouille qui se délecte de son autorité et aime voir trembler les cadets sous ses ordres.\n\n\"Vous deux. Arrêtez de faire n'importe quoi avec les machines. Nous avons des intrus.\" Les deux cadets s'enfuient précipitamment alors que Chakka leur crie, \"Et fermez les portes !\"\n\nNagallo sourit. \"Eh bien, je suppose que notre prochaine étape a été choisie pour nous. On en élimine autant qu'on peut, ensuite on force ce commandant en second à nous dire où va Hassak.\"\n\n\"Entendu. Ce n'est qu'une question de temps avant qu'ils ne nous trouvent.\" Bialla parle pour le reste du groupe et reçoit un concert de hochements de tête en retour. Les Maréchaux se déploient, en espérant rester cachés assez longtemps pour frapper en premier.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "069", "label": "Si la rencontre est réussie, lisez l'entrée 069." },
+        { "type": "read", "target": "068", "label": "Si la rencontre a échoué, lisez l'entrée 068." }
+      ]
     },
     {
       "id": "068",
@@ -553,7 +699,9 @@
       "information": [
         "Si vous possédez la carte d'investigation 'Missing Supplies', défaussez-la."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "069", "label": "Lire l'entrée 069." }
+      ]
     },
     {
       "id": "069",
@@ -569,7 +717,10 @@
         "- Si Chakka a été vaincu durant la rencontre, chaque personnage gagne 1 carte d'action, 1 ressource élémentaire et 1 Éclat de Métal.",
         "- Si le pion a atteint l'emplacement le plus élevé du piège du campement, chaque personnage gagne 1 ressource élémentaire."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "070", "label": "Si vous possédez la carte d'investigation 'Missing Supplies', lisez l'entrée 070." },
+        { "type": "read", "target": "071", "label": "Sinon, lisez l'entrée 071." }
+      ]
     },
     {
       "id": "070",
@@ -578,14 +729,18 @@
       "information": [
         "Récupérez toutes les cartes de modification de tissu de la boîte, ajoutez-en une à la sacoche de n'importe quel personnage, puis remettez le reste."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "071", "label": "Lire l'entrée 071." }
+      ]
     },
     {
       "id": "071",
       "title": "071",
       "text": "Épuisés et blessés par les combats, les Maréchaux se regroupent près de l'entrée du camp d'Hassak. Bialla leur explique qu'ils ne pourront rester ici très longtemps et qu'ils devraient envisager leur prochaine manœuvre dans un endroit sûr. D'autres rebelles pourraient bien patrouiller ou même affluer d'autres camps possibles.\n\nLes Maréchaux rejoignent l'abri qu'ils avaient repéré à leur arrivée. Comme les choses ont changé depuis lors. Les révélations du jour tourmentent leurs esprits alors qu'ils gravissent les contreforts. Il y a une rébellion organisée contre Hekarro. Elle est dirigée par Regalla. Et elle a ordonné de dompter des machines.\n\nBien que tous les Maréchaux gardèrent le silence cette nuit-là au camp, Rikitta semble être la plus tourmentée. Elle arpente l'Abri avant qu'enfin ses paroles n'éclatent. \"Que faisons-nous ici ?!\" Ses yeux sont grands ouverts, et sa voix est parcourue de tremblements inhabituels. \"Nous n'avons pas le temps. Vous avez entendu ce qu'Hassak a dit. Les rebelles ont déjà un camp dans les Basses Terres. Nous devrions être sur la route pour les avertir.\"\n\n\"C'est donc si simple ?\" lui rétorque Nagallo. \"Notre meilleure chance est à travers ces montagnes. Mais elles ne sont pas habitées comme l'était Tranchecime. Nous n'avons pas de pistes ni de chemins d'escalade. Entamer ce périple dès maintenant..., dans notre état ?\"\n\n\"Il y a un moyen.\" souffle Drokkeh. \"Mais ce n'est pas fait pour les âmes sensibles. La mort a souvent fauché les rares personnes qui ont affronté son obscurité.\"\n\n\"Nous n'avons pas la moindre alternative. Les habitants de Garde-Solitaire comptent sur nous.\" lance Rikitta d'un ton déterminé.\n\nBialla acquise, les yeux fixés vers la jeune Maréchale. À la lueur vacillante du feu de camp qui brille, elle peut distinguer les tatouages des Basses Terres qui décorent l'avant-bras de Rikitta. \"Je comprends, Rikitta. Mais nous serions bien stupides de partir sans préparation.\"\n\nPercevant le désarroi de son camarade, Drokkeh s'adresse directement à Rikitta. \"Même en nous reposant jusqu'à l'aube, prendre ce chemin nous fera précéder l'arrivée des rebelles de l'autre côté des montagnes.\" Tout en s'affairant à déployer son lit de camp, Drokkeh marmonne. \"De quoi survivre jusque-là, en tout cas.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "chapter", "target": "act3ChapterC", "label": "Continuer vers le prochain chapitre" }
+      ]
     }
 
   ]
