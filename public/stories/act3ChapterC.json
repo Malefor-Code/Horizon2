@@ -123,7 +123,7 @@
       "actions": [
         { "type": "test", "label": "Faites 2 critiques OU 4 flèches OU 1 critique et 2 flèches", "pass": "010", "fail": "011" }
       ]
-    },,
+    },
     {
       "id": "010",
       "title": "010",
