@@ -9,8 +9,8 @@
       "text": "Hassak s'avance vers les Maréchaux en passant devant la carcasse mutilée d'un Frappe-Défenses, une dernière troupe de rebelles derrière lui. Son expression n'est que pure fureur. Hassak n'est pas habitué à l'échec, et pourtant, autour de lui, il voit que tous ses plans perfides se sont effondrés. Les corps de la plupart de ceux qu'il a recrutés gisent autour du Rampant, attirés ici par son propre leurre néfaste. Ses derniers soldats sont essoufflés et en sang alors qu'ils se regroupent autour de leur chef enragé.\n\n« Pathétique ! Futile ! » hurle-t-il aux Maréchaux, se départissant de son calme habituel. « Tuer vos sœurs et vos frères. Au nom de la paix avec les Carjas ! » Il fait les cent pas, les jointures blanches sur la poignée de son arme. « Regalla va... non, nous allons inonder le Bosquet des Mémoires du sang de chacun de vous, traîtres. »\n\n« Traîtres ?! » Bialla s'avance vers Hassak, « J'ai combattu aux côtés de plus de membres de notre tribu que toi. J'ai vu Regalla se battre. Et je l'ai vue commander. » Elle désigne le chaos autour d'eux. « Ce n'est pas une opération digne du nom Tenakth. C'est une combine. Une parodie qui empeste l'inexpérience. Et Regalla n'est pas du genre à pardonner. »\n\nLe visage de Hassak s'empourpre de peur. Bialla a touché un point sensible.\n\nÀ travers les dents serrées, il répond : « Tout cela n'a pas d'importance. Vous avez déjà perdu. Vos camarades à cette Ambassade perfide... » Ses lèvres se tordent en un sourire vicieux. « À l'heure qu'il est, les Maréchaux que Hekarro a envoyés sont morts. Je crache sur ce maigre contretemps. Vos cadavres suffiront à m'attirer les bonnes grâces de Regalla. »\n\nHassak s'élance d'un pas chancelant, une détermination intérieure propulsant sa charge. « Pour la Rébellion ! Pour Regalla ! »",
       "information": [],
       "actions": [
-        { "type": "read", "target": "001", "label": "Si vous possédez la carte d'investigation 'Hassak's Weapon Fragment', lisez l'entrée 001." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "001", "label": "Si vous possédez la carte d'investigation 'Hassak's Weapon Fragment', lisez cette entrée" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -21,7 +21,7 @@
         "Les joueurs gagnent le jeton rouge."
       ],
       "actions": [
-        { "type": "read", "target": "002", "label": "Lire l'entrée 002." }
+        { "type": "read", "target": "002", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -32,9 +32,9 @@
         "Ouvrez le Livret de Campagne à la page 28 et tentez l'affrontement qui y est détaillé."
       ],
       "actions": [
-        { "type": "read", "target": "003", "label": "Si la rencontre est réussie, lisez l'entrée 003." },
-        { "type": "read", "target": "004", "label": "Si la rencontre a échoué et qu'il y a 3 figurines ennemies ou plus sur le plateau, lisez l'entrée 004." },
-        { "type": "read", "target": "005", "label": "Si la rencontre a échoué et qu'il y a 2 figurines ennemies ou moins sur le plateau, lisez l'entrée 005." }
+        { "type": "read", "target": "003", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "004", "label": "Si la rencontre a échoué et qu'il y a 3 figurines ennemies ou plus sur le plateau" },
+        { "type": "read", "target": "005", "label": "Si la rencontre a échoué et qu'il y a 2 figurines ennemies ou moins sur le plateau" }
       ]
     },
     {
@@ -43,7 +43,7 @@
       "text": "Le sang de Hassak s'écoule d'innombrables blessures, un filet rouge perlant de ses lèvres. Pourtant, il fixe toujours ses ennemis avec détermination. Dans ce regard, les Maréchaux ne trouvent que la colère et l'obstination d'un traître irrécupérable. Il ouvre la bouche et parle, d'une voix rauque : « Je... ne me rendrai... jamais. »\n\nMême maintenant, alors qu'il se vide de son sang dans la douleur, Hassak résiste à la mort. Il refuse d'admettre la défaite. Il ne peut y avoir de salut pour lui, tant son cœur et son esprit sont perdus pour la cause de Regalla.\n\nHassak tente de se lever, mais ne parvient qu'à se mettre à genoux. C'est Rikitta qui s'avance vers le rebelle. « Tu as mené des machines pour tuer tes anciens camarades. Pour incendier ma maison. Sois reconnaissant. Tu vas perdre la vie de la main d'un soldat. »\n\n« Il semble... que nous cherchions... tous deux à nous venger. » Il sourit avec cynisme. « Tu pourrais... bien devenir l'un des nôtres. »\n\n« Si nous pensions qu'il y avait une chance que tu survives au voyage jusqu'au Bosquet des Mémoires pour y être humilié devant tous, nous la saisirions. » Rikitta lève son arme vers la gorge de Hassak. « Considère cela comme une faveur. »\n\n« Une faveur ? Je... meurs au combat. Notre tribu ne fait pas dans la fa... » Ses mots ne deviennent que des bulles de sang muettes alors que Rikitta met fin à ses jours. Il la regarde fixement avec un air choqué avant de s'effondrer la face contre terre.\n\nPersonne ne parle. La mission est accomplie.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+        { "type": "read", "target": "006", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -52,7 +52,7 @@
       "text": "Hassak abat le dernier des Maréchaux. Sa lame est implacable, chaque coup rappelant brutalement ses prouesses aiguisées dans les arènes de la Lance Ardente. Ce qui lui manque en tant que commandant, il le compense par sa simple compétence au combat. La bataille que les Maréchaux étaient si confiants de remporter semble désormais un espoir lointain alors qu'ils peinent à se relever de la saleté, les membres tremblants par l'effort.\n\nRikitta, entièrement motivée par la vengeance, se force à se remettre debout une fois de plus. Son souffle est saccadé, du sang coulant du coin de sa bouche. Elle parvient à lever son arme, sa détermination tout aussi ardente. Le reste des Maréchaux gisent dans la boue.\n\nLe champ de bataille s'apaise un bref instant, et dans ce silence, le poids de l'échec se fait sentir. Elle repense au voyage qui les a amenés ici : la Rive de l'Automne. Le Piton Frissonnant. La ruine de la Garde-Solitaire. Toutes ces vies perdues. Tous les sacrifices consentis.\n\nEnsemble, les quatre Maréchaux ont affaibli la rébellion. Réduit leurs forces. Éliminé de puissantes armes. C'est une blessure qui ne guérira pas rapidement pour ces traîtres. Pourtant, à ce dernier obstacle, les élus de Hekarro ont été vaincus.\n\nLa dernière chose que les Maréchaux voient est Hassak debout au-dessus d'eux. Sa lame levée haut, prête à porter le coup fatal. Il n'y a pas d'échappatoire. C'est la fin. Et selon les standards des Tenakths, une fin glorieuse.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "EPILOGUE3", "label": "Lire l'EPILOGUE 3." }
+        { "type": "read", "target": "EPILOGUE3", "label": "EPILOGUE III" }
       ]
     },
     {
@@ -61,7 +61,7 @@
       "text": "Hassak abat le dernier des Maréchaux. Le temps passé dans les arènes de la Lance Ardente se ressent dans ses compétences. Ce qu'il manque en tant que commandant, il le rattrape au combat.\n\nRikitta, entièrement poussée par la vengeance, parvient à se redresser sur des jambes tremblantes et lève son arme une fois de plus. Voir la Maréchal essuyer le sang de sa bouche et préparer son arme ébranle Hassak.\n\nLui aussi est blessé. Ses derniers soldats sont tombés à ses côtés. Et il sait qu'il serait imprudent de risquer de continuer à se battre dans son état actuel. Il saisit l'occasion pour fuir à nouveau dans la nature. Mais il le fait lentement, sachant que Rikitta n'est pas en état de le poursuivre.\n\nHassak ne dit rien alors qu'il part, crachant le sang de sa bouche avant de s'essuyer. Il tourne le dos, confiant que les Maréchaux ne le suivront pas, alors qu'il s'éloigne. C'est la dernière fois qu'ils aperçoivent le traître sournois Hassak, une figure édentée et ensanglantée, disparaissant à tout jamais dans la Trace de Pluie, tandis que Rikitta s'effondre de nouveau.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+        { "type": "read", "target": "006", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -70,8 +70,8 @@
       "text": "Le regard de Nagallo parcourt la destruction. Pas très loin, une scène similaire se joue à la Garde-Solitaire. Ce sont de terrifiants avertissements de ce que réserve la vision de Regalla, le passé sanglant pointant le bout de son nez, devenant un avenir désolé et lugubre. « Nous devrions prévenir Hekarro et les autres Maréchaux au Bosquet des Mémoires. »\n\n« Si ce qu'il a dit sur l'Ambassade est vrai, les autres Maréchaux pourraient déjà être morts, » réfléchit Drokkeh.\n\nRikitta prend la parole. « Même s'ils le sont, on a toujours besoin de nous, et notre devoir envers la tribu perdure. La Garde-Solitaire est tombée. Mais les rebelles ont perdu davantage. Et ils ont vu que nous ne briserons pas. » Sa voix est sombre. Elle a trouvé une véritable force dans ce voyage, à la fois avec ses camarades et en elle-même.\n\nBialla acquiesce et s'adresse aux autres Maréchaux. « À l'échelle des terres des Clans, nous avons vu les menaces auxquelles notre tribu devra faire face. Les machines deviennent plus violentes, tout comme les tempêtes dans nos cieux. Même l'eau que nous buvons tente de nous étouffer. La nielle rouge se propage. Ces rebelles aspirent à une époque révolue : aux anciennes coutumes des Tenakth. Ils ne voient pas que la seule façon pour notre peuple de survivre à ce nouveau monde, plus mortel, est de travailler ensemble, quel que soit le clan ou la tribu. Dans chaque établissement, nous avons vu la force de l'unité de Hekarro. Nous devons rester les champions de celle-ci. »\n\nLes autres Maréchaux acquiescent tous. Chacun sait que la guerre est maintenant déclarée pour la tribu. L'ennemi est équipé de machines, un avantage qui aurait semblé impensable si les Maréchaux ne l'avaient pas affronté eux-mêmes.\n\nLes Maréchaux n'ont peut-être pas mis toute la rébellion à genoux, mais ils lui ont infligé une blessure profonde et ont prouvé qu'à travers l'unité, la victoire est possible.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "EPILOGUE1", "label": "Si la rencontre a été réussie, lisez l'EPILOGUE 1." },
-        { "type": "read", "target": "EPILOGUE2", "label": "Sinon, lisez l'EPILOGUE 2." }
+        { "type": "read", "target": "EPILOGUE1", "label": "Si la rencontre a été réussie : EPILOGUE I" },
+        { "type": "read", "target": "EPILOGUE2", "label": "Sinon : EPILOGUE II" }
       ]
     },
     {

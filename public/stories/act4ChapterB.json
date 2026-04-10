@@ -13,7 +13,7 @@
         "Gagnez une potion de soin. Les joueurs peuvent défausser n'importe quel nombre d'Éclats de métal pour gagner 1 potion de soin supplémentaire pour chaque tranche de 5 défaussés."
       ],
       "actions": [
-        { "type": "read", "target": "001", "label": "Lire l'entrée 001." }
+        { "type": "read", "target": "001", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -22,10 +22,10 @@
       "text": "Les Maréchaux font bloc. Chacun sait que ce sera le dernier combat de Garde-Solitaire. Mais les rebelles saigneront en retour.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "002", "label": "Si Bialla a le pion de leader, lisez l'entrée 002." },
-        { "type": "read", "target": "003", "label": "Si Drokkeh a le pion de leader, lisez l'entrée 003." },
-        { "type": "read", "target": "004", "label": "Si Nagallo a le pion de leader, lisez l'entrée 004." },
-        { "type": "read", "target": "005", "label": "Si Rikitta a le pion de leader, lisez l'entrée 005." }
+        { "type": "read", "target": "002", "label": "Si Bialla a le pion de leader" },
+        { "type": "read", "target": "003", "label": "Si Drokkeh a le pion de leader" },
+        { "type": "read", "target": "004", "label": "Si Nagallo a le pion de leader" },
+        { "type": "read", "target": "005", "label": "Si Rikitta a le pion de leader" }
       ]
     },
     {
@@ -38,8 +38,8 @@
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
-        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -51,8 +51,8 @@
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
-        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -65,8 +65,8 @@
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
-        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -79,8 +79,8 @@
         "Ouvrez le Livre de Campagne à la page 24 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Si la rencontre est réussie, lisez l'entrée 006." },
-        { "type": "read", "target": "007", "label": "Si la rencontre a échoué, lisez l'entrée 007." }
+        { "type": "read", "target": "006", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "007", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -94,7 +94,7 @@
         "- Chaque personnage gagne 2 ressources élémentaires."
       ],
       "actions": [
-        { "type": "read", "target": "008", "label": "Lire l'entrée 008." }
+        { "type": "read", "target": "008", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -109,7 +109,7 @@
         "- 2 potions de soin."
       ],
       "actions": [
-        { "type": "read", "target": "008", "label": "Lire l'entrée 008." }
+        { "type": "read", "target": "008", "label": "Continuer l'histoire" }
       ]
     },
     {

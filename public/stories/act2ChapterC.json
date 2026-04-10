@@ -15,7 +15,7 @@
         "Lisez la page 68 du Livre Narratif."
       ],
       "actions": [
-        { "type": "read", "target": "001", "label": "Lire l'entrée 001." }
+        { "type": "read", "target": "001", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -26,10 +26,10 @@
         "Les joueurs ne commencent pas cette rencontre avec des dés d'action. Cette décision déterminera combien ils devront en utiliser lors de leur interaction avec Hassak."
       ],
       "actions": [
-        { "type": "read", "target": "002", "label": "Pion Meneur : Si vous voulez que Drokkeh lui parle, lisez l'entrée 002." },
-        { "type": "read", "target": "003", "label": "Pion Meneur : Si vous préférez que Nagallo l'interroge, lisez l'entrée 003." },
-        { "type": "read", "target": "004", "label": "Pion Meneur : Si vous pensez que l'expérience de Bialla serait la meilleure, lisez l'entrée 004." },
-        { "type": "read", "target": "005", "label": "Pion Meneur : Si vous pensez qu'il réagira mieux à quelqu'un de plus proche de son âge comme Rikitta, lisez l'entrée 005." }
+        { "type": "read", "target": "002", "label": "Chef d'escouade : Si vous voulez que Drokkeh lui parle" },
+        { "type": "read", "target": "003", "label": "Chef d'escouade : Si vous préférez que Nagallo l'interroge" },
+        { "type": "read", "target": "004", "label": "Chef d'escouade : Si vous pensez que l'expérience de Bialla serait la meilleure" },
+        { "type": "read", "target": "005", "label": "Chef d'escouade : Si vous pensez qu'il réagira mieux à quelqu'un de plus proche de son âge comme Rikitta" }
       ]
     },
     {
@@ -40,7 +40,7 @@
         "Les joueurs gagnent 1 pion de suivi, et 8 dés d'action."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+        { "type": "read", "target": "006", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -51,7 +51,7 @@
         "Les joueurs gagnent 2 pions de suivi, et 7 dés d'action."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+        { "type": "read", "target": "006", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -62,7 +62,7 @@
         "Les joueurs gagnent 4 pions de suivi, et 4 dés d'action."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+        { "type": "read", "target": "006", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -73,7 +73,7 @@
         "Les joueurs gagnent 3 pions de suivi, et 5 dés d'action."
       ],
       "actions": [
-        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+        { "type": "read", "target": "006", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -85,7 +85,7 @@
         "Les joueurs ont jusqu'à ce qu'ils en manquent pour appliquer autant de pression et découvrir autant de choses que possible."
       ],
       "actions": [
-        { "type": "read", "target": "007", "label": "Lire l'entrée 007." }
+        { "type": "read", "target": "007", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -96,7 +96,7 @@
         "Prenez l'un des cadrans de points de vie des ennemis et réglez-le sur 0. Utilisez ce cadran pour suivre le niveau de pression que les personnages ont réussi à appliquer sur Hassak.",
         "Lorsqu'Hassak part, les joueurs seront dirigés vers une entrée correspondant à cette pression. Certaines options détailleront soit 'temps' soit 'action', indiquant que l'entrée suivante coûtera des pions de suivi aux joueurs ou impliquera un jet d'action."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Lire l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "008",
@@ -106,11 +106,11 @@
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "009", "label": "Si vous voulez que Nagallo se concentre sur l'équipement, lisez l'entrée 009." },
-        { "type": "read", "target": "016", "label": "Si vous voulez que Drokkeh regarde de plus près le feu de camp, lisez l'entrée 016." },
-        { "type": "read", "target": "021", "label": "Si vous souhaitez que Rikitta inspecte l'établi, lisez l'entrée 021." },
-        { "type": "read", "target": "027", "label": "Si vous voulez que Bialla interroge davantage Hassak, lisez l'entrée 027." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "009", "label": "Si vous voulez que Nagallo se concentre sur l'équipement" },
+        { "type": "read", "target": "016", "label": "Si vous voulez que Drokkeh regarde de plus près le feu de camp" },
+        { "type": "read", "target": "021", "label": "Si vous souhaitez que Rikitta inspecte l'établi" },
+        { "type": "read", "target": "027", "label": "Si vous voulez que Bialla interroge davantage Hassak" }
       ]
     },
     {
@@ -119,9 +119,9 @@
       "text": "\"Ça fait beaucoup d'armes pour un seul coureur.\" Nagallo désigne les armes, leur métal poli luisant à la lueur du feu tandis qu'Hassak range quelques pièces dans un sac pour le voyage. \"Je sais. Je devrais probablement dresser un Coureuse pour porter tout ça à ma place !\"\n\nLa tentative d'humour désinvolte de Hassak tombe à plat.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "015", "label": "Si vous avez la carte d'investigation 'Provisions manquantes', lisez l'entrée 015." },
-        { "type": "read", "target": "010", "label": "Temps - Si vous voulez demander à Hassak pourquoi il a tant d'équipement avec lui, lisez l'entrée 010." },
-        { "type": "read", "target": "012", "label": "Action - Si vous voulez inspecter l'équipement lui-même, lisez l'entrée 012." }
+        { "type": "read", "target": "015", "label": "Si vous avez la carte d'investigation 'Provisions manquantes'" },
+        { "type": "read", "target": "010", "label": "Temps - Si vous voulez demander à Hassak pourquoi il a tant d'équipement avec lui" },
+        { "type": "read", "target": "012", "label": "Action - Si vous voulez inspecter l'équipement" }
       ]
     },
     {
@@ -132,10 +132,10 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "011", "label": "Temps - Si vous voulez presser Hassak davantage sur la quantité d'armes, lisez l'entrée 011." },
-        { "type": "read", "target": "012", "label": "Action - Si vous voulez inspecter l'équipement, lisez l'entrée 012." },
-        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp, lisez l'entrée 008." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "011", "label": "Temps - Si vous voulez presser Hassak davantage sur la quantité d'armes" },
+        { "type": "read", "target": "012", "label": "Action - Si vous voulez inspecter l'équipement" },
+        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp" }
       ]
     },
     {
@@ -147,9 +147,9 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "012", "label": "Action - Si vous voulez inspecter l'équipement, lisez l'entrée 012." },
-        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp, lisez l'entrée 008." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "012", "label": "Action - Si vous voulez inspecter l'équipement" },
+        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp" }
       ]
     },
     {
@@ -170,7 +170,7 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Lire l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "014",
@@ -180,8 +180,8 @@
         "Ajoutez 1 de pression.",
         "Défaussez un pion de suivi."
       ],
-      "actions": [        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "008", "label": "Sinon, lisez l'entrée 008." }]
+      "actions": [        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "008", "label": "Sinon" }]
     },
     {
       "id": "015",
@@ -190,7 +190,7 @@
       "information": [
         "Ajoutez 3 de pression."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Lire l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "016",
@@ -198,8 +198,8 @@
       "text": "Drokkeh montre le feu de camp. Plusieurs bûches sont disposées autour d'un grand tas de bois qui brûle vivement. Cela a servi de repère pour attirer les Maréchaux ici. Peut-être que cela en a attiré d'autres.\n\n\"Grand feu,\" observe Drokkeh. \"Pour un seul homme.\"\nHassak sourit. \"Très observateur ! Et pourtant, je suis assis ici seul la plupart des nuits, dans le vain espoir que de la compagnie puisse se présenter.\"",
       "information": [],
       "actions": [        
-        { "type": "read", "target": "017", "label": "Temps - Si vous voulez presser Hassak pour savoir si d'autres Tenakths sont venus ici, lisez l'entrée 017." },
-        { "type": "read", "target": "018", "label": "Action - Si vous voulez inspecter discrètement la zone autour du feu de camp, lisez l'entrée 018." }]
+        { "type": "read", "target": "017", "label": "Temps - Si vous voulez presser Hassak pour savoir si d'autres Tenakths sont venus ici" },
+        { "type": "read", "target": "018", "label": "Action - Si vous voulez inspecter discrètement la zone autour du feu de camp" }]
     },
     {
       "id": "017",
@@ -210,8 +210,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "008", "label": "Sinon, lisez l'entrée 008." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "008", "label": "Sinon" }
       ]
     },
     {
@@ -232,7 +232,7 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Lire l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "020",
@@ -240,8 +240,8 @@
       "text": "Drokkeh et Rikitta ne trouvent rien d'autre qu'un amas d'empreintes de bottes indiscernables. \"Ces traces auraient pu être laissées ce matin ou il y a cinq lunes.\" siffle Rikitta à Drokkeh.\n\nIl hoche la tête, observant le sol avec un froncement de sourcils confus. La terre sèche rend la traque difficile ici. Hassak rit.\n\"Je n'avais aucune idée que les fameux Maréchaux de Hekarro étaient si fascinés par les brins d'herbe. Pratiquement des Utarus.\"\n\nNagallo s'avance, son regard sévère effaçant le sourire du marchand.\n\n\"Juste un peu d'humour. Mes excuses.\"",
       "information": [],
       "actions": [
-        { "type": "read", "target": "017", "label": "Temps - Si vous avez encore des pions de suivi et que vous voulez presser Hassak pour savoir si d'autres Tenakths sont venus ici, lisez l'entrée 017." },
-        { "type": "read", "target": "008", "label": "Sinon, inspectez une autre zone du camp en retournant à l'entrée 008." }
+        { "type": "read", "target": "017", "label": "Temps - Si vous avez encore des pions de suivi et que vous voulez presser Hassak pour savoir si d'autres Tenakths sont venus ici" },
+        { "type": "read", "target": "008", "label": "Sinon, inspectez une autre zone du camp" }
       ]
     },
     {      "id": "021",
@@ -249,8 +249,8 @@
       "text": "Rikitta s'approche de l'établi. \"Ça a l'air intéressant...\" Elle lève un bout de ferraille, le tournant dans tous les sens. \"On dirait... est-ce la poche de commotion d'un Long-nez ?! Bon sang, qu'est-ce que ces trucs peuvent crier.\"\n\nHassak hausse les épaules. \"C'est possible. Je ne suis pas un expert.\" Remarquant le regard interrogateur de Rikitta, il poursuit. \"Je collectionne ce qui m'intéresse — ça m'occupe pour les longues excursions solitaires. Je n'ai pas la chance de voyager avec des compagnons aussi enthousiastes que vous.\"\n\nLe marchand semble sincère, mais les pièces démontées indiqueraient le contraire. Elles semblent avoir été réarrangées et combinées, tout cela dans l'intention de fabriquer quelque chose de nouveau.",
       "information": [],
       "actions": [        
-        { "type": "read", "target": "022", "label": "Si vous voulez l'interroger sur ce qu'il fabrique, lisez l'entrée 022." },
-        { "type": "read", "target": "024", "label": "Action - Si vous voulez fouiller dans la ferraille, lisez l'entrée 024." }]
+        { "type": "read", "target": "022", "label": "Si vous voulez l'interroger sur ce qu'il fabrique" },
+        { "type": "read", "target": "024", "label": "Action - Si vous voulez fouiller dans la ferraille" }]
     },    
     {
       "id": "022",
@@ -258,9 +258,9 @@
       "text": "Rikitta lève un sourcil. \"Tu as fait du bon travail pour le démonter. Tu bricoles comme un Oseram ?\"\n\n\"Non, non, bien sûr que non. Je l'ai trouvé comme ça.\" répond Hassak trop précipitamment avant de se corriger. \"C'est-à-dire que j'essaie de comprendre par moi-même comment ça marche...\"",
       "information": [],
       "actions": [
-        { "type": "read", "target": "023", "label": "Temps - Si vous voulez presser Hassak davantage sur cette ferraille modifiée, lisez l'entrée 023." },
-        { "type": "read", "target": "024", "label": "Action - Si vous voulez fouiller dans la ferraille, lisez l'entrée 024." },
-        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp, lisez l'entrée 008." }
+        { "type": "read", "target": "023", "label": "Temps - Si vous voulez presser Hassak davantage sur cette ferraille modifiée" },
+        { "type": "read", "target": "024", "label": "Action - Si vous voulez fouiller dans la ferraille" },
+        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp" }
       ]
     },
     {
@@ -272,8 +272,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "008", "label": "Sinon, lisez l'entrée 008." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "008", "label": "Sinon" }
       ]
     },
     {
@@ -292,7 +292,7 @@
       "information": [
         "Ajoutez 2 de pression."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Lire l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "026",
@@ -301,7 +301,7 @@
       "information": [
         "Ajoutez 1 de pression."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Retournez à l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "027",
@@ -309,8 +309,8 @@
       "text": "Bialla s'avance vers Hassak. Il est sûr de lui comme le sont les jeunes soldats, mais il y a quelque chose de faux chez lui et concernant ce camp. L'abondance de ressources pour quelqu'un de seul, par exemple. Bialla trouve également étrange qu'il voyage de nuit et qu'il fasse ses bagages à la simple vue de Maréchaux.\n\nIl a la réponse facile, mais cela pourrait être simplement parce qu'elles sont bien répétées. Peut-être que si elle le pousse un peu plus, elle obtiendra un aperçu de ce qu'il manigance réellement.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "028", "label": "Temps - Si vous voulez interroger Hassak sur son poste et ses voyages nocturnes, lisez l'entrée 028." },
-        { "type": "read", "target": "030", "label": "Action - Si vous voulez le confronter sur l'abondance d'armes, lisez l'entrée 030." }
+        { "type": "read", "target": "028", "label": "Temps - Si vous voulez interroger Hassak sur son poste et ses voyages nocturnes" },
+        { "type": "read", "target": "030", "label": "Action - Si vous voulez le confronter sur l'abondance d'armes" }
       ]
     },
     {
@@ -322,10 +322,10 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "029", "label": "Temps - Si vous voulez l'interroger sur les colonies qu'il a visitées, lisez l'entrée 029." },
-        { "type": "read", "target": "030", "label": "Action - Si vous voulez l'interroger sur l'abondance d'armes, lisez l'entrée 030." },
-        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp, lisez l'entrée 008." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "029", "label": "Temps - Si vous voulez l'interroger sur les colonies qu'il a visitées" },
+        { "type": "read", "target": "030", "label": "Action - Si vous voulez l'interroger sur l'abondance d'armes" },
+        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp" }
       ]
     },
     {
@@ -337,8 +337,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 033." },
-        { "type": "read", "target": "008", "label": "Sinon, lisez l'entrée 008." }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "008", "label": "Sinon" }
       ]
     },
     {
@@ -357,7 +357,7 @@
       "information": [
         "Ajoutez 3 de pression."
       ],
-      "actions": [{ "type": "read", "target": "008", "label": "Lire l'entrée 008." }]
+      "actions": [{ "type": "read", "target": "008", "label": "Continuer l'histoire" }]
     },
     {
       "id": "032",
@@ -365,8 +365,8 @@
       "text": "Hassak ne se départit pas de sa façade agréable. \"Les temps sont durs pour tous les clans. Je le sais mieux que quiconque, en me déplaçant comme je le fais — et plus encore en tant que fier fils des sables du désert. Nous devons troquer pour obtenir une grande partie de ce dont nous avons besoin là-bas.\" Hassak hausse les épaules. \"Croyez-bien que mes ordres, qui viennent de la Commandante Yarra, ne sont que pour le meilleur intérêt de tous les Tenakths.\"",
       "information": [],
       "actions": [
-        { "type": "read", "target": "028", "label": "Temps - Si vous n'avez pas encore interrogé Hassak sur son poste et ses voyages nocturnes et que vous souhaitez le faire, lisez l'entrée 028." },
-        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp, lisez l'entrée 008." }
+        { "type": "read", "target": "028", "label": "Temps - Si vous n'avez pas encore interrogé Hassak sur son poste et ses voyages nocturnes et que vous souhaitez le faire" },
+        { "type": "read", "target": "008", "label": "Si vous préférez inspecter une autre zone du camp" }
       ]
     },
     {
@@ -375,8 +375,8 @@
       "text": "Les Maréchaux ont posé toutes les questions possibles, et une brise froide fait vaciller les flammes mourantes du feu de camp. Dans ce bref instant d'obscurité, Hassak s'élance brusquement en avant, bousculant Bialla contre Drokkeh. Alors que le duo s'effondre dans un enchevêtrement de membres, il s'enfuit, courant vers les hauteurs de ce plateau.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "034", "label": "Si vous avez 4 points de pression ou plus, lisez l'entrée 034." },
-        { "type": "read", "target": "035", "label": "Si vous avez 3 points de pression ou moins, lisez l'entrée 035." }
+        { "type": "read", "target": "034", "label": "Si vous avez 4 points de pression ou plus" },
+        { "type": "read", "target": "035", "label": "Si vous avez 3 points de pression ou moins" }
       ]
     },
     {
@@ -391,8 +391,8 @@
         "Ouvrez le Livre de Campagne à la page 14 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "036", "label": "Si la rencontre est réussie, lisez l'entrée 036." },
-        { "type": "read", "target": "037", "label": "Si la rencontre a échoué, lisez l'entrée 037." }
+        { "type": "read", "target": "036", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "037", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -403,8 +403,8 @@
         "Ouvrez le Livre de Campagne à la page 14 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "036", "label": "Si la rencontre est réussie, lisez l'entrée 036." },
-        { "type": "read", "target": "037", "label": "Si la rencontre a échoué, lisez l'entrée 037." }
+        { "type": "read", "target": "036", "label": "Si la rencontre est réussie" },
+        { "type": "read", "target": "037", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -420,14 +420,14 @@
         "- Chaque personnage gagne 2 cartes d'action.",
         "- La carte d'investigation 'Fragment d'arme de Hassak'."
       ],
-      "actions": [{ "type": "read", "target": "038", "label": "Lire l'entrée 038." }]
+      "actions": [{ "type": "read", "target": "038", "label": "Continuer l'histoire" }]
     },
     {
       "id": "037",
       "title": "037",
       "text": "Alors que les Maréchaux luttent pour repousser à la fois Hassak et les machines qu'il semble avoir attirées ici d'une manière ou d'une autre, le marchand du Clan du Désert rit avec arrogance, s'éloignant du combat. \"Il semblerait que vous ayez été battus.\"",
       "information": [],
-      "actions": [{ "type": "read", "target": "038", "label": "Lire l'entrée 038." }]
+      "actions": [{ "type": "read", "target": "038", "label": "Continuer l'histoire" }]
     },
     {
       "id": "038",

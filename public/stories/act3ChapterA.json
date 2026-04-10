@@ -11,7 +11,7 @@
         "Les joueurs gagnent 5 pions de suivi, qui représentent le temps qui passe."
       ],
       "actions": [
-        { "type": "read", "target": "001", "label": "Lire l'entrée 001." }
+        { "type": "read", "target": "001", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -22,7 +22,7 @@
         "Ajoutez les cartes \"piège\" LVL 2 et les cartes \"munitions\" LVL 3 à la section disponible de la boîte."
       ],
       "actions": [
-        { "type": "read", "target": "002", "label": "Lire l'entrée 002." }
+        { "type": "read", "target": "002", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -33,12 +33,12 @@
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
       "actions": [
-        { "type": "read", "target": "003", "label": "Si vous voulez parler à la jeune soldate qui vous observe, lisez l'entrée 003." },
-        { "type": "read", "target": "004", "label": "Si vous préférez demander aux gardes s'ils ont vu quelque chose, lisez l'entrée 004." },
-        { "type": "read", "target": "005", "label": "Si vous souhaitez rendre visite à l'herboriste, lisez l'entrée 005." },
-        { "type": "read", "target": "006", "label": "Si vous êtes intéressé par ce que savent les marchands, lisez l'entrée 006." },
-        { "type": "read", "target": "007", "label": "Si vous voulez parler à Hassak avec le maître de la fosse de mêlée, lisez l'entrée 007." },
-        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi, lisez l'entrée 009." }
+        { "type": "read", "target": "003", "label": "Si vous voulez parler à la jeune soldate qui vous observe" },
+        { "type": "read", "target": "004", "label": "Si vous préférez demander aux gardes s'ils ont vu quelque chose" },
+        { "type": "read", "target": "005", "label": "Si vous souhaitez rendre visite à l'herboriste" },
+        { "type": "read", "target": "006", "label": "Si vous êtes intéressé par ce que savent les marchands" },
+        { "type": "read", "target": "007", "label": "Si vous voulez parler à Hassak avec le maître de la fosse de mêlée" },
+        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi" }
       ]
     },
     {
@@ -49,8 +49,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi, lisez l'entrée 009." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -62,8 +62,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi, lisez l'entrée 009." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -76,8 +76,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi, lisez l'entrée 009." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -89,8 +89,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi, lisez l'entrée 009." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -100,8 +100,8 @@
       "information": [],
       "actions": [
         { "type": "read", "target": "008", "label": "Si vous avez la carte d'investigation 'Fragment d'arme d'Hassak', lisez l'entrée 008. Sinon, défaussez un pion de suivi." },
-        { "type": "read", "target": "009", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 009." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "009", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -113,8 +113,8 @@
         "Défaussez un pion de suivi."
       ],
       "actions": [
-        { "type": "read", "target": "009", "label": "Si vous n'avez plus de pions de suivi, lisez l'entrée 009." },
-        { "type": "read", "target": "002", "label": "Sinon, lisez l'entrée 002." }
+        { "type": "read", "target": "009", "label": "Si vous n'avez plus de pions de suivi" },
+        { "type": "read", "target": "002", "label": "Sinon" }
       ]
     },
     {
@@ -123,8 +123,8 @@
       "text": "L'air crépite de tension. Une odeur douce et piquante marque le début de la tempête de sable. Il y a déjà du gravier dans l'air, un présage des sables furieux qui se préparent à fouetter et déchirer les murs de Lance Ardente.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "010", "label": "Si les joueurs ont le pion violet, lisez l'entrée 010." },
-        { "type": "read", "target": "011", "label": "Sinon, lisez l'entrée 011." }
+        { "type": "read", "target": "010", "label": "Si les joueurs ont le pion violet" },
+        { "type": "read", "target": "011", "label": "Sinon" }
       ]
     },
     {
@@ -135,7 +135,7 @@
         "Les joueurs gagnent 2 pions de suivi supplémentaires."
       ],
       "actions": [
-        { "type": "read", "target": "012", "label": "Lire l'entrée 012." }
+        { "type": "read", "target": "012", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -144,7 +144,7 @@
       "text": "N'ayant trouvé aucune piste menant à Hassak, les Maréchaux s'apprêtent à s'abriter quand les yeux aiguisés de Rikitta aperçoivent quelque chose d'inhabituel.\n\n\"Qu'est-ce qu'ils font ?\" pointe-t-elle du doigt. Au-delà des portes de la colonie, et à travers le voile de sable se trouve un groupe de silhouettes se déplaçant parmi les panneaux de l'Ancien Monde.\n\nDrokkeh secoue la tête. \"Aucun membre du Clan du Désert ne s'aventurerait dans une tempête de sable sans une bonne raison.\"\n\n\"Pourquoi ai-je l'impression que nous n'allons pas être très prudents nous non plus ?\" marmonne Rikitta, la voix pleine d'inquiétude.\n\nL'air s'épaissit, mais les Maréchaux avancent contre le flot des Tenakths pour rejoindre la colonie. La tempête s'intensifie, et même les panneaux qui servent de périmètre blindé autour de la ville peinent à les abriter de la tempête qui se lève.\n\nRestant au sol, Drokkeh les guide vers le périmètre et les mystérieuses silhouettes. À mesure que les Maréchaux s'approchent, ils peuvent distinguer que, sous les capes du groupe à l'avant, se cache une armure du Clan du Ciel. À en juger par les expressions faciales et aux répliques murmurées, le groupe est en pleine dispute.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "012", "label": "Lire l'entrée 012." }
+        { "type": "read", "target": "012", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -153,7 +153,7 @@
       "text": "\"Nous faisons exactement ce qu'on nous a dit. Suivre la piste. Éviter les colonies.\" siffle une voix rude.\n\nL'un des autres n'est pas d'accord, \"Je ne me souviens pas qu'Hassak nous ait dit de nous perdre dans les dunes pendant des jours. Il ne saura jamais que nous sommes allés à Lance Ardente. Juste pour de l'eau.\" Elle est en infériorité numérique face à ses pairs, et le groupe décide de se diriger vers le désert.\n\nCes soldats semblent avoir été recrutés, et maintenant ils s'enfoncent dans la tempête de sable. C'est la piste que les Maréchaux cherchaient. Ils suivent les jeunes recrues par derrière, le vent prenant de la force dans leur dos. \"Si on doit agir comme des imbéciles, on a intérêt à être prudents. Accrochez-vous.\" murmure Drokkeh à ses compagnons Maréchaux.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "013", "label": "Lire l'entrée 013." }
+        { "type": "read", "target": "013", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -162,8 +162,8 @@
       "text": "Sans endroit où se cacher, les Maréchaux gardent leurs distances des recrues d'Hassak devant eux, espérant que leurs silhouettes ne seront pas remarquées à travers l'épais brouillard de sable.\n\nPuis, le vent se lève.\n\nC'est une créature hurlante et frétillante qui s'acharne contre son environnement. L'air commence à prendre forme. Rikitta lâche un flot de jurons alors qu'une colonne tourbillonnante de sédiments mordants s'étire vers le ciel, violente et terrible, séparant les Maréchaux des recrues.\n\n\"Nous pouvons rester avec eux,\" crie Drokkeh à travers le vent hurlant. \"À travers la colonne.\"\n\nLe doute se lit sur les traits de Rikitta lorsque Bialla intervient. \"À travers ça ?!\" s'écrie-t-elle à son tour. \"Ces recrues ne connaissent pas le désert. Nous n'avons pas besoin de risquer ça. Nous contournons par là et nous les rattraperons ensuite.\"\n\nIl est évident que peu importe le chemin à prendre, les Maréchaux doivent se décider vite.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "014", "label": "Pion Meneur : Si vous voulez que Drokkeh vous guide à travers la colonne de sable, lisez l'entrée 014." },
-        { "type": "read", "target": "015", "label": "Pion Meneur : Si vous voulez contourner la colonne de sable, comme le suggère Bialla, lisez l'entrée 015." }
+        { "type": "read", "target": "014", "label": "Chef d'escouade : Si vous voulez que Drokkeh vous guide à travers la colonne de sable" },
+        { "type": "read", "target": "015", "label": "Chef d'escouade : Si vous voulez contourner la colonne de sable, comme le suggère Bialla" }
       ]
     },
     {
@@ -181,7 +181,7 @@
       "text": "Les Maréchaux commencent à contourner la colonne, mais même à cette distance, le sable des dunes est agité et menace constamment de faire glisser le groupe vers le bas, droit dans le maelstrom. Contourner la colonne de sable n'est ni rapide ni facile, mais il est clair que les Maréchaux ont choisi l'option la plus sûre. Les vents hurlants à l'intérieur de la colonne déterrent de la ferraille oubliée depuis longtemps, l'emportant dans les airs à des vitesses fatales.\n\nLes Maréchaux s'accrochent silencieusement à un seul espoir — les recrues ne savent pas comment voyager dans le désert. C'est sûr, ils ne s'éloigneront pas au point de perdre leur trace. Pourtant, alors que la colonne s'évanouit, tout ce qui les attend, c'est le sable et le râslement du vent.\n\nLes Maréchaux ont bel et bien perdu les recrues.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "018", "label": "Lire l'entrée 018." }
+        { "type": "read", "target": "018", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -190,7 +190,7 @@
       "text": "Se sentant perdus dans la tempête de sable, les Maréchaux n'ont aucune idée de la distance qu'ils ont parcourue, ni de la distance qu'il leur reste à traverser. Une fine ligne de lumière attire le groupe vers l'avant, comme un fragment dentelé venu de l'extérieur. Les Maréchaux se déplacent ensemble, pas à pas à travers le déluge.\n\nUn dernier assaut de sable passe au-dessus d'eux alors que les Maréchaux franchissent le mur de la colonne. Le monde s'engouffre de nouveau, assaillant leurs sens avec la luminosité et la chaleur grandissante du désert.\n\nNon loin devant, les silhouettes regroupées des recrues se déplacent lentement à l'horizon, encore complètement inconscientes qu'elles sont suivies.\n\n\"Huh. Tu connais vraiment bien ton terrain.\" Nagallo est clairement impressionné.\n\nLe visage de Drokkeh peine à afficher différentes expressions. Certaines d'entre elles pourraient bien être de la gratitude.\n\nRikitta s'esclaffe. \"C'était un compliment, Drokkeh. Tu as le droit d'en profiter.\"\n\n\"Euh...\" Drokkeh s'arrête un instant, le front plissé de gêne, \"Je vois.\"",
       "information": [],
       "actions": [
-        { "type": "read", "target": "020", "label": "Lire l'entrée 020." }
+        { "type": "read", "target": "020", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -201,7 +201,7 @@
         "Chaque personnage subit 3 dégâts."
       ],
       "actions": [
-        { "type": "read", "target": "018", "label": "Lire l'entrée 018." }
+        { "type": "read", "target": "018", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -212,8 +212,8 @@
         "Défaussez un pion de suivi. Si vous n'avez pas de pion à défausser, chaque personnage subit 2 dégâts."
       ],
       "actions": [
-        { "type": "read", "target": "019", "label": "Si les joueurs ont la carte d'investigation 'Marqueur de piste détruit', lisez l'entrée 019." },
-        { "type": "read", "target": "027", "label": "Sinon, lisez l'entrée 027." }
+        { "type": "read", "target": "019", "label": "Si les joueurs ont la carte d'investigation 'Marqueur de piste détruit'" },
+        { "type": "read", "target": "027", "label": "Sinon" }
       ]
     },
     {
@@ -222,7 +222,7 @@
       "text": "Soudain, Drokkeh plisse les yeux et laisse échapper un grognement de reconnaissance, se souvenant d'une sculpture qu'il a vue plus tôt. Pendant que les autres Maréchaux reprennent leur souffle, il fouille dans son sac, pour finalement en extraire un objet : le marqueur de piste endommagé trouvé sur le corps dans les Basses Terres.\n\nIl est en grande partie illisible, mais il en reste suffisamment pour indiquer qu'il représente l'étendue de désert où se trouvent actuellement les Maréchaux. Ce coup de chance se confirme rapidement, alors que le marqueur ensanglanté guide le groupe vers le sud-ouest et pour retrouver la piste des soldats rebelles. À nouveau, les silhouettes du Clan du Ciel trébuchent un peu plus loin.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "020", "label": "Lire l'entrée 020." }
+        { "type": "read", "target": "020", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -242,7 +242,7 @@
       "text": "Grâce à l'avertissement de Rikitta, les Maréchaux plongent sur le côté juste au moment où le pied, faisant aisément la taille d'une grande hutte, vole au-dessus du groupe. Il s'écrase dans le sable avec un bruit de tonnerre.\n\nTandis que la patte se soulève de nouveau, les Maréchaux se remettent difficilement sur pied, le sable ruisselant dans leurs armures. Fort heureusement, les recrues n'ont pas pris beaucoup d'avance. S'ils s'étaient tournés pour regarder, le nuage de poussière projeté en l'air par le pied du Grand-Cou aurait masqué l'approche des Maréchaux. Un coup de chance.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "023", "label": "Lire l'entrée 023." }
+        { "type": "read", "target": "023", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -253,7 +253,7 @@
         "Défaussez un pion de suivi. Si vous n'avez pas de pion à défausser, chaque personnage subit 2 dégâts."
       ],
       "actions": [
-        { "type": "read", "target": "023", "label": "Lire l'entrée 023." }
+        { "type": "read", "target": "023", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -264,8 +264,8 @@
         "Si Bialla est le chef de l'escouade, récupérez 1 dé d'action."
       ],
       "actions": [
-        { "type": "read", "target": "024", "label": "Si le nombre total de dés d'action et de pions de suivi qu'il vous reste est de 3 ou plus, lisez l'entrée 024." },
-        { "type": "read", "target": "025", "label": "Sinon, lisez l'entrée 025." }
+        { "type": "read", "target": "024", "label": "Si le nombre total de dés d'action et de pions de suivi qu'il vous reste est de 3 ou plus" },
+        { "type": "read", "target": "025", "label": "Sinon" }
       ]
     },
     {
@@ -276,7 +276,7 @@
         "Les joueurs gagnent le pion rouge."
       ],
       "actions": [
-        { "type": "read", "target": "026", "label": "Lire l'entrée 026." }
+        { "type": "read", "target": "026", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -287,7 +287,7 @@
         "Les joueurs gagnent le pion jaune."
       ],
       "actions": [
-        { "type": "read", "target": "026", "label": "Lire l'entrée 026." }
+        { "type": "read", "target": "026", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -314,7 +314,7 @@
       "text": "Soudain, les yeux de Drokkeh se plissent, et il laisse échapper un grognement de reconnaissance. Alors que les autres l'observent avec perplexité, il escalade un affleurement rocheux pour avoir une meilleure vue de l'horizon. Après avoir tourné la tête dans toutes les directions, il redescend et rejoint le reste des Maréchaux.\n\n\"Ils iraient vers le sud-ouest — par là.\"\n\nLa sagesse de Drokkeh se confirme finalement lorsque le groupe détecte des traces fraîches. Les Maréchaux sont à nouveau sur la piste des soldats rebelles et peuvent poursuivre leur voyage.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "030", "label": "Lire l'entrée 030." }
+        { "type": "read", "target": "030", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -325,7 +325,7 @@
         "Défaussez un pion de suivi. Si vous n'avez pas de pion à défausser, chaque personnage subit 2 dégâts."
       ],
       "actions": [
-        { "type": "read", "target": "030", "label": "Lire l'entrée 030." }
+        { "type": "read", "target": "030", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -343,7 +343,7 @@
       "text": "Grâce à l'avertissement de Rikitta, les Maréchaux voient la chose arriver et plongent sur le côté juste au moment où le pied, facilement de la taille d'une grande hutte, vole complètement par-dessus le groupe. Il s'écrase dans le sable avec un bruit de tonnerre.\n\nTandis que la jambe se soulève à nouveau, les Maréchaux se remettent péniblement sur pied, le sable ruisselant dans leurs armures.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "033", "label": "Lire l'entrée 033." }
+        { "type": "read", "target": "033", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -354,7 +354,7 @@
         "Défaussez un pion de suivi. Si vous n'avez pas de pion à défausser, chaque personnage subit 3 dégâts."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Lire l'entrée 033." }
+        { "type": "read", "target": "033", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -375,9 +375,9 @@
         "Ouvrez le Livre de Campagne à la page 16 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "037", "label": "Si la rencontre est réussie et que la recrue a survécu, lisez l'entrée 037." },
-        { "type": "read", "target": "038", "label": "Si la recrue a été tuée, lisez l'entrée 038." },
-        { "type": "read", "target": "036", "label": "Si la rencontre a échoué, lisez l'entrée 036." }
+        { "type": "read", "target": "037", "label": "Si la rencontre est réussie et que la recrue a survécu" },
+        { "type": "read", "target": "038", "label": "Si la recrue a été tuée" },
+        { "type": "read", "target": "036", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -388,9 +388,9 @@
         "Ouvrez le Livre de Campagne à la page 16 et tentez la rencontre qui y est détaillée."
       ],
       "actions": [
-        { "type": "read", "target": "037", "label": "Si la rencontre est réussie et que la recrue a survécu, lisez l'entrée 037." },
-        { "type": "read", "target": "038", "label": "Si la recrue a été tuée, lisez l'entrée 038." },
-        { "type": "read", "target": "036", "label": "Si la rencontre a échoué, lisez l'entrée 036." }
+        { "type": "read", "target": "037", "label": "Si la rencontre est réussie et que la recrue a survécu" },
+        { "type": "read", "target": "038", "label": "Si la recrue a été tuée" },
+        { "type": "read", "target": "036", "label": "Si la rencontre a échoué" }
       ]
     },
     {
@@ -406,7 +406,7 @@
         "- Chaque personnage gagne 1 carte d'action."
       ],
       "actions": [
-        { "type": "read", "target": "039", "label": "Lire l'entrée 039." }
+        { "type": "read", "target": "039", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -422,7 +422,7 @@
         "- La carte d'investigation 'Survivant du Recrutement'."
       ],
       "actions": [
-        { "type": "read", "target": "039", "label": "Lire l'entrée 039." }
+        { "type": "read", "target": "039", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -437,7 +437,7 @@
         "- Une combinaison de 3 ressources élémentaires de votre choix."
       ],
       "actions": [
-        { "type": "read", "target": "039", "label": "Lire l'entrée 039." }
+        { "type": "read", "target": "039", "label": "Continuer l'histoire" }
       ]
     },
     {
@@ -446,8 +446,8 @@
       "text": "\"On nous a dit qu'il y avait de la gloire ici. Une mission. Une cause. Hassak disait qu'il y avait des Tenakths qui étaient revenus à nos vraies valeurs — le sang et la bataille.\" Bien qu'elle soit reconnaissante d'avoir été sauvée, il a une résistance persistante dans sa voix.\n\n\"Tu ne sais pas ce qu'étaient ces temps-là.\" La voix de Bialla est douce, sans la moindre pitié. \"Qu'as-tu trouvé ici, mon enfant ? Du sang, à n'en pas douter. Et des promesses creuses. Tu penses que celui qui t'a envoyé par ici ignorait l'existence du Grand-Cou sur ton chemin, ou des gardiens toujours à ses pieds ?\"\n\n\"Qu'êtes-vous en train de dire ?\"\n\n\"C'était un test. Pour voir si tu allais survivre.\" La voix de Rikitta est froide, et Drokkeh acquiesce. \"Il n'y a rien dans le désert pour toi.\"\n\nL'incrédulité sur le visage de la jeune soldate se transforme en un sentiment de honte. Elle avait été attirée ici par les idéaux d'un passé glorieux, sans avoir la moindre idée de la tragédie qui a accompagné ce que ce passé représentait. Les Maréchaux pensent à l'envoyer au Bosquet de la Mémoire pour sa punition, mais ils peuvent voir qu'elle a compris la leçon.\n\nHochant la tête, la recrue répond, \"Vous avez raison. Je retournerai dans les Tranchecimes.\" Elle fouille dans son sac, dévoilant un petit artefact. \"Tenez. C'est le marqueur de piste qu'on nous a dit de suivre. Ça vous conduira à Hassak et à sa base principale. Peut-être que vous pourrez l'arrêter avant que d'autres ne tombent dans ses mensonges.\"\n\nDrokkeh et Rikitta étudient le marqueur de piste, un morceau de bois orné de plusieurs repères gravés à sa surface. Les couleurs peintes dessus, un mélange de rouge, vert et noir, ne correspondent à aucun clan connu.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "040", "label": "Si les joueurs ont la carte d'investigation 'Marqueur de piste détruit', lisez l'entrée 040." },
-        { "type": "read", "target": "041", "label": "Sinon, lisez l'entrée 041." }
+        { "type": "read", "target": "040", "label": "Si les joueurs ont la carte d'investigation 'Marqueur de piste détruit'" },
+        { "type": "read", "target": "041", "label": "Sinon" }
       ]
     },
     {
@@ -456,7 +456,7 @@
       "text": "Drokkeh retourne le marqueur dans ses mains. Fouillant dans son sac, il en retire l'autre marqueur, celui découvert dans la jungle. Les Maréchaux se souviennent de l'image du soldat de la plaine, les marques de griffes dans son dos, profondes et cramoisies.\n\n\"Les marqueurs de pistes correspondent.\" murmure Rikitta.",
       "information": [],
       "actions": [
-        { "type": "read", "target": "041", "label": "Lire l'entrée 041." }
+        { "type": "read", "target": "041", "label": "Continuer l'histoire" }
       ]
     },
     {
