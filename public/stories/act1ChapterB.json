@@ -187,10 +187,10 @@
       "text": "En observant la clairière, il semble qu'il reste encore un peu de temps avant que le groupe ne soit forcé d'attaquer.",
       "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
       "actions": [
-        { "type": "read", "target": "005", "label": "Tendre un piège" },
-        { "type": "read", "target": "008", "label": "Observer les machines et noter leurs mouvements" },
-        { "type": "read", "target": "011", "label": "Approcher discrètement pour une meilleure position offensive" },
-        { "type": "read", "target": "014", "label": "Réduire le nombre de machines" },
+        { "type": "read", "target": "005", "label": "Tendre un piège", "once": true},
+        { "type": "read", "target": "008", "label": "Observer les machines et noter leurs mouvements", "once": true },
+        { "type": "read", "target": "011", "label": "Approcher discrètement pour une meilleure position offensive", "once": true },
+        { "type": "read", "target": "014", "label": "Réduire le nombre de machines", "once": true },
         { "type": "read", "target": "019", "label": "Si vous avez encore des jetons de suivis, mais que vous êtes prêt et souhaitez frapper" }
       ]
     },

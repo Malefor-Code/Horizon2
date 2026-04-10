@@ -30,12 +30,12 @@
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
       "actions": [
-        { "type": "read", "target": "003", "label": "Parler à la marchande d'armes" },
-        { "type": "read", "target": "006", "label": "Parler à l'herboriste" },
-        { "type": "read", "target": "009", "label": "Parler au quartier-maître" },
-        { "type": "read", "target": "012", "label": "Parler aux soldats autour du feu" },
-        { "type": "read", "target": "015", "label": "Vous pensez que les cadets pourraient avoir des réponses" },
-        { "type": "read", "target": "018", "label": "Suivre Gerrah et son compagnon" },
+        { "type": "read", "target": "003", "label": "Parler à la marchande d'armes", "once": true },
+        { "type": "read", "target": "006", "label": "Parler à l'herboriste", "once": true },
+        { "type": "read", "target": "009", "label": "Parler au quartier-maître", "once": true },
+        { "type": "read", "target": "012", "label": "Parler aux soldats autour du feu", "once": true },
+        { "type": "read", "target": "015", "label": "Vous pensez que les cadets pourraient avoir des réponses", "once": true },
+        { "type": "read", "target": "018", "label": "Suivre Gerrah et son compagnon", "once": true },
         { "type": "read", "target": "020", "label": "Aucune autre options ou prêt à affronter Tekotteh" }
       ]
     },
@@ -301,9 +301,9 @@
       "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
       "actions": [
-        { "type": "read", "target": "029", "label": "Demander au sujet de la soldate rebelle du Clan du Ciel" },
-        { "type": "read", "target": "030", "label": "Demander au sujet des désertions récentes" },
-        { "type": "read", "target": "031", "label": "Si vous avez la carte d'enquête 'Patarro' : demander à son sujet" },
+        { "type": "read", "target": "029", "label": "Demander au sujet de la soldate rebelle du Clan du Ciel", "once": true },
+        { "type": "read", "target": "030", "label": "Demander au sujet des désertions récentes", "once": true },
+        { "type": "read", "target": "031", "label": "Si vous avez la carte d'enquête 'Patarro' : demander à son sujet", "once": true },
         { "type": "chapter", "target": "act2ChapterC", "label": "Si vous avez le pion vert : Continuer l'acte 2, chapitre C" }
       ]
     },

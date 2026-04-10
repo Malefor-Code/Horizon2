@@ -40,9 +40,9 @@
       "text": "La capitale des Basses Terres a beaucoup à offrir, mais les Maréchaux n'ont que peu de temps.",
       "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
       "actions": [
-        { "type": "read", "target": "005", "label": "Consulter l'herboriste et soigner vos blessures" },
-        { "type": "read", "target": "006", "label": "Vous rendre au dépôt de ravitaillement" },
-        { "type": "read", "target": "013", "label": "Vous rendre dans l'arène de combat" },
+        { "type": "read", "target": "005", "label": "Consulter l'herboriste et soigner vos blessures", "once": true  },
+        { "type": "read", "target": "006", "label": "Vous rendre au dépôt de ravitaillement", "once": true  },
+        { "type": "read", "target": "013", "label": "Vous rendre dans l'arène de combat", "once": true },
         { "type": "read", "target": "018", "label": "Prêt à partir ou si vous n'avez plus de jetons de suivi" }
       ]
     },
@@ -147,9 +147,9 @@
       "text": "La Fosse de Mêlée attire toutes sortes de personnes de toutes les Basses-Terres. Quel meilleur endroit pour se renseigner sur les contrées sauvages, les observations de Griffemarcheurs étranges et les égarés du Clan du Ciel ?",
       "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
       "actions": [
-        { "type": "read", "target": "015", "label": "Vous souhaitez parler au chasseur coiffé d'une parure de Clawstrider" },
-        { "type": "read", "target": "016", "label": "Parler à Atekka" },
-        { "type": "read", "target": "017", "label": "Parler à la jeune fille" },
+        { "type": "read", "target": "015", "label": "Vous souhaitez parler au chasseur coiffé d'une parure de Clawstrider", "once": true  },
+        { "type": "read", "target": "016", "label": "Parler à Atekka", "once": true },
+        { "type": "read", "target": "017", "label": "Parler à la jeune fille", "once": true },
         { "type": "read", "target": "004", "label": "Vous avez terminé dans l'arène et souhaitez explorer une autre partie du campement" }
       ]
     },

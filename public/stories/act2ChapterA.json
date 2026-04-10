@@ -27,10 +27,10 @@
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la retenter. Vous pouvez rester aussi longtemps que nécessaire, bien que toutes les voies ne soient pas forcément avantageuses."
       ],
       "actions": [
-        { "type": "read", "target": "003", "label": "Visiter l'herboriste" },
-        { "type": "read", "target": "005", "label": "Parler au quartier-maître" },
-        { "type": "read", "target": "007", "label": "Parler au commerçant encapuchonné" },
-        { "type": "read", "target": "011", "label": "Parler avec le maréchal" },
+        { "type": "read", "target": "003", "label": "Visiter l'herboriste", "once": true },
+        { "type": "read", "target": "005", "label": "Parler au quartier-maître", "once": true },
+        { "type": "read", "target": "007", "label": "Parler au commerçant encapuchonné", "once": true },
+        { "type": "read", "target": "011", "label": "Parler avec le maréchal", "once": true },
         { "type": "read", "target": "013", "label": "Prêt à partir" }
       ]
     },

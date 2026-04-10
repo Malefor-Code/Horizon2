@@ -106,11 +106,11 @@
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
       "actions": [
-        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi" },
-        { "type": "read", "target": "009", "label": "Si vous voulez que Nagallo se concentre sur l'équipement" },
-        { "type": "read", "target": "016", "label": "Si vous voulez que Drokkeh regarde de plus près le feu de camp" },
-        { "type": "read", "target": "021", "label": "Si vous souhaitez que Rikitta inspecte l'établi" },
-        { "type": "read", "target": "027", "label": "Si vous voulez que Bialla interroge davantage Hassak" }
+        { "type": "read", "target": "033", "label": "Si vous n'avez plus de pions de suivi", "once": true },
+        { "type": "read", "target": "009", "label": "Si vous voulez que Nagallo se concentre sur l'équipement", "once": true },
+        { "type": "read", "target": "016", "label": "Si vous voulez que Drokkeh regarde de plus près le feu de camp", "once": true },
+        { "type": "read", "target": "021", "label": "Si vous souhaitez que Rikitta inspecte l'établi", "once": true },
+        { "type": "read", "target": "027", "label": "Si vous voulez que Bialla interroge davantage Hassak", "once": true }
       ]
     },
     {

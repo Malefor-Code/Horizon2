@@ -88,10 +88,10 @@
         "Si vous possédez une carte d'investigation 'Survivant du Recrutement', vous pouvez la défausser pour réduire la pression jusqu'à 3."
       ],
       "actions": [
-        { "type": "read", "target": "008", "label": "Inspecter les enclos à machines" },
-        { "type": "read", "target": "023", "label": "Explorer l'atelier" },
-        { "type": "read", "target": "037", "label": "Vous introduire discrètement dans les quartiers du commandant" },
-        { "type": "read", "target": "051", "label": "Ecouter une conversation entre deux soldats" },
+        { "type": "read", "target": "008", "label": "Inspecter les enclos à machines", "once": true },
+        { "type": "read", "target": "023", "label": "Explorer l'atelier", "once": true },
+        { "type": "read", "target": "037", "label": "Vous introduire discrètement dans les quartiers du commandant", "once": true },
+        { "type": "read", "target": "051", "label": "Ecouter une conversation entre deux soldats", "once": true },
         { "type": "read", "target": "065", "label": "Si vous avez exploré toutes les options" }
       ]
     },

@@ -33,12 +33,12 @@
         "Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."
       ],
       "actions": [
-        { "type": "read", "target": "003", "label": "Si vous voulez parler à la jeune soldate qui vous observe" },
-        { "type": "read", "target": "004", "label": "Si vous préférez demander aux gardes s'ils ont vu quelque chose" },
-        { "type": "read", "target": "005", "label": "Si vous souhaitez rendre visite à l'herboriste" },
-        { "type": "read", "target": "006", "label": "Si vous êtes intéressé par ce que savent les marchands" },
-        { "type": "read", "target": "007", "label": "Si vous voulez parler à Hassak avec le maître de la fosse de mêlée" },
-        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi" }
+        { "type": "read", "target": "003", "label": "Si vous voulez parler à la jeune soldate qui vous observe", "once": true },
+        { "type": "read", "target": "004", "label": "Si vous préférez demander aux gardes s'ils ont vu quelque chose", "once": true },
+        { "type": "read", "target": "005", "label": "Si vous souhaitez rendre visite à l'herboriste", "once": true },
+        { "type": "read", "target": "006", "label": "Si vous êtes intéressé par ce que savent les marchands", "once": true },
+        { "type": "read", "target": "007", "label": "Si vous voulez parler à Hassak avec le maître de la fosse de mêlée", "once": true },
+        { "type": "read", "target": "009", "label": "Si vous êtes prêt à partir ou si vous n'avez plus de pions de suivi"}
       ]
     },
     {
