@@ -96,7 +96,7 @@
       "title": "008",
       "text": "Drokkeh s'éloigne des autres Maréchaux et commence à longer le bord de la clairière. « Je croyais qu'il allait juste observer ? » Rikitta semble perplexe, bien que Bialla soit visiblement impressionnée. « Plusieurs angles de vue. Méthodique. » Alors qu'il contourne la clairière, sa tête pivote dans un sens puis dans l'autre, ses yeux passant de machine en machine, évaluant leurs trajectoires de patrouille et le terrain.",
       "information": ["Les joueurs peuvent défausser un jeton de suivi pour relancer ce jet d'action."],
-      "actions": [{ "type": "test", "label": "Faire 1 flèche OU 1 critique.", "pass": "009", "fail": "010" }]
+      "actions": [{ "type": "test", "label": "Faire 1 flèche / 1 critique.", "pass": "009", "fail": "010" }]
     },
     {
       "id": "009",

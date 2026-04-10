@@ -78,7 +78,7 @@
       "information": ["Si vous souhaitez que Nagallo grimpe à l'arbre, il doit effectuer le jet d'action décrit ci-dessous."],
       "actions": [
         { "type": "read", "target": "007", "label": "Vous préférez explorer d'autres pistes" },
-        { "type": "test", "label": "Faire 3 flèches OU 1 critique.", "pass": "009", "fail": "010" }
+        { "type": "test", "label": "Faire 3 flèches / 1 critique.", "pass": "009", "fail": "010" }
       ]
     },
     {
@@ -152,7 +152,7 @@
       "title": "018",
       "text": "Bialla tranche dans le vif. « Je crois qu'on en a assez vu. La prochaine étape, c'est clairement de suivre les traces. Des questions ? » Elle récolte des hochements de tête approbateurs de Drokkeh et Rikitta. Nagallo répond par un grognement affirmatif : « Ça me va. On réglera la question de qui t'a nommée chef une autre fois. »\n\nBialla s'apprête à répliquer lorsqu'un concert de cris mécaniques retentit à travers la clairière, suivi d'un puissant beuglement. Des Crampocrocs. Il est trop tard pour fuir, mais les Marshals pourraient encore tenter de gagner un avantage en trouvant de quoi se couvrir. Drokkeh aperçoit un bouquet de hautes herbes aux pointes rouges. « Là ! »",
       "information": [],
-      "actions": [{ "type": "test", "label": "Faire 4 flèches OU 1 critique", "pass": "019", "fail": "020" }]
+      "actions": [{ "type": "test", "label": "Faire 4 flèches / 1 critique", "pass": "019", "fail": "020" }]
     },
     {
       "id": "019",

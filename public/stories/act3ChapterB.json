@@ -209,7 +209,7 @@
       "text": "Baissant la tête, Rikitta se précipite vers l'enclos du Frappe-Défenses. La porte de la cage est verrouillée par un engin étrange. Du fer massif garni d'une rangée de lumières clignotantes. Le cadenas est complexe et intriqué : de petites roues dentées tournent les unes contre les autres. La bonne combinaison pourrait ouvrir la porte, mais Rikitta n'a pas le temps pour ça.\n\nElle opte pour une solution plus simple. Fouillant dans son sac, elle sort un petit pot de Pâte explosive et l'étale autour du verrou.  Elle fixe soigneusement une courte mèche et l'allume avant de se replier dans les hautes herbes.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique ET 2 flèches OU 4 flèches", "pass": "020", "fail": "021" }
+        { "type": "test", "label": "Faites 1 critique ET 2 flèches / 4 flèches", "pass": "020", "fail": "021" }
       ]
     },
     {
@@ -261,7 +261,7 @@
       "text": "Les yeux de Bialla parcourent le camp un instant, confirmant que la seule voie vers l'atelier passe par l'espace ouvert devant elle. Tête baissée, elle se faufile à travers le camp et, sans incident, atteint l'atelier.\n\nElle s'attarde un instant à l'entrée, l'oreille tendue. Bialla n'entend personne sur ce niveau inférieur, mais plus haut dans la structure, elle perçoit des voix et les échos de martèlements.\n\nElle entre et découvre des établis encombrés de ferraille et de pièces de machines, assemblées dans des configurations déroutantes. Bialla commence à chercher tout ce qui pourrait offrir un aperçu des opérations d'Hassak.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 4 flèches", "pass": "025", "fail": "026" }
+        { "type": "test", "label": "Faites 1 critique / 4 flèches", "pass": "025", "fail": "026" }
       ]
     },
     {
@@ -292,7 +292,7 @@
       "text": "Après un bref coup d'œil autour de lui, Drokkeh prend une profonde inspiration et sprinte à travers la cour ouverte en direction de l'atelier. La distance est considérable, mais il est rapide. Quelques battements de cœur nerveux plus tard, il se faufile par l'entrée de l'atelier, sa dague en main. Heureusement, le sol de la tour est vide, et il est seul pour le moment, bien qu'il entende des voix et un martèlement résonner depuis une autre chambre plus haut dans la structure.\n\nNe voulant pas perdre de temps, Drokkeh commence à fouiller les établis à la recherche de n'importe quelle relique qui pourrait offrir des réponses sur les machines d'Hassak ou des preuves pouvant indiquer la cible de l'attaque des rebelles.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 2 flèches", "pass": "028", "fail": "029" }
+        { "type": "test", "label": "Faites 1 critique / 2 flèches", "pass": "028", "fail": "029" }
       ]
     },
     {
@@ -355,7 +355,7 @@
       "text": "Rikitta prend une profonde inspiration et s'élance à travers l'espace ouvert, la tête baissée. La distance est conséquente, mais elle est rapide. Quelques battements de cœur frénétiques plus tard, elle se faufile par l'entrée de l'atelier. Elle découvre que l'endroit est inoccupé, bien qu'elle puisse entendre des voix et des coups de marteau résonner provenant d'une autre salle plus haut dans la structure.\n\nAutour d'elle, les établis sont encombrés de ferraille, de pièces de machines et d'appareils à moitié assemblés dont les utilités lui sont inconnues. Les yeux écarquillés par la simple quantité d'outils étranges, de matériaux de récupération rares et d'équipements de l'Ancien Monde, Rikitta entame ses recherches pour trouver un quelconque indice qui pourrait éclairer les opérations d'Hassak.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "034", "fail": "035" }
+        { "type": "test", "label": "Faites 1 critique / 3 flèches", "pass": "034", "fail": "035" }
       ]
     },
     {
@@ -405,7 +405,7 @@
       "text": "Bialla utilise les hautes herbes pour se couvrir autant que possible, se baissant et esquivant avec l'expertise née d'années passées dans la jungle. Se déplaçant lentement pour ne pas attirer l'attention sur elle, elle tire une flèche de son carquois, et stabilise sa respiration tout en l'encochant, lisant les herbes pour juger de la direction et de la force du vent.\n\nPuis, avec une aisance acquise par l'expérience, elle se lève des herbes. Rapidement, elle tire sur la corde et vise, le tout dans un seul mouvement.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 2 critiques OU 6 flèches", "pass": "034", "fail": "035" }
+        { "type": "test", "label": "Faites 2 critiques / 6 flèches", "pass": "034", "fail": "035" }
       ]
     },
     {
@@ -434,7 +434,7 @@
       "text": "Drokkeh se faufile aussi loin qu'il peut à travers les hautes herbes avant de quitter sa couverture et de sprinter sous la haute plateforme qui abrite les quartiers du chef. Hors de la ligne de mire du garde, Drokkeh escalade le pilier de la structure jusqu'à se trouver juste sous la plateforme.\n\nDe cette position, il peut entendre les bruits de pas du garde alors qu'il patrouille de long en large. Drokkeh compte chaque pas, jugeant de la position du rebelle. Lorsqu'il pense que le garde se retourne, Drokkeh dégaine sa dague et se hisse silencieusement sur la plateforme.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 2 flèches", "pass": "042", "fail": "043" }
+        { "type": "test", "label": "Faites 1 critique / 2 flèches", "pass": "042", "fail": "043" }
       ]
     },
     {
@@ -463,7 +463,7 @@
       "text": "Nagallo rampe aussi loin qu'il peut à travers les hautes herbes avant de courir sous la haute plateforme. Le garde ne le repère pas, et personne ne remarque que Nagallo commence à grimper à l'échelle. Après des jours dans le désert avec seulement ses camarades Maréchaux, Nagallo a hâte de se battre.\n\nIl essaie de rester silencieux alors que chaque barreau l'amène plus haut, mais il ne peut s'empêcher de faire grincer l'échelle sous son poids. Lorsqu'il approche finalement du sommet, il se propulse sur la plateforme, l'arme tirée.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "045", "fail": "046" }
+        { "type": "test", "label": "Faites 1 critique / 3 flèches", "pass": "045", "fail": "046" }
       ]
     },
     {
@@ -546,7 +546,7 @@
       "text": "Bialla scrute les alentours pendant un instant, cherchant la meilleure approche. Ses yeux se posent sur une autre parcelle de hautes herbes, avec leurs extrémités rouges ondulant dans le vent. Restant accroupie, elle court de parcelle en parcelle.\n\nLes gardes sont si concentrés sur leurs discussions et la volaille du désert qu'ils dévorent qu'ils ne remarquent pas l'avancée de Bialla. Cela ne fait qu'ajouter à son mépris pour eux. Non seulement ce sont des soldats à la langue pendue, mais ils sont aussi mal disciplinés. Ils auraient été tués en quelques instants pendant les Guerres de Clans.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 1 flèche", "pass": "053", "fail": "054" }
+        { "type": "test", "label": "Faites 1 critique / 1 flèche", "pass": "053", "fail": "054" }
       ]
     },
     {
@@ -603,7 +603,7 @@
       "title": "058",
       "text": "Nagallo évalue la distance entre lui et le feu de camp. Ses yeux se posent à nouveau sur les rebelles. Chacun tient une cuisse d'un oiseau du désert. La pile de barils d'acide près d'eux est à peine de quoi le dissimuler. Nagallo repère plutôt une cabane juste au-delà. C'est un itinéraire plus risqué que ce que les autres Maréchaux auraient pris, mais c'est sa meilleure option.\n\nNagallo attend que les rebelles se concentrent sur leur nourriture avant de se diriger vers la cabane.",
       "information": [],
-      "actions": [{ "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "059", "fail": "060" }]
+      "actions": [{ "type": "test", "label": "Faites 1 critique / 3 flèches", "pass": "059", "fail": "060" }]
     },
     {
       "id": "059",

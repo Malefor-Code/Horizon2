@@ -160,7 +160,7 @@
         "Si Nagallo est le chef d'escouade, récupérez 1 dé d'action."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 3 flèches OU 1 critique", "pass": "013", "fail": "014" }
+        { "type": "test", "label": "Faites 3 flèches / 1 critique", "pass": "013", "fail": "014" }
       ]
     },
     {
@@ -222,7 +222,7 @@
         "Si Drokkeh est le chef d'escouade, vous pouvez soit relancer l'un des dés soit récupérer un dé d'action une fois le test résolu."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 5 flèches OU 1 critique", "pass": "019", "fail": "020" }
+        { "type": "test", "label": "Faites 5 flèches / 1 critique", "pass": "019", "fail": "020" }
       ]
     },
     {

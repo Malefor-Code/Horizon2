@@ -172,7 +172,7 @@
       "text": "Les Maréchaux se préparent pour l'assaut suffocant de la colonne de sable. Puis, s'agrippant à l'armure les uns des autres, liés comme une chaîne, Drokkeh mène le groupe en avant dans le maelstrom. Le monde au-delà est perdu — enveloppé par le poids d'un sable implacable et réduit au silence par le rugissement de la tempête.\n\nLe vent arrache presque les Maréchaux tandis qu'ils s'agrippent désespérément les uns aux autres, espérant que Drokkeh parvienne à trouver le chemin de la sortie.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 6 flèches OU 2 critiques OU 1 critique et 3 flèches", "pass": "016", "fail": "017" }
+        { "type": "test", "label": "Faites 6 flèches / 2 critiques / 1 critique et 3 flèches", "pass": "016", "fail": "017" }
       ]
     },
     {
@@ -233,7 +233,7 @@
         "Si Drokkeh est le chef de l'escouade, récupérez 2 dés d'action."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 5 flèches OU 1 critique", "pass": "021", "fail": "022" }
+        { "type": "test", "label": "Faites 5 flèches / 1 critique", "pass": "021", "fail": "022" }
       ]
     },
     {
@@ -296,7 +296,7 @@
       "text": "Les machines avancent implacablement vers les recrues tandis que les Maréchaux dérapent sur les dunes. Griffes et queues tracent des sillons dans le sable, et bientôt, les machines approchent de leur proie, se préparant à frapper.\n\n\"Il faut éloigner ces machines d'elles,\" murmure Nagallo. \"On ne peut pas interroger des cadavres.\"\n\nBialla lève son arc pour décocher un tir, afin de distraire les Galop-griffes à l'affût.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 3 flèches OU 1 critique", "pass": "034", "fail": "035" }
+        { "type": "test", "label": "Faites 3 flèches / 1 critique", "pass": "034", "fail": "035" }
       ]
     },
     {
@@ -305,7 +305,7 @@
       "text": "Lentement mais sûrement, la tempête commence à mourir. Le vent tombe, ne laissant que le silence et une odeur de cuivre dans l'air. Le sable frais dissimule ce que les renégats en fuite auraient pu laisser derrière eux.\n\nRetrouver la piste ne sera pas facile. Les Maréchaux scrutent le paysage, à la recherche de signes des recrues d'Hassak.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 5 flèches OU 2 critiques", "pass": "028", "fail": "029" }
+        { "type": "test", "label": "Faites 5 flèches / 2 critiques", "pass": "028", "fail": "029" }
       ]
     },
     {
@@ -334,7 +334,7 @@
       "text": "Les Maréchaux marchent pendant des heures à la recherche des recrues. Par bonheur, les rafales de vent se sont calmées, bien que la brume rouge reste épaisse.\n\n\"Attendez !\" siffle Rikitta, de façon soudaine et sèche. Elle s'accroupit, enfonçant sa main dans le sable mou. Drokkeh suit son exemple. Il y a une vibration dans le sol.\n\nUn instant plus tard, tout le monde l'entend : un atterrissage sourd, suivi d'une autre vibration. Puis une autre.\n\nIl n'y a qu'une seule machine assez puissante pour faire trembler la terre de la sorte. Les Maréchaux relèvent la tête juste à temps alors que le pied colossal du Grand-Cou brise le brouillard. Le groupe se jette hors de sa trajectoire.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 3 flèches OU 2 critiques OU 1 flèche et 1 critique", "pass": "031", "fail": "032" }
+        { "type": "test", "label": "Faites 3 flèches / 2 critiques / 1 flèche et 1 critique", "pass": "031", "fail": "032" }
       ]
     },
     {
@@ -363,7 +363,7 @@
       "text": "Un cri de douleur déchire le vacarme, provenant de quelque part au loin dans le brouillard. Une pensée foudroie les Maréchaux simultanément : aux pieds d'un Grand-Cou rôdent ses gardiens. Des machines mortelles.\n\nUn son terrifiant prouve que leurs craintes étaient fondées. Un lointain cri métallique et strident déchire l'air depuis la direction des recrues. Se précipitant vers le bruit, les Maréchaux voient deux Galop-griffes courir en direction des recrues, avec un Frappe-Défenses bien pataud qui les suit derrière. La créature trapue grogne lorsqu'elle crache une volée d'acide vert vif et luminescent.\n\nLes soldats se dispersent — trois d'entre eux échappent au rayon de l'explosion acide. Le quatrième n'a pas cette chance et s'effondre avec un hurlement de douleur. Tandis que deux de ses alliés fuient à travers le désert sans se retourner, la troisième se relève et accourt aux côtés de son camarade invalide, sa lance levée pour sa défense.\n\n\"Nous devons éloigner les machines d'eux.\" murmure Nagallo. \"On ne peut pas interroger des cadavres.\"\n\nBialla lève son arc pour décocher un tir, cherchant à enrager le Galop-griffes à l'affût.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 3 flèches OU 1 critique", "pass": "034", "fail": "035" }
+        { "type": "test", "label": "Faites 3 flèches / 1 critique", "pass": "034", "fail": "035" }
       ]
     },
     {

@@ -55,7 +55,7 @@
         "Si Rikitta est dans l'équipe une, elle peut relancer n'importe lequel des dés pour ce jet d'action."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 6 flèches OU 1 critique et 2 flèches.", "pass": "004", "fail": "005" }
+        { "type": "test", "label": "Faites 6 flèches / 1 critique et 2 flèches.", "pass": "004", "fail": "005" }
       ]
     },
     {
@@ -89,7 +89,7 @@
         "Si Bialla est dans l'équipe deux, récupérez un dé d'action."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 8 flèches OU 3 critiques OU 4 flèches et 2 critiques.", "pass": "007", "fail": "008" }
+        { "type": "test", "label": "Faites 8 flèches / 3 critiques / 4 flèches et 2 critiques.", "pass": "007", "fail": "008" }
       ]
     },
     {
@@ -121,7 +121,7 @@
         "Si Nagallo est dans l'équipe une, ajoutez 2 flèches au résultat."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 6 flèches OU 1 critique et 2 flèches.", "pass": "010", "fail": "011" }
+        { "type": "test", "label": "Faites 6 flèches / 1 critique et 2 flèches.", "pass": "010", "fail": "011" }
       ]
     },
     {
@@ -190,7 +190,7 @@
         "Si Drokkeh est dans l'équipe deux, ajoutez 3 flèches au résultat."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 9 flèches OU 3 critiques.", "pass": "016", "fail": "017" }
+        { "type": "test", "label": "Faites 9 flèches / 3 critiques.", "pass": "016", "fail": "017" }
       ]
     },
     {
@@ -226,7 +226,7 @@
         "Si Nagallo est dans l'équipe une, ajoutez 4 flèches au résultat."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 9 flèches OU 2 critiques.", "pass": "019", "fail": "020" }
+        { "type": "test", "label": "Faites 9 flèches / 2 critiques.", "pass": "019", "fail": "020" }
       ]
     },
     {
@@ -259,7 +259,7 @@
         "Si Rikitta est dans l'équipe deux, elle peut relancer n'importe lequel des dés."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 7 flèches OU 1 critique et 4 flèches OU 2 critiques.", "pass": "022", "fail": "023" }
+        { "type": "test", "label": "Faites 7 flèches / 1 critique et 4 flèches / 2 critiques.", "pass": "022", "fail": "023" }
       ]
     },
     {
@@ -296,7 +296,7 @@
         "Si Rikitta est dans l'équipe une, ajoutez un critique au résultat."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 3 critiques OU 2 critiques et 2 flèches.", "pass": "025", "fail": "026" }
+        { "type": "test", "label": "Faites 3 critiques / 2 critiques et 2 flèches.", "pass": "025", "fail": "026" }
       ]
     },
     {
@@ -457,7 +457,7 @@
         "Défaussez un jeton de suivi."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 6 flèches OU 2 critiques OU 4 flèches et 1 critique.", "pass": "039", "fail": "040" }
+        { "type": "test", "label": "Faites 6 flèches / 2 critiques / 4 flèches et 1 critique.", "pass": "039", "fail": "040" }
       ]
     },
     {
@@ -489,7 +489,7 @@
       "text": "De retour au-delà de la lisière des arbres, à l'extérieur du camp, le Rampant cherche en vain. Les Maréchaux observent le camp. Tous deux la voient en même temps : De la fumée ! C'est l'heure.\n\nIls réactivent l'appât, sortent de leur cachette et franchissent la lisière des arbres, sprintant vers le campement. Un sifflement bruyant derrière eux confirme que la machine les poursuit de près.\n\nUne épaisse couronne de fumée flotte au-dessus du campement, des gris tachetés luttant pour dominer. Des cris puissants s'élèvent de l'intérieur, poussés par une vingtaine de voix. Un garde posté au périmètre repère les deux Maréchaux et crie un avertissement, et soudain, les Maréchaux se retrouvent à esquiver une pluie de flèches.",
       "information": [],
       "actions": [
-        { "type": "test", "label": "Faites 5 flèches OU 2 critiques OU 2 flèches et 1 critique.", "pass": "042", "fail": "043" }
+        { "type": "test", "label": "Faites 5 flèches / 2 critiques / 2 flèches et 1 critique.", "pass": "042", "fail": "043" }
       ]
     },
     {
@@ -520,7 +520,7 @@
         "Si vous avez encore des jetons de suivi, vous pouvez relancer un dé pour chaque jeton."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 10 flèches OU 3 critiques OU 5 flèches et 2 critiques.", "pass": "046", "fail": "047" },
+        { "type": "test", "label": "Faites 10 flèches / 3 critiques / 5 flèches et 2 critiques.", "pass": "046", "fail": "047" },
         { "type": "read", "target": "045", "label": "Continuer l'histoire" }
       ]
     },

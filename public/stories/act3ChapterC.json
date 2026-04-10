@@ -35,7 +35,7 @@
         "Sinon, faites le jet d'action suivant."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 2 flèches", "pass": "002", "fail": "003" }
+        { "type": "test", "label": "Faites 1 critique / 2 flèches", "pass": "002", "fail": "003" }
       ]
     },
     {
@@ -89,7 +89,7 @@
         "Sinon, faites le jet d'action suivant."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 3 flèches", "pass": "007", "fail": "008" }
+        { "type": "test", "label": "Faites 1 critique / 3 flèches", "pass": "007", "fail": "008" }
       ]
     },
     {
@@ -121,7 +121,7 @@
         "Sinon, faites le jet d'action suivant."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 2 critiques OU 4 flèches OU 1 critique et 2 flèches", "pass": "010", "fail": "011" }
+        { "type": "test", "label": "Faites 2 critiques / 4 flèches / 1 critique et 2 flèches", "pass": "010", "fail": "011" }
       ]
     },
     {
@@ -215,7 +215,7 @@
         "Sinon, faites le jet d'action suivant."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 2 critiques OU 5 flèches OU 1 critique et 3 flèches", "pass": "019", "fail": "020" }
+        { "type": "test", "label": "Faites 2 critiques / 5 flèches / 1 critique et 3 flèches", "pass": "019", "fail": "020" }
       ]
     },
     {
@@ -245,7 +245,7 @@
         "Sinon, faites le jet d'action suivant."
       ],
       "actions": [
-        { "type": "test", "label": "Faites 1 critique OU 1 flèche", "pass": "022", "fail": "023" }
+        { "type": "test", "label": "Faites 1 critique / 1 flèche", "pass": "022", "fail": "023" }
       ]
     },
     {

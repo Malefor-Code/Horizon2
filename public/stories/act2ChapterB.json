@@ -237,7 +237,7 @@
         "Rikitta - Vous pouvez relancer le dé noir."
       ],
       "actions": [
-        { "type": "test", "label": "Faire3 critiques / 6 flèches et 2 critiques / 8 flèches et 1 critique OU / flèches.", "pass": "022", "fail": "023" }
+        { "type": "test", "label": "Faire 3 critiques / 6 flèches et 2 critiques / 8 flèches et 1 critique / 12 flèches.", "pass": "022", "fail": "023" }
       ]
     },
     {

@@ -98,7 +98,7 @@
       "title": "009",
       "text": "L'ami de Bialla est un homme de petite taille aux épaules larges et au crâne rasé. Ses sourcils sont épais et gris, et son visage s'illumine dès qu'il aperçoit Bialla. Il lui serre chaleureusement la main. \"Enfin un Maréchal, eh ?! Je savais que tu étais destinée à la grandeur.\"\n\nBialla sourit. \"Je ne m'attendais pas à te voir si loin de Fenrise.\"\n\n\"Plus chaud près de la côte pour de vieux os comme les miens. Alors, que puis-je faire pour vous ?\"\n\nSans plus tarder, ils commencent à marchander.",
       "information": [],
-      "actions": [{ "type": "test", "label": "Faire 4 flèches OU 1 critique.", "pass": "010", "fail": "011" }]
+      "actions": [{ "type": "test", "label": "Faire 4 flèches / 1 critique.", "pass": "010", "fail": "011" }]
     },
     {
       "id": "010",
@@ -298,7 +298,7 @@
       "title": "031",
       "text": "D'un geste rapide à Nagallo de la suivre, Bialla se faufile vers une meilleure position de tir. Elle s'occupera d'une machine avec son arc, et lui chargera l'autre avec sa lance. Bien synchroniser leur action sera primordial. Pendant que Drokkeh et Rikitta observent, Bialla atteint un point de vue stratégique, Nagallo se glissant derrière l'autre Pillard.",
       "information": ["Récupérez un dé d'action."],
-      "actions": [{ "type": "test", "label": "Faire 2 flèches OU 1 critique.", "pass": "032", "fail": "033" }]
+      "actions": [{ "type": "test", "label": "Faire 2 flèches / 1 critique.", "pass": "032", "fail": "033" }]
     },
     {
       "id": "032",
@@ -345,7 +345,7 @@
       "title": "037",
       "text": "Le groupe décide que créer une couverture de fumée est leur meilleure option. \"D'accord. Voici le plan.\" Rikitta expose brièvement la situation aux autres. \"Nagallo et moi, on grimpe jusqu'à cette ruine là-haut sur la droite. De cette hauteur, on devrait toucher le cœur du convoi avec la moitié des bombes fumigènes.\" Elle regarde les autres. \"Drokkeh, Bialla, vous lancerez l'autre moitié depuis le sol.\"\n\n\"Drokkeh, Bialla, vous lancerez l'autre moitié depuis le sol. De cette hauteur, on devrait être capables de viser juste. Si on fait ça bien, et que le vent est de notre côté, on devrait pouvoir se glisser sans être remarqués. Attendez qu'on soit en position pour lancer ; ensuite, partez.\" L'autre groupe de Maréchaux acquiesce, les têtes conquises par le sang-froid de Rikitta.\n\nBientôt, elle et Drokkeh sont tapis, cachés dans la végétation. De là, ils observent les machines approcher depuis la distance, pendant que Rikitta et Nagallo escaladent les parois du ravin en face et atteignent finalement la ruine antique. Même de loin, la pierre couverte de mousse depuis laquelle la structure est bâtie est manifestement fragile.\n\nUne fois en position, Rikitta charge une bombe fumigène dans son lance-pierre et fait un signe de tête à Nagallo, qui serre le sien fermement. Les deux libèrent leur volée.",
       "information": [],
-      "actions": [{ "type": "test", "label": "Faire 4 fléches OU 1 critique.", "pass": "038", "fail": "039" }]
+      "actions": [{ "type": "test", "label": "Faire 4 fléches / 1 critique.", "pass": "038", "fail": "039" }]
     },
     {
       "id": "038",
@@ -369,7 +369,7 @@
       "title": "040",
       "text": "\"Je vais les attirer à l'écart. Quand ils commenceront à me suivre, vous trois rejoignez-moi. On ne peut pas être sûrs qu'ils ne reviendront pas.\" Bialla part calmement et disparaît bientôt hors de vue.\n\nPlusieurs minutes passent sans incident jusqu'à ce que les lumières d'un Guetteur en tête du convoi virent au jaune. Il se retourne, attiré par quelque chose à proximité. Un par un, les autres machines suivent, changeant de direction en s'éloignant des Maréchaux.\n\nIls sont sur le point de bouger quand Drokkeh attrape les yeux des autres et pointe silencieusement vers les sous-bois. L'ombre de Bialla peut tout juste être aperçue alors qu'elle se faufile. \"Elle sait ce qu'elle fait. On s'en tient au plan. Gardons le cap.\" Nagallo fait signe au groupe de se mettre en mouvement.\n\nLes trois Maréchaux se frayent rapidement un chemin à travers le ravin, choisissant soigneusement leurs pas au fur et à mesure qu'ils avancent. Au loin, ils peuvent voir les machines progresser sur un nouveau chemin. Mais toujours pas de Bialla.",
       "information": ["Bialla doit effectuer le jet d'action décrit ci-dessous à trois reprises. Si elle échoue à un ou plusieurs jets, appliquez le texte d'échec. Si elle réussit les trois, appliquez le texte de réussite."],
-      "actions": [{ "type": "test", "label": "Faire 1 flèche OU 1 critique.", "pass": "041", "fail": "042" }]
+      "actions": [{ "type": "test", "label": "Faire 1 flèche / 1 critique.", "pass": "041", "fail": "042" }]
     },
     {
       "id": "041",
@@ -393,7 +393,7 @@
       "title": "043",
       "text": "Bien que les plans des autres Maréchaux soient certainement ingénieux, le groupe décide que la tactique la plus simple est de se faufiler devant les machines. Guidé par Drokkeh, les Maréchaux vont se glisser discrètement.\n\nDrokkeh évalue la situation : le convoi est large, et à mesure qu'il approche, des dizaines d'yeux bleus scrutent la zone à la recherche de menaces. Il faudrait du temps pour contourner le groupe.\n\nDrokkeh guide prudemment les trois autres en avant. Entre le groupe et l'arrière du convoi, plusieurs plaques d'herbes rouges offrent une chance de rester couverts. Un timing parfait et un silence absolu seront essentiels.\n\nLe groupe et le convoi approchent l'un de l'autre lentement. À chaque pas, des herbes aux herbes, les Maréchaux progressent sans être détectés. Bientôt, le convoi se fraie un chemin à travers la végétation, et les quatre se cachent au passage des machines.\n\nUn Guetteur se retourne vers les Maréchaux dissimulés et s'approche. Il est à une longueur de bras quand il active ses capteurs, émettant une lumière en arc de cercle alors qu'il recherche des menaces.",
       "information": ["Drokkeh doit effectuer le jet d'action décrit ci-dessous à trois reprises. Si il échoue à un ou plusieurs jets, appliquez le texte d'échec. Si il réussit les trois, appliquez le texte de réussite."],
-      "actions": [{ "type": "test", "label": "Faire 2 flèches OU 1 critique.", "pass": "044", "fail": "045" }]
+      "actions": [{ "type": "test", "label": "Faire 2 flèches / 1 critique.", "pass": "044", "fail": "045" }]
     },
     {
       "id": "044",
@@ -511,7 +511,7 @@
         "Defaussez un jeton de suivi.",
         "Si Rikitta est la chef d'escouade, elle peut relancer n'importe lequel des dés de ce jet d'action."
       ],
-      "actions": [{ "type": "test", "label": "Faire 5 flèches OU 1 critique.", "pass": "056", "fail": "057" }]
+      "actions": [{ "type": "test", "label": "Faire 5 flèches / 1 critique.", "pass": "056", "fail": "057" }]
     },
     {
       "id": "056",
