@@ -12,21 +12,27 @@
         "Soignez 2 blessures.",
         "Lisez la page 130 du Livre Narratif."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "INTRO", "label": "Lire l'entrée INTRO." }
+      ]
     },
     {
       "id": "INTRO",
       "title": "INTRO",
       "text": "Les rebelles ont laissé une abondance de traces dans leur sillage. Même dans la jungle, il est impossible de cacher une armée, encore moins une armée en pleine retraite. Après seulement quelques jours, avec des jambes fraîches, un but précis et n'étant que quatre, les Maréchaux les trouvent. Les rebelles sont désorganisés et campent dans l'ombre d'une tour de guet abandonnée depuis longtemps, près d'un petit ruisseau où prolifère la nielle rouge.\n\nLes rebelles ont besoin de temps pour récupérer avant de repartir. Ainsi, les Maréchaux se retirent sur les hauteurs où ils peuvent garder un œil vigilant tout en décidant de la prochaine marche à suivre.\n\nAlors que les Maréchaux s'installent dans leur campement caché et sans feu, et que le soleil se couche lentement, un grondement désormais familier traverse la terre. Drokkeh suit ces phénomènes depuis son arrivée dans les Basses Terres, et pendant que le reste des Maréchaux discute de la façon de gérer les rebelles, il fait les cent pas et colle son oreille au sol à plusieurs endroits, avant de s'aventurer dans la nature.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "001", "label": "Lire l'entrée 001." }
+      ]
     },
     {
       "id": "001",
       "title": "001",
       "text": "Nagallo soupire alors qu'il taille des pointes pour son lance-pic, une grimace pensive sur le visage. \"Ce n'est pas seulement la soif de combat et la haine qui poussent les gens vers cette rébellion. Des chefs comme Tekotteh s'accrochent aux vieilles coutumes. N'est-ce pas ce qu'il sème ?\" Nagallo regarde vers le camp rebelle. \"Ils sont trop nombreux. Quelle est la colonie la plus proche ? Marépine ? Nous devrions chercher de l'aide.\"\n\n\"Trop loin.\" Rikitta secoue la tête. \"Le temps de rassembler des renforts et de les ramener, Hassak sera peut-être parti.\"\n\nBialla est d'accord. \"Ils sont affaiblis. Certains sont blessés et ne se battront pas bien. Nous pourrions les éliminer un par un.\"\n\n\"Et qu'en est-il de leurs montures ? Les machines n'ont pas besoin de repos.\" Nagallo pointe du doigt un Frappe-Défenses en contrebas, marqué aux couleurs de Regalla et effectuant un circuit discipliné d'un pas lourd.\n\n\"Depuis quand es-tu devenu le plus prudent ?\" Bialla renâcle, amusée. \"C'est un bon point.\"\n\n\"Nous avons une machine, nous aussi. Une encore plus mortelle.\" Drokkeh est revenu aussi silencieusement qu'il était parti. \"Le Rampant que nous avons combattu. Son territoire est vaste, et notre intrusion l'a peut-être agité. Pour l'instant, il rôde dans une ruine à l'ouest d'ici.\"\n\nNagallo plante une pointe dans la terre avec un rire. \"C'est vrai, le Rampant tuera tout ce qui se trouve sur son passage — y compris nous.\"\n\n\"Alors, mettons les rebelles sur son passage !\" Rikitta fouille dans son sac, en tirant l'appareil qu'Hassak a utilisé contre eux dans le désert. \"Je crois que c'est une sorte d'appât. Vous vous souvenez des machines qu'Hassak a invoquées dans les Terres des Coureurs ? Leurs câbles n'étaient pas du rouge de celles que les rebelles chevauchent, et ils clignotaient.\" Elle lève en l'air l'étrange paquet de fils et de métal. \"Peut-être que ça attire les machines, et ensuite les rebelles les soumettent et les domptent. Nous ne pouvons pas contrôler le Rampant, mais nous pouvons l'attirer.\"\n\nRikitta regarde Bialla, s'attendant à de la résistance, mais elle trouve une détermination inébranlable dans la voix de l'aînée. \"Si les rebelles ont trouvé de nouvelles façons de se battre, nous devons en faire autant.\"",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "002", "label": "Lire l'entrée 002." }
+      ]
     },
     {
       "id": "002",
@@ -37,7 +43,9 @@
         "Gardez une trace de quels Maréchaux font partie de quelle équipe avec leurs figurines. Bien que les joueurs résolvent les actions de l'équipe une en premier, la narration de chaque équipe se déroule simultanément.",
         "Cette section narrative est divisée en plusieurs phases. Au début de chaque phase, les joueurs récupèrent tous les dés d'action."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "003", "label": "Une fois que vous avez décidé des membres des deux équipes, lisez l'entrée 003." }
+      ]
     },
     {
       "id": "003",
@@ -46,7 +54,9 @@
       "information": [
         "Si Rikitta est dans l'équipe une, elle peut relancer n'importe lequel des dés pour ce jet d'action."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 6 flèches OU 1 critique et 2 flèches.", "pass": "004", "fail": "005" }
+      ]
     },
     {
       "id": "004",
@@ -55,7 +65,9 @@
       "information": [
         "Les joueurs gagnent 2 jetons de suivi, qui représentent le temps qu'il reste à l'équipe avant qu'ils ne soient obligés de conduire le Rampant vers le camp."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+      ]
     },
     {
       "id": "005",
@@ -64,7 +76,9 @@
       "information": [
         "Les joueurs gagnent 1 jeton de suivi, qui représente le temps qu'il reste à l'équipe avant qu'ils ne soient obligés de conduire le Rampant vers le camp."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "006", "label": "Lire l'entrée 006." }
+      ]
     },
     {
       "id": "006",
@@ -74,14 +88,18 @@
         "Si Drokkeh est dans l'équipe deux, ajoutez un critique au résultat.",
         "Si Bialla est dans l'équipe deux, récupérez un dé d'action."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 8 flèches OU 3 critiques OU 4 flèches et 2 critiques.", "pass": "007", "fail": "008" }
+      ]
     },
     {
       "id": "007",
       "title": "PHASE 1 - Team 2 - 007",
       "text": "Se déplaçant prudemment autour du périmètre, à l'abri des hautes herbes, l'Équipe Deux trouve ce qu'elle cherche. Une jeune rebelle s'affaisse à l'ombre d'un arbre, exténuée et luttant pour garder la tête haute. Elle s'appuie contre le tronc en fermant les yeux. Quelques instants plus tard, elle semble être endormie.\n\nC'est par là. L'Équipe Deux se faufile sans être remarquée.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "009", "label": "Lire l'entrée 009." }
+      ]
     },
     {
       "id": "008",
@@ -90,7 +108,9 @@
       "information": [
         "Défaussez un jeton de suivi."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "009", "label": "Lire l'entrée 009." }
+      ]
     },
     {
       "id": "009",
@@ -100,14 +120,20 @@
         "Si Bialla est dans l'équipe une, elle peut relancer un dé pour ce jet.",
         "Si Nagallo est dans l'équipe une, ajoutez 2 flèches au résultat."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 6 flèches OU 1 critique et 2 flèches.", "pass": "010", "fail": "011" }
+      ]
     },
     {
       "id": "010",
       "title": "PHASE 2 - Team 1 - 010",
       "text": "L'Équipe Une court vers la sortie, évitant les chutes de pierres, les mâchoires métalliques qui claquent et les projections d'acide.\n\nIls s'en sortent in extremis.\n\nL'air extérieur n'offre que peu de soulagement alors que les Maréchaux sont confrontés à une décision difficile. Il y a de nombreux itinéraires à travers la jungle. Combien de temps peuvent-ils repousser cette machine ?",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "012", "label": "Si vous préférez amener la machine au camp rebelle le plus vite possible et prendre le chemin direct, lisez l'entrée 012." },
+        { "type": "read", "target": "013", "label": "Si vous préférez l'éloigner pendant un moment avant de vous diriger vers le camp, lisez l'entrée 013." },
+        { "type": "read", "target": "014", "label": "Si vous voulez l'emmener sur le chemin le plus long, gagnant ainsi le maximum de temps, lisez l'entrée 014." }
+      ]
     },
     {
       "id": "011",
@@ -117,7 +143,9 @@
         "Chacun des Maréchaux de l'Équipe Une subit 1 dégât.",
         "Les joueurs gagnent 4 jetons de suivi supplémentaires."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "015", "label": "Lire l'entrée 015." }
+      ]
     },
     {
       "id": "012",
@@ -126,7 +154,9 @@
       "information": [
         "Les joueurs gagnent 2 jetons de suivi supplémentaires."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "015", "label": "Lire l'entrée 015." }
+      ]
     },
     {
       "id": "013",
@@ -135,7 +165,9 @@
       "information": [
         "Les joueurs gagnent 3 jetons de suivi supplémentaires."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "015", "label": "Lire l'entrée 015." }
+      ]
     },
     {
       "id": "014",
@@ -144,7 +176,9 @@
       "information": [
         "Les joueurs gagnent 4 jetons de suivi supplémentaires."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "015", "label": "Lire l'entrée 015." }
+      ]
     },
     {
       "id": "015",
@@ -155,7 +189,9 @@
         "Si Rikitta est dans l'équipe deux, ajoutez un critique au résultat.",
         "Si Drokkeh est dans l'équipe deux, ajoutez 3 flèches au résultat."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 9 flèches OU 3 critiques.", "pass": "016", "fail": "017" }
+      ]
     },
     {
       "id": "016",
@@ -165,7 +201,9 @@
         "Récupérez l'un des cadrans de points de vie et réglez-le sur 10. Cela permet de suivre à quel point l'équipe a réussi à maintenir sa furtivité pendant l'infiltration du camp.",
         "Soustrayez 0 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "018", "label": "Lire l'entrée 018." }
+      ]
     },
     {
       "id": "017",
@@ -175,7 +213,9 @@
         "Récupérez l'un des cadrans de points de vie et réglez-le sur 10. Cela permet de suivre à quel point l'équipe a réussi à maintenir sa furtivité pendant l'infiltration du camp.",
         "Soustrayez 2 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "018", "label": "Lire l'entrée 018." }
+      ]
     },
     {
       "id": "018",
@@ -185,14 +225,18 @@
         "Si Bialla est dans l'équipe une, récupérez deux des dés utilisés lors de ce jet, après l'avoir résolu.",
         "Si Nagallo est dans l'équipe une, ajoutez 4 flèches au résultat."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 9 flèches OU 2 critiques.", "pass": "019", "fail": "020" }
+      ]
     },
     {
       "id": "019",
       "title": "PHASE 3 - Team 1 - 019",
       "text": "Alors qu'il s'élance, les Maréchaux parviennent de justesse à sauter hors de sa trajectoire. Ses crocs, chacun ayant facilement la taille d'un soldat, laissent une traînée d'acide dans leur sillage. L'air nocif suffit à arracher des larmes aux yeux des Maréchaux alors qu'ils continuent leur course.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "021", "label": "Lire l'entrée 021." }
+      ]
     },
     {
       "id": "020",
@@ -201,7 +245,9 @@
       "information": [
         "Chacun des personnages de l'équipe une subit 2 dégâts."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "021", "label": "Lire l'entrée 021." }
+      ]
     },
     {
       "id": "021",
@@ -212,7 +258,9 @@
         "Si Bialla est dans l'équipe deux, récupérez deux dés d'action.",
         "Si Rikitta est dans l'équipe deux, elle peut relancer n'importe lequel des dés."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 7 flèches OU 1 critique et 4 flèches OU 2 critiques.", "pass": "022", "fail": "023" }
+      ]
     },
     {
       "id": "022",
@@ -222,7 +270,10 @@
         "Les joueurs gagnent le jeton jaune.",
         "Soustrayez 0 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "044", "label": "Si vous n'avez plus de jeton de suivi, lisez l'entrée 044." },
+        { "type": "read", "target": "024", "label": "Sinon, lisez l'entrée 024." }
+      ]
     },
     {
       "id": "023",
@@ -231,7 +282,10 @@
       "information": [
         "Soustrayez 1 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "044", "label": "Si vous n'avez plus de jeton de suivi, lisez l'entrée 044." },
+        { "type": "read", "target": "024", "label": "Sinon, lisez l'entrée 024." }
+      ]
     },
     {
       "id": "024",
@@ -241,14 +295,18 @@
         "Si Drokkeh est dans l'équipe une, ajoutez un critique au résultat.",
         "Si Rikitta est dans l'équipe une, ajoutez un critique au résultat."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 3 critiques OU 2 critiques et 2 flèches.", "pass": "025", "fail": "026" }
+      ]
     },
     {
       "id": "025",
       "title": "PHASE 4 - Team 1 - 025",
       "text": "Les deux Maréchaux se bouchent fermement les oreilles alors que la détonation sonique passe. Ça les ralentit un instant, mais la machine a dû s'arrêter pour préparer cette attaque, et maintenant elle a perdu du terrain. Les Maréchaux saisissent l'occasion pour glisser le long d'une pente de sous-bois, creusant la distance entre eux et le Rampant.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "027", "label": "Lire l'entrée 027." }
+      ]
     },
     {
       "id": "026",
@@ -258,7 +316,7 @@
         "Chacun des personnages de l'Équipe Une subit 1 dégât.",
         "L'un des personnages de l'Équipe Une subit une blessure."
       ],
-      "actions": []
+      "actions": [{ "type": "read", "target": "027", "label": "Lire l'entrée 027." }]
     },
     {
       "id": "027",
@@ -269,7 +327,7 @@
         "Si Nagallo est dans l'équipe deux, récupérez deux dés d'action.",
         "Si Rikitta est dans l'équipe deux, elle peut relancer l'un des dés."
       ],
-      "actions": []
+      "actions": [{ "type": "test", "label": "Faites 5  flcèhes et 1 critique.", "pass": "028", "fail": "029" }]
     },
     {
       "id": "028",
@@ -279,7 +337,10 @@
         "Les joueurs gagnent le jeton bleu.",
         "Soustrayez 0 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "044", "label": "Si vous n'avez plus de jeton de suivi, lisez l'entrée 044." },
+        { "type": "read", "target": "030", "label": "Sinon, lisez l'entrée 030." }
+      ]
     },
     {
       "id": "029",
@@ -288,7 +349,10 @@
       "information": [
         "Soustrayez 3 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "044", "label": "Si vous n'avez plus de jeton de suivi, lisez l'entrée 044." },
+        { "type": "read", "target": "030", "label": "Sinon, lisez l'entrée 030." }
+      ]
     },
     {
       "id": "030",
@@ -298,14 +362,18 @@
         "Si Bialla est dans l'équipe une, récupérez deux des dés utilisés lors de ce jet, après l'avoir résolu.",
         "Si Nagallo est dans l'équipe une, récupérez deux des dés utilisés lors de ce jet, après l'avoir résolu."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 9 flèches.", "pass": "031", "fail": "032" }
+      ]
     },
     {
       "id": "031",
       "title": "PHASE 5 - Team 1 - 031",
       "text": "Des réflexes rapides sauvent l'Équipe Une d'une fin prématurée alors que la queue du Rampant s'abat vers les Maréchaux. Ils esquivent alors qu'elle frappe un arbre à sa base, en l'abattant entre eux et la machine colossale. La queue du Rampant libère un torrent de charge électrique qui roussit les broussailles.\n\nLes Maréchaux se précipitent pour trouver un abri dans l'herbe rouge, désactivant l'appât un instant d'une pression sur un bouton.\n\nAvec une aisance terrifiante, l'adversaire tourne son cou et rejette l'arbre abattu avant de vaporiser un arc d'acide dans le feuillage alors qu'il essaie d'appâter les Maréchaux pour les faire sortir. Il semble qu'ils soient de nouveau réduits à se cacher — mais avec si peu de couverture et leur poursuivant à une telle proximité, l'Équipe Une ne pourra pas tenir longtemps comme ça.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "033", "label": "Lire l'entrée 033." }
+      ]
     },
     {
       "id": "032",
@@ -315,7 +383,9 @@
         "Chacun des personnages de l'équipe une subit 1 dégât.",
         "L'un des personnages de l'équipe une subit une blessure."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "033", "label": "Lire l'entrée 033." }
+      ]
     },
     {
       "id": "033",
@@ -324,7 +394,10 @@
       "information": [
         "Défaussez un jeton de suivi."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "034", "label": "Si vous voulez éliminer les gardes, lisez l'entrée 034." },
+        { "type": "read", "target": "037", "label": "Si vous avez encore des jetons de suivi et préférez vous cacher et attendre, lisez l'entrée 037." }
+      ]
     },
     {
       "id": "034",
@@ -334,7 +407,9 @@
         "Si Drokkeh est dans l'équipe deux, ajoutez un critique au résultat.",
         "Si Rikitta est dans l'équipe deux, ajoutez 3 flèches au résultat."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 6 flèches et 1 critique.", "pass": "035", "fail": "036" }
+      ]
     },
     {
       "id": "035",
@@ -344,7 +419,35 @@
         "Gagnez un jeton de suivi supplémentaire.",
         "Soustrayez 0 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "038", "label": "Lire l'entrée 038." }
+      ]
+    },
+    {
+      "id": "036",
+      "title": "PHASE 5 - Team 2 - 036",
+      "text": "Les Maréchaux lancent une attaque simultanée de chaque côté. La première garde ne la voit pas venir. Elle s'effondre au sol, frappée à la tête, et tombe sans un bruit. Son compagnon, cependant, est alerté par le mouvement et offre plus de résistance. Sa lance fend l'air et touche les Maréchaux avant qu'il ne soit abattu. Par chance, l'avertissement qu'il tente de crier à ses camarades ne s'échappe de sa gorge que sous la forme d'un râle d'agonie.\n\nBien que les blessures hâtivement bandées fassent mal, la tâche est accomplie, et l'Équipe Deux peut avancer.",
+      "information": [
+        "Soustrayez 1 Furtivité.",
+        "Chacun des personnages de l'équipe deux subit 2 dégâts."
+      ],
+      "actions": [
+        { "type": "read", "target": "044", "label": "Si vous n'avez plus de jetons de suivi, lisez l'entrée 044." },
+        { "type": "read", "target": "038", "label": "Sinon, lisez l'entrée 038." }
+      ]
+    },
+    {
+      "id": "037",
+      "title": "PHASE 5 - Team 2 - 037",
+      "text": "Les Maréchaux sont arrivés jusqu'ici : tout perdre maintenant serait un trop grand risque. Heureusement, ce pari s'avère payant. La première garde, une femme plus âgée portant les tatouages du Clan du Désert, brise le silence entre eux. \"Tu sais quoi ? J'en ai assez de ce marais gorgé de sang.\"\n\nSon compagnon approuve. \"Nous aurions dû retourner dans le désert.\"\n\n\"Je crois en Regalla - pas en un gamin puéril qui braille comme un Grand-Front.\" Elle dirige le regard de son compagnon vers le chaos qui les entoure. \"Des ratés et des cadets se démenant pour maintenir les stocks de Flambée en ordre. Combattre nos propres camarades... Ce n'est pas ce qu'on nous avait promis. Je m'en vais.\"\n\nElle s'éloigne à grands pas, essuyant sa peinture de guerre d'un geste de la main. Après un moment d'hésitation, son compagnon se hâte de la suivre. La voie est libre entre l'Équipe Deux et la tour de guet.",
+      "information": [
+        "Défaussez un jeton de suivi.",
+        "Soustrayez 0 Furtivité."
+      ],
+      "actions": [
+        { "type": "read", "target": "044", "label": "Si vous n'avez plus de jetons de suivi, lisez l'entrée 044." },
+        { "type": "read", "target": "038", "label": "Sinon, lisez l'entrée 038." }
+      ]
     },
     {
       "id": "036",
@@ -373,7 +476,9 @@
       "information": [
         "Défaussez un jeton de suivi."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 6 flèches OU 2 critiques OU 4 flèches et 1 critique.", "pass": "039", "fail": "040" }
+      ]
     },
     {
       "id": "039",
@@ -383,7 +488,9 @@
         "Les joueurs gagnent le jeton rouge.",
         "Soustrayez 0 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "041", "label": "Lire l'entrée 041." }
+      ]
     },
     {
       "id": "040",
@@ -392,21 +499,27 @@
       "information": [
         "Soustrayez 3 Furtivité."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "041", "label": "Lire l'entrée 041." }
+      ]
     },
     {
       "id": "041",
       "title": "PHASE 6 - Team 1 - 041",
       "text": "De retour au-delà de la lisière des arbres, à l'extérieur du camp, le Rampant cherche en vain. Les Maréchaux observent le camp. Tous deux la voient en même temps : De la fumée ! C'est l'heure.\n\nIls réactivent l'appât, sortent de leur cachette et franchissent la lisière des arbres, sprintant vers le campement. Un sifflement bruyant derrière eux confirme que la machine les poursuit de près.\n\nUne épaisse couronne de fumée flotte au-dessus du campement, des gris tachetés luttant pour dominer. Des cris puissants s'élèvent de l'intérieur, poussés par une vingtaine de voix. Un garde posté au périmètre repère les deux Maréchaux et crie un avertissement, et soudain, les Maréchaux se retrouvent à esquiver une pluie de flèches.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 5 flèches OU 2 critiques OU 2 flèches et 1 critique.", "pass": "042", "fail": "043" }
+      ]
     },
     {
       "id": "042",
       "title": "PHASE 6 - Team 1 - 042",
       "text": "Avec une sombre satisfaction, les Maréchaux réalisent que les rebelles ne tirent pas sur eux — ils sont bien plus préoccupés par le Rampant. Les deux risquent un regard en arrière et voient l'attention de la machine se tourner vers les rebelles alors que les flèches ricochent sur son blindage métallique.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "045", "label": "Lire l'entrée 045." }
+      ]
     },
     {
       "id": "043",
@@ -415,7 +528,9 @@
       "information": [
         "Chacun des personnages de l'équipe une subit 2 dégâts."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "045", "label": "Lire l'entrée 045." }
+      ]
     },
     {
       "id": "044",
@@ -424,7 +539,10 @@
       "information": [
         "Si vous avez encore des jetons de suivi, vous pouvez relancer un dé pour chaque jeton."
       ],
-      "actions": []
+      "actions": [
+        { "type": "test", "label": "Faites 10 flèches OU 3 critiques OU 5 flèches et 2 critiques.", "pass": "046", "fail": "047" },
+        { "type": "read", "target": "045", "label": "Lire l'entrée 045." }
+      ]
     },
     {
       "id": "045",
@@ -434,14 +552,18 @@
         "Si vous avez encore des jetons de suivi, ajoutez 2 de Furtivité pour chaque jeton.",
         "Si vous avez 7 de Furtivité ou plus, gagnez le jeton vert."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "048", "label": "Lire l'entrée 048." }
+      ]
     },
     {
       "id": "046",
       "title": "PHASE 7 - 046",
       "text": "Le lancer est bon — parfait. L'appareil plane au-dessus des têtes des rebelles confus et disparaît dans la fumée. Les yeux brillant d'un rouge écarlate, le Rampant plonge dans la terre aux côtés des Maréchaux, les fauchant au passage alors qu'il fore sous terre, les aspergeant d'un mélange de terre boueuse et de végétation déchiquetée.",
       "information": [],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "048", "label": "Lire l'entrée 048." }
+      ]
     },
     {
       "id": "047",
@@ -450,7 +572,9 @@
       "information": [
         "Chaque personnage subit 3 dégâts."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "048", "label": "Lire l'entrée 048." }
+      ]
     },
     {
       "id": "048",
@@ -459,7 +583,10 @@
       "information": [
         "Ouvrez le Livre de Campagne à la page 26 et tentez la rencontre qui y est détaillée."
       ],
-      "actions": []
+      "actions": [
+        { "type": "read", "target": "049", "label": "Si la rencontre est réussie, lisez l'entrée 049." },
+        { "type": "read", "target": "050", "label": "Si la rencontre a échoué, lisez l'entrée 050." }
+      ]
     },
     {
       "id": "049",
@@ -472,7 +599,9 @@
         "- 4 potions de soin.",
         "- Les joueurs doivent basculer directement au chapitre suivant et ne peuvent pas tenter de rencontre secondaire à ce stade."
       ],
-      "actions": []
+      "actions": [
+        { "type": "chapter", "target": "act4ChapterD", "label": "Continuer vers le prochain chapitre" }
+      ]
     },
     {
       "id": "050",
@@ -484,7 +613,9 @@
         "- 4 potions de soin.",
         "-Les joueurs doivent basculer directement au chapitre suivant et ne peuvent pas tenter de rencontre secondaire à ce stade."
       ],
-      "actions": []
+      "actions": [
+        { "type": "chapter", "target": "act4ChapterD", "label": "Continuer vers le prochain chapitre" }
+      ]
     }
 
   ]
