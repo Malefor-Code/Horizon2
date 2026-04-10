@@ -8,8 +8,10 @@ interface Props {
 }
 
 export default function ActionButton({ label, onClick, className, disabled }: Props) {
+  const classes = ['action-btn', className ?? '', disabled ? 'desactive' : ''].join(' ').trim();
+
   return (
-    <button className={`action-btn ${className ?? ''}`} onClick={onClick} disabled={disabled}>
+    <button className={classes} onClick={onClick} disabled={disabled}>
       {label}
     </button>
   );

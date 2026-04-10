@@ -33,6 +33,15 @@ body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",Roboto,"Helve
 .action-btn.action-read{background:var(--btn-read)}
 .action-btn.action-test{background:var(--btn-test)}
 .action-btn.action-chapter{background:var(--btn-chapter)}
+.action-btn:disabled,
+.action-btn.desactive {
+  opacity: 0.5;
+  cursor: not-allowed;
+  box-shadow: none;
+  transform: none;
+  pointer-events: none;
+  filter: grayscale(10%);
+}
 .test-overlay{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.4);padding:20px}
 .test-panel{background:var(--card);padding:20px;border-radius:10px;min-width:280px;text-align:center}
 .test-label{font-weight:600;margin-bottom:12px}
