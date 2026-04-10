@@ -64,10 +64,10 @@
       "text": "La pluie martèle le métal du Vieux Monde et le feuillage du nouveau — les indices ici ont peut-être déjà été effacés. Néanmoins, l'abri abandonné et ses environs offrent encore de nombreuses pistes qui méritent d'être explorées.",
       "information": ["Si les joueurs ont déjà tenté une option, ils ne peuvent pas la tenter à nouveau."],
       "actions": [
-        { "type": "read", "target": "008", "label": "Explorer la lisière de la forêt" },
-        { "type": "read", "target": "011", "label": "Fouiller l'abri" },
-        { "type": "read", "target": "014", "label": "Examiner de près la carcasse de la machine" },
-        { "type": "read", "target": "017", "label": "Examiner les traces de la machine" },
+        { "type": "read", "target": "008", "label": "Explorer la lisière de la forêt", "once": true },
+        { "type": "read", "target": "011", "label": "Fouiller l'abri", "once": true },
+        { "type": "read", "target": "014", "label": "Examiner de près la carcasse de la machine", "once": true },
+        { "type": "read", "target": "017", "label": "Examiner les traces de la machine", "once": true },
         { "type": "read", "target": "018", "label": "Si vous avez trouvé le jeton vert, vous pouvez quitter l'abri" }
       ]
     },

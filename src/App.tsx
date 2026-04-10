@@ -18,6 +18,7 @@ export default function App() {
     currentEntry,
     performAction,
     pendingTest,
+    visitedEntries,
     handleTestResult,
     loadStory,
     goToChapter,
@@ -64,6 +65,7 @@ export default function App() {
             onAction={performAction}
             pendingTest={pendingTest}
             onTestResult={handleTestResult}
+            visitedEntries={visitedEntries}
           />
         ) : (
           <div className="empty">No entry loaded</div>

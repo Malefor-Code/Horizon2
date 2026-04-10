@@ -15,6 +15,7 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
     initial?.startChapter ?? initial?.chapters?.[0]?.id ?? null
   );
   const [currentEntryId, setCurrentEntryId] = useState<string | null>(null);
+  const [visitedEntries, setVisitedEntries] = useState<string[]>([]);
   const [pendingTest, setPendingTest] = useState<TestAction | null>(null);
 
   const actsCache = useRef<Record<string, Chapter | undefined>>({});
@@ -98,6 +99,7 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
     const chapter = s.chapters?.find((c) => c.id === start) ?? s.chapters?.[0];
     const entry = chapter?.startId ?? chapter?.entries?.[0]?.id ?? null;
     setCurrentEntryId(entry);
+    setVisitedEntries(entry ? [entry] : []);
     setPendingTest(null);
   };
 
@@ -162,6 +164,9 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
     // eslint-disable-next-line no-console
     console.debug('[useStory] goToChapter resolved', id, 'chapter:', ch, 'selectedEntry:', entry);
     setCurrentEntryId(entry);
+    if (entry) {
+      setVisitedEntries((prev) => (prev.includes(entry) ? prev : [...prev, entry]));
+    }
     setPendingTest(null);
 
     // prefetch next act if manifest known
@@ -208,6 +213,7 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
 
     if (parent) setCurrentChapterId(parent.id);
     setCurrentEntryId(id);
+    setVisitedEntries((prev) => (prev.includes(id) ? prev : [...prev, id]));
     setPendingTest(null);
   };
 
@@ -251,6 +257,7 @@ export default function useStory(initial?: Story, manifestUrl = '/stories/index.
     currentChapter,
     currentEntry,
     pendingTest,
+    visitedEntries,
     loadStory,
     loadManifest,
     loadAct,

@@ -1,5 +1,5 @@
-export type ReadAction = { type: 'read'; target: string; label?: string };
-export type TestAction = { type: 'test'; label: string; pass: string; fail: string };
+export type ReadAction = { type: 'read'; target: string; label?: string; once?: boolean };
+export type TestAction = { type: 'test'; label: string; pass: string; fail: string; once?: boolean };
 export type ChapterAction = { type: 'chapter'; label: string; targetChapter?: string };
 
 export type Action = ReadAction | TestAction | ChapterAction;
